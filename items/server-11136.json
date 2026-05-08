@@ -1,0 +1,23 @@
+{
+  "category": "item",
+  "clientId": 3579,
+  "isMoveable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 11136,
+    "type": "None",
+    "name": "salmon",
+    "wareId": 3579,
+    "spriteHashHex": "DC01CDF6EC2E891EABCCC451ABF7EB91"
+  }
+}

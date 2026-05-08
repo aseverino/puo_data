@@ -1,0 +1,55 @@
+{
+  "category": "item",
+  "clientId": 8024,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 8024,
+    "showAs": 8024,
+    "name": "the devileye",
+    "restrictProfession": 4,
+    "restrictLevel": 100
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11280,
+      64558,
+      64559,
+      64560,
+      64560,
+      64560,
+      64560,
+      64560
+    ]
+  },
+  "server": {
+    "serverId": 8852,
+    "type": "None",
+    "name": "the devileye",
+    "wareId": 8024,
+    "spriteHashHex": "79D2DCD7924C03FED8FE0362614E0B6B"
+  }
+}

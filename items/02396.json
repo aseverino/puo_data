@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 2396,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2396,
+    "showAs": 2396,
+    "name": "green pillow"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      3094
+    ]
+  },
+  "server": {
+    "serverId": 1688,
+    "type": "None",
+    "name": "green pillow",
+    "wareId": 2396,
+    "spriteHashHex": "4D9311BEBA781407240CB832F9962B65"
+  }
+}

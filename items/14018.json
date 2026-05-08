@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 14018,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14018,
+    "showAs": 14018,
+    "name": "the Heart of the Sea"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22293
+    ]
+  },
+  "server": {
+    "serverId": 15431,
+    "type": "None",
+    "name": "the Heart of the Sea",
+    "wareId": 14018,
+    "spriteHashHex": "A9F7B85A050079611E4DA2345F8ED809"
+  }
+}

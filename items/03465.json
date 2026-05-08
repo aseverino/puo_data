@@ -1,0 +1,55 @@
+{
+  "category": "item",
+  "clientId": 3465,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 3465,
+    "showAs": 3465,
+    "name": "pot"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      822,
+      823,
+      824,
+      825,
+      827,
+      828,
+      829,
+      830
+    ]
+  },
+  "server": {
+    "serverId": 2562,
+    "type": "Fluid",
+    "name": "pot",
+    "hasHeight": true,
+    "wareId": 3465,
+    "spriteHashHex": "A9CC98C05A374FAF9D04A73003247C85"
+  }
+}

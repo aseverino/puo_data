@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 801,
+  "isGroundBorder": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 797,
+    "showAs": 797,
+    "name": "energy blacksteel sword",
+    "restrictProfession": 2,
+    "restrictLevel": 35
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      141731
+    ]
+  },
+  "server": {
+    "serverId": 7874,
+    "type": "None",
+    "name": "energy barbarian axe",
+    "isAnimation": true,
+    "wareId": 801,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "822F340464E53A0268C02F633A0BE7A3"
+  }
+}

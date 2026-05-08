@@ -1,0 +1,127 @@
+{
+  "category": "item",
+  "clientId": 2130,
+  "isUnpassable": true,
+  "blockMissile": true,
+  "blockPathFind": true,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 206,
+  "width": 3,
+  "height": 3,
+  "exactSize": 64,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 7,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      83874,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      83875,
+      83876,
+      0,
+      83877,
+      83878,
+      0,
+      0,
+      0,
+      0,
+      83879,
+      83880,
+      0,
+      83881,
+      83882,
+      83883,
+      0,
+      83884,
+      0,
+      83885,
+      83886,
+      0,
+      83887,
+      83888,
+      83889,
+      0,
+      83890,
+      83891,
+      83892,
+      83893,
+      0,
+      83894,
+      83895,
+      83896,
+      0,
+      83897,
+      83898,
+      83899,
+      83900,
+      0,
+      83901,
+      83902,
+      83903,
+      0,
+      83904,
+      83905,
+      83906,
+      83907,
+      0,
+      83908,
+      83909,
+      83910,
+      0,
+      83911,
+      83912
+    ]
+  },
+  "server": {
+    "serverId": 1499,
+    "type": "None",
+    "isAnimation": true,
+    "spriteHashHex": "1361CA684D5C39B1EBA7A360B8EDBFE1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 20350,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 20350,
+    "showAs": 20350,
+    "name": "cake tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      31349,
+      0,
+      0,
+      0,
+      31350,
+      31351,
+      0,
+      0,
+      31352,
+      0,
+      31353,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 22699,
+    "type": "None",
+    "name": "cake tapestry",
+    "wareId": 20350,
+    "spriteHashHex": "F585CA429C14F6B731408E0C6F2308B3"
+  }
+}

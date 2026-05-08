@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 8778,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 8778,
+    "showAs": 8778,
+    "name": "jester doll"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      12724
+    ]
+  },
+  "server": {
+    "serverId": 9693,
+    "type": "None",
+    "name": "jester doll",
+    "wareId": 8778,
+    "spriteHashHex": "94DE38FF52E31227397EF0BDCA8A7F51"
+  }
+}

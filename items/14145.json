@@ -1,0 +1,131 @@
+{
+  "category": "item",
+  "clientId": 14145,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 180,
+  "miniMap": true,
+  "miniMapColor": 192,
+  "width": 1,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 16,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      105685,
+      105686,
+      105687,
+      105688,
+      105689,
+      105690,
+      105691,
+      105692,
+      22606,
+      22605,
+      105693,
+      105694,
+      105695,
+      105696,
+      105697,
+      105698,
+      22608,
+      22607,
+      105699,
+      105700,
+      105701,
+      105702,
+      105703,
+      105704,
+      22610,
+      22609,
+      22612,
+      22611,
+      22614,
+      22613,
+      22604,
+      22603
+    ]
+  },
+  "server": {
+    "serverId": 15548,
+    "type": "None",
+    "isAnimation": true,
+    "spriteHashHex": "BE12861D68E94CFC6E56917008E5146D"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "category": "item",
+  "clientId": 14026,
+  "isPickupable": true,
+  "isHangable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 192,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 14026,
+    "showAs": 14026,
+    "name": "party lampions"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22303,
+      0,
+      0,
+      0,
+      22182,
+      22183,
+      0,
+      0,
+      22186,
+      0,
+      22187,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 15438,
+    "type": "None",
+    "name": "party lampions",
+    "wareId": 14026,
+    "spriteHashHex": "E259A4FF58A096EC9A82BD8C3EEB3E90"
+  }
+}

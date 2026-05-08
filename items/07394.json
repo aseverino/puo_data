@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 7394,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 7394,
+    "showAs": 7394,
+    "name": "wolf trophy"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9072,
+      0,
+      0,
+      0,
+      3193,
+      3192,
+      0,
+      0,
+      3195,
+      0,
+      3194,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 7394,
+    "type": "None",
+    "name": "wolf trophy",
+    "wareId": 7394,
+    "spriteHashHex": "B0AC3C3A270BDB2433EC649DED53AB58"
+  }
+}

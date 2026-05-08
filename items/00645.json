@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 645,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 645,
+    "showAs": 645,
+    "name": "blue legs"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9679
+    ]
+  },
+  "server": {
+    "serverId": 7730,
+    "type": "None",
+    "name": "blue legs",
+    "wareId": 645,
+    "spriteHashHex": "39DB152EDCC701A3C3D6F7EE27762A84"
+  }
+}

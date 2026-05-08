@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 824,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 824,
+    "showAs": 824,
+    "name": "glacier robe",
+    "restrictProfession": 24,
+    "restrictLevel": 50
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9977
+    ]
+  },
+  "server": {
+    "serverId": 7897,
+    "type": "None",
+    "name": "glacier robe",
+    "wareId": 824,
+    "spriteHashHex": "58757E130C370A874116EF9F2B888550"
+  }
+}

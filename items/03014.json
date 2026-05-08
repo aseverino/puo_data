@@ -1,0 +1,67 @@
+{
+  "category": "item",
+  "clientId": 3014,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3014,
+    "showAs": 3014,
+    "name": "star amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 5,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      1453,
+      83848,
+      83849,
+      83850,
+      83851
+    ]
+  },
+  "server": {
+    "serverId": 2131,
+    "type": "None",
+    "name": "star amulet",
+    "isAnimation": true,
+    "wareId": 3014,
+    "spriteHashHex": "F097E51440D211F24D1B7E65A8EFC3F2"
+  }
+}

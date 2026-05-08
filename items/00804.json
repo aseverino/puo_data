@@ -1,0 +1,63 @@
+{
+  "category": "item",
+  "clientId": 804,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 59,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 804,
+    "showAs": 804,
+    "name": "energy headchopper",
+    "restrictProfession": 2,
+    "restrictLevel": 35
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      9988,
+      9989,
+      9990
+    ]
+  },
+  "server": {
+    "serverId": 7877,
+    "type": "None",
+    "name": "energy headchopper",
+    "isAnimation": true,
+    "wareId": 804,
+    "spriteHashHex": "BA82D220402BECE078E35FEEE882134A"
+  }
+}

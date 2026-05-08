@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 14089,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 14089,
+    "showAs": 14089,
+    "name": "hive scythe",
+    "restrictLevel": 70
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22402
+    ]
+  },
+  "server": {
+    "serverId": 15492,
+    "type": "None",
+    "name": "hive scythe",
+    "wareId": 14089,
+    "spriteHashHex": "EE21FA50E47917BCA861FDE4683B000A"
+  }
+}

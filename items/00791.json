@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 791,
+  "isGroundBorder": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 791,
+    "showAs": 791,
+    "name": "earth cranial basher",
+    "restrictLevel": 60
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      141723
+    ]
+  },
+  "server": {
+    "serverId": 7866,
+    "type": "None",
+    "name": "earth cranial basher",
+    "isAnimation": true,
+    "wareId": 791,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "3125472F57CAE585E0A4F93F5B737891"
+  }
+}

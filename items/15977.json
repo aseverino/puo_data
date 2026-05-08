@@ -1,0 +1,92 @@
+{
+  "category": "item",
+  "clientId": 15977,
+  "isGroundBorder": true,
+  "ignoreLook": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 12,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      141733,
+      141734,
+      141735,
+      141736,
+      141737,
+      141737,
+      141738,
+      141739,
+      141734,
+      141735,
+      141736,
+      141737
+    ]
+  },
+  "server": {
+    "serverId": 17175,
+    "type": "None",
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 17813,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 17813,
+    "showAs": 17813,
+    "name": "life preserver",
+    "restrictLevel": 15
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27407
+    ]
+  },
+  "server": {
+    "serverId": 20093,
+    "type": "None",
+    "name": "life preserver",
+    "wareId": 17813,
+    "spriteHashHex": "1CCFAACAE9B6197F0197E7CF9D8719D7"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 1781,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 1781,
+    "showAs": 1781,
+    "name": "small stone"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1745,
+      1746,
+      1747,
+      1748,
+      1749,
+      1750,
+      1750,
+      1750
+    ]
+  },
+  "server": {
+    "serverId": 1294,
+    "type": "None",
+    "name": "small stone",
+    "wareId": 1781,
+    "spriteHashHex": "D60E421D1D0EA0518084DE650FDF55EC"
+  }
+}

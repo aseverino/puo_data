@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7453,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7453,
+    "showAs": 7453,
+    "name": "executioner",
+    "restrictProfession": 2,
+    "restrictLevel": 85
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      8895
+    ]
+  },
+  "server": {
+    "serverId": 7453,
+    "type": "None",
+    "name": "executioner",
+    "wareId": 7453,
+    "spriteHashHex": "DABF1BF816B6C91A50B597658CAC39B8"
+  }
+}

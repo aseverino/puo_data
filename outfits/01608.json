@@ -1,0 +1,91 @@
+{
+  "category": "outfit",
+  "clientId": 1608,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 29,
+  "animateAlways": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 8,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      89604,
+      89605,
+      89606,
+      89607,
+      89608,
+      89609,
+      89610,
+      89611,
+      89612,
+      89613,
+      89614,
+      89615,
+      89616,
+      89617,
+      89618,
+      89619,
+      89620,
+      89621,
+      89622,
+      89623,
+      89624,
+      89625,
+      89626,
+      89627,
+      89628,
+      89629,
+      89630,
+      89631,
+      89632,
+      89633,
+      89634,
+      89635
+    ]
+  }
+}

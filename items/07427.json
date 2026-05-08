@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 7427,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7427,
+    "showAs": 7427,
+    "name": "chaos mace",
+    "restrictLevel": 45
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9090
+    ]
+  },
+  "server": {
+    "serverId": 7427,
+    "type": "None",
+    "name": "chaos mace",
+    "wareId": 7427,
+    "spriteHashHex": "F5C44856D84574556E552002EC915C8E"
+  }
+}

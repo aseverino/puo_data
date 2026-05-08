@@ -1,0 +1,24 @@
+{
+  "category": "item",
+  "clientId": 138,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 9079,
+    "type": "None",
+    "name": "empty beer bottle",
+    "wareId": 138,
+    "spriteHashHex": "524AE25462F862B8F20C389582BAFBB5"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3588,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3588,
+    "showAs": 3588,
+    "name": "blueberry"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2108,
+      2109,
+      2110,
+      2111,
+      2112,
+      2113,
+      2114,
+      2115
+    ]
+  },
+  "server": {
+    "serverId": 2677,
+    "type": "None",
+    "name": "blueberry",
+    "wareId": 3588,
+    "spriteHashHex": "B1A6B12AB945DCC1B61B33A55ACA1E8C"
+  }
+}

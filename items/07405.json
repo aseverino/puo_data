@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7405,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7405,
+    "showAs": 7405,
+    "name": "havoc blade",
+    "restrictProfession": 2,
+    "restrictLevel": 70
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9241
+    ]
+  },
+  "server": {
+    "serverId": 7405,
+    "type": "None",
+    "name": "havoc blade",
+    "wareId": 7405,
+    "spriteHashHex": "EA9E4589C95C9765066B80C2EBA19685"
+  }
+}

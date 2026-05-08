@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7449,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7449,
+    "showAs": 7449,
+    "name": "crystal sword",
+    "restrictProfession": 2,
+    "restrictLevel": 25
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6493
+    ]
+  },
+  "server": {
+    "serverId": 7449,
+    "type": "None",
+    "name": "crystal sword",
+    "wareId": 7449,
+    "spriteHashHex": "58326F3D3DF333A681E50FE2F57F5E5A"
+  }
+}

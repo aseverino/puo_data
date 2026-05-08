@@ -1,0 +1,128 @@
+{
+  "category": "item",
+  "clientId": 1717,
+  "miniMap": true,
+  "miniMapColor": 40,
+  "width": 1,
+  "height": 2,
+  "exactSize": 64,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 16,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      40590,
+      40591,
+      40592,
+      40593,
+      40594,
+      40595,
+      40596,
+      40597,
+      40598,
+      40599,
+      40600,
+      40601,
+      40602,
+      40603,
+      40604,
+      40605,
+      40606,
+      40607,
+      40608,
+      40609,
+      40610,
+      40611,
+      40612,
+      40613,
+      40614,
+      40615,
+      40616,
+      40617,
+      40618,
+      40619,
+      40620,
+      40621
+    ]
+  },
+  "server": {
+    "serverId": 3570,
+    "type": "None",
+    "isAnimation": true,
+    "spriteHashHex": "438B336ECF26C1AA7045A9AB2630A0AB"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 3042,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 3042,
+    "showAs": 3042,
+    "name": "scarab coin"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2434,
+      2435,
+      2436,
+      2437,
+      2438,
+      2439,
+      2440,
+      2440
+    ]
+  },
+  "server": {
+    "serverId": 2159,
+    "type": "None",
+    "name": "scarab coin",
+    "wareId": 3042,
+    "spriteHashHex": "03501B7B2DED4629191080331C60CDDB"
+  }
+}

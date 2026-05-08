@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23914,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112871
+    ]
+  },
+  "server": {
+    "serverId": 26280,
+    "type": "None",
+    "spriteHashHex": "29AE026D71B3CE09BE7AFF7DAD8BFE04",
+    "article": "a",
+    "plural": "yellow striped fur",
+    "namePt": "pelo amarelo listrado",
+    "articlePt": "um",
+    "pluralPt": "pelo amarelo listrado",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

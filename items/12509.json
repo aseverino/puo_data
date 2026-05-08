@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 12509,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 12509,
+    "showAs": 12509,
+    "name": "scorpion sceptre"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19825
+    ]
+  },
+  "server": {
+    "serverId": 13498,
+    "type": "None",
+    "name": "scorpion sceptre",
+    "wareId": 12509,
+    "spriteHashHex": "B8502917F16D854CC2CF5B7B4870AE91"
+  }
+}

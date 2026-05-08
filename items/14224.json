@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 14224,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 14224,
+    "showAs": 14224,
+    "name": "trophy of Jaul"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22774,
+      0,
+      0,
+      0,
+      0,
+      22281,
+      0,
+      0,
+      0,
+      0,
+      22282,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 15621,
+    "type": "None",
+    "name": "trophy of Jaul",
+    "wareId": 14224,
+    "spriteHashHex": "F16161F69B2BAAE9CF8C1B386A15EF7E"
+  }
+}

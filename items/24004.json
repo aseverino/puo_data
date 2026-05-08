@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 24004,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      113568
+    ]
+  },
+  "server": {
+    "serverId": 26371,
+    "type": "None",
+    "spriteHashHex": "4586CA8CE5F3F74988DAD44334118E64",
+    "article": "a",
+    "plural": "ledian shattered wings",
+    "namePt": "asa estilha\u00E7ada de ledian",
+    "articlePt": "uma",
+    "pluralPt": "asas estilha\u00E7adas de ledian",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

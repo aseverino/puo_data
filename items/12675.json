@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 12675,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12675,
+    "showAs": 12675,
+    "name": "book of orc language"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      20067
+    ]
+  },
+  "server": {
+    "serverId": 13831,
+    "type": "None",
+    "name": "book of orc language",
+    "wareId": 12675,
+    "spriteHashHex": "B0CE8297CD1BF41B158C6D323FD03EA4"
+  }
+}

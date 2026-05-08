@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 5466,
+  "isStackable": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 5466,
+    "showAs": 5466,
+    "name": "bunch of sugar cane"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6173
+    ]
+  },
+  "server": {
+    "serverId": 5467,
+    "type": "None",
+    "name": "bunch of sugar cane",
+    "hasHeight": true,
+    "wareId": 5466,
+    "spriteHashHex": "BFC1004EFBB6711352CC1EAE331E18B0"
+  }
+}

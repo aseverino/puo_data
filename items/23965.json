@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23965,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112927
+    ]
+  },
+  "server": {
+    "serverId": 26331,
+    "type": "None",
+    "spriteHashHex": "A89EF81E91E0C7FC105F1A8792AE0D8B",
+    "article": "a",
+    "plural": "kirlia hairlocks",
+    "namePt": "mecha de cabelo de kirlia",
+    "articlePt": "uma",
+    "pluralPt": "mechas de cabelo de kirlia",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

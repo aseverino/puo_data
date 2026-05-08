@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 2656,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2656,
+    "showAs": 2656,
+    "name": "red tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2984,
+      0,
+      0,
+      0,
+      2981,
+      2980,
+      0,
+      0,
+      2983,
+      0,
+      2982,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 1869,
+    "type": "None",
+    "name": "red tapestry",
+    "wareId": 2656,
+    "spriteHashHex": "2C784BDD5F935FD8259281CB15EFBCDA"
+  }
+}

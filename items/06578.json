@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 6578,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 6578,
+    "showAs": 6578,
+    "name": "party hat"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      8015
+    ]
+  },
+  "server": {
+    "serverId": 6578,
+    "type": "None",
+    "name": "party hat",
+    "wareId": 6578,
+    "spriteHashHex": "0F67315E77B4609F0A50FE145EF3DE7F"
+  }
+}

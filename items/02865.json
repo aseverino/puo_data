@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 2865,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2865,
+    "showAs": 2865,
+    "name": "green backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1852
+    ]
+  },
+  "server": {
+    "serverId": 1998,
+    "type": "Container",
+    "name": "green backpack",
+    "wareId": 2865,
+    "spriteHashHex": "522E5165253081DC625304F5B447EF16"
+  }
+}

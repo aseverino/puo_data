@@ -1,0 +1,125 @@
+{
+  "category": "item",
+  "clientId": 20090,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 20090,
+    "showAs": 20090,
+    "name": "umbral master spellbook",
+    "restrictProfession": 24,
+    "restrictLevel": 250
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 16,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30926,
+      30927
+    ]
+  },
+  "server": {
+    "serverId": 22424,
+    "type": "None",
+    "name": "umbral master spellbook",
+    "isAnimation": true,
+    "wareId": 20090,
+    "spriteHashHex": "17E54DE95F618B2A87F7C342A1B80F19"
+  }
+}

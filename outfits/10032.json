@@ -1,0 +1,49 @@
+{
+  "category": "outfit",
+  "clientId": 10032,
+  "animateAlways": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 2,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      45039,
+      45040,
+      45043,
+      45044,
+      45045,
+      45046,
+      45041,
+      45042
+    ]
+  },
+  "isSymmetricOutfit": true
+}

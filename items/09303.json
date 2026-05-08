@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9303,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 9303,
+    "showAs": 9303,
+    "name": "leviathan\u0027s amulet",
+    "restrictLevel": 80
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13848
+    ]
+  },
+  "server": {
+    "serverId": 10220,
+    "type": "None",
+    "name": "leviathan\u0027s amulet",
+    "wareId": 9303,
+    "spriteHashHex": "8B182958033ED2C17CCB14118A4B33E3"
+  }
+}

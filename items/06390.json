@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 6390,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 186,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 6390,
+    "showAs": 6390,
+    "name": "nightmare shield"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7946
+    ]
+  },
+  "server": {
+    "serverId": 6391,
+    "type": "None",
+    "name": "nightmare shield",
+    "wareId": 6390,
+    "spriteHashHex": "C394E94DC41CB724DE02BD32D890AE43"
+  }
+}

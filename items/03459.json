@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3459,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3459,
+    "showAs": 3459,
+    "name": "wooden hammer"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      697
+    ]
+  },
+  "server": {
+    "serverId": 2556,
+    "type": "None",
+    "name": "wooden hammer",
+    "wareId": 3459,
+    "spriteHashHex": "0546300B6AAF4E0DEE5FC863B3F64EC5"
+  }
+}

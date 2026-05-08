@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3591,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3591,
+    "showAs": 3591,
+    "name": "strawberry"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1879,
+      1880,
+      1881,
+      1882,
+      1883,
+      1884,
+      1884,
+      1884
+    ]
+  },
+  "server": {
+    "serverId": 2680,
+    "type": "None",
+    "name": "strawberry",
+    "wareId": 3591,
+    "spriteHashHex": "34CBBD333376DFBB4D4EEFDD2D936FA1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 16122,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 16122,
+    "showAs": 16122,
+    "name": "green crystal splinter"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25461,
+      25462,
+      25463,
+      25464,
+      25465,
+      25466,
+      25466,
+      25466
+    ]
+  },
+  "server": {
+    "serverId": 18416,
+    "type": "None",
+    "name": "green crystal splinter",
+    "wareId": 16122,
+    "spriteHashHex": "E7C7B6B8FAA0BAB315E7D532828831B1"
+  }
+}

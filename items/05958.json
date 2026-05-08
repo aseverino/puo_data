@@ -1,0 +1,59 @@
+{
+  "category": "item",
+  "clientId": 5958,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 5958,
+    "showAs": 5958,
+    "name": "winning lottery ticket"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      1256,
+      9870,
+      1256,
+      9871,
+      1256,
+      9872
+    ]
+  },
+  "server": {
+    "serverId": 5958,
+    "type": "None",
+    "name": "winning lottery ticket",
+    "isAnimation": true,
+    "wareId": 5958,
+    "spriteHashHex": "D8211BC805988272016DBDB4CE7CF5E6"
+  }
+}

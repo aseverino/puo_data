@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 948,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 948,
+    "showAs": 948,
+    "name": "pure energy"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9569
+    ]
+  },
+  "server": {
+    "serverId": 8306,
+    "type": "None",
+    "name": "pure energy",
+    "wareId": 948,
+    "spriteHashHex": "5BDA23CA7F23C904778718E86ED43EFA"
+  }
+}

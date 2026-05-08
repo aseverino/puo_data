@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 2792,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2792,
+    "showAs": 2524,
+    "name": "trough kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4940
+    ]
+  },
+  "server": {
+    "serverId": 3918,
+    "type": "None",
+    "name": "trough kit",
+    "hasHeight": true,
+    "wareId": 2792,
+    "spriteHashHex": "5D36AE864F3512175F2906AB45F39FAE"
+  }
+}

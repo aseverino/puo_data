@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5883,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 5883,
+    "showAs": 5883,
+    "name": "ape fur"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7137
+    ]
+  },
+  "server": {
+    "serverId": 5883,
+    "type": "None",
+    "name": "ape fur",
+    "wareId": 5883,
+    "spriteHashHex": "2C4900D5AC007545CCB98919BEB43100"
+  }
+}

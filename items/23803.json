@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23803,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112616
+    ]
+  },
+  "server": {
+    "serverId": 26169,
+    "type": "None",
+    "spriteHashHex": "6B1646EF0234D652C5B59A85E964749C",
+    "article": "a",
+    "namePt": "pedra de casco de golem",
+    "articlePt": "uma",
+    "pluralPt": "pedras de casco de golem",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 3661,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3661,
+    "showAs": 3661,
+    "name": "grave flower"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5351
+    ]
+  },
+  "server": {
+    "serverId": 2747,
+    "type": "None",
+    "name": "grave flower",
+    "wareId": 3661,
+    "spriteHashHex": "A4A586FCEF3305E2F55E30690DC8A664"
+  }
+}

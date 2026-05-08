@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23768,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112565
+    ]
+  },
+  "server": {
+    "serverId": 26134,
+    "type": "None",
+    "spriteHashHex": "FC5D5308F0E5B90E46A8607BAFE7A060",
+    "article": "a",
+    "namePt": "m\u00E1scara de hoothoot",
+    "articlePt": "uma",
+    "pluralPt": "m\u00E1scaras de hoothoot",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

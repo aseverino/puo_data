@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23810,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112623
+    ]
+  },
+  "server": {
+    "serverId": 26176,
+    "type": "None",
+    "spriteHashHex": "C8A65F7C2BFBA9A40E86027DB5A676C7",
+    "article": "a",
+    "namePt": "chifre de rhydon",
+    "articlePt": "um",
+    "pluralPt": "chifres de rhydon",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

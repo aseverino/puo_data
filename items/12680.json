@@ -1,0 +1,35 @@
+{
+  "category": "item",
+  "clientId": 12680,
+  "isContainer": true,
+  "isLyingObject": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      20100
+    ]
+  },
+  "server": {
+    "serverId": 13836,
+    "type": "Container",
+    "spriteHashHex": "23199CE8E70084F5F3670D643C6B8D0C"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3245,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 9,
+  "isMarketItem": true,
+  "market": {
+    "category": 11,
+    "tradeAs": 3245,
+    "showAs": 3245,
+    "name": "ring of wishes"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1891
+    ]
+  },
+  "server": {
+    "serverId": 2357,
+    "type": "None",
+    "name": "ring of wishes",
+    "wareId": 3245,
+    "spriteHashHex": "75B99419D8B4945D123811438A077848"
+  }
+}

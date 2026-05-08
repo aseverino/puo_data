@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 16098,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 31,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 16097,
+    "showAs": 16097,
+    "name": "lit glowing mushroom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25421
+    ]
+  },
+  "server": {
+    "serverId": 18392,
+    "type": "None",
+    "name": "lit glowing mushroom",
+    "wareId": 16097,
+    "spriteHashHex": "88EBB176532681305E7697E8A2A30646"
+  }
+}

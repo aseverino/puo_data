@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 829,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 829,
+    "showAs": 829,
+    "name": "glacier mask",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9984
+    ]
+  },
+  "server": {
+    "serverId": 7902,
+    "type": "None",
+    "name": "glacier mask",
+    "wareId": 829,
+    "spriteHashHex": "A008ED68173CC11E80D24D3732B62F4C"
+  }
+}

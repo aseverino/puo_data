@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3573,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 3573,
+    "showAs": 3573,
+    "name": "magician hat"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1871,
+      64525,
+      64526,
+      64527,
+      64527,
+      64527,
+      64527,
+      64527
+    ]
+  },
+  "server": {
+    "serverId": 2662,
+    "type": "None",
+    "name": "magician hat",
+    "wareId": 3573,
+    "spriteHashHex": "EBE93B823B2AD005F4AD16B26A53069A"
+  }
+}

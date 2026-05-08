@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7385,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7385,
+    "showAs": 7385,
+    "name": "crimson sword",
+    "restrictLevel": 20
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9064
+    ]
+  },
+  "server": {
+    "serverId": 7385,
+    "type": "None",
+    "name": "crimson sword",
+    "wareId": 7385,
+    "spriteHashHex": "298EE7FED9FEFAFC905C0976B00933C0"
+  }
+}

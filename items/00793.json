@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 793,
+  "isGroundBorder": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 793,
+    "showAs": 793,
+    "name": "earth war hammer",
+    "restrictProfession": 2,
+    "restrictLevel": 50
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      141725
+    ]
+  },
+  "server": {
+    "serverId": 7868,
+    "type": "None",
+    "name": "earth war hammer",
+    "isAnimation": true,
+    "wareId": 793,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "581601DDE8191E46E291BAA5679AA3ED"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 14042,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 14042,
+    "showAs": 14042,
+    "name": "warrior\u0027s shield"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22311
+    ]
+  },
+  "server": {
+    "serverId": 15453,
+    "type": "None",
+    "name": "warrior\u0027s shield",
+    "wareId": 14042,
+    "spriteHashHex": "E809858D99E86C69AE8F58502A5A30B0"
+  }
+}

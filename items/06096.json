@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 6096,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 6096,
+    "showAs": 6096,
+    "name": "pirate hat"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7140
+    ]
+  },
+  "server": {
+    "serverId": 6096,
+    "type": "None",
+    "name": "pirate hat",
+    "wareId": 6096,
+    "spriteHashHex": "0FCF9A8D97883892AD9DE89CA92CD02D"
+  }
+}

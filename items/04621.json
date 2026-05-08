@@ -1,0 +1,105 @@
+{
+  "category": "item",
+  "clientId": 4621,
+  "isGroundBorder": true,
+  "ignoreLook": true,
+  "terrainType": 3,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 14,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      140222,
+      140223,
+      140224,
+      140225,
+      140226,
+      140227,
+      140228,
+      140229,
+      140230,
+      140231,
+      140232,
+      140233,
+      140234,
+      140235
+    ]
+  },
+  "server": {
+    "serverId": 4632,
+    "type": "None",
+    "walkStack": true,
+    "isAnimation": true,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "FF3C61C5E6C3219F6745BBA1FDE4E8AF"
+  }
+}

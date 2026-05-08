@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7403,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7403,
+    "showAs": 7403,
+    "name": "berserker",
+    "restrictProfession": 2,
+    "restrictLevel": 65
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      781
+    ]
+  },
+  "server": {
+    "serverId": 7403,
+    "type": "None",
+    "name": "berserker",
+    "wareId": 7403,
+    "spriteHashHex": "1E72AC778BDE88E098EF13A3D210A894"
+  }
+}

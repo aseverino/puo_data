@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 8199,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8199,
+    "showAs": 8199,
+    "name": "garlic cookie"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1496,
+      1497,
+      1498,
+      1499,
+      1500,
+      1501,
+      1502,
+      1502
+    ]
+  },
+  "server": {
+    "serverId": 9116,
+    "type": "None",
+    "name": "garlic cookie",
+    "wareId": 8199,
+    "spriteHashHex": "7406C4404AE6DFA31D5E66EB885E8C30"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 2933,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightColor": 204,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 2933,
+    "showAs": 2933,
+    "name": "small oil lamp"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2261
+    ]
+  },
+  "server": {
+    "serverId": 2063,
+    "type": "None",
+    "name": "small oil lamp",
+    "wareId": 2933,
+    "spriteHashHex": "F40C31D07A550B6076F224A1E49A21CC"
+  }
+}

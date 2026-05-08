@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 8764,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8764,
+    "showAs": 8764,
+    "name": "research notes"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1431
+    ]
+  },
+  "server": {
+    "serverId": 14347,
+    "type": "None",
+    "name": "research notes",
+    "wareId": 8764,
+    "spriteHashHex": "A8F0DC7FF2223DAE980C1CE97110B8E0"
+  }
+}

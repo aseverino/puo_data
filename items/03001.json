@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3001,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3001,
+    "showAs": 3001,
+    "name": "bear doll"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      3579
+    ]
+  },
+  "server": {
+    "serverId": 3954,
+    "type": "None",
+    "name": "bear doll",
+    "wareId": 3001,
+    "spriteHashHex": "7A3E82F6DCFE6961C5807FDF9C11541A"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "category": "item",
+  "clientId": 7430,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7430,
+    "showAs": 7430,
+    "name": "dragonbone staff",
+    "restrictLevel": 30
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      8944,
+      8945,
+      8946
+    ]
+  },
+  "server": {
+    "serverId": 7430,
+    "type": "None",
+    "name": "dragonbone staff",
+    "isAnimation": true,
+    "wareId": 7430,
+    "spriteHashHex": "B64AAA2016F94086DF7319C07145B3E9"
+  }
+}

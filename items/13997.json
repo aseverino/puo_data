@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 13997,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 13997,
+    "showAs": 13997,
+    "name": "depth calcei",
+    "restrictProfession": 2,
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22271
+    ]
+  },
+  "server": {
+    "serverId": 15410,
+    "type": "None",
+    "name": "depth calcei",
+    "wareId": 13997,
+    "spriteHashHex": "95127FC851346681702F8FBCA392D5C4"
+  }
+}

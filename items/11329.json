@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 11329,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11329,
+    "showAs": 11329,
+    "name": "lump of clay"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6238,
+      232
+    ]
+  },
+  "server": {
+    "serverId": 12285,
+    "type": "None",
+    "name": "lump of clay",
+    "wareId": 11329,
+    "spriteHashHex": "C3BB0177A09D1736CEF830851FEFA297"
+  }
+}

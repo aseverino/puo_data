@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 8019,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8019,
+    "showAs": 8019,
+    "name": "chocolate cake"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11277,
+      64534,
+      64535,
+      64536,
+      64536,
+      64536,
+      64536,
+      64536
+    ]
+  },
+  "server": {
+    "serverId": 8847,
+    "type": "None",
+    "name": "chocolate cake",
+    "wareId": 8019,
+    "spriteHashHex": "1DF86EC9D0D165F4CC7515782C4009D5"
+  }
+}

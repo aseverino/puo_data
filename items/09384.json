@@ -1,0 +1,78 @@
+{
+  "category": "item",
+  "clientId": 9384,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 9384,
+    "showAs": 9384,
+    "name": "scythe of the reaper"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 6,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      62,
+      0,
+      62,
+      9857,
+      62,
+      9853,
+      62,
+      9858,
+      62,
+      0,
+      62,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 10301,
+    "type": "None",
+    "name": "scythe of the reaper",
+    "isAnimation": true,
+    "wareId": 9384,
+    "spriteHashHex": "572F226C7F747FECCD57049287D852E3"
+  }
+}

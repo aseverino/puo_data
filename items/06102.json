@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 6102,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 6102,
+    "showAs": 6102,
+    "name": "Deadeye Devious\u0027 eye patch"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18157
+    ]
+  },
+  "server": {
+    "serverId": 6102,
+    "type": "None",
+    "name": "Deadeye Devious\u0027 eye patch",
+    "wareId": 6102,
+    "spriteHashHex": "7E6A5292975D037C00B66AC52C1B1B46"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3247,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3247,
+    "showAs": 3247,
+    "name": "djinn\u0027s lamp"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2261
+    ]
+  },
+  "server": {
+    "serverId": 2359,
+    "type": "None",
+    "name": "djinn\u0027s lamp",
+    "wareId": 3247,
+    "spriteHashHex": "F40C31D07A550B6076F224A1E49A21CC"
+  }
+}

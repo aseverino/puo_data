@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 3082,
+  "isGroundBorder": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3082,
+    "showAs": 3082,
+    "name": "elven amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 2,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      142201,
+      142202
+    ]
+  },
+  "server": {
+    "serverId": 2198,
+    "type": "None",
+    "name": "elven amulet",
+    "wareId": 3082,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "3C97ABBEF00F4A6A3A99BD94ACA3FD96"
+  }
+}

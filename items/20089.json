@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 20089,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 20089,
+    "showAs": 20089,
+    "name": "umbral spellbook",
+    "restrictProfession": 24,
+    "restrictLevel": 150
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30925
+    ]
+  },
+  "server": {
+    "serverId": 22423,
+    "type": "None",
+    "name": "umbral spellbook",
+    "wareId": 20089,
+    "spriteHashHex": "1AF453477BE5539144276B45A004C895"
+  }
+}

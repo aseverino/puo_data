@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3606,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3606,
+    "showAs": 3606,
+    "name": "egg"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1658
+    ]
+  },
+  "server": {
+    "serverId": 2328,
+    "type": "None",
+    "name": "egg",
+    "wareId": 3606,
+    "spriteHashHex": "B76A030727A10D7FCC1218544356F7FB"
+  }
+}

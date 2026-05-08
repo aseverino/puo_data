@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 6567,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 6511,
+    "showAs": 6511,
+    "name": "santa doll"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7925
+    ]
+  },
+  "server": {
+    "serverId": 6567,
+    "type": "None",
+    "name": "santa doll",
+    "wareId": 6511,
+    "spriteHashHex": "B71DD810BAD91F8E1CC78B0187280B8C"
+  }
+}

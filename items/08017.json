@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 8017,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8017,
+    "showAs": 8017,
+    "name": "beetroot"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11270,
+      11271,
+      11272,
+      11273,
+      11274,
+      11275,
+      11275,
+      11275
+    ]
+  },
+  "server": {
+    "serverId": 8845,
+    "type": "None",
+    "name": "beetroot",
+    "wareId": 8017,
+    "spriteHashHex": "5EF53F37E9AA82871CF3D665FD8F9EBE"
+  }
+}

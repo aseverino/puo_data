@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 347,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 347,
+    "showAs": 347,
+    "name": "scroll"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2144
+    ]
+  },
+  "server": {
+    "serverId": 14324,
+    "type": "None",
+    "name": "scroll",
+    "wareId": 347,
+    "spriteHashHex": "1B8571673452ED6A2DD8392D1157BD2F"
+  }
+}

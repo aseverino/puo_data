@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9631,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9631,
+    "showAs": 9631,
+    "name": "scarab pincers"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13892
+    ]
+  },
+  "server": {
+    "serverId": 10548,
+    "type": "None",
+    "name": "scarab pincers",
+    "wareId": 9631,
+    "spriteHashHex": "4BF08FA88CD40227A6019F2538045D99"
+  }
+}

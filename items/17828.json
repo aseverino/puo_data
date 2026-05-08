@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 17828,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 17828,
+    "showAs": 17828,
+    "name": "pair of iron fists",
+    "restrictProfession": 2,
+    "restrictLevel": 50
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27408
+    ]
+  },
+  "server": {
+    "serverId": 20108,
+    "type": "None",
+    "name": "pair of iron fists",
+    "wareId": 17828,
+    "spriteHashHex": "A5488DBB8114165353A87D89145052DF"
+  }
+}

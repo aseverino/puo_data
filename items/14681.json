@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 14681,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 14681,
+    "showAs": 14681,
+    "name": "anniversary cake"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      22880,
+      22881
+    ]
+  },
+  "server": {
+    "serverId": 16014,
+    "type": "None",
+    "name": "anniversary cake",
+    "isAnimation": true,
+    "wareId": 14681,
+    "spriteHashHex": "8479DEEAB654779E04596B3F6ED2CC83"
+  }
+}

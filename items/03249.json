@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3249,
+  "isStackable": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 6,
+  "lightColor": 29,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3249,
+    "showAs": 3249,
+    "name": "frozen starlight"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1200
+    ]
+  },
+  "server": {
+    "serverId": 2361,
+    "type": "None",
+    "name": "frozen starlight",
+    "wareId": 3249,
+    "spriteHashHex": "4C8A6E37FA5F2E93B9B51ED738A31CE8"
+  }
+}

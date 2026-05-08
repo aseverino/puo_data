@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9648,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9648,
+    "showAs": 9648,
+    "name": "frosty ear of a troll"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13914
+    ]
+  },
+  "server": {
+    "serverId": 10565,
+    "type": "None",
+    "name": "frosty ear of a troll",
+    "wareId": 9648,
+    "spriteHashHex": "EBE7ACEF37608F107F4200A07424CBBC"
+  }
+}

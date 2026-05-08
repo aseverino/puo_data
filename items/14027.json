@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 14027,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14027,
+    "showAs": 14027,
+    "name": "party wall tinsel"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22304,
+      0,
+      0,
+      0,
+      22189,
+      22188,
+      0,
+      0,
+      22197,
+      0,
+      22196,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 15439,
+    "type": "None",
+    "name": "party wall tinsel",
+    "wareId": 14027,
+    "spriteHashHex": "14B2C3C7450F80FA7BEB099C267E42CD"
+  }
+}

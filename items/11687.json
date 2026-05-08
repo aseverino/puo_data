@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 11687,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 11687,
+    "showAs": 11687,
+    "name": "royal scale robe",
+    "restrictProfession": 24,
+    "restrictLevel": 100
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22977
+    ]
+  },
+  "server": {
+    "serverId": 12643,
+    "type": "None",
+    "name": "royal scale robe",
+    "wareId": 11687,
+    "spriteHashHex": "48B72A871DDB2C401A60A144F1DC3B61"
+  }
+}

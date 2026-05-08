@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 902,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 902,
+    "showAs": 902,
+    "name": "marlin trophy"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9487,
+      0,
+      0,
+      0,
+      10010,
+      10011,
+      0,
+      0,
+      10013,
+      0,
+      10012,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 7964,
+    "type": "None",
+    "name": "marlin trophy",
+    "wareId": 902,
+    "spriteHashHex": "3E9270B7250BC1B118DC6EC8A99F3B3B"
+  }
+}

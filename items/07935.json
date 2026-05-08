@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7935,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7935,
+    "showAs": 7935,
+    "name": "compromising letter"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11074
+    ]
+  },
+  "server": {
+    "serverId": 8763,
+    "type": "None",
+    "name": "compromising letter",
+    "wareId": 7935,
+    "spriteHashHex": "FF4B1F1938F15505EB69514868B2094C"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 8014,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8014,
+    "showAs": 8014,
+    "name": "cucumber"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11258
+    ]
+  },
+  "server": {
+    "serverId": 8842,
+    "type": "None",
+    "name": "cucumber",
+    "wareId": 8014,
+    "spriteHashHex": "592C23C5F1E377B8B9E9D429175C7F05"
+  }
+}

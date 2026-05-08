@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 2974,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2974,
+    "showAs": 2974,
+    "name": "water pipe"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      3026
+    ]
+  },
+  "server": {
+    "serverId": 2093,
+    "type": "None",
+    "name": "water pipe",
+    "wareId": 2974,
+    "spriteHashHex": "A1FDCFA30D8D116408964DAC37DC9113"
+  }
+}

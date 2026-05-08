@@ -1,0 +1,61 @@
+{
+  "category": "item",
+  "clientId": 18931,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 178,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 18931,
+    "showAs": 18931,
+    "name": "candle made of human tallow"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      28748,
+      28749,
+      28750
+    ]
+  },
+  "server": {
+    "serverId": 21248,
+    "type": "None",
+    "name": "candle made of human tallow",
+    "isAnimation": true,
+    "wareId": 18931,
+    "spriteHashHex": "7DC9B28FCE8DFB6E1DFC92D59A18783F"
+  }
+}

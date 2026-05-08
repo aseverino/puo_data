@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 24000,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112966
+    ]
+  },
+  "server": {
+    "serverId": 26366,
+    "type": "None",
+    "spriteHashHex": "81FDEE637B351190C0D41F1B542BB04C",
+    "article": "a",
+    "plural": "mamoswine tusks",
+    "namePt": "presa de mamoswine",
+    "articlePt": "uma",
+    "pluralPt": "presas de mamoswine",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

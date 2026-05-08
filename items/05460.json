@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 5460,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 5460,
+    "showAs": 5460,
+    "name": "helmet of the deep"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5976
+    ]
+  },
+  "server": {
+    "serverId": 5461,
+    "type": "None",
+    "name": "helmet of the deep",
+    "wareId": 5460,
+    "spriteHashHex": "E21EE8AB57704CA6670E4348B21C01B5"
+  }
+}

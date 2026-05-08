@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 9059,
+  "isPickupable": true,
+  "hasLight": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 9059,
+    "showAs": 9059,
+    "name": "small lamp"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13246
+    ]
+  },
+  "server": {
+    "serverId": 9972,
+    "type": "None",
+    "name": "small lamp",
+    "wareId": 9059,
+    "spriteHashHex": "EA423CDDC0DA24A8599ADCFD7B76AF0C"
+  }
+}

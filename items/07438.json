@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 7438,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 7438,
+    "showAs": 7438,
+    "name": "elvish bow"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6468
+    ]
+  },
+  "server": {
+    "serverId": 7438,
+    "type": "None",
+    "name": "elvish bow",
+    "wareId": 7438,
+    "spriteHashHex": "398116A9CAC12D186462BBE7A0901CD9"
+  }
+}

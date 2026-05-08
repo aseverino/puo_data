@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3054,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3054,
+    "showAs": 3054,
+    "name": "silver amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      942
+    ]
+  },
+  "server": {
+    "serverId": 2170,
+    "type": "None",
+    "name": "silver amulet",
+    "wareId": 3054,
+    "spriteHashHex": "CE43E5702F4ACFCCCF56FA4CF209AC8F"
+  }
+}

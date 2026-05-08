@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 10027,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 10027,
+    "showAs": 10027,
+    "name": "universal tool"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15528
+    ]
+  },
+  "server": {
+    "serverId": 10944,
+    "type": "None",
+    "name": "universal tool",
+    "wareId": 10027,
+    "spriteHashHex": "335EBE5F2D5A6ACF115D4E1091507B34"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3056,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3056,
+    "showAs": 3056,
+    "name": "bronze amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      944
+    ]
+  },
+  "server": {
+    "serverId": 2172,
+    "type": "None",
+    "name": "bronze amulet",
+    "wareId": 3056,
+    "spriteHashHex": "D3FC9AD1A9CC89E1ABBD0BA160A3C650"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3503,
+  "isContainer": true,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 3503,
+    "showAs": 3503,
+    "name": "parcel"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      875
+    ]
+  },
+  "server": {
+    "serverId": 2595,
+    "type": "Container",
+    "name": "parcel",
+    "hasHeight": true,
+    "wareId": 3503,
+    "spriteHashHex": "5DDB03EDA538A296AADC784190564416"
+  }
+}

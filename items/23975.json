@@ -1,0 +1,49 @@
+{
+  "category": "item",
+  "clientId": 23975,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7965,
+      7966,
+      7967,
+      7968,
+      7969,
+      7970,
+      7970,
+      7970
+    ]
+  },
+  "server": {
+    "serverId": 26341,
+    "type": "None",
+    "spriteHashHex": "DEAD94931A8AECD09E728E18B8F1B4E4",
+    "article": "a",
+    "plural": "crawdaunt mask stars",
+    "namePt": "estrela de m\u00E1scara de crawdaunt",
+    "articlePt": "uma",
+    "pluralPt": "estrelas de m\u00E1scara de crawdaunt",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

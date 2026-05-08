@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 5086,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 5086,
+    "showAs": 5046,
+    "name": "monkey statue \u0027see\u0027 kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4938
+    ]
+  },
+  "server": {
+    "serverId": 5086,
+    "type": "None",
+    "name": "monkey statue \u0027see\u0027 kit",
+    "hasHeight": true,
+    "wareId": 5086,
+    "spriteHashHex": "A18180051CD2CB417FF554DF0FAB1558"
+  }
+}

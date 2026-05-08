@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9114,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9114,
+    "showAs": 9114,
+    "name": "wooden ties"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1568
+    ]
+  },
+  "server": {
+    "serverId": 10033,
+    "type": "None",
+    "name": "wooden ties",
+    "wareId": 9114,
+    "spriteHashHex": "465BD9370122013C8D61EE9D20A42495"
+  }
+}

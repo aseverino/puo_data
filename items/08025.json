@@ -1,0 +1,55 @@
+{
+  "category": "item",
+  "clientId": 8025,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 8025,
+    "showAs": 8025,
+    "name": "the ironworker",
+    "restrictProfession": 4,
+    "restrictLevel": 80
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11282,
+      64561,
+      64562,
+      64563,
+      64563,
+      64563,
+      64563,
+      64563
+    ]
+  },
+  "server": {
+    "serverId": 8853,
+    "type": "None",
+    "name": "the ironworker",
+    "wareId": 8025,
+    "spriteHashHex": "570E4B17E5BD4F47866A5E6EA2E1B6CC"
+  }
+}

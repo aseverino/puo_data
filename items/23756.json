@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 23756,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112534,
+      112535,
+      112536,
+      112537,
+      112538,
+      112538,
+      112538,
+      112538
+    ]
+  },
+  "server": {
+    "serverId": 26122,
+    "type": "None",
+    "spriteHashHex": "C6D8C41AC4796E170BC7E2CB3F3244F3",
+    "article": "a",
+    "namePt": "bico de pidgeotto",
+    "articlePt": "um",
+    "pluralPt": "bicos de pidgeotto",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

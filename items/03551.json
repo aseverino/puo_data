@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3551,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 3551,
+    "showAs": 3551,
+    "name": "sandals"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22978
+    ]
+  },
+  "server": {
+    "serverId": 2642,
+    "type": "None",
+    "name": "sandals",
+    "wareId": 3551,
+    "spriteHashHex": "6F8C741BC9C4CF8672BF4188099F8B19"
+  }
+}

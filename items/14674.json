@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 14674,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 14674,
+    "showAs": 14674,
+    "name": "anniversary backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22856
+    ]
+  },
+  "server": {
+    "serverId": 16007,
+    "type": "Container",
+    "name": "anniversary backpack",
+    "wareId": 14674,
+    "spriteHashHex": "64CD521D9FE114958CB528AC6A7689C7"
+  }
+}

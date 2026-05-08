@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 11469,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11469,
+    "showAs": 11469,
+    "name": "hunter\u0027s quiver"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17248
+    ]
+  },
+  "server": {
+    "serverId": 12425,
+    "type": "None",
+    "name": "hunter\u0027s quiver",
+    "wareId": 11469,
+    "spriteHashHex": "50036842CB2323B3B4913C32B610FEBB"
+  }
+}

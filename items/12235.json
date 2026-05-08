@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12235,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12235,
+    "showAs": 12235,
+    "name": "witherblossom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19433
+    ]
+  },
+  "server": {
+    "serverId": 13222,
+    "type": "None",
+    "name": "witherblossom",
+    "wareId": 12235,
+    "spriteHashHex": "4150D4B7CFB13BB8158472EDA4857302"
+  }
+}

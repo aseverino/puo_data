@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 818,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 818,
+    "showAs": 818,
+    "name": "magma boots",
+    "restrictProfession": 24,
+    "restrictLevel": 35
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9966
+    ]
+  },
+  "server": {
+    "serverId": 7891,
+    "type": "None",
+    "name": "magma boots",
+    "wareId": 818,
+    "spriteHashHex": "27F6DDB1CA049CF096896E08C292A104"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "category": "item",
+  "clientId": 12369,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12369,
+    "showAs": 12369,
+    "name": "captured wolf"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 11,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      19856,
+      0,
+      19856,
+      6763,
+      19856,
+      6764,
+      19856,
+      6763,
+      19856,
+      0,
+      19856,
+      0,
+      19856,
+      0,
+      19856,
+      0,
+      19856,
+      0,
+      19856,
+      0,
+      19856,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 13633,
+    "type": "None",
+    "name": "captured wolf",
+    "isAnimation": true,
+    "wareId": 12369,
+    "spriteHashHex": "27CA9355BB96B13A6E6E2488168B7F7B"
+  }
+}

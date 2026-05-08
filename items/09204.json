@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9204,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9204,
+    "showAs": 9204,
+    "name": "old pirate poem"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9665
+    ]
+  },
+  "server": {
+    "serverId": 10122,
+    "type": "None",
+    "name": "old pirate poem",
+    "wareId": 9204,
+    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F"
+  }
+}

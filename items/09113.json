@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9113,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9113,
+    "showAs": 9113,
+    "name": "magical cage key"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      742
+    ]
+  },
+  "server": {
+    "serverId": 14349,
+    "type": "None",
+    "name": "magical cage key",
+    "wareId": 9113,
+    "spriteHashHex": "7989D42DB205F77EE997FBC3F9C04346"
+  }
+}

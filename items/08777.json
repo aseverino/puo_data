@@ -1,0 +1,65 @@
+{
+  "category": "item",
+  "clientId": 8777,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8777,
+    "showAs": 8777,
+    "name": "Rerun\u0027s ring"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      2117,
+      2118,
+      2117,
+      2119,
+      2117,
+      2120,
+      2117,
+      2121
+    ]
+  },
+  "server": {
+    "serverId": 14348,
+    "type": "None",
+    "name": "Rerun\u0027s ring",
+    "isAnimation": true,
+    "wareId": 8777,
+    "spriteHashHex": "6AA2C40CC5AA8A6EF97F706300F6B5C9"
+  }
+}

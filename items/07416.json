@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7416,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7416,
+    "showAs": 7416,
+    "name": "bloody edge",
+    "restrictLevel": 55
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4314
+    ]
+  },
+  "server": {
+    "serverId": 7416,
+    "type": "None",
+    "name": "bloody edge",
+    "wareId": 7416,
+    "spriteHashHex": "C93752AF4026D5D4D6C6C0B73A3FAD52"
+  }
+}

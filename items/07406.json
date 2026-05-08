@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7406,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7406,
+    "showAs": 7406,
+    "name": "blacksteel sword",
+    "restrictProfession": 2,
+    "restrictLevel": 35
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9243
+    ]
+  },
+  "server": {
+    "serverId": 7406,
+    "type": "None",
+    "name": "blacksteel sword",
+    "wareId": 7406,
+    "spriteHashHex": "1DFABFD92EA8F9D79353FFD472667567"
+  }
+}

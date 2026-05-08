@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10309,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10309,
+    "showAs": 10309,
+    "name": "strand of medusa hair"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15454
+    ]
+  },
+  "server": {
+    "serverId": 11226,
+    "type": "None",
+    "name": "strand of medusa hair",
+    "wareId": 10309,
+    "spriteHashHex": "F5A9A4822F171BBF2B3C9709430C0FF6"
+  }
+}

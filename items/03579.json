@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 3579,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3579,
+    "showAs": 3579,
+    "name": "salmon"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1017,
+      1018,
+      1019,
+      1020,
+      1020,
+      1020,
+      1020,
+      1020
+    ]
+  },
+  "server": {
+    "serverId": 2668,
+    "type": "None",
+    "name": "salmon",
+    "wareId": 3579,
+    "spriteHashHex": "DC01CDF6EC2E891EABCCC451ABF7EB91"
+  }
+}

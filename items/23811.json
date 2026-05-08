@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23811,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112624
+    ]
+  },
+  "server": {
+    "serverId": 26177,
+    "type": "None",
+    "spriteHashHex": "B49484A974A4FC8ABC8FC4FC9E6ABB23",
+    "article": "a",
+    "namePt": "chifre de rhyhorn",
+    "articlePt": "um",
+    "pluralPt": "chifres de rhyhorn",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

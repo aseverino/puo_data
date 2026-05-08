@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 3217,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3217,
+    "showAs": 3217,
+    "name": "letterbag"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18145
+    ]
+  },
+  "server": {
+    "serverId": 2330,
+    "type": "None",
+    "name": "letterbag",
+    "wareId": 3217,
+    "spriteHashHex": "80466866E900AE61ADB290D92897470E"
+  }
+}

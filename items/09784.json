@@ -1,0 +1,40 @@
+{
+  "category": "item",
+  "clientId": 9784,
+  "isOnBottom": true,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 186,
+  "width": 2,
+  "height": 2,
+  "exactSize": 49,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      14181,
+      14182,
+      14184,
+      14183
+    ]
+  },
+  "server": {
+    "serverId": 10701,
+    "type": "None",
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "077808E9AE9421223DE6C8A62C307F69"
+  }
+}

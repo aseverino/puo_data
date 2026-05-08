@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 5802,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 5802,
+    "showAs": 5802,
+    "name": "message in a bottle"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6697
+    ]
+  },
+  "server": {
+    "serverId": 5802,
+    "type": "None",
+    "name": "message in a bottle",
+    "wareId": 5802,
+    "spriteHashHex": "8C171B25D68038AB37AF81F753BD715A"
+  }
+}

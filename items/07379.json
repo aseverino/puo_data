@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 7379,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7379,
+    "showAs": 7379,
+    "name": "brutetamer\u0027s staff",
+    "restrictLevel": 25
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5034
+    ]
+  },
+  "server": {
+    "serverId": 7379,
+    "type": "None",
+    "name": "brutetamer\u0027s staff",
+    "wareId": 7379,
+    "spriteHashHex": "1B0E5E2034A19C5E06529E25305C0991"
+  }
+}

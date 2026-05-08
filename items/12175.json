@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 12175,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12175,
+    "showAs": 12175,
+    "name": "spoon with a ribbon"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      694,
+      15710
+    ]
+  },
+  "server": {
+    "serverId": 13162,
+    "type": "None",
+    "name": "spoon with a ribbon",
+    "wareId": 12175,
+    "spriteHashHex": "5B7C7BAF82DB80E6838464805C92BA13"
+  }
+}

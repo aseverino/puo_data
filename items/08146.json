@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 8146,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 10,
+  "offsetY": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 8146,
+    "showAs": 8146,
+    "name": "oracle figurine"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11312
+    ]
+  },
+  "server": {
+    "serverId": 8974,
+    "type": "None",
+    "name": "oracle figurine",
+    "wareId": 8146,
+    "spriteHashHex": "0CBC8BF15804B5D7764551497BC92C71"
+  }
+}

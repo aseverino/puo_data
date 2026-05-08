@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 14247,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 14247,
+    "showAs": 14247,
+    "name": "ornate crossbow",
+    "restrictProfession": 4,
+    "restrictLevel": 50
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22834
+    ]
+  },
+  "server": {
+    "serverId": 15644,
+    "type": "None",
+    "name": "ornate crossbow",
+    "wareId": 14247,
+    "spriteHashHex": "39D86EF33394CB62CC6F13BC6B5AC928"
+  }
+}

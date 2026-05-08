@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 10329,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 10329,
+    "showAs": 10329,
+    "name": "rice ball"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15532,
+      15533,
+      15534,
+      15535,
+      15536,
+      15537,
+      15537,
+      15537
+    ]
+  },
+  "server": {
+    "serverId": 11246,
+    "type": "None",
+    "name": "rice ball",
+    "wareId": 10329,
+    "spriteHashHex": "15EE3A7E18CA81AF718DEBD44250D48A"
+  }
+}

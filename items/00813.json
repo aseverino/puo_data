@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 813,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 813,
+    "showAs": 813,
+    "name": "terra boots",
+    "restrictProfession": 24,
+    "restrictLevel": 35
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9963
+    ]
+  },
+  "server": {
+    "serverId": 7886,
+    "type": "None",
+    "name": "terra boots",
+    "wareId": 813,
+    "spriteHashHex": "02DE630CC1423D4B012C58B8917C7BA6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 16101,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 16101,
+    "showAs": 16101,
+    "name": "muck remover"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25424
+    ]
+  },
+  "server": {
+    "serverId": 18395,
+    "type": "None",
+    "name": "muck remover",
+    "wareId": 16101,
+    "spriteHashHex": "803D2BD29284185C5969A35B6976143A"
+  }
+}

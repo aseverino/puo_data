@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3188,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3188,
+    "showAs": 3188,
+    "name": "fire field rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      919
+    ]
+  },
+  "server": {
+    "serverId": 2301,
+    "type": "None",
+    "name": "fire field rune",
+    "wareId": 3188,
+    "spriteHashHex": "73B3891AD0BD9487955C8C5A7BE641D6"
+  }
+}

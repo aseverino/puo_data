@@ -1,0 +1,137 @@
+{
+  "category": "item",
+  "clientId": 12582,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 12578,
+    "showAs": 12578,
+    "name": "Evilina"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 16,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      15698,
+      6762,
+      15698,
+      6763,
+      15698,
+      6764,
+      15698,
+      6764,
+      15698,
+      6763,
+      15698,
+      6762,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0,
+      15698,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 13571,
+    "type": "None",
+    "name": "Evilina",
+    "isAnimation": true,
+    "wareId": 12578,
+    "spriteHashHex": "9378D7C1EB7D1D7681A8A9ED14831D3D"
+  }
+}

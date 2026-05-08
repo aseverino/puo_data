@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 19366,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 19366,
+    "showAs": 19366,
+    "name": "icy culotte",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      29497
+    ]
+  },
+  "server": {
+    "serverId": 21700,
+    "type": "None",
+    "name": "icy culotte",
+    "wareId": 19366,
+    "spriteHashHex": "31FBACCA7F5A2C68B68EC26B53248923"
+  }
+}

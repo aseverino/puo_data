@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 5927,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 5927,
+    "showAs": 5927,
+    "name": "pirate bag"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7102
+    ]
+  },
+  "server": {
+    "serverId": 5927,
+    "type": "Container",
+    "name": "pirate bag",
+    "wareId": 5927,
+    "spriteHashHex": "D33E7DE993C61619D4058A7CCD80D7BB"
+  }
+}

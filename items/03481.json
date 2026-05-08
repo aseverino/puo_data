@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 3481,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3481,
+    "showAs": 3482,
+    "name": "closed trap"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1894
+    ]
+  },
+  "server": {
+    "serverId": 2578,
+    "type": "None",
+    "name": "closed trap",
+    "wareId": 3481,
+    "spriteHashHex": "F0503011DAA07E6EB0EB0F2338DBBAB1"
+  }
+}

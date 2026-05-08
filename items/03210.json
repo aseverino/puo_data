@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3210,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 3210,
+    "showAs": 3210,
+    "name": "hat of the mad",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13233
+    ]
+  },
+  "server": {
+    "serverId": 2323,
+    "type": "None",
+    "name": "hat of the mad",
+    "wareId": 3210,
+    "spriteHashHex": "1CF813FC3984D96A5E7B21F1E3098993"
+  }
+}

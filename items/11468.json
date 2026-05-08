@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 11468,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 11468,
+    "showAs": 11468,
+    "name": "ornamented brooch"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17023
+    ]
+  },
+  "server": {
+    "serverId": 12424,
+    "type": "None",
+    "name": "ornamented brooch",
+    "wareId": 11468,
+    "spriteHashHex": "5D6FE69B9E94EB88F6914C61D4C3BE6F"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 8762,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8762,
+    "showAs": 8762,
+    "name": "piece of royal satin"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18141
+    ]
+  },
+  "server": {
+    "serverId": 9678,
+    "type": "None",
+    "name": "piece of royal satin",
+    "wareId": 8762,
+    "spriteHashHex": "130BDE910967969CBA19448C7242E003"
+  }
+}

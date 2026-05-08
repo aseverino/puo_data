@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 2855,
+  "isContainer": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2855,
+    "showAs": 2855,
+    "name": "basket"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1334
+    ]
+  },
+  "server": {
+    "serverId": 1989,
+    "type": "Container",
+    "name": "basket",
+    "wareId": 2855,
+    "spriteHashHex": "6C8AC72BCF37BF8C5B644C805E2D45A6"
+  }
+}

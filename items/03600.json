@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3600,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3600,
+    "showAs": 3600,
+    "name": "bread"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      324,
+      325,
+      326,
+      327,
+      328,
+      328,
+      328,
+      328
+    ]
+  },
+  "server": {
+    "serverId": 2689,
+    "type": "None",
+    "name": "bread",
+    "wareId": 3600,
+    "spriteHashHex": "D37ED967E1F2DBC5F8AA1BB27AAA9973"
+  }
+}

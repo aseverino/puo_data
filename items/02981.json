@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 2981,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2981,
+    "showAs": 2981,
+    "name": "god flowers"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      387
+    ]
+  },
+  "server": {
+    "serverId": 2100,
+    "type": "None",
+    "name": "god flowers",
+    "wareId": 2981,
+    "spriteHashHex": "C96AB98A4DF69694012C6A597A3DA017"
+  }
+}

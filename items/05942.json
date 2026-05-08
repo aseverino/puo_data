@@ -1,0 +1,57 @@
+{
+  "category": "item",
+  "clientId": 5942,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 5942,
+    "showAs": 5942,
+    "name": "blessed wooden stake"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      704,
+      705,
+      799
+    ]
+  },
+  "server": {
+    "serverId": 5942,
+    "type": "None",
+    "name": "blessed wooden stake",
+    "isAnimation": true,
+    "wareId": 5942,
+    "spriteHashHex": "96ADBFB5302ADA21E47C0BCC3D7E678F"
+  }
+}

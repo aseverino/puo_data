@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 123,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 123,
+    "showAs": 123,
+    "name": "toy mouse"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27
+    ]
+  },
+  "server": {
+    "serverId": 7487,
+    "type": "None",
+    "name": "toy mouse",
+    "wareId": 123,
+    "spriteHashHex": "1B81D8F8B2C7C71B0D13B0557975A3AA"
+  }
+}

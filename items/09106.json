@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9106,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9106,
+    "showAs": 9106,
+    "name": "molten wax"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13178
+    ]
+  },
+  "server": {
+    "serverId": 10025,
+    "type": "None",
+    "name": "molten wax",
+    "wareId": 9106,
+    "spriteHashHex": "C39C11F507D81F5C3D9AA539D1D8FBFC"
+  }
+}

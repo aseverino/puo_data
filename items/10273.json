@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10273,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10273,
+    "showAs": 10273,
+    "name": "terrorbird beak"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15351
+    ]
+  },
+  "server": {
+    "serverId": 11190,
+    "type": "None",
+    "name": "terrorbird beak",
+    "wareId": 10273,
+    "spriteHashHex": "34095EE83E100164BFA577314EC422D0"
+  }
+}

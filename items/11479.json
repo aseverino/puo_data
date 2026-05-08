@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 11479,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11479,
+    "showAs": 11479,
+    "name": "orc leather"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17437
+    ]
+  },
+  "server": {
+    "serverId": 12435,
+    "type": "None",
+    "name": "orc leather",
+    "wareId": 11479,
+    "spriteHashHex": "FBC87F86A648AB460EDBAA9F3FE68DEB"
+  }
+}

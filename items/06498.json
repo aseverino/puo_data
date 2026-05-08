@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 6498,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 6498,
+    "showAs": 6498,
+    "name": "certificate"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1213,
+      0,
+      0,
+      0,
+      7663,
+      7662,
+      0,
+      0,
+      7664,
+      0,
+      7665,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 6499,
+    "type": "None",
+    "name": "certificate",
+    "wareId": 6498,
+    "spriteHashHex": "37EF371B77EF0BEA4196D65804620563"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 9187,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 23,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9187,
+    "showAs": 9187,
+    "name": "Xodet\u0027s first wand"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      1450,
+      1451
+    ]
+  },
+  "server": {
+    "serverId": 10105,
+    "type": "None",
+    "name": "Xodet\u0027s first wand",
+    "isAnimation": true,
+    "wareId": 9187,
+    "spriteHashHex": "CF278C8243DC7D43E0A8D172937257CC"
+  }
+}

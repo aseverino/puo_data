@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3152,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3152,
+    "showAs": 3152,
+    "name": "intense healing rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18558
+    ]
+  },
+  "server": {
+    "serverId": 2265,
+    "type": "None",
+    "name": "intense healing rune",
+    "wareId": 3152,
+    "spriteHashHex": "30A48A646D85314B35A08C193C522911"
+  }
+}

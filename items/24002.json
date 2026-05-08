@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 24002,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      116637
+    ]
+  },
+  "server": {
+    "serverId": 26368,
+    "type": "None",
+    "spriteHashHex": "F9E97E8A23F98C0205F1B796D3577711",
+    "article": "a",
+    "plural": "corsola shell pieces",
+    "namePt": "peda\u00E7o de casco de corsola",
+    "articlePt": "um",
+    "pluralPt": "peda\u00E7os de casco de corsola",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

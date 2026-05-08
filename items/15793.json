@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 15793,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 15793,
+    "showAs": 15793,
+    "name": "crystalline arrow",
+    "restrictLevel": 90
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25521,
+      25528,
+      25529,
+      25530,
+      25531,
+      25532,
+      25532,
+      25532
+    ]
+  },
+  "server": {
+    "serverId": 18304,
+    "type": "None",
+    "name": "crystalline arrow",
+    "wareId": 15793,
+    "spriteHashHex": "C4D16FF6E53A5C705EA17539CB13C193"
+  }
+}

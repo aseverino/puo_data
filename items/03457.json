@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3457,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3457,
+    "showAs": 3457,
+    "name": "shovel"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6684
+    ]
+  },
+  "server": {
+    "serverId": 2554,
+    "type": "None",
+    "name": "shovel",
+    "wareId": 3457,
+    "spriteHashHex": "ED59E5367E617CD236B3DE976DE988C8"
+  }
+}

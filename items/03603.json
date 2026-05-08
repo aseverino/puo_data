@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3603,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3603,
+    "showAs": 3603,
+    "name": "flour"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6417
+    ]
+  },
+  "server": {
+    "serverId": 2692,
+    "type": "None",
+    "name": "flour",
+    "wareId": 3603,
+    "spriteHashHex": "70EF1B51EFB796576621F768CB3A800D"
+  }
+}

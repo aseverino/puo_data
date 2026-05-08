@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9387,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 9387,
+    "showAs": 9387,
+    "name": "poet\u0027s fencing quill"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      389
+    ]
+  },
+  "server": {
+    "serverId": 10304,
+    "type": "None",
+    "name": "poet\u0027s fencing quill",
+    "wareId": 9387,
+    "spriteHashHex": "EC6A2BEFA286DA14D4EA6621567A9773"
+  }
+}

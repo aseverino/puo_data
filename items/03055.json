@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3055,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3055,
+    "showAs": 3055,
+    "name": "platinum amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      943
+    ]
+  },
+  "server": {
+    "serverId": 2171,
+    "type": "None",
+    "name": "platinum amulet",
+    "wareId": 3055,
+    "spriteHashHex": "EBA9F7FEAC4BD8EE7C83F67F6021ADB5"
+  }
+}

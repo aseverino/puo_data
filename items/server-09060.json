@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 248,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 186,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 9060,
+    "type": "None",
+    "spriteHashHex": "856F73DC6B915DE777789BE2E4B77FC8"
+  }
+}

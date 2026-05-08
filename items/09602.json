@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 9602,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 9602,
+    "showAs": 9602,
+    "name": "orange backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13846
+    ]
+  },
+  "server": {
+    "serverId": 10519,
+    "type": "Container",
+    "name": "orange backpack",
+    "wareId": 9602,
+    "spriteHashHex": "C00CBB4505D053C7D991DBB9B241B425"
+  }
+}

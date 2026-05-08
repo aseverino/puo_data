@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3596,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3596,
+    "showAs": 3596,
+    "name": "tomato"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6495,
+      6496,
+      6497,
+      6498,
+      6501,
+      8894,
+      8894,
+      8894
+    ]
+  },
+  "server": {
+    "serverId": 2685,
+    "type": "None",
+    "name": "tomato",
+    "wareId": 3596,
+    "spriteHashHex": "D37C8A415580C3D3ACBF13CEBFA844D3"
+  }
+}

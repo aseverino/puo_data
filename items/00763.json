@@ -1,0 +1,68 @@
+{
+  "category": "item",
+  "clientId": 763,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 763,
+    "showAs": 763,
+    "name": "flaming arrow",
+    "restrictLevel": 20
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      1035,
+      1037,
+      1038,
+      1193,
+      1233,
+      1234,
+      1234,
+      1234,
+      1036,
+      1235,
+      1236,
+      1237,
+      1271,
+      1272,
+      1272,
+      1272
+    ]
+  },
+  "server": {
+    "serverId": 7840,
+    "type": "None",
+    "name": "flaming arrow",
+    "isAnimation": true,
+    "wareId": 763,
+    "spriteHashHex": "4C74FD180FC5AD94B1E87844993EDDAB"
+  }
+}

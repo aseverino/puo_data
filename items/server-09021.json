@@ -1,0 +1,24 @@
+{
+  "category": "item",
+  "clientId": 351,
+  "isGround": true,
+  "groundSpeed": 120,
+  "miniMap": true,
+  "miniMapColor": 121,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 9021,
+    "type": "Ground",
+    "walkStack": true,
+    "spriteHashHex": "5A745AD4C218BBCC741FE664D638A1ED"
+  }
+}

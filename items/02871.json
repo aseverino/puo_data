@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 2871,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2871,
+    "showAs": 2871,
+    "name": "golden backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2105
+    ]
+  },
+  "server": {
+    "serverId": 2004,
+    "type": "Container",
+    "name": "golden backpack",
+    "wareId": 2871,
+    "spriteHashHex": "9F99BD345F9939D5DCE3BE13B80DC32B"
+  }
+}

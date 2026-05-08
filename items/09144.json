@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 9144,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 204,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9144,
+    "showAs": 9144,
+    "name": "Epaminondas doll"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13275
+    ]
+  },
+  "server": {
+    "serverId": 10063,
+    "type": "None",
+    "name": "Epaminondas doll",
+    "wareId": 9144,
+    "spriteHashHex": "1054ECCF0EFF18D9903CE8F40FD78999"
+  }
+}

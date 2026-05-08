@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9252,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9252,
+    "showAs": 9252,
+    "name": "old power core"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      776
+    ]
+  },
+  "server": {
+    "serverId": 10170,
+    "type": "None",
+    "name": "old power core",
+    "wareId": 9252,
+    "spriteHashHex": "19BF8BF20B9269CAFF47D2C02C2FA8DF"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12251,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12251,
+    "showAs": 12251,
+    "name": "shapechanger"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9687
+    ]
+  },
+  "server": {
+    "serverId": 13238,
+    "type": "None",
+    "name": "shapechanger",
+    "wareId": 12251,
+    "spriteHashHex": "066932EA0E082D9BD4D9237EF9DEB90F"
+  }
+}

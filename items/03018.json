@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3018,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3018,
+    "showAs": 3018,
+    "name": "scarab amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2251
+    ]
+  },
+  "server": {
+    "serverId": 2135,
+    "type": "None",
+    "name": "scarab amulet",
+    "wareId": 3018,
+    "spriteHashHex": "88289B1269450C362F4E9113DA0C5135"
+  }
+}

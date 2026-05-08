@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9378,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 9378,
+    "showAs": 9378,
+    "name": "musician\u0027s bow"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      241
+    ]
+  },
+  "server": {
+    "serverId": 10295,
+    "type": "None",
+    "name": "musician\u0027s bow",
+    "wareId": 9378,
+    "spriteHashHex": "2A2DA0C26A4FD53630075A137E8217E4"
+  }
+}

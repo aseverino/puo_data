@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 16107,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 16107,
+    "showAs": 16107,
+    "name": "spellbook of vigilance",
+    "restrictProfession": 24,
+    "restrictLevel": 130
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25430
+    ]
+  },
+  "server": {
+    "serverId": 18401,
+    "type": "None",
+    "name": "spellbook of vigilance",
+    "wareId": 16107,
+    "spriteHashHex": "0FA8DB69B3E0FEFBBD78D867FCE0C803"
+  }
+}

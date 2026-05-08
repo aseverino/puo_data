@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 14251,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 14251,
+    "showAs": 14251,
+    "name": "tarsal arrow",
+    "restrictLevel": 30
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22838,
+      22839,
+      22840,
+      22841,
+      22842,
+      22843,
+      22843,
+      22843
+    ]
+  },
+  "server": {
+    "serverId": 15648,
+    "type": "None",
+    "name": "tarsal arrow",
+    "wareId": 14251,
+    "spriteHashHex": "303811B4B57E4EB5AA563A284631E10B"
+  }
+}

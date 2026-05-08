@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3463,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3463,
+    "showAs": 3463,
+    "name": "mirror"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1659
+    ]
+  },
+  "server": {
+    "serverId": 2560,
+    "type": "None",
+    "name": "mirror",
+    "wareId": 3463,
+    "spriteHashHex": "2CF45CD911189E0B980C277651648C17"
+  }
+}

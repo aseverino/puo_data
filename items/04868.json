@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 4868,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 4867,
+    "showAs": 4867,
+    "name": "botanist\u0027s container"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5652
+    ]
+  },
+  "server": {
+    "serverId": 4870,
+    "type": "None",
+    "name": "botanist\u0027s container",
+    "wareId": 4867,
+    "spriteHashHex": "4455D1D69C7F3324605511D0A285192A"
+  }
+}

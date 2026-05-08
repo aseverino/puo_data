@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12786,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 12786,
+    "showAs": 12786,
+    "name": "plague mask"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      20201
+    ]
+  },
+  "server": {
+    "serverId": 13925,
+    "type": "None",
+    "name": "plague mask",
+    "wareId": 12786,
+    "spriteHashHex": "D803077021ED616D1ED8B8FE36061E5F"
+  }
+}

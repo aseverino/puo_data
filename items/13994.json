@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 13994,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 13994,
+    "showAs": 13994,
+    "name": "depth lorica",
+    "restrictProfession": 4,
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22268
+    ]
+  },
+  "server": {
+    "serverId": 15407,
+    "type": "None",
+    "name": "depth lorica",
+    "wareId": 13994,
+    "spriteHashHex": "451698654D8B3011AEFBB347790D9B62"
+  }
+}

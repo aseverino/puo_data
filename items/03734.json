@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 3734,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3734,
+    "showAs": 3734,
+    "name": "blood herb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5354
+    ]
+  },
+  "server": {
+    "serverId": 2798,
+    "type": "None",
+    "name": "blood herb",
+    "wareId": 3734,
+    "spriteHashHex": "724612A16FD4A08CCB610F1603C2FED4"
+  }
+}

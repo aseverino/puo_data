@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 3740,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3740,
+    "showAs": 3740,
+    "name": "shadow herb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1716
+    ]
+  },
+  "server": {
+    "serverId": 2804,
+    "type": "None",
+    "name": "shadow herb",
+    "wareId": 3740,
+    "spriteHashHex": "8C60CF52D7237F36CB72C697BE750FFE"
+  }
+}

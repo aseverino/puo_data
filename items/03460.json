@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3460,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3460,
+    "showAs": 3460,
+    "name": "hammer"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1897
+    ]
+  },
+  "server": {
+    "serverId": 2557,
+    "type": "None",
+    "name": "hammer",
+    "wareId": 3460,
+    "spriteHashHex": "2B7B2DCED8392D07B146C2CEB764E75D"
+  }
+}

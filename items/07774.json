@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 7774,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7774,
+    "showAs": 7774,
+    "name": "jagged sword"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      10748
+    ]
+  },
+  "server": {
+    "serverId": 8602,
+    "type": "None",
+    "name": "jagged sword",
+    "wareId": 7774,
+    "spriteHashHex": "5C6853C3D852FACB45598B2CD254C14E"
+  }
+}

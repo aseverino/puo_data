@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 7442,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7442,
+    "showAs": 7442,
+    "name": "ice cube"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6470
+    ]
+  },
+  "server": {
+    "serverId": 7442,
+    "type": "None",
+    "name": "ice cube",
+    "wareId": 7442,
+    "spriteHashHex": "1E41A8E6F662C525D0778E99DAEBF48E"
+  }
+}

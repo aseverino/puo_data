@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 12483,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 12483,
+    "showAs": 12483,
+    "name": "pharaoh banner"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19663,
+      0,
+      0,
+      0,
+      19724,
+      19723,
+      0,
+      0,
+      19673,
+      0,
+      19674,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 13472,
+    "type": "None",
+    "name": "pharaoh banner",
+    "wareId": 12483,
+    "spriteHashHex": "1631C4CE173B0C8DF88887A40ACE12E7"
+  }
+}

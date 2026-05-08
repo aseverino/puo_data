@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 11368,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11368,
+    "showAs": 11368,
+    "name": "sceptre part"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18135
+    ]
+  },
+  "server": {
+    "serverId": 12324,
+    "type": "None",
+    "name": "sceptre part",
+    "wareId": 11368,
+    "spriteHashHex": "C62B2E60DCBEE7F4F00F7F138B607FC3"
+  }
+}

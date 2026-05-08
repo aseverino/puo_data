@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 11691,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 11691,
+    "showAs": 11691,
+    "name": "snake god\u0027s wristguard",
+    "restrictProfession": 24,
+    "restrictLevel": 100
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18437
+    ]
+  },
+  "server": {
+    "serverId": 12647,
+    "type": "None",
+    "name": "snake god\u0027s wristguard",
+    "wareId": 11691,
+    "spriteHashHex": "5E2E6D2EDF80D371ECAC980AD6476A32"
+  }
+}

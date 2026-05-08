@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9112,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9112,
+    "showAs": 9112,
+    "name": "flask with magical oil"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5934
+    ]
+  },
+  "server": {
+    "serverId": 10031,
+    "type": "None",
+    "name": "flask with magical oil",
+    "wareId": 9112,
+    "spriteHashHex": "E4A809BB796B60DB900B2F3937044B8C"
+  }
+}

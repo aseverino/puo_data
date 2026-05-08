@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3724,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3724,
+    "showAs": 3724,
+    "name": "red mushroom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6240
+    ]
+  },
+  "server": {
+    "serverId": 2788,
+    "type": "None",
+    "name": "red mushroom",
+    "wareId": 3724,
+    "spriteHashHex": "FD67160D222170205ADBA39017D5DC9E"
+  }
+}

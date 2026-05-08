@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5786,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 5786,
+    "showAs": 5786,
+    "name": "wooden whistle"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7070
+    ]
+  },
+  "server": {
+    "serverId": 5786,
+    "type": "None",
+    "name": "wooden whistle",
+    "wareId": 5786,
+    "spriteHashHex": "2F6DC7206191DF78F493F6A45AC9496A"
+  }
+}

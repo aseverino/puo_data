@@ -1,0 +1,66 @@
+{
+  "category": "item",
+  "clientId": 8177,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8177,
+    "showAs": 8177,
+    "name": "yummy gummy worm"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      30842,
+      30843,
+      30844,
+      30845,
+      30846,
+      30847,
+      30848,
+      30849,
+      30850,
+      30851,
+      30852,
+      30853,
+      30854,
+      30855,
+      30856,
+      30857
+    ]
+  },
+  "server": {
+    "serverId": 9005,
+    "type": "None",
+    "name": "yummy gummy worm",
+    "isAnimation": true,
+    "wareId": 8177,
+    "spriteHashHex": "33C4ED6A69479980CA93D2EFDE74C505"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 20067,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 20067,
+    "showAs": 20067,
+    "name": "crude umbral slayer",
+    "restrictProfession": 2,
+    "restrictLevel": 75
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30903
+    ]
+  },
+  "server": {
+    "serverId": 22401,
+    "type": "None",
+    "name": "crude umbral slayer",
+    "wareId": 20067,
+    "spriteHashHex": "AE2A6EF3B858ABE2A4B1EDFF9BC519DF"
+  }
+}

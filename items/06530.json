@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 6530,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 6530,
+    "showAs": 6530,
+    "name": "worn soft boots"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13838
+    ]
+  },
+  "server": {
+    "serverId": 10021,
+    "type": "None",
+    "name": "worn soft boots",
+    "wareId": 6530,
+    "spriteHashHex": "BE46E032FF7C2EFA741B8651F8529AEC"
+  }
+}

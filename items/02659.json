@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 2659,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2659,
+    "showAs": 2659,
+    "name": "blue tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2987,
+      0,
+      0,
+      0,
+      2986,
+      2985,
+      0,
+      0,
+      735,
+      0,
+      1370,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 1872,
+    "type": "None",
+    "name": "blue tapestry",
+    "wareId": 2659,
+    "spriteHashHex": "A034BCE4A3CA1961A426CB5FE2947D52"
+  }
+}

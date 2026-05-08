@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 2863,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2863,
+    "showAs": 2863,
+    "name": "golden bag"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2106
+    ]
+  },
+  "server": {
+    "serverId": 1997,
+    "type": "Container",
+    "name": "golden bag",
+    "wareId": 2863,
+    "spriteHashHex": "974F24AB1539A93F8B222C7D1DD052C8"
+  }
+}

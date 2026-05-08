@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9376,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 9376,
+    "showAs": 9376,
+    "name": "stale bread of ancientness"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      324
+    ]
+  },
+  "server": {
+    "serverId": 10293,
+    "type": "None",
+    "name": "stale bread of ancientness",
+    "wareId": 9376,
+    "spriteHashHex": "D37ED967E1F2DBC5F8AA1BB27AAA9973"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 14686,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 14686,
+    "showAs": 14686,
+    "name": "artist\u0027s brush"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22885
+    ]
+  },
+  "server": {
+    "serverId": 16019,
+    "type": "None",
+    "name": "artist\u0027s brush",
+    "wareId": 14686,
+    "spriteHashHex": "63DA3B2316015D765EB4DD6F2CBB0E15"
+  }
+}

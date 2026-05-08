@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 7401,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 7401,
+    "showAs": 7401,
+    "name": "minotaur trophy"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9158,
+      0,
+      0,
+      0,
+      3230,
+      3229,
+      0,
+      0,
+      3232,
+      0,
+      3231,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 7401,
+    "type": "None",
+    "name": "minotaur trophy",
+    "wareId": 7401,
+    "spriteHashHex": "6AC7D1FF983C032E0A9906242A05D2E7"
+  }
+}

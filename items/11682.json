@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 11682,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 11682,
+    "showAs": 11682,
+    "name": "dragonfruit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18426
+    ]
+  },
+  "server": {
+    "serverId": 12638,
+    "type": "None",
+    "name": "dragonfruit",
+    "wareId": 11682,
+    "spriteHashHex": "137B4B97A4B6B19E3B8276C848DAC2FD"
+  }
+}

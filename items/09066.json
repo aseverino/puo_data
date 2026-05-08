@@ -1,0 +1,49 @@
+{
+  "category": "item",
+  "clientId": 9066,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 30,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 9066,
+    "showAs": 9066,
+    "name": "crystal pedestal"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13253
+    ]
+  },
+  "server": {
+    "serverId": 9979,
+    "type": "None",
+    "name": "crystal pedestal",
+    "hasHeight": true,
+    "wareId": 9066,
+    "spriteHashHex": "852D381D60335DC7B24F384B9568C0E9"
+  }
+}

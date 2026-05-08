@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 19359,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 9,
+  "isMarketItem": true,
+  "market": {
+    "category": 11,
+    "tradeAs": 19359,
+    "showAs": 19359,
+    "name": "horn"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      29490
+    ]
+  },
+  "server": {
+    "serverId": 21693,
+    "type": "None",
+    "name": "horn",
+    "wareId": 19359,
+    "spriteHashHex": "9F825347D85F8EC37651A6ED0FFB614E"
+  }
+}

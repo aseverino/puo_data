@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 3735,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3735,
+    "showAs": 3735,
+    "name": "stone herb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1711
+    ]
+  },
+  "server": {
+    "serverId": 2799,
+    "type": "None",
+    "name": "stone herb",
+    "wareId": 3735,
+    "spriteHashHex": "9BE88B0C7218AB88875BDCB2C4971AE7"
+  }
+}

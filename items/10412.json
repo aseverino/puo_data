@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 10412,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 138,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 10412,
+    "showAs": 10412,
+    "name": "wailing widow\u0027s necklace"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15516
+    ]
+  },
+  "server": {
+    "serverId": 11329,
+    "type": "None",
+    "name": "wailing widow\u0027s necklace",
+    "wareId": 10412,
+    "spriteHashHex": "1FF35E7D02FFD62BDB848B04706F6AE6"
+  }
+}

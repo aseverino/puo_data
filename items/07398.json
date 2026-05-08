@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 7398,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 7398,
+    "showAs": 7398,
+    "name": "cyclops trophy"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9155,
+      0,
+      0,
+      0,
+      3197,
+      3206,
+      0,
+      0,
+      3199,
+      0,
+      3207,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 7398,
+    "type": "None",
+    "name": "cyclops trophy",
+    "wareId": 7398,
+    "spriteHashHex": "478792D8813FEA26A181CA818533CA25"
+  }
+}

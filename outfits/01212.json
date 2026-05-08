@@ -1,0 +1,103 @@
+{
+  "category": "outfit",
+  "clientId": 1212,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 185,
+  "animateAlways": true,
+  "projectsShadow": true,
+  "shadowOffset": 10,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 8,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      91799,
+      91800,
+      91801,
+      91802,
+      91803,
+      91804,
+      91805,
+      91806,
+      91807,
+      91808,
+      91809,
+      91810,
+      91811,
+      91812,
+      91813,
+      91814,
+      91815,
+      91816,
+      91817,
+      91818,
+      91819,
+      91820,
+      91821,
+      91822,
+      91823,
+      91824,
+      91825,
+      91826,
+      91827,
+      91828,
+      91829,
+      91830
+    ],
+    "shadowRadii": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12234,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12234,
+    "showAs": 12234,
+    "name": "sprocketwhip cone"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19434
+    ]
+  },
+  "server": {
+    "serverId": 13221,
+    "type": "None",
+    "name": "sprocketwhip cone",
+    "wareId": 12234,
+    "spriteHashHex": "B605EEC2B66C4F2F740708F849FD2A57"
+  }
+}

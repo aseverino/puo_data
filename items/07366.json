@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 7366,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 7366,
+    "showAs": 7366,
+    "name": "viper star"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9257,
+      9258,
+      9259,
+      9260,
+      9261,
+      9262,
+      9263,
+      9263
+    ]
+  },
+  "server": {
+    "serverId": 7366,
+    "type": "None",
+    "name": "viper star",
+    "wareId": 7366,
+    "spriteHashHex": "E3516084F028E9E56B545A4FC4221D76"
+  }
+}

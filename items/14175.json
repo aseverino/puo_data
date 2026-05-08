@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 14175,
+  "isPickupable": true,
+  "isLensHelp": true,
+  "lensHelp": 1112,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14175,
+    "showAs": 14175,
+    "name": "seashell book"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22291,
+      8846
+    ]
+  },
+  "server": {
+    "serverId": 15575,
+    "type": "None",
+    "name": "seashell book",
+    "wareId": 14175,
+    "spriteHashHex": "6AA3D5D0130A0E87802CB44EE4D9AAC0"
+  }
+}

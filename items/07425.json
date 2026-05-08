@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 7425,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7425,
+    "showAs": 7425,
+    "name": "taurus mace",
+    "restrictLevel": 20
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9248
+    ]
+  },
+  "server": {
+    "serverId": 7425,
+    "type": "None",
+    "name": "taurus mace",
+    "wareId": 7425,
+    "spriteHashHex": "B109BCF39E9BA7AEE708ED607D420A05"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "category": "item",
+  "clientId": 20012,
+  "isGround": true,
+  "groundSpeed": 200,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 179,
+  "isFullGround": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 8,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      30743,
+      30736,
+      30737,
+      30738,
+      30739,
+      30740,
+      30741,
+      30742
+    ]
+  },
+  "server": {
+    "serverId": 22346,
+    "type": "Ground",
+    "walkStack": true,
+    "isAnimation": true,
+    "spriteHashHex": "FE3391F164636403C7BCCAC16AF5FB2F"
+  }
+}

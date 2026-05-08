@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 3227,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3227,
+    "showAs": 3227,
+    "name": "helmet piece"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2936
+    ]
+  },
+  "server": {
+    "serverId": 2340,
+    "type": "None",
+    "name": "helmet piece",
+    "wareId": 3227,
+    "spriteHashHex": "ABC1A738F4D92BE796B94CCE714EC48C"
+  }
+}

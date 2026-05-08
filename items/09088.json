@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9088,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 9088,
+    "showAs": 9088,
+    "name": "northern fishburger"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13269
+    ]
+  },
+  "server": {
+    "serverId": 10001,
+    "type": "None",
+    "name": "northern fishburger",
+    "wareId": 9088,
+    "spriteHashHex": "E9878A28C1A8A7BB5498DB5B952BCFE0"
+  }
+}

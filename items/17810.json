@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 17810,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 17810,
+    "showAs": 17810,
+    "name": "spike shield"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27406
+    ]
+  },
+  "server": {
+    "serverId": 20090,
+    "type": "None",
+    "name": "spike shield",
+    "wareId": 17810,
+    "spriteHashHex": "B6439F9D623E94E46DBF1236A34A7C6B"
+  }
+}

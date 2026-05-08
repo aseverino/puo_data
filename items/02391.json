@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 2391,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2391,
+    "showAs": 2391,
+    "name": "small turquoise pillow"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      3089
+    ]
+  },
+  "server": {
+    "serverId": 1683,
+    "type": "None",
+    "name": "small turquoise pillow",
+    "wareId": 2391,
+    "spriteHashHex": "8CAF5942C7A421FA548A230C530B16F2"
+  }
+}

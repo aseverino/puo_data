@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7528,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7528,
+    "showAs": 7528,
+    "name": "piece of a broken amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9674
+    ]
+  },
+  "server": {
+    "serverId": 8262,
+    "type": "None",
+    "name": "piece of a broken amulet",
+    "wareId": 7528,
+    "spriteHashHex": "5B27875D6EE4E976174B6FF8C9BCAF9F"
+  }
+}

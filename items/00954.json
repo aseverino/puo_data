@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 954,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 954,
+    "showAs": 954,
+    "name": "neutral matter"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9563
+    ]
+  },
+  "server": {
+    "serverId": 8310,
+    "type": "None",
+    "name": "neutral matter",
+    "wareId": 954,
+    "spriteHashHex": "DB9B8ED3B06F017CCF9303E06D9E2AD6"
+  }
+}

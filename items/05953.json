@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5953,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 5953,
+    "showAs": 5953,
+    "name": "raven herb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2145
+    ]
+  },
+  "server": {
+    "serverId": 5953,
+    "type": "None",
+    "name": "raven herb",
+    "wareId": 5953,
+    "spriteHashHex": "F2829E71199CDE9BADA65C915395DDD8"
+  }
+}

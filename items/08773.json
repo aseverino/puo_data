@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 8773,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8773,
+    "showAs": 8773,
+    "name": "Iriana\u0027s chest"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      33
+    ]
+  },
+  "server": {
+    "serverId": 9688,
+    "type": "None",
+    "name": "Iriana\u0027s chest",
+    "hasHeight": true,
+    "wareId": 8773,
+    "spriteHashHex": "7F2E68F28B063B0B363058BC8D2F5508"
+  }
+}

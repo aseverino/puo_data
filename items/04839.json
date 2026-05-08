@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 4839,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 4839,
+    "showAs": 4839,
+    "name": "hydra egg"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5646
+    ]
+  },
+  "server": {
+    "serverId": 4850,
+    "type": "None",
+    "name": "hydra egg",
+    "wareId": 4839,
+    "spriteHashHex": "8BA091827E3A2E50952849038AD7D01D"
+  }
+}

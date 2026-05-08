@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 11674,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 11674,
+    "showAs": 11674,
+    "name": "cobra crown",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18421
+    ]
+  },
+  "server": {
+    "serverId": 12630,
+    "type": "None",
+    "name": "cobra crown",
+    "wareId": 11674,
+    "spriteHashHex": "B700156E07D9155D1E57D8D00ABA4FFF"
+  }
+}

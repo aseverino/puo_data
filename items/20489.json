@@ -1,0 +1,88 @@
+{
+  "category": "item",
+  "clientId": 20489,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 175,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 9,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      40793,
+      87379,
+      87380,
+      87381,
+      87382,
+      87383,
+      87383,
+      87383,
+      87384
+    ]
+  },
+  "server": {
+    "serverId": 22827,
+    "type": "None",
+    "isAnimation": true,
+    "spriteHashHex": "B23CBDBB646EEB90FAE019070F735235",
+    "article": "a",
+    "namePt": "pedra do trov\u00E3o",
+    "articlePt": "um",
+    "xmlAttributes": {
+      "maxStack": "1"
+    }
+  }
+}

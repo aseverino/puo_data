@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 19371,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 68,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 19371,
+    "showAs": 19371,
+    "name": "glass of goo"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      29496
+    ]
+  },
+  "server": {
+    "serverId": 21705,
+    "type": "None",
+    "name": "glass of goo",
+    "wareId": 19371,
+    "spriteHashHex": "1061D1F0CFFA3CD3EC30DDC9D90AB936"
+  }
+}

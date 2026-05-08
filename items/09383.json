@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9383,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 9383,
+    "showAs": 9383,
+    "name": "trousers of the ancients"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1713
+    ]
+  },
+  "server": {
+    "serverId": 10300,
+    "type": "None",
+    "name": "trousers of the ancients",
+    "wareId": 9383,
+    "spriteHashHex": "21487A041472CBB412C9F86879F8AA0F"
+  }
+}

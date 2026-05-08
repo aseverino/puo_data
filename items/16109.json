@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 16109,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 16109,
+    "showAs": 16109,
+    "name": "prismatic helmet",
+    "restrictProfession": 2,
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25432
+    ]
+  },
+  "server": {
+    "serverId": 18403,
+    "type": "None",
+    "name": "prismatic helmet",
+    "wareId": 16109,
+    "spriteHashHex": "90771CF319C1FD87B35EEC7F30553D78"
+  }
+}

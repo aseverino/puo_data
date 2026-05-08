@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3179,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3179,
+    "showAs": 3179,
+    "name": "stalagmite rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      910
+    ]
+  },
+  "server": {
+    "serverId": 2292,
+    "type": "None",
+    "name": "stalagmite rune",
+    "wareId": 3179,
+    "spriteHashHex": "F4B0D26CE974662954D886ED410DD466"
+  }
+}

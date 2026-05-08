@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 170,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 170,
+    "showAs": 170,
+    "name": "fake dwarven beard"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7134
+    ]
+  },
+  "server": {
+    "serverId": 7526,
+    "type": "None",
+    "name": "fake dwarven beard",
+    "wareId": 170,
+    "spriteHashHex": "BA4760FA3E1BB0FBE04E960482216163"
+  }
+}

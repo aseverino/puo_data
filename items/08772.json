@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 8772,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8772,
+    "showAs": 8772,
+    "name": "food crate"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      240
+    ]
+  },
+  "server": {
+    "serverId": 9687,
+    "type": "None",
+    "name": "food crate",
+    "hasHeight": true,
+    "wareId": 8772,
+    "spriteHashHex": "67D7BDB733506B8C46878FD06340473E"
+  }
+}

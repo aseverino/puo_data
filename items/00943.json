@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 943,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 943,
+    "showAs": 943,
+    "name": "holy soil"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9567
+    ]
+  },
+  "server": {
+    "serverId": 8303,
+    "type": "None",
+    "name": "holy soil",
+    "wareId": 943,
+    "spriteHashHex": "22243F80E04349B4288D4408E09F110F"
+  }
+}

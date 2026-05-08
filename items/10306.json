@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10306,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10306,
+    "showAs": 10306,
+    "name": "essence of a bad dream"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15449
+    ]
+  },
+  "server": {
+    "serverId": 11223,
+    "type": "None",
+    "name": "essence of a bad dream",
+    "wareId": 10306,
+    "spriteHashHex": "4F867BD025D1E07D07D2C05B384F6587"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12233,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12233,
+    "showAs": 12233,
+    "name": "toxic tulip seed"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19435
+    ]
+  },
+  "server": {
+    "serverId": 13220,
+    "type": "None",
+    "name": "toxic tulip seed",
+    "wareId": 12233,
+    "spriteHashHex": "3DABDE83F2C7C0D7B84DAFBAA157E8CE"
+  }
+}

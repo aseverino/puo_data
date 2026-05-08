@@ -1,0 +1,89 @@
+{
+  "category": "item",
+  "clientId": 896,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 896,
+    "showAs": 896,
+    "name": "Firlefanz"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      10031,
+      0,
+      0,
+      0,
+      10033,
+      10032,
+      0,
+      0,
+      10034,
+      0,
+      10035,
+      0,
+      10031,
+      0,
+      0,
+      0,
+      10037,
+      10036,
+      0,
+      0,
+      10040,
+      0,
+      10039,
+      0,
+      10031,
+      0,
+      0,
+      0,
+      10033,
+      10038,
+      0,
+      0,
+      10034,
+      0,
+      10041,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 7959,
+    "type": "None",
+    "name": "Firlefanz",
+    "isAnimation": true,
+    "wareId": 896,
+    "spriteHashHex": "7DBD0124993157C0F29F90415413B72C"
+  }
+}

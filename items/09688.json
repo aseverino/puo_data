@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9688,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9688,
+    "showAs": 9688,
+    "name": "bundle of cursed straw"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13945
+    ]
+  },
+  "server": {
+    "serverId": 10605,
+    "type": "None",
+    "name": "bundle of cursed straw",
+    "wareId": 9688,
+    "spriteHashHex": "6CE5D744259F2DA8D7F3804A8E8CEE1C"
+  }
+}

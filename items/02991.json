@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 2991,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2991,
+    "showAs": 2991,
+    "name": "doll"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      64
+    ]
+  },
+  "server": {
+    "serverId": 2110,
+    "type": "None",
+    "name": "doll",
+    "wareId": 2991,
+    "spriteHashHex": "0F4AAE8B6A82A35BF1247472FEF1A4AD"
+  }
+}

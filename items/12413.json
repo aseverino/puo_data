@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12413,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12413,
+    "showAs": 12413,
+    "name": "belongings of a deceased"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      41
+    ]
+  },
+  "server": {
+    "serverId": 13670,
+    "type": "None",
+    "name": "belongings of a deceased",
+    "wareId": 12413,
+    "spriteHashHex": "139AF101C3525AF2E682E462A78A998D"
+  }
+}

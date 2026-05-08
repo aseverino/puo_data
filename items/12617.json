@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 12617,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 12617,
+    "showAs": 12617,
+    "name": "torn teddy"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19891
+    ]
+  },
+  "server": {
+    "serverId": 13774,
+    "type": "None",
+    "name": "torn teddy",
+    "wareId": 12617,
+    "spriteHashHex": "8DB9D4ECE7B8360A6AC794B2BD1CDF43"
+  }
+}

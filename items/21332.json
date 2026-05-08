@@ -1,0 +1,36 @@
+{
+  "category": "item",
+  "clientId": 21332,
+  "isUnpassable": true,
+  "isLensHelp": true,
+  "lensHelp": 1104,
+  "width": 1,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      50090,
+      50091
+    ]
+  },
+  "server": {
+    "serverId": 23671,
+    "type": "None",
+    "spriteHashHex": "7F921FD2116EB61CFB7605CE82BC2B23"
+  }
+}

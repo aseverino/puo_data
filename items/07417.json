@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7417,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7417,
+    "showAs": 7417,
+    "name": "runed sword",
+    "restrictLevel": 65
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4315
+    ]
+  },
+  "server": {
+    "serverId": 7417,
+    "type": "None",
+    "name": "runed sword",
+    "wareId": 7417,
+    "spriteHashHex": "2607A1C0460D4A47CBCF9109E0E66B0D"
+  }
+}

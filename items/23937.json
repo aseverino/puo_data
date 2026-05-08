@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23937,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112896
+    ]
+  },
+  "server": {
+    "serverId": 26303,
+    "type": "None",
+    "spriteHashHex": "E087701F5821558A41362E2AF9E675F5",
+    "article": "a",
+    "plural": "wooper antennas",
+    "namePt": "antena de wooper",
+    "articlePt": "uma",
+    "pluralPt": "antenas de wooper",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

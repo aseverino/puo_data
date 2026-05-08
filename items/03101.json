@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3101,
+  "isAlwaysOnTop": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3101,
+    "showAs": 3101,
+    "name": "spellbook"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      0,
+      0,
+      142260,
+      142261
+    ]
+  },
+  "server": {
+    "serverId": 2217,
+    "type": "None",
+    "alwaysOnTopOrder": 3,
+    "spriteHashHex": "E1198D8CAEDCB217ADB60F2470415576"
+  }
+}

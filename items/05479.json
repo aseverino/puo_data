@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 5479,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 5479,
+    "showAs": 5479,
+    "name": "cat\u0027s paw"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6433
+    ]
+  },
+  "server": {
+    "serverId": 5480,
+    "type": "None",
+    "name": "cat\u0027s paw",
+    "wareId": 5479,
+    "spriteHashHex": "C10C364A7D770D5A824D9D9FA2D4DC97"
+  }
+}

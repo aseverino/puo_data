@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 9087,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 9087,
+    "showAs": 9087,
+    "name": "carrot cake"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      64507,
+      64506,
+      64505,
+      13268,
+      13268,
+      13268,
+      13268,
+      13268
+    ]
+  },
+  "server": {
+    "serverId": 10000,
+    "type": "None",
+    "name": "carrot cake",
+    "wareId": 9087,
+    "spriteHashHex": "22F100E7028613C41AE19AA432D22D06"
+  }
+}

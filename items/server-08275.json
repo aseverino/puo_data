@@ -1,0 +1,26 @@
+{
+  "category": "item",
+  "clientId": 100,
+  "isGround": true,
+  "isUnpassable": true,
+  "blockMissile": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 156,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 8275,
+    "type": "Ground",
+    "walkStack": true,
+    "spriteHashHex": "DF0493F978140A6CEC7F9FA9BB945C21"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "category": "item",
+  "clientId": 811,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 811,
+    "showAs": 811,
+    "name": "terra mantle",
+    "restrictProfession": 24,
+    "restrictLevel": 50
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 6,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      9961,
+      111690,
+      111691,
+      111692,
+      111693,
+      111694
+    ]
+  },
+  "server": {
+    "serverId": 7884,
+    "type": "None",
+    "name": "terra mantle",
+    "isAnimation": true,
+    "wareId": 811,
+    "spriteHashHex": "7EDEDC3A0657169BFE12F997410617DE"
+  }
+}

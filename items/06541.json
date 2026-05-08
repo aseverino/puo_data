@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 6541,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 6541,
+    "showAs": 6541,
+    "name": "coloured egg"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      692
+    ]
+  },
+  "server": {
+    "serverId": 6541,
+    "type": "None",
+    "name": "coloured egg",
+    "wareId": 6541,
+    "spriteHashHex": "89069A79EE8B4AE3DF9CE13757D919B1"
+  }
+}

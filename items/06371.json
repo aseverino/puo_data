@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 6371,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 6371,
+    "showAs": 2535,
+    "name": "oven kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      876
+    ]
+  },
+  "server": {
+    "serverId": 6372,
+    "type": "None",
+    "name": "oven kit",
+    "hasHeight": true,
+    "wareId": 6371,
+    "spriteHashHex": "80A067A8F3C9BE26BDEEBDA0D7A433A3"
+  }
+}

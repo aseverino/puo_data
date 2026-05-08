@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 7159,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 7159,
+    "showAs": 7159,
+    "name": "green perch"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      8899,
+      73785,
+      73786,
+      73787,
+      73788,
+      73789,
+      73789,
+      73789
+    ]
+  },
+  "server": {
+    "serverId": 7159,
+    "type": "None",
+    "name": "green perch",
+    "wareId": 7159,
+    "spriteHashHex": "7D3D58B5D8D4A651742322E4EBB70FDB"
+  }
+}

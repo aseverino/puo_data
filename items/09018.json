@@ -1,0 +1,68 @@
+{
+  "category": "item",
+  "clientId": 9018,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 9020,
+    "showAs": 9020,
+    "name": "firewalker boots",
+    "restrictLevel": 130
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      13243,
+      9870,
+      13244,
+      9871,
+      13245,
+      9870,
+      13244,
+      9872
+    ]
+  },
+  "server": {
+    "serverId": 9932,
+    "type": "None",
+    "name": "firewalker boots",
+    "isAnimation": true,
+    "wareId": 9020,
+    "spriteHashHex": "225876D01CE110D25F323EC440F18DCC"
+  }
+}

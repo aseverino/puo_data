@@ -1,0 +1,63 @@
+{
+  "category": "item",
+  "clientId": 945,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 945,
+    "showAs": 945,
+    "name": "energy soil"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      11204,
+      11205,
+      11206,
+      11205
+    ]
+  },
+  "server": {
+    "serverId": 8301,
+    "type": "None",
+    "name": "energy soil",
+    "isAnimation": true,
+    "wareId": 945,
+    "spriteHashHex": "FF41596DCF3187210F79C97B9CA29FAE"
+  }
+}

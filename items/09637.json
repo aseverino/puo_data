@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 9637,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9637,
+    "showAs": 9637,
+    "name": "hellhound slobber"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      13904,
+      13905
+    ]
+  },
+  "server": {
+    "serverId": 10554,
+    "type": "None",
+    "name": "hellhound slobber",
+    "isAnimation": true,
+    "wareId": 9637,
+    "spriteHashHex": "801E2AD0D263741779466D8E58C2AE76"
+  }
+}

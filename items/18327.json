@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 18327,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 6,
+  "lightColor": 33,
+  "hasElevation": true,
+  "elevation": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 18327,
+    "showAs": 18327,
+    "name": "jade Zaoan queen"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27688
+    ]
+  },
+  "server": {
+    "serverId": 20608,
+    "type": "None",
+    "name": "jade Zaoan queen",
+    "hasHeight": true,
+    "wareId": 18327,
+    "spriteHashHex": "309C8E97EA05B2F5289800B28771C306"
+  }
+}

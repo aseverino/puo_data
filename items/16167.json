@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 16167,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 16167,
+    "showAs": 16167,
+    "name": "teleport crystal"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25569
+    ]
+  },
+  "server": {
+    "serverId": 18457,
+    "type": "None",
+    "name": "teleport crystal",
+    "wareId": 16167,
+    "spriteHashHex": "481089EB1FE85D8958280EF1EA4385D9"
+  }
+}

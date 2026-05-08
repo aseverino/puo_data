@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3727,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3727,
+    "showAs": 3727,
+    "name": "wood mushroom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6243
+    ]
+  },
+  "server": {
+    "serverId": 2791,
+    "type": "None",
+    "name": "wood mushroom",
+    "wareId": 3727,
+    "spriteHashHex": "44D8AA4F78DB075389B82BC18A85297E"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 8822,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8822,
+    "showAs": 8822,
+    "name": "ghost charm"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1210
+    ]
+  },
+  "server": {
+    "serverId": 9737,
+    "type": "None",
+    "name": "ghost charm",
+    "wareId": 8822,
+    "spriteHashHex": "59A60EEA1017173B894990282A31A553"
+  }
+}

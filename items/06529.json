@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 6529,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 6529,
+    "showAs": 6529,
+    "name": "pair of soft boots"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      563
+    ]
+  },
+  "server": {
+    "serverId": 6132,
+    "type": "None",
+    "name": "pair of soft boots",
+    "wareId": 6529,
+    "spriteHashHex": "CA50964F20FBE211E4ECA1794932BFF3"
+  }
+}

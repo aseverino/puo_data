@@ -1,0 +1,65 @@
+{
+  "category": "item",
+  "clientId": 14020,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 65,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14020,
+    "showAs": 14020,
+    "name": "soul net"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      22295,
+      22296,
+      22297,
+      22298
+    ]
+  },
+  "server": {
+    "serverId": 15433,
+    "type": "None",
+    "name": "soul net",
+    "isAnimation": true,
+    "wareId": 14020,
+    "spriteHashHex": "AF478C530A5D86416ED22B196A0E2C9F"
+  }
+}

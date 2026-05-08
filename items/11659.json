@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 11659,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11659,
+    "showAs": 11659,
+    "name": "draken wristbands"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18402
+    ]
+  },
+  "server": {
+    "serverId": 12615,
+    "type": "None",
+    "name": "draken wristbands",
+    "wareId": 11659,
+    "spriteHashHex": "BCAD61DF3EC1BF3548F36F47384266D7"
+  }
+}

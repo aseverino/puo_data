@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3550,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 3550,
+    "showAs": 3550,
+    "name": "patched boots"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2912
+    ]
+  },
+  "server": {
+    "serverId": 2641,
+    "type": "None",
+    "name": "patched boots",
+    "wareId": 3550,
+    "spriteHashHex": "59F7AF8C0215DB5C44F266953C6AE0FA"
+  }
+}

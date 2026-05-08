@@ -1,0 +1,74 @@
+{
+  "category": "item",
+  "clientId": 3102,
+  "isGroundBorder": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3102,
+    "showAs": 3102,
+    "name": "paw amulet"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 8,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      0,
+      0,
+      0,
+      142593,
+      0,
+      0,
+      0,
+      142594,
+      0,
+      0,
+      0,
+      142595,
+      0,
+      0,
+      0,
+      142596,
+      0,
+      0,
+      0,
+      142597,
+      0,
+      0,
+      0,
+      142598,
+      0,
+      0,
+      0,
+      142599,
+      0,
+      0,
+      0,
+      142600
+    ]
+  },
+  "server": {
+    "serverId": 2218,
+    "type": "None",
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "633034F5DADD87528ECFA72633B3261B"
+  }
+}

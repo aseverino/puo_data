@@ -1,0 +1,127 @@
+{
+  "category": "item",
+  "clientId": 21712,
+  "isContainer": true,
+  "isUnpassable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 215,
+  "hasElevation": true,
+  "elevation": 8,
+  "isUsable": true,
+  "width": 2,
+  "height": 2,
+  "exactSize": 48,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 11,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      54973,
+      0,
+      54974,
+      0,
+      54969,
+      54970,
+      54971,
+      54972,
+      54965,
+      54966,
+      54967,
+      54968,
+      54969,
+      54970,
+      54971,
+      54972,
+      54973,
+      0,
+      54974,
+      0,
+      54951,
+      0,
+      54952,
+      0,
+      54965,
+      54966,
+      54967,
+      54968,
+      54961,
+      54962,
+      54963,
+      54964,
+      54957,
+      54958,
+      54959,
+      54960,
+      54953,
+      54954,
+      54955,
+      54956,
+      108160,
+      108161,
+      108162,
+      108163
+    ]
+  },
+  "server": {
+    "serverId": 24050,
+    "type": "Container",
+    "hasHeight": true,
+    "isAnimation": true,
+    "spriteHashHex": "0DB602EE76EAA3D51AFC782DF83943AB"
+  }
+}

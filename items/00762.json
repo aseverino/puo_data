@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 762,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 762,
+    "showAs": 762,
+    "name": "shiver arrow",
+    "restrictLevel": 20
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9817,
+      1273,
+      1274,
+      1275,
+      1276,
+      1277,
+      1277,
+      1277
+    ]
+  },
+  "server": {
+    "serverId": 7839,
+    "type": "None",
+    "name": "shiver arrow",
+    "wareId": 762,
+    "spriteHashHex": "1C810BA92B984F3183E7933EF460BAE4"
+  }
+}

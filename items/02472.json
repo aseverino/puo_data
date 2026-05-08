@@ -1,0 +1,49 @@
+{
+  "category": "item",
+  "clientId": 2472,
+  "isContainer": true,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "isRotatable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2472,
+    "showAs": 2472,
+    "name": "chest"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      33
+    ]
+  },
+  "server": {
+    "serverId": 1740,
+    "type": "Container",
+    "name": "chest",
+    "hasHeight": true,
+    "wareId": 2472,
+    "spriteHashHex": "7F2E68F28B063B0B363058BC8D2F5508"
+  }
+}

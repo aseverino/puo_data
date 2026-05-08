@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10407,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10407,
+    "showAs": 10407,
+    "name": "shaggy tail"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15511
+    ]
+  },
+  "server": {
+    "serverId": 11324,
+    "type": "None",
+    "name": "shaggy tail",
+    "wareId": 10407,
+    "spriteHashHex": "08A530B77DCC7FE55C53FD5C61B6BC65"
+  }
+}

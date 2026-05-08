@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 10438,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 10438,
+    "showAs": 10438,
+    "name": "spellweaver\u0027s robe",
+    "restrictProfession": 24,
+    "restrictLevel": 60
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15641
+    ]
+  },
+  "server": {
+    "serverId": 11355,
+    "type": "None",
+    "name": "spellweaver\u0027s robe",
+    "wareId": 10438,
+    "spriteHashHex": "21191514B3F529ECCF570C7194B6AEA9"
+  }
+}

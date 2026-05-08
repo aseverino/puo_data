@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3222,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3222,
+    "showAs": 3222,
+    "name": "helmet ornament"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2931
+    ]
+  },
+  "server": {
+    "serverId": 2335,
+    "type": "None",
+    "name": "helmet ornament",
+    "wareId": 3222,
+    "spriteHashHex": "C407B02C2EA0575C741516C16C97F5F5"
+  }
+}

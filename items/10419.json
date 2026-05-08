@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 10419,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 10419,
+    "showAs": 10419,
+    "name": "lizard trophy"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15546
+    ]
+  },
+  "server": {
+    "serverId": 11336,
+    "type": "None",
+    "name": "lizard trophy",
+    "wareId": 10419,
+    "spriteHashHex": "6B046F9BFD09795FF00EB2F64AFE101E"
+  }
+}

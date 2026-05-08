@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 16110,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 16110,
+    "showAs": 16110,
+    "name": "prismatic armor",
+    "restrictProfession": 6,
+    "restrictLevel": 120
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25433
+    ]
+  },
+  "server": {
+    "serverId": 18404,
+    "type": "None",
+    "name": "prismatic armor",
+    "wareId": 16110,
+    "spriteHashHex": "A4D95B498EDA13BECBAF0B2947C89B9B"
+  }
+}

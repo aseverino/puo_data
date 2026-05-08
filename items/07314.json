@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7314,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7314,
+    "showAs": 7314,
+    "name": "scale from a frozen dragon"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25666
+    ]
+  },
+  "server": {
+    "serverId": 7314,
+    "type": "None",
+    "name": "scale from a frozen dragon",
+    "wareId": 7314,
+    "spriteHashHex": "D7D133064671D33BC97F0AA1B619FF65"
+  }
+}

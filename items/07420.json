@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7420,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7420,
+    "showAs": 7420,
+    "name": "reaper\u0027s axe",
+    "restrictLevel": 70
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      8938
+    ]
+  },
+  "server": {
+    "serverId": 7420,
+    "type": "None",
+    "name": "reaper\u0027s axe",
+    "wareId": 7420,
+    "spriteHashHex": "8995131C2E2E8C9DCF4CDA1BA7EDE0E8"
+  }
+}

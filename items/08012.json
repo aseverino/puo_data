@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 8012,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8012,
+    "showAs": 8012,
+    "name": "raspberry"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11246,
+      11247,
+      11248,
+      11249,
+      11250,
+      11251,
+      11251,
+      11251
+    ]
+  },
+  "server": {
+    "serverId": 8840,
+    "type": "None",
+    "name": "raspberry",
+    "wareId": 8012,
+    "spriteHashHex": "9A629AB664A3D9F8064BB8CD068F53E3"
+  }
+}

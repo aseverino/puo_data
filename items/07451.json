@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7451,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7451,
+    "showAs": 7451,
+    "name": "shadow sceptre",
+    "restrictLevel": 35
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1888
+    ]
+  },
+  "server": {
+    "serverId": 7451,
+    "type": "None",
+    "name": "shadow sceptre",
+    "wareId": 7451,
+    "spriteHashHex": "3520986163E4F32EC8397413150E122E"
+  }
+}

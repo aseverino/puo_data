@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23940,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112899
+    ]
+  },
+  "server": {
+    "serverId": 26306,
+    "type": "None",
+    "spriteHashHex": "1C3D1DB4AF41D593A2D10712A1F9F2CF",
+    "article": "a",
+    "plural": "black feathers",
+    "namePt": "pena preta",
+    "articlePt": "uma",
+    "pluralPt": "penas pretas",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

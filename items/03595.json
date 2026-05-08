@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3595,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3595,
+    "showAs": 3595,
+    "name": "carrot"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1245,
+      1246,
+      1247,
+      1248,
+      1249,
+      1250,
+      1250,
+      1250
+    ]
+  },
+  "server": {
+    "serverId": 2684,
+    "type": "None",
+    "name": "carrot",
+    "wareId": 3595,
+    "spriteHashHex": "61E33CBB7B7616EBAF0DDCADB58169E6"
+  }
+}

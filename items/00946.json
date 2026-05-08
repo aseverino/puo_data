@@ -1,0 +1,62 @@
+{
+  "category": "item",
+  "clientId": 946,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 946,
+    "showAs": 946,
+    "name": "eternal flames"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      11207,
+      11208,
+      11209,
+      11210
+    ]
+  },
+  "server": {
+    "serverId": 8304,
+    "type": "None",
+    "name": "eternal flames",
+    "isAnimation": true,
+    "wareId": 946,
+    "spriteHashHex": "0A010EEED2573994E220E448B50828BD"
+  }
+}

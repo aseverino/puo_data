@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 3076,
+  "isGroundBorder": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3076,
+    "showAs": 3076,
+    "name": "crystal ball"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 8,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      142165,
+      142166,
+      142167,
+      142168,
+      142169,
+      142170,
+      142171,
+      142172
+    ]
+  },
+  "server": {
+    "serverId": 2192,
+    "type": "None",
+    "name": "crystal ball",
+    "wareId": 3076,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "A86CE6467B61A32B50B1775A7C773782"
+  }
+}

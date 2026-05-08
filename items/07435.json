@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7435,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7435,
+    "showAs": 7435,
+    "name": "impaler",
+    "restrictLevel": 85
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6465
+    ]
+  },
+  "server": {
+    "serverId": 7435,
+    "type": "None",
+    "name": "impaler",
+    "wareId": 7435,
+    "spriteHashHex": "46A9B4A686837139036ADB6A317B518E"
+  }
+}

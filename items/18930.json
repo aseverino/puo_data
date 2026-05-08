@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 18930,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 18930,
+    "showAs": 18930,
+    "name": "pieces of magic chalk"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      28747
+    ]
+  },
+  "server": {
+    "serverId": 21247,
+    "type": "None",
+    "name": "pieces of magic chalk",
+    "wareId": 18930,
+    "spriteHashHex": "61FE2BB063ABBC28E0AAF332B209D350"
+  }
+}

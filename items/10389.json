@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 10389,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 10389,
+    "showAs": 10389,
+    "name": "sai",
+    "restrictProfession": 2,
+    "restrictLevel": 50
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15488
+    ]
+  },
+  "server": {
+    "serverId": 11306,
+    "type": "None",
+    "name": "sai",
+    "wareId": 10389,
+    "spriteHashHex": "02E4CFF6AAA1042D3B07AD6EA7DE182D"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3561,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 3561,
+    "showAs": 3561,
+    "name": "jacket"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1042
+    ]
+  },
+  "server": {
+    "serverId": 2650,
+    "type": "None",
+    "name": "jacket",
+    "wareId": 3561,
+    "spriteHashHex": "6A2CD1553AEDDDEBD49EEC9BB6AF3945"
+  }
+}

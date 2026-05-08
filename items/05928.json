@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 5928,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 5928,
+    "showAs": 5928,
+    "name": "empty goldfish bowl"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7110
+    ]
+  },
+  "server": {
+    "serverId": 5928,
+    "type": "None",
+    "name": "empty goldfish bowl",
+    "wareId": 5928,
+    "spriteHashHex": "A1568BD3B56819BD55B205F48578DEE8"
+  }
+}

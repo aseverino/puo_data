@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 9537,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9537,
+    "showAs": 9537,
+    "name": "headache pill"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2108,
+      2109,
+      2110,
+      2111,
+      2112,
+      2113,
+      2114,
+      2115
+    ]
+  },
+  "server": {
+    "serverId": 10454,
+    "type": "None",
+    "name": "headache pill",
+    "wareId": 9537,
+    "spriteHashHex": "B1A6B12AB945DCC1B61B33A55ACA1E8C"
+  }
+}

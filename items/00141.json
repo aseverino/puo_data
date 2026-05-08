@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 141,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 141,
+    "showAs": 141,
+    "name": "cigar"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9396
+    ]
+  },
+  "server": {
+    "serverId": 7499,
+    "type": "None",
+    "name": "cigar",
+    "wareId": 141,
+    "spriteHashHex": "4C416E9C7D67E52D3C1581B1849B294E"
+  }
+}

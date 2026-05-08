@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 2903,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2903,
+    "showAs": 2903,
+    "name": "golden mug"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22999
+    ]
+  },
+  "server": {
+    "serverId": 2033,
+    "type": "Fluid",
+    "name": "golden mug",
+    "wareId": 2903,
+    "spriteHashHex": "44840E55BBD1766ABF5604715D060C2D"
+  }
+}

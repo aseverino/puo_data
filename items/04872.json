@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 4872,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 4872,
+    "showAs": 4872,
+    "name": "ice pick"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18143
+    ]
+  },
+  "server": {
+    "serverId": 11421,
+    "type": "None",
+    "name": "ice pick",
+    "wareId": 4872,
+    "spriteHashHex": "0DFF6C64CEC77D1272CDE0A9280C85C3"
+  }
+}

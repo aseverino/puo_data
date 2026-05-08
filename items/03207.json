@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 3207,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3207,
+    "showAs": 3207,
+    "name": "skull of Ratha"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1084,
+      1085,
+      1086,
+      1087,
+      1621,
+      1621,
+      1621,
+      1621
+    ]
+  },
+  "server": {
+    "serverId": 2320,
+    "type": "None",
+    "name": "skull of Ratha",
+    "wareId": 3207,
+    "spriteHashHex": "522D4862498DCA53A7024571BB85C9C6"
+  }
+}

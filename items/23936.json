@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23936,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112895
+    ]
+  },
+  "server": {
+    "serverId": 26302,
+    "type": "None",
+    "spriteHashHex": "882E9951669DE069A26AC6F605913F42",
+    "article": "a",
+    "plural": "sunkern leaves",
+    "namePt": "folha de sunkern",
+    "articlePt": "uma",
+    "pluralPt": "folhas de sunkern",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

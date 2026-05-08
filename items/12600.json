@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 12600,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 12600,
+    "showAs": 12600,
+    "name": "coal"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19870,
+      19871,
+      19872,
+      19873,
+      19874,
+      19875,
+      19875,
+      19875
+    ]
+  },
+  "server": {
+    "serverId": 13757,
+    "type": "None",
+    "name": "coal",
+    "wareId": 12600,
+    "spriteHashHex": "C1735555B2CA32C9952FE0E9B08FF472"
+  }
+}

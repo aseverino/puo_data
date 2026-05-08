@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23943,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112902
+    ]
+  },
+  "server": {
+    "serverId": 26309,
+    "type": "None",
+    "spriteHashHex": "A426FDB009705B7670430849A5D61CF5",
+    "article": "a",
+    "plural": "ursaring ears",
+    "namePt": "orelha de ursaring",
+    "articlePt": "uma",
+    "pluralPt": "orelhas de ursaring",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

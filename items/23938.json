@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23938,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112897
+    ]
+  },
+  "server": {
+    "serverId": 26304,
+    "type": "None",
+    "spriteHashHex": "B5318066C0A6843B8E3D7CC3003BA872",
+    "article": "a",
+    "plural": "quagsire tails",
+    "namePt": "cauda de quagsire",
+    "articlePt": "uma",
+    "pluralPt": "caudas de quagsire",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 7183,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 7183,
+    "showAs": 7183,
+    "name": "baby seal doll"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      8912
+    ]
+  },
+  "server": {
+    "serverId": 7183,
+    "type": "None",
+    "name": "baby seal doll",
+    "wareId": 7183,
+    "spriteHashHex": "E7625EC6C27C68D9F6FA85C15779CC45"
+  }
+}

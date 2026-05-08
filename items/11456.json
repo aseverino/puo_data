@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 11456,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11456,
+    "showAs": 11456,
+    "name": "dirty turban"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17954
+    ]
+  },
+  "server": {
+    "serverId": 12412,
+    "type": "None",
+    "name": "dirty turban",
+    "wareId": 11456,
+    "spriteHashHex": "F955566B9DA034016345A64762F1ED43"
+  }
+}

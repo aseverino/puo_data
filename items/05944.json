@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5944,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 5944,
+    "showAs": 5944,
+    "name": "soul orb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7154
+    ]
+  },
+  "server": {
+    "serverId": 5944,
+    "type": "None",
+    "name": "soul orb",
+    "wareId": 5944,
+    "spriteHashHex": "718867101494D88AE903929D383B5CDE"
+  }
+}

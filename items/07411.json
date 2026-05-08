@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7411,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7411,
+    "showAs": 7411,
+    "name": "ornamented axe",
+    "restrictLevel": 50
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6464
+    ]
+  },
+  "server": {
+    "serverId": 7411,
+    "type": "None",
+    "name": "ornamented axe",
+    "wareId": 7411,
+    "spriteHashHex": "E82B50089182EE9952528A6D85D9D02C"
+  }
+}

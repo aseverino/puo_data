@@ -1,0 +1,129 @@
+{
+  "category": "item",
+  "clientId": 17612,
+  "isGroundBorder": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 16,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      27019,
+      0,
+      27019,
+      27014,
+      27020,
+      27015,
+      27021,
+      27015,
+      27017,
+      27016,
+      27018,
+      27016,
+      27023,
+      27014,
+      27025,
+      27014,
+      27015,
+      27018,
+      27015,
+      0,
+      27016,
+      0,
+      27016,
+      0,
+      27014,
+      0,
+      27014,
+      0,
+      27015,
+      0,
+      27015,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 19892,
+    "type": "None",
+    "isAnimation": true,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "942DBBCF5265F7FD2BFAAD2E4080DC40"
+  }
+}

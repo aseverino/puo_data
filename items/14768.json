@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 14768,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 14768,
+    "showAs": 14768,
+    "name": "thorn spitter",
+    "restrictProfession": 4,
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22970
+    ]
+  },
+  "server": {
+    "serverId": 16111,
+    "type": "None",
+    "name": "thorn spitter",
+    "wareId": 14768,
+    "spriteHashHex": "9548A30ECDFD4A4E13D8FD1CD28F78F8"
+  }
+}

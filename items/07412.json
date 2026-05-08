@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7412,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7412,
+    "showAs": 7412,
+    "name": "butcher\u0027s axe",
+    "restrictLevel": 45
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9246
+    ]
+  },
+  "server": {
+    "serverId": 7412,
+    "type": "None",
+    "name": "butcher\u0027s axe",
+    "wareId": 7412,
+    "spriteHashHex": "EA549FD79686EAC962B7C67C11F7E42E"
+  }
+}

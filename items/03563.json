@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3563,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 3563,
+    "showAs": 3563,
+    "name": "green tunic"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1657
+    ]
+  },
+  "server": {
+    "serverId": 2652,
+    "type": "None",
+    "name": "green tunic",
+    "wareId": 3563,
+    "spriteHashHex": "9D94B0D8CC162682D2A4F86958F9B43A"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "category": "item",
+  "clientId": 20107,
+  "isOnBottom": true,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 12,
+  "isUsable": true,
+  "width": 2,
+  "height": 2,
+  "exactSize": 62,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 9,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      0,
+      0,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      731,
+      0,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      9869,
+      0,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      0,
+      1799,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      1799,
+      0,
+      0,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      9869,
+      0,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      0,
+      0,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      0,
+      1799,
+      30384,
+      30385,
+      30386,
+      30387,
+      0,
+      0,
+      0,
+      731
+    ]
+  },
+  "server": {
+    "serverId": 22441,
+    "type": "None",
+    "isAnimation": true,
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "783F1E864B1285F3EFF189BC2008DDB4"
+  }
+}

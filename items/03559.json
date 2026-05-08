@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3559,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 3559,
+    "showAs": 3559,
+    "name": "leather legs"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1039
+    ]
+  },
+  "server": {
+    "serverId": 2649,
+    "type": "None",
+    "name": "leather legs",
+    "wareId": 3559,
+    "spriteHashHex": "D618AF0ECB6410DA458FE1A784F4250F"
+  }
+}

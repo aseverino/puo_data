@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 3078,
+  "isGroundBorder": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3078,
+    "showAs": 3078,
+    "name": "mysterious fetish"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 8,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      142181,
+      142182,
+      142183,
+      142184,
+      142185,
+      142186,
+      142187,
+      142188
+    ]
+  },
+  "server": {
+    "serverId": 2194,
+    "type": "None",
+    "name": "mysterious fetish",
+    "wareId": 3078,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "6740E2B648FFCA90651364FA49C97744"
+  }
+}

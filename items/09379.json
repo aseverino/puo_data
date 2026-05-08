@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9379,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 9379,
+    "showAs": 9379,
+    "name": "heavy metal t-shirt"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1914
+    ]
+  },
+  "server": {
+    "serverId": 10296,
+    "type": "None",
+    "name": "heavy metal t-shirt",
+    "wareId": 9379,
+    "spriteHashHex": "4D71D79F39CEDD444F5D18304385C087"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 8117,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8117,
+    "showAs": 8117,
+    "name": "theatre script"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      851
+    ]
+  },
+  "server": {
+    "serverId": 14346,
+    "type": "None",
+    "name": "theatre script",
+    "wareId": 8117,
+    "spriteHashHex": "48C3F1CF8D47C7604F50D8744026DBD3"
+  }
+}

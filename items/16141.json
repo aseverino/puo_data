@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 16141,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 16141,
+    "showAs": 16141,
+    "name": "prismatic bolt",
+    "restrictLevel": 90
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25522,
+      25523,
+      25524,
+      25525,
+      25526,
+      25527,
+      25527,
+      25527
+    ]
+  },
+  "server": {
+    "serverId": 18435,
+    "type": "None",
+    "name": "prismatic bolt",
+    "wareId": 16141,
+    "spriteHashHex": "F23B0A8214A049C98D8D3E71C7A0DCA0"
+  }
+}

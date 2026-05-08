@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 18935,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 144,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 18935,
+    "showAs": 18935,
+    "name": "vampire\u0027s signet ring"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      28753
+    ]
+  },
+  "server": {
+    "serverId": 21252,
+    "type": "None",
+    "name": "vampire\u0027s signet ring",
+    "wareId": 18935,
+    "spriteHashHex": "426DF0E3318049D036D5DECE464D91D1"
+  }
+}

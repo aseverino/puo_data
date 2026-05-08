@@ -1,0 +1,47 @@
+{
+  "category": "effect",
+  "clientId": 273,
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      36075,
+      36076,
+      36077,
+      0,
+      36078,
+      36079,
+      36080,
+      0,
+      36081,
+      36082,
+      36083,
+      0
+    ]
+  }
+}

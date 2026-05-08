@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 5947,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 5947,
+    "showAs": 5947,
+    "name": "Elane\u0027s crossbow"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      380
+    ]
+  },
+  "server": {
+    "serverId": 5947,
+    "type": "None",
+    "name": "Elane\u0027s crossbow",
+    "wareId": 5947,
+    "spriteHashHex": "CBAECE447697614C2E5184D297C44ECA"
+  }
+}

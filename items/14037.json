@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 14037,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 14037,
+    "showAs": 14037,
+    "name": "flower pot"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13258
+    ]
+  },
+  "server": {
+    "serverId": 15449,
+    "type": "None",
+    "name": "flower pot",
+    "wareId": 14037,
+    "spriteHashHex": "F988C6AEA780563846699EA55C6789E0"
+  }
+}

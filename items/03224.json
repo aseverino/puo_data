@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3224,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3224,
+    "showAs": 3224,
+    "name": "right horn"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2933
+    ]
+  },
+  "server": {
+    "serverId": 2337,
+    "type": "None",
+    "name": "right horn",
+    "wareId": 3224,
+    "spriteHashHex": "A5B2C131972AC7BEF931D048A4E86F40"
+  }
+}

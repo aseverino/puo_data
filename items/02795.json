@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 2795,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2795,
+    "showAs": 2465,
+    "name": "bamboo drawer kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4937
+    ]
+  },
+  "server": {
+    "serverId": 3921,
+    "type": "None",
+    "name": "bamboo drawer kit",
+    "hasHeight": true,
+    "wareId": 2795,
+    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4"
+  }
+}

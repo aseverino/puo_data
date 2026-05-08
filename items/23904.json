@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23904,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112863
+    ]
+  },
+  "server": {
+    "serverId": 26270,
+    "type": "None",
+    "spriteHashHex": "3DB1283D54441064C4F4FBDA4F1AB5F2",
+    "article": "a",
+    "namePt": "orbe de tentacruel",
+    "articlePt": "um",
+    "pluralPt": "orbe de tentacruel",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

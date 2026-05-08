@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 4828,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 4828,
+    "showAs": 4828,
+    "name": "flask of cough syrup"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      857
+    ]
+  },
+  "server": {
+    "serverId": 4839,
+    "type": "None",
+    "name": "flask of cough syrup",
+    "wareId": 4828,
+    "spriteHashHex": "D67DA20D683F02EFE65E63196C96F32E"
+  }
+}

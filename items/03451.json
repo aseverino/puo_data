@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3451,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3451,
+    "showAs": 3451,
+    "name": "pitchfork"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5
+    ]
+  },
+  "server": {
+    "serverId": 2548,
+    "type": "None",
+    "name": "pitchfork",
+    "wareId": 3451,
+    "spriteHashHex": "3273C8742032326A7E3CB1A0A477121D"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "category": "item",
+  "clientId": 16276,
+  "isUnpassable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 65,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 16275,
+    "showAs": 16275,
+    "name": "noble sword"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      25720,
+      690,
+      25720,
+      691,
+      25720,
+      562
+    ]
+  },
+  "server": {
+    "serverId": 18551,
+    "type": "None",
+    "name": "noble sword",
+    "isAnimation": true,
+    "wareId": 16275,
+    "spriteHashHex": "C36DB3926B1504AEA6DE28D5623A3AA2"
+  }
+}

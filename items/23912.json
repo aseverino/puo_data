@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23912,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112869
+    ]
+  },
+  "server": {
+    "serverId": 26278,
+    "type": "None",
+    "spriteHashHex": "24BEBA6E82E61D8455E71763C98E9303",
+    "article": "a",
+    "plural": "staryu red gems",
+    "namePt": "j\u00F3ia vermelha de staryu",
+    "articlePt": "uma",
+    "pluralPt": "j\u00F3ias vermelhas de staryu",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

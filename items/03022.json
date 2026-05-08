@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3022,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 3022,
+    "showAs": 3022,
+    "name": "ancient tiara"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2263
+    ]
+  },
+  "server": {
+    "serverId": 2139,
+    "type": "None",
+    "name": "ancient tiara",
+    "wareId": 3022,
+    "spriteHashHex": "06DB44C9F5E0613004C2468329986AE5"
+  }
+}

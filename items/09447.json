@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9447,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 9401,
+    "showAs": 9401,
+    "name": "the shield Nevermourn"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1369
+    ]
+  },
+  "server": {
+    "serverId": 10364,
+    "type": "None",
+    "name": "the shield Nevermourn",
+    "wareId": 9401,
+    "spriteHashHex": "801FF2C628BD20DBBC8E2DA03A3DC770"
+  }
+}

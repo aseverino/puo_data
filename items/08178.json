@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 8178,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 8178,
+    "showAs": 8178,
+    "name": "toy spider"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1702
+    ]
+  },
+  "server": {
+    "serverId": 9006,
+    "type": "None",
+    "name": "toy spider",
+    "wareId": 8178,
+    "spriteHashHex": "D5F9C18D33C3DD049D8FB95E42E75FE4"
+  }
+}

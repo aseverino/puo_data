@@ -1,0 +1,65 @@
+{
+  "category": "item",
+  "clientId": 11344,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11344,
+    "showAs": 11344,
+    "name": "lump of sacred clay"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      6238,
+      232,
+      562,
+      6238,
+      232,
+      690,
+      6238,
+      232,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 12300,
+    "type": "None",
+    "name": "lump of sacred clay",
+    "isAnimation": true,
+    "wareId": 11344,
+    "spriteHashHex": "F36265582CE157F4597532F13AEED5D5"
+  }
+}

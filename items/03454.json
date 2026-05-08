@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3454,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3454,
+    "showAs": 3454,
+    "name": "broom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      37
+    ]
+  },
+  "server": {
+    "serverId": 2551,
+    "type": "None",
+    "name": "broom",
+    "wareId": 3454,
+    "spriteHashHex": "BD86049227BFDD1AE63DB7429BAD6D39"
+  }
+}

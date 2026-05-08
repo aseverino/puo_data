@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 649,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 649,
+    "showAs": 649,
+    "name": "flower bouquet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9685
+    ]
+  },
+  "server": {
+    "serverId": 7733,
+    "type": "None",
+    "name": "flower bouquet",
+    "wareId": 649,
+    "spriteHashHex": "1A6FE41EC8971AB10E35F45518400C0E"
+  }
+}

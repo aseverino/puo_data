@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 14019,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14019,
+    "showAs": 14019,
+    "name": "small golden anchor"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22294
+    ]
+  },
+  "server": {
+    "serverId": 15432,
+    "type": "None",
+    "name": "small golden anchor",
+    "wareId": 14019,
+    "spriteHashHex": "8947D785E81B6C95527688FE6F21B8A6"
+  }
+}

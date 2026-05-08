@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 2954,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2954,
+    "showAs": 2954,
+    "name": "simple fanfare"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      755
+    ]
+  },
+  "server": {
+    "serverId": 2075,
+    "type": "None",
+    "name": "simple fanfare",
+    "wareId": 2954,
+    "spriteHashHex": "0EF7129E5BF71C64B0102E1DA93B6422"
+  }
+}

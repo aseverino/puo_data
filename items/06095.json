@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 6095,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 6095,
+    "showAs": 6095,
+    "name": "pirate shirt"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7139
+    ]
+  },
+  "server": {
+    "serverId": 6095,
+    "type": "None",
+    "name": "pirate shirt",
+    "wareId": 6095,
+    "spriteHashHex": "B041DB413C986FD9309751D5E2D4C4FD"
+  }
+}

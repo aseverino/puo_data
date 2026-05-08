@@ -1,0 +1,23 @@
+{
+  "category": "item",
+  "clientId": 2393,
+  "isMoveable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 6105,
+    "type": "None",
+    "name": "heart pillow",
+    "wareId": 2393,
+    "spriteHashHex": "21D29025611430F145F36F7CCF67190A"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3570,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 3570,
+    "showAs": 3570,
+    "name": "ball gown"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2122
+    ]
+  },
+  "server": {
+    "serverId": 2659,
+    "type": "None",
+    "name": "ball gown",
+    "wareId": 3570,
+    "spriteHashHex": "B570A5445D2027FAA43615224F07CC28"
+  }
+}

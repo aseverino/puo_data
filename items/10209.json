@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 10209,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 10209,
+    "showAs": 10210,
+    "name": "lizard weapon rack kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4937
+    ]
+  },
+  "server": {
+    "serverId": 11126,
+    "type": "None",
+    "name": "lizard weapon rack kit",
+    "hasHeight": true,
+    "wareId": 10209,
+    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4"
+  }
+}

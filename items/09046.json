@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 9046,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 9046,
+    "showAs": 9046,
+    "name": "silky tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13170,
+      0,
+      0,
+      0,
+      13171,
+      13172,
+      0,
+      0,
+      13173,
+      0,
+      13174,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 9959,
+    "type": "None",
+    "name": "silky tapestry",
+    "wareId": 9046,
+    "spriteHashHex": "814CD7D91B80EC155A1FAE5BF497BB7A"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3195,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3195,
+    "showAs": 3195,
+    "name": "soulfire rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      926
+    ]
+  },
+  "server": {
+    "serverId": 2308,
+    "type": "None",
+    "name": "soulfire rune",
+    "wareId": 3195,
+    "spriteHashHex": "A1448431AD02B3A2A7D7373F346C01C8"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 18335,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 87,
+  "hasElevation": true,
+  "elevation": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 18335,
+    "showAs": 18335,
+    "name": "obsidian Zaoan bishop"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27696
+    ]
+  },
+  "server": {
+    "serverId": 20616,
+    "type": "None",
+    "name": "obsidian Zaoan bishop",
+    "hasHeight": true,
+    "wareId": 18335,
+    "spriteHashHex": "4E7C99D693BD2EFDB21B4EE4AD911F7B"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 14156,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14156,
+    "showAs": 14156,
+    "name": "dog collar"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22664
+    ]
+  },
+  "server": {
+    "serverId": 15559,
+    "type": "None",
+    "name": "dog collar",
+    "wareId": 14156,
+    "spriteHashHex": "8313000233802220E781A0017AB3EA9E"
+  }
+}

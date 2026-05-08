@@ -1,0 +1,55 @@
+{
+  "category": "item",
+  "clientId": 8022,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 8022,
+    "showAs": 8022,
+    "name": "chain bolter",
+    "restrictProfession": 4,
+    "restrictLevel": 60
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      64547,
+      64548,
+      64549,
+      64550,
+      64551,
+      64552,
+      64552,
+      64552
+    ]
+  },
+  "server": {
+    "serverId": 8850,
+    "type": "None",
+    "name": "chain bolter",
+    "wareId": 8022,
+    "spriteHashHex": "AA524B9EBA40CE6AD08DC733A3968B54"
+  }
+}

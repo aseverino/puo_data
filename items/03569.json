@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3569,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 3569,
+    "showAs": 3569,
+    "name": "white dress"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      311
+    ]
+  },
+  "server": {
+    "serverId": 2658,
+    "type": "None",
+    "name": "white dress",
+    "wareId": 3569,
+    "spriteHashHex": "EB80223D426413F2ED8711C0DC118110"
+  }
+}

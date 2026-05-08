@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9306,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 9306,
+    "showAs": 9306,
+    "name": "mechanical fishing rod"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13825
+    ]
+  },
+  "server": {
+    "serverId": 10223,
+    "type": "None",
+    "name": "mechanical fishing rod",
+    "wareId": 9306,
+    "spriteHashHex": "C02F9A42F83CCEC32A77B3024DC19D86"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "category": "item",
+  "clientId": 23812,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112642
+    ]
+  },
+  "server": {
+    "serverId": 26178,
+    "type": "None",
+    "spriteHashHex": "678C8E6607F19AD3955600583DA631FA",
+    "namePt": "pelo amarelo",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

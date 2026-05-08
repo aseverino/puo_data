@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 7375,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 7375,
+    "showAs": 7375,
+    "name": "ice cream cone"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6753
+    ]
+  },
+  "server": {
+    "serverId": 7375,
+    "type": "None",
+    "name": "ice cream cone",
+    "wareId": 7375,
+    "spriteHashHex": "79F69D96DF77288C4FCC72499811E7F6"
+  }
+}

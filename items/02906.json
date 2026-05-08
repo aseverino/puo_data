@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 2906,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 2906,
+    "showAs": 2906,
+    "name": "watch"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      374
+    ]
+  },
+  "server": {
+    "serverId": 2036,
+    "type": "None",
+    "name": "watch",
+    "wareId": 2906,
+    "spriteHashHex": "D7FEC273D8D00B10FAEFFF286575E175"
+  }
+}

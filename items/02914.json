@@ -1,0 +1,49 @@
+{
+  "category": "item",
+  "clientId": 2914,
+  "isPickupable": true,
+  "hasLight": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 2914,
+    "showAs": 2914,
+    "name": "lamp"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      776
+    ]
+  },
+  "server": {
+    "serverId": 2044,
+    "type": "None",
+    "name": "lamp",
+    "wareId": 2914,
+    "spriteHashHex": "19BF8BF20B9269CAFF47D2C02C2FA8DF"
+  }
+}

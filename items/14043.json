@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 14043,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 14043,
+    "showAs": 14043,
+    "name": "guardian axe",
+    "restrictLevel": 50
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22984
+    ]
+  },
+  "server": {
+    "serverId": 15454,
+    "type": "None",
+    "name": "guardian axe",
+    "wareId": 14043,
+    "spriteHashHex": "1286DB98B65B752C777C3BDFCB09606D"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7436,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7436,
+    "showAs": 7436,
+    "name": "angelic axe",
+    "restrictProfession": 2,
+    "restrictLevel": 45
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6466
+    ]
+  },
+  "server": {
+    "serverId": 7436,
+    "type": "None",
+    "name": "angelic axe",
+    "wareId": 7436,
+    "spriteHashHex": "407BF1A15A7E563EBA3BA2803EF4711B"
+  }
+}

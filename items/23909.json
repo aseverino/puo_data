@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23909,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112867
+    ]
+  },
+  "server": {
+    "serverId": 26275,
+    "type": "None",
+    "spriteHashHex": "100FE0F53E3F515FB5E0553A91D700A3",
+    "article": "a",
+    "namePt": "nadadeira de horsea",
+    "articlePt": "uma",
+    "pluralPt": "nadadeiras de horsea",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

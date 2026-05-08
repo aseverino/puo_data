@@ -1,0 +1,59 @@
+{
+  "category": "item",
+  "clientId": 11549,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11549,
+    "showAs": 11549,
+    "name": "old iron"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      7136,
+      562,
+      7136,
+      690,
+      7136,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 12505,
+    "type": "None",
+    "name": "old iron",
+    "isAnimation": true,
+    "wareId": 11549,
+    "spriteHashHex": "94AB17A5E4D3C6D756156907715DCDE7"
+  }
+}

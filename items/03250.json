@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 3250,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3250,
+    "showAs": 3250,
+    "name": "the carrot of doom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1245,
+      1246,
+      1247,
+      1248,
+      1249,
+      1250,
+      1250,
+      1250
+    ]
+  },
+  "server": {
+    "serverId": 2362,
+    "type": "None",
+    "name": "the carrot of doom",
+    "wareId": 3250,
+    "spriteHashHex": "61E33CBB7B7616EBAF0DDCADB58169E6"
+  }
+}

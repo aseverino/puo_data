@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12578,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 12578,
+    "showAs": 12578,
+    "name": "Evilina"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15699
+    ]
+  },
+  "server": {
+    "serverId": 13567,
+    "type": "None",
+    "name": "Evilina",
+    "wareId": 12578,
+    "spriteHashHex": "C988717A814729E539EA826081CC9EAB"
+  }
+}

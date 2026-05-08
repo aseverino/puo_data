@@ -1,0 +1,117 @@
+{
+  "category": "item",
+  "clientId": 4050,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 4050,
+    "showAs": 4050,
+    "name": "spirit cage"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 15,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      15693,
+      15694,
+      15695,
+      15696,
+      15692,
+      15696,
+      15695,
+      15694,
+      15693,
+      15693,
+      15693,
+      15693,
+      15693,
+      15693,
+      15693
+    ]
+  },
+  "server": {
+    "serverId": 12671,
+    "type": "None",
+    "name": "spirit cage",
+    "isAnimation": true,
+    "wareId": 4050,
+    "spriteHashHex": "52A163F1601920D0B9349BB6FDCFCB68"
+  }
+}

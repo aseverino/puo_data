@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 5710,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 5710,
+    "showAs": 5710,
+    "name": "light shovel"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6686
+    ]
+  },
+  "server": {
+    "serverId": 5710,
+    "type": "None",
+    "name": "light shovel",
+    "wareId": 5710,
+    "spriteHashHex": "F5B598E48604B017C720418CE25AC047"
+  }
+}

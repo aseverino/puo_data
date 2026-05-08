@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 10421,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 10421,
+    "showAs": 10421,
+    "name": "disgusting trophy"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15550,
+      0,
+      0,
+      0,
+      15647,
+      15551,
+      0,
+      0,
+      15648,
+      0,
+      15649,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 11338,
+    "type": "None",
+    "name": "disgusting trophy",
+    "wareId": 10421,
+    "spriteHashHex": "C07BCC168ECB58D975DD57E2204FD5D7"
+  }
+}

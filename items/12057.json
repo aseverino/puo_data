@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12057,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12057,
+    "showAs": 12057,
+    "name": "reward box"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1312
+    ]
+  },
+  "server": {
+    "serverId": 13044,
+    "type": "None",
+    "name": "reward box",
+    "wareId": 12057,
+    "spriteHashHex": "2F44A43DE32B1BAD0F3554AA88EA8722"
+  }
+}

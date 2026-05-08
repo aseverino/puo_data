@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23813,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112625
+    ]
+  },
+  "server": {
+    "serverId": 26179,
+    "type": "None",
+    "spriteHashHex": "3E87B690579285BB57FD850DD38E3277",
+    "article": "a",
+    "namePt": "garra de sandslash",
+    "articlePt": "uma",
+    "pluralPt": "garras de sandslash",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

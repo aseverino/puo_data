@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23946,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112905
+    ]
+  },
+  "server": {
+    "serverId": 26312,
+    "type": "None",
+    "spriteHashHex": "9FFCA3D23EB67910E2D3627629C5748E",
+    "article": "a",
+    "plural": "magcargo shells",
+    "namePt": "casco de magcargo",
+    "articlePt": "um",
+    "pluralPt": "cascos de magcargo",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

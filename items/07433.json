@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7433,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7433,
+    "showAs": 7433,
+    "name": "ravenwing",
+    "restrictLevel": 65
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6463
+    ]
+  },
+  "server": {
+    "serverId": 7433,
+    "type": "None",
+    "name": "ravenwing",
+    "wareId": 7433,
+    "spriteHashHex": "6E1A798DF80F7077BA5F198F8577855D"
+  }
+}

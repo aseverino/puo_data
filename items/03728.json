@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3728,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3728,
+    "showAs": 3728,
+    "name": "dark mushroom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6244
+    ]
+  },
+  "server": {
+    "serverId": 2792,
+    "type": "None",
+    "name": "dark mushroom",
+    "wareId": 3728,
+    "spriteHashHex": "9607730F94D1ED6EB1B6852173F355B5"
+  }
+}

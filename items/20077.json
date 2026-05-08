@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 20077,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 20077,
+    "showAs": 20077,
+    "name": "umbral mace",
+    "restrictProfession": 2,
+    "restrictLevel": 120
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30913
+    ]
+  },
+  "server": {
+    "serverId": 22411,
+    "type": "None",
+    "name": "umbral mace",
+    "wareId": 20077,
+    "spriteHashHex": "BCE7AE2DA72A21DAB8063FCF342BA4BD"
+  }
+}

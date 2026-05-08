@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 16106,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 16106,
+    "showAs": 16106,
+    "name": "gill legs",
+    "restrictProfession": 24,
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25429
+    ]
+  },
+  "server": {
+    "serverId": 18400,
+    "type": "None",
+    "name": "gill legs",
+    "wareId": 16106,
+    "spriteHashHex": "4CC0A2A2593192CD9CD27D0C937AD5DF"
+  }
+}

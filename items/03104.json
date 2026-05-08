@@ -1,0 +1,72 @@
+{
+  "category": "item",
+  "clientId": 3104,
+  "isGroundBorder": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3104,
+    "showAs": 3104,
+    "name": "banana skin"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 8,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      0,
+      0,
+      0,
+      142609,
+      0,
+      0,
+      0,
+      142610,
+      0,
+      0,
+      0,
+      142611,
+      0,
+      0,
+      0,
+      142612,
+      0,
+      0,
+      0,
+      142613,
+      0,
+      0,
+      0,
+      142614,
+      0,
+      0,
+      0,
+      142615,
+      0,
+      0,
+      0,
+      142616
+    ]
+  },
+  "server": {
+    "serverId": 2220,
+    "type": "None",
+    "alwaysOnTopOrder": 3,
+    "spriteHashHex": "F30110B83DE6A0BA5C06A84235B64DE9"
+  }
+}

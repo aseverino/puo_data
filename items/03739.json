@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 3739,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3739,
+    "showAs": 3739,
+    "name": "powder herb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1715
+    ]
+  },
+  "server": {
+    "serverId": 2803,
+    "type": "None",
+    "name": "powder herb",
+    "wareId": 3739,
+    "spriteHashHex": "BEDF7541186F659442475401532FE775"
+  }
+}

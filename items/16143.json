@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 16143,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 16143,
+    "showAs": 16143,
+    "name": "envenomed arrow",
+    "restrictLevel": 70
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25539,
+      25540,
+      25541,
+      25542,
+      25543,
+      25544,
+      25544,
+      25544
+    ]
+  },
+  "server": {
+    "serverId": 18437,
+    "type": "None",
+    "name": "envenomed arrow",
+    "wareId": 16143,
+    "spriteHashHex": "49E5FAE06369465D7BB18ED5EC79E94D"
+  }
+}

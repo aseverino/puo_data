@@ -1,0 +1,59 @@
+{
+  "category": "item",
+  "clientId": 11546,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11546,
+    "showAs": 11546,
+    "name": "spectral cloth"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      2148,
+      562,
+      2148,
+      690,
+      2148,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 12502,
+    "type": "None",
+    "name": "spectral cloth",
+    "isAnimation": true,
+    "wareId": 11546,
+    "spriteHashHex": "EAE56AA763EEE462818EE3AA263E92C0"
+  }
+}

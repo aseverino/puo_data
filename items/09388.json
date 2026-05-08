@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 9388,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9388,
+    "showAs": 9388,
+    "name": "holy icon"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      3154,
+      731,
+      3154,
+      9871
+    ]
+  },
+  "server": {
+    "serverId": 10305,
+    "type": "None",
+    "name": "holy icon",
+    "isAnimation": true,
+    "wareId": 9388,
+    "spriteHashHex": "65A5484C82FAFB4F1D0CE8F3D85705E7"
+  }
+}

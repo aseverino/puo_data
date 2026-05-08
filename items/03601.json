@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3601,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3601,
+    "showAs": 3601,
+    "name": "roll"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      64508,
+      64509,
+      64510,
+      64511,
+      64511,
+      64511,
+      64511,
+      64511
+    ]
+  },
+  "server": {
+    "serverId": 2690,
+    "type": "None",
+    "name": "roll",
+    "wareId": 3601,
+    "spriteHashHex": "E53ACFB7481C42F4F1422CF70EE057AC"
+  }
+}

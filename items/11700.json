@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 11700,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 11700,
+    "showAs": 11700,
+    "name": "sedge hat"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18503
+    ]
+  },
+  "server": {
+    "serverId": 12656,
+    "type": "None",
+    "name": "sedge hat",
+    "wareId": 11700,
+    "spriteHashHex": "6EB232CB889909B4D466046CF6F7FFA2"
+  }
+}

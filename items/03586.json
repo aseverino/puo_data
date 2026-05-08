@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3586,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3586,
+    "showAs": 3586,
+    "name": "orange"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1802,
+      1803,
+      1804,
+      1805,
+      1806,
+      5751,
+      5751,
+      5751
+    ]
+  },
+  "server": {
+    "serverId": 2675,
+    "type": "None",
+    "name": "orange",
+    "wareId": 3586,
+    "spriteHashHex": "016F9F10C1CC36EEC3D33F73B7DBA5EB"
+  }
+}

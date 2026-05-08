@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3180,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3180,
+    "showAs": 3180,
+    "name": "magic wall rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      911
+    ]
+  },
+  "server": {
+    "serverId": 2293,
+    "type": "None",
+    "name": "magic wall rune",
+    "wareId": 3180,
+    "spriteHashHex": "B92FF05219013117788282376B5FFBBD"
+  }
+}

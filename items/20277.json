@@ -1,0 +1,105 @@
+{
+  "category": "item",
+  "clientId": 20277,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 20277,
+    "showAs": 20277,
+    "name": "psychedelic tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      31173,
+      0,
+      0,
+      0,
+      31174,
+      31175,
+      0,
+      0,
+      31176,
+      0,
+      31177,
+      0,
+      31173,
+      0,
+      0,
+      0,
+      31180,
+      31181,
+      0,
+      0,
+      31178,
+      0,
+      31179,
+      0,
+      31173,
+      0,
+      0,
+      0,
+      31184,
+      31185,
+      0,
+      0,
+      31182,
+      0,
+      31183,
+      0,
+      31173,
+      0,
+      0,
+      0,
+      31188,
+      31189,
+      0,
+      0,
+      31186,
+      0,
+      31187,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 22611,
+    "type": "None",
+    "name": "psychedelic tapestry",
+    "isAnimation": true,
+    "wareId": 20277,
+    "spriteHashHex": "2BF2BCE3ADED867B3B43CC678AE4108E"
+  }
+}

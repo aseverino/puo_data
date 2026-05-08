@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3156,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3156,
+    "showAs": 3156,
+    "name": "wild growth rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      888
+    ]
+  },
+  "server": {
+    "serverId": 2269,
+    "type": "None",
+    "name": "wild growth rune",
+    "wareId": 3156,
+    "spriteHashHex": "D104311465F2F3B09CC0062FB8099A3B"
+  }
+}

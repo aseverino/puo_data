@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 12482,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 12482,
+    "showAs": 12482,
+    "name": "hieroglyph banner"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19662,
+      0,
+      0,
+      0,
+      19721,
+      19722,
+      0,
+      0,
+      19670,
+      0,
+      19659,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 13739,
+    "type": "None",
+    "name": "hieroglyph banner",
+    "wareId": 12482,
+    "spriteHashHex": "F2C6BE2DE0E12AC1F55D50F214F8F9C0"
+  }
+}

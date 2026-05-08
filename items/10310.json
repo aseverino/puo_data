@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10310,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10310,
+    "showAs": 10310,
+    "name": "shiny stone"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15455
+    ]
+  },
+  "server": {
+    "serverId": 11227,
+    "type": "None",
+    "name": "shiny stone",
+    "wareId": 10310,
+    "spriteHashHex": "597FE34C7DCE0CE4305A904DB120D7F6"
+  }
+}

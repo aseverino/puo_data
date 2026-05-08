@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9233,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9233,
+    "showAs": 9233,
+    "name": "golem part"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11860
+    ]
+  },
+  "server": {
+    "serverId": 10151,
+    "type": "None",
+    "name": "golem part",
+    "wareId": 9233,
+    "spriteHashHex": "82E9DA61359DEAFE48371A2DDAB080F5"
+  }
+}

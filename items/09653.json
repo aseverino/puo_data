@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9653,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 9653,
+    "showAs": 9653,
+    "name": "witch hat",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13919
+    ]
+  },
+  "server": {
+    "serverId": 10570,
+    "type": "None",
+    "name": "witch hat",
+    "wareId": 9653,
+    "spriteHashHex": "49F1C65F2FD1D2C1946BBD44D0725DDB"
+  }
+}

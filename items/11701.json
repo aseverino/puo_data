@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 11701,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 11701,
+    "showAs": 11701,
+    "name": "old cape"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18502
+    ]
+  },
+  "server": {
+    "serverId": 12657,
+    "type": "None",
+    "name": "old cape",
+    "wareId": 11701,
+    "spriteHashHex": "46C0B3721B3CDA5422FB14A03CE67ACA"
+  }
+}

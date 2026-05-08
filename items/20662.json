@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 20662,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 212,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "name": "Max Revive"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11356
+    ]
+  },
+  "server": {
+    "serverId": 23000,
+    "type": "None",
+    "name": "Max Revive",
+    "spriteHashHex": "946068654AE292AACB9AB88873045667"
+  }
+}

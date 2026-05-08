@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10422,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 10422,
+    "showAs": 10422,
+    "name": "clay lump"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15650
+    ]
+  },
+  "server": {
+    "serverId": 11339,
+    "type": "None",
+    "name": "clay lump",
+    "wareId": 10422,
+    "spriteHashHex": "1D20EA1907B4641D87447D6AA7E9F10E"
+  }
+}

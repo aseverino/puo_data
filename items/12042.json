@@ -1,0 +1,86 @@
+{
+  "category": "item",
+  "clientId": 12042,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 101,
+  "hasOffset": true,
+  "offsetX": 4,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 12041,
+    "showAs": 12041,
+    "name": "frozen heart"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 8,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      18971,
+      19284,
+      19285,
+      19286,
+      19287,
+      19287,
+      19288,
+      19289
+    ]
+  },
+  "server": {
+    "serverId": 13029,
+    "type": "None",
+    "name": "frozen heart",
+    "isAnimation": true,
+    "wareId": 12041,
+    "spriteHashHex": "E2ADC39A00E8B5CEC22AB0E0427350E6"
+  }
+}

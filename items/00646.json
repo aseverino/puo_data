@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 646,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 646,
+    "showAs": 646,
+    "name": "elvenhair rope"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9682
+    ]
+  },
+  "server": {
+    "serverId": 7731,
+    "type": "None",
+    "name": "elvenhair rope",
+    "wareId": 646,
+    "spriteHashHex": "AF2666B99BC83F77083D9DCAF54A2BD0"
+  }
+}

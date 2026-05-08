@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 10326,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 10326,
+    "showAs": 10326,
+    "name": "dragon backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15523
+    ]
+  },
+  "server": {
+    "serverId": 11243,
+    "type": "Container",
+    "name": "dragon backpack",
+    "wareId": 10326,
+    "spriteHashHex": "05D5493062E7E0DE31494E978ADF673D"
+  }
+}

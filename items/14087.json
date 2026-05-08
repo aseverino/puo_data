@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 14087,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 14087,
+    "showAs": 14087,
+    "name": "grasshopper legs",
+    "restrictLevel": 75
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22400
+    ]
+  },
+  "server": {
+    "serverId": 15490,
+    "type": "None",
+    "name": "grasshopper legs",
+    "wareId": 14087,
+    "spriteHashHex": "0F458A9EEB63E101EE4D43C49E9620E6"
+  }
+}

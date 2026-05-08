@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 20310,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 20310,
+    "showAs": 20310,
+    "name": "christmas cookie tray"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      31299
+    ]
+  },
+  "server": {
+    "serverId": 22644,
+    "type": "None",
+    "name": "christmas cookie tray",
+    "wareId": 20310,
+    "spriteHashHex": "8709C1B9FF81F0663F015C1163120DF7"
+  }
+}

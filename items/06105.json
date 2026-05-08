@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 6105,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 6105,
+    "showAs": 6105,
+    "name": "Striker\u0027s favourite pillow"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18149
+    ]
+  },
+  "server": {
+    "serverId": 11427,
+    "type": "None",
+    "name": "Striker\u0027s favourite pillow",
+    "wareId": 6105,
+    "spriteHashHex": "1160F0312588925BC53BC56C54E6646F"
+  }
+}

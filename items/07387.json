@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7387,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7387,
+    "showAs": 7387,
+    "name": "diamond sceptre",
+    "restrictLevel": 25
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9066
+    ]
+  },
+  "server": {
+    "serverId": 7387,
+    "type": "None",
+    "name": "diamond sceptre",
+    "wareId": 7387,
+    "spriteHashHex": "D91E587FD0815EF5E2F52B33DDC9B425"
+  }
+}

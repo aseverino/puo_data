@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 11451,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11451,
+    "showAs": 11451,
+    "name": "broken crossbow"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17949
+    ]
+  },
+  "server": {
+    "serverId": 12407,
+    "type": "None",
+    "name": "broken crossbow",
+    "wareId": 11451,
+    "spriteHashHex": "1E47EBA5A3DF728CB74A37ADA5BC6008"
+  }
+}

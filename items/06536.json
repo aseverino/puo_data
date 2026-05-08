@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 6536,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 6536,
+    "showAs": 6536,
+    "name": "Countess Sorrow\u0027s frozen tear"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7956
+    ]
+  },
+  "server": {
+    "serverId": 6536,
+    "type": "None",
+    "name": "Countess Sorrow\u0027s frozen tear",
+    "wareId": 6536,
+    "spriteHashHex": "3D62C92F26C716D67B3AE23AA13DB456"
+  }
+}

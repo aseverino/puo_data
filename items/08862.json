@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 8862,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 8862,
+    "showAs": 8862,
+    "name": "yalahari armor",
+    "restrictProfession": 2,
+    "restrictLevel": 80
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      12856
+    ]
+  },
+  "server": {
+    "serverId": 9776,
+    "type": "None",
+    "name": "yalahari armor",
+    "wareId": 8862,
+    "spriteHashHex": "6CCDC704547D5AE4E7DAAD0D7635B0FA"
+  }
+}

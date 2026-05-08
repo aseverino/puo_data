@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9594,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 9594,
+    "showAs": 9594,
+    "name": "sneaky stabber of eliteness"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13839
+    ]
+  },
+  "server": {
+    "serverId": 10511,
+    "type": "None",
+    "name": "sneaky stabber of eliteness",
+    "wareId": 9594,
+    "spriteHashHex": "DAAE37DE792E79417DF52DEF89C8E22E"
+  }
+}

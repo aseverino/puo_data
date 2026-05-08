@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 14054,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14054,
+    "showAs": 14054,
+    "name": "reagent flask"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5941
+    ]
+  },
+  "server": {
+    "serverId": 15465,
+    "type": "None",
+    "name": "reagent flask",
+    "wareId": 14054,
+    "spriteHashHex": "D7FFE27CACD729065E27C71823008B7A"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 8819,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8819,
+    "showAs": 8819,
+    "name": "animal cure"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5936
+    ]
+  },
+  "server": {
+    "serverId": 9734,
+    "type": "None",
+    "name": "animal cure",
+    "wareId": 8819,
+    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C"
+  }
+}

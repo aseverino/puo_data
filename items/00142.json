@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 142,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 142,
+    "showAs": 142,
+    "name": "bale of white cloth"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      3083
+    ]
+  },
+  "server": {
+    "serverId": 7500,
+    "type": "None",
+    "name": "bale of white cloth",
+    "wareId": 142,
+    "spriteHashHex": "5ADE7C60A05E2E2D6356B1FD567C2E7F"
+  }
+}

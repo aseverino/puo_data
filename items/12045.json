@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 12045,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 4,
+  "offsetY": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 12045,
+    "showAs": 12045,
+    "name": "music box"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19292
+    ]
+  },
+  "server": {
+    "serverId": 13032,
+    "type": "None",
+    "name": "music box",
+    "wareId": 12045,
+    "spriteHashHex": "399B83DAE95053DA96A695E8CC4064D7"
+  }
+}

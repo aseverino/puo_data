@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 830,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 830,
+    "showAs": 830,
+    "name": "terra hood",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22975
+    ]
+  },
+  "server": {
+    "serverId": 7903,
+    "type": "None",
+    "name": "terra hood",
+    "wareId": 830,
+    "spriteHashHex": "4742BB56A7CF29070AE2D62EDD92488F"
+  }
+}

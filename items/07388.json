@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7388,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7388,
+    "showAs": 7388,
+    "name": "vile axe",
+    "restrictLevel": 55
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      8900
+    ]
+  },
+  "server": {
+    "serverId": 7388,
+    "type": "None",
+    "name": "vile axe",
+    "wareId": 7388,
+    "spriteHashHex": "1E57748069AB46F5059001231816498D"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "category": "item",
+  "clientId": 869,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isUnpassable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0,
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      10079,
+      10086,
+      10088,
+      10079,
+      10081,
+      10088,
+      10079,
+      10080,
+      10088,
+      10079,
+      10082,
+      10088,
+      10079,
+      10083,
+      10088,
+      10079,
+      10084,
+      10088,
+      10079,
+      10114,
+      10088,
+      10079,
+      10085,
+      10088
+    ]
+  },
+  "server": {
+    "serverId": 7934,
+    "type": "Fluid",
+    "spriteHashHex": "A64DE4E2310BB59813709ADE82A940CA"
+  }
+}

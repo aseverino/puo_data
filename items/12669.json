@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 12669,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 9,
+  "isMarketItem": true,
+  "market": {
+    "category": 11,
+    "tradeAs": 12669,
+    "showAs": 12669,
+    "name": "star ring",
+    "restrictProfession": 1
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      20062
+    ]
+  },
+  "server": {
+    "serverId": 13825,
+    "type": "None",
+    "name": "star ring",
+    "wareId": 12669,
+    "spriteHashHex": "7D3AE692C9DE793517CB87A4BA1F2216"
+  }
+}

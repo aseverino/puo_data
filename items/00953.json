@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 953,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 953,
+    "showAs": 953,
+    "name": "nail"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9555,
+      9556,
+      9557,
+      9558,
+      9559,
+      9560,
+      9561,
+      9561
+    ]
+  },
+  "server": {
+    "serverId": 8309,
+    "type": "None",
+    "name": "nail",
+    "wareId": 953,
+    "spriteHashHex": "B4E595FE34CEC89D4962CAB752072765"
+  }
+}

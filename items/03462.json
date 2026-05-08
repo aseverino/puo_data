@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3462,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3462,
+    "showAs": 3462,
+    "name": "small axe"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2
+    ]
+  },
+  "server": {
+    "serverId": 2559,
+    "type": "None",
+    "name": "small axe",
+    "wareId": 3462,
+    "spriteHashHex": "56618032FBCF97E28CD28B51E78E590B"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 16164,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 16164,
+    "showAs": 16164,
+    "name": "mycological bow",
+    "restrictProfession": 4,
+    "restrictLevel": 105
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25568
+    ]
+  },
+  "server": {
+    "serverId": 18454,
+    "type": "None",
+    "name": "mycological bow",
+    "wareId": 16164,
+    "spriteHashHex": "B3E39558456BE7296CFB9291407FD13D"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 9190,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9189,
+    "showAs": 9189,
+    "name": "hand puppets"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13278
+    ]
+  },
+  "server": {
+    "serverId": 10108,
+    "type": "None",
+    "name": "hand puppets",
+    "wareId": 9189,
+    "spriteHashHex": "B7EB11B99B8FA664D4FD70628779987A"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23806,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112619
+    ]
+  },
+  "server": {
+    "serverId": 26172,
+    "type": "None",
+    "spriteHashHex": "026FED585CBE545D8F8890F5A29DFBD5",
+    "article": "a",
+    "namePt": "rel\u00F3gio de hypno",
+    "articlePt": "um",
+    "pluralPt": "rel\u00F3gios de hypno",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

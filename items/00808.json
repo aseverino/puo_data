@@ -1,0 +1,63 @@
+{
+  "category": "item",
+  "clientId": 808,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 59,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 808,
+    "showAs": 808,
+    "name": "energy cranial basher",
+    "restrictLevel": 60
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      10000,
+      10001,
+      10002
+    ]
+  },
+  "server": {
+    "serverId": 7881,
+    "type": "None",
+    "name": "energy cranial basher",
+    "isAnimation": true,
+    "wareId": 808,
+    "spriteHashHex": "2F03CECCECEDADB5492F5DD1C932EDC4"
+  }
+}

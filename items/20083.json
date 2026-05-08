@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 20083,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 20083,
+    "showAs": 20083,
+    "name": "umbral bow",
+    "restrictProfession": 4,
+    "restrictLevel": 120
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30919
+    ]
+  },
+  "server": {
+    "serverId": 22417,
+    "type": "None",
+    "name": "umbral bow",
+    "wareId": 20083,
+    "spriteHashHex": "BD85E564FA1D9A8AF71EF42DA9029ACF"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "category": "item",
+  "clientId": 7410,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7410,
+    "showAs": 7410,
+    "name": "queen\u0027s sceptre",
+    "restrictLevel": 55
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      6459,
+      6460,
+      6461
+    ]
+  },
+  "server": {
+    "serverId": 7410,
+    "type": "None",
+    "name": "queen\u0027s sceptre",
+    "isAnimation": true,
+    "wareId": 7410,
+    "spriteHashHex": "D7376E998181A2C07183EC02C1A13331"
+  }
+}

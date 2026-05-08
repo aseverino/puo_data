@@ -1,0 +1,66 @@
+{
+  "category": "item",
+  "clientId": 14753,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 14753,
+    "showAs": 14753,
+    "name": "dung ball"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      22775,
+      1005,
+      22919,
+      1006,
+      22920,
+      1008,
+      22921,
+      1009
+    ]
+  },
+  "server": {
+    "serverId": 16096,
+    "type": "None",
+    "name": "dung ball",
+    "isAnimation": true,
+    "wareId": 14753,
+    "spriteHashHex": "A3CE100507C2D77A1866829D3C9115E8"
+  }
+}

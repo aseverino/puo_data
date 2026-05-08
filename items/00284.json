@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 284,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 10,
+    "tradeAs": 284,
+    "showAs": 284,
+    "name": "empty potion flask"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9599
+    ]
+  },
+  "server": {
+    "serverId": 7635,
+    "type": "None",
+    "name": "empty potion flask",
+    "wareId": 284,
+    "spriteHashHex": "F58C1FA4452AA42056B870659B40A4B0"
+  }
+}

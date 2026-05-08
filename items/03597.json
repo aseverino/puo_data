@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3597,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3597,
+    "showAs": 3597,
+    "name": "corncob"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1022
+    ]
+  },
+  "server": {
+    "serverId": 2686,
+    "type": "None",
+    "name": "corncob",
+    "wareId": 3597,
+    "spriteHashHex": "01C4156F22F0A7F42514515E4F3A5CB9"
+  }
+}

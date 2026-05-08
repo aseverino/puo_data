@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7251,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7251,
+    "showAs": 7251,
+    "name": "mushroom spores"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1859
+    ]
+  },
+  "server": {
+    "serverId": 7251,
+    "type": "None",
+    "name": "mushroom spores",
+    "wareId": 7251,
+    "spriteHashHex": "204862F2075039C43C1215C895C4D6FD"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3158,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3158,
+    "showAs": 3158,
+    "name": "icicle rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      890
+    ]
+  },
+  "server": {
+    "serverId": 2271,
+    "type": "None",
+    "name": "icicle rune",
+    "wareId": 3158,
+    "spriteHashHex": "5DB30E84A922F7DADBA362E1A36E4B1A"
+  }
+}

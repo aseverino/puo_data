@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3166,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3166,
+    "showAs": 3166,
+    "name": "energy wall rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      897
+    ]
+  },
+  "server": {
+    "serverId": 2279,
+    "type": "None",
+    "name": "energy wall rune",
+    "wareId": 3166,
+    "spriteHashHex": "D795BA7CB1E9BD5CB35BE98576C3020E"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5930,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 5930,
+    "showAs": 5930,
+    "name": "behemoth claw"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2139
+    ]
+  },
+  "server": {
+    "serverId": 5930,
+    "type": "None",
+    "name": "behemoth claw",
+    "wareId": 5930,
+    "spriteHashHex": "8E20320821A5B160E95EA7EAC3217368"
+  }
+}

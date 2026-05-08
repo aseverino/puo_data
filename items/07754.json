@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 7754,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 7754,
+    "showAs": 7754,
+    "name": "Jerom\u0027s family necklace"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22979
+    ]
+  },
+  "server": {
+    "serverId": 8584,
+    "type": "None",
+    "name": "Jerom\u0027s family necklace",
+    "wareId": 7754,
+    "spriteHashHex": "7FDCD847D9CC34130B859179C1A72C3D"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "category": "outfit",
+  "clientId": 1193,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 176,
+  "hasOffset": true,
+  "hasExtendedOffset": true,
+  "extendedOffsets": [
+    {
+      "y": -7
+    },
+    {
+      "x": -7
+    },
+    {
+      "y": -7
+    },
+    {
+      "x": -7
+    }
+  ],
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 2,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 7,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      64192,
+      64193,
+      0,
+      0,
+      64194,
+      0,
+      64195,
+      0,
+      64196,
+      64197,
+      0,
+      0,
+      64198,
+      0,
+      64199,
+      0,
+      64201,
+      64202,
+      0,
+      0,
+      64203,
+      0,
+      54184,
+      0,
+      64204,
+      64205,
+      0,
+      0,
+      64206,
+      0,
+      64207,
+      0,
+      64208,
+      41453,
+      0,
+      0,
+      64209,
+      0,
+      64210,
+      0,
+      64211,
+      0,
+      0,
+      0,
+      64212,
+      0,
+      64213,
+      0,
+      64214,
+      0,
+      0,
+      0,
+      64215,
+      0,
+      64216,
+      0
+    ]
+  },
+  "idle": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      64187,
+      64188,
+      0,
+      0,
+      64189,
+      0,
+      64190,
+      0
+    ]
+  },
+  "isSymmetricOutfit": true
+}

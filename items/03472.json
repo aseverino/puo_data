@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3472,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3472,
+    "showAs": 3472,
+    "name": "oven spatula"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      696
+    ]
+  },
+  "server": {
+    "serverId": 2569,
+    "type": "None",
+    "name": "oven spatula",
+    "wareId": 3472,
+    "spriteHashHex": "0F7689C8D7A37ED1BB56B5AB5895C455"
+  }
+}

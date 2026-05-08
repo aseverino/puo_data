@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 8774,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8774,
+    "showAs": 8774,
+    "name": "cask of brown ale"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      35
+    ]
+  },
+  "server": {
+    "serverId": 9689,
+    "type": "None",
+    "name": "cask of brown ale",
+    "wareId": 8774,
+    "spriteHashHex": "434B1F5F4EB28614414A57ED7169F219"
+  }
+}

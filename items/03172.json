@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3172,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3172,
+    "showAs": 3172,
+    "name": "poison field rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      903
+    ]
+  },
+  "server": {
+    "serverId": 2285,
+    "type": "None",
+    "name": "poison field rune",
+    "wareId": 3172,
+    "spriteHashHex": "DD3ECF8A20677096839F07D2E78ECFD4"
+  }
+}

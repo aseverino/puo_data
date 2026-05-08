@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9657,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9657,
+    "showAs": 9657,
+    "name": "cyclops toe"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13928
+    ]
+  },
+  "server": {
+    "serverId": 10574,
+    "type": "None",
+    "name": "cyclops toe",
+    "wareId": 9657,
+    "spriteHashHex": "8D44C77EF970741338F47D8D6F826189"
+  }
+}

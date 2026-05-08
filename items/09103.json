@@ -1,0 +1,84 @@
+{
+  "category": "item",
+  "clientId": 9103,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 9103,
+    "showAs": 9103,
+    "name": "batwing hat",
+    "restrictProfession": 24,
+    "restrictLevel": 50
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 8,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      3160,
+      72780,
+      72781,
+      72782,
+      72783,
+      72784,
+      72785,
+      72786
+    ]
+  },
+  "server": {
+    "serverId": 10016,
+    "type": "None",
+    "name": "batwing hat",
+    "isAnimation": true,
+    "wareId": 9103,
+    "spriteHashHex": "A52ECA509F05FBAA41A676C4950F6311"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 11692,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 11692,
+    "showAs": 11692,
+    "name": "snake god\u0027s sceptre",
+    "restrictLevel": 82
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18445
+    ]
+  },
+  "server": {
+    "serverId": 12648,
+    "type": "None",
+    "name": "snake god\u0027s sceptre",
+    "wareId": 11692,
+    "spriteHashHex": "B07047224FAD754B17F431B9F367202B"
+  }
+}

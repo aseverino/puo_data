@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12577,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 12577,
+    "showAs": 12577,
+    "name": "Impward"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15698
+    ]
+  },
+  "server": {
+    "serverId": 13566,
+    "type": "None",
+    "name": "Impward",
+    "wareId": 12577,
+    "spriteHashHex": "47ED2C22765DA36F090D8CBD9ED1EB6C"
+  }
+}

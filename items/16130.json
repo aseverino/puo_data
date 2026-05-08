@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 16130,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 16130,
+    "showAs": 16130,
+    "name": "magma clump"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25509
+    ]
+  },
+  "server": {
+    "serverId": 18424,
+    "type": "None",
+    "name": "magma clump",
+    "wareId": 16130,
+    "spriteHashHex": "ED0025E14AEA12BBE2246EBAF5B01198"
+  }
+}

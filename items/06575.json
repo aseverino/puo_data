@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 6575,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 6575,
+    "showAs": 6575,
+    "name": "red balloons"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7976,
+      0,
+      0,
+      0,
+      8007,
+      8008,
+      0,
+      0,
+      8009,
+      0,
+      8010,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 6575,
+    "type": "None",
+    "name": "red balloons",
+    "wareId": 6575,
+    "spriteHashHex": "7F92649BCCD9ADE086BB6E64F955E5CF"
+  }
+}

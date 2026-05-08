@@ -1,0 +1,61 @@
+{
+  "category": "item",
+  "clientId": 8153,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 8153,
+    "showAs": 8153,
+    "name": "golden newspaper"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      11341,
+      9605,
+      11341,
+      11347
+    ]
+  },
+  "server": {
+    "serverId": 8981,
+    "type": "None",
+    "name": "golden newspaper",
+    "isAnimation": true,
+    "wareId": 8153,
+    "spriteHashHex": "33FED27340669750209A03F3994C7D68"
+  }
+}

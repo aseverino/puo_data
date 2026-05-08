@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 11339,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11339,
+    "showAs": 11339,
+    "name": "unworked sacred wood"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4456
+    ]
+  },
+  "server": {
+    "serverId": 12295,
+    "type": "None",
+    "name": "unworked sacred wood",
+    "wareId": 11339,
+    "spriteHashHex": "2301A37121A4A69769823187DC504837"
+  }
+}

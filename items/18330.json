@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 18330,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 69,
+  "hasElevation": true,
+  "elevation": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 18330,
+    "showAs": 18330,
+    "name": "jade Zaoan knight"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27691
+    ]
+  },
+  "server": {
+    "serverId": 20611,
+    "type": "None",
+    "name": "jade Zaoan knight",
+    "hasHeight": true,
+    "wareId": 18330,
+    "spriteHashHex": "7DB208543D16C412CE3F4B4A04C9F335"
+  }
+}

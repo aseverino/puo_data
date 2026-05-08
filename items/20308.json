@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 20308,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 20308,
+    "showAs": 20308,
+    "name": "frazzlemaw santa"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      31297
+    ]
+  },
+  "server": {
+    "serverId": 22642,
+    "type": "None",
+    "name": "frazzlemaw santa",
+    "wareId": 20308,
+    "spriteHashHex": "42192199C0E0E7D85032966E0C0C89F8"
+  }
+}

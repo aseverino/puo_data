@@ -1,0 +1,112 @@
+{
+  "category": "outfit",
+  "clientId": 73,
+  "hasOffset": true,
+  "offsetX": -2,
+  "offsetY": -2,
+  "animateAlways": true,
+  "projectsShadow": true,
+  "shadowOffset": 11,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 9,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      91842,
+      91843,
+      91844,
+      91845,
+      91846,
+      91847,
+      91848,
+      91849,
+      91850,
+      91851,
+      91852,
+      91853,
+      91854,
+      91855,
+      91856,
+      91857,
+      91858,
+      91859,
+      91860,
+      91861,
+      91862,
+      91863,
+      91864,
+      91865,
+      91866,
+      91867,
+      91868,
+      91869,
+      91870,
+      91871,
+      91872,
+      91873,
+      91874,
+      91875,
+      91876,
+      91877
+    ],
+    "shadowRadii": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

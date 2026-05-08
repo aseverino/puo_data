@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5898,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 5898,
+    "showAs": 5898,
+    "name": "bonelord eye"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7126
+    ]
+  },
+  "server": {
+    "serverId": 5898,
+    "type": "None",
+    "name": "bonelord eye",
+    "wareId": 5898,
+    "spriteHashHex": "875D5064C588EB50CE941201731D1B3D"
+  }
+}

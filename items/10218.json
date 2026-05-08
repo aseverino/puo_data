@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 10218,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 10218,
+    "showAs": 10218,
+    "name": "corned fish"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6696
+    ]
+  },
+  "server": {
+    "serverId": 11135,
+    "type": "None",
+    "name": "corned fish",
+    "wareId": 10218,
+    "spriteHashHex": "F8E8576B8D74FA862E0B8B4C2126E635"
+  }
+}

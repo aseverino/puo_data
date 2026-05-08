@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "name": "puo_data",
+  "createdAt": "2026-05-05T20:35:33.4682643Z",
+  "lastModifiedAt": "2026-05-08T17:17:49.3041763Z",
+  "counts": {
+    "items": 4,
+    "sprites": 142641
+  },
+  "otb": {
+    "majorVersion": 3,
+    "minorVersion": 55,
+    "buildNumber": 227,
+    "clientVersion": 1037
+  },
+  "datIsNewFormat": true,
+  "spriteStorageMode": "chunked",
+  "spritesPerChunk": 256
+}

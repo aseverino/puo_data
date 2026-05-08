@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 8032,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 8032,
+    "showAs": 8032,
+    "name": "spiderwebs"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11289,
+      0,
+      0,
+      0,
+      11291,
+      11290,
+      0,
+      0,
+      11292,
+      0,
+      11293,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 8860,
+    "type": "None",
+    "name": "spiderwebs",
+    "wareId": 8032,
+    "spriteHashHex": "8BE989ED1ABB29E3D04951D98C0FC671"
+  }
+}

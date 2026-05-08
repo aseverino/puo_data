@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10280,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10280,
+    "showAs": 10280,
+    "name": "giant eye"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15354
+    ]
+  },
+  "server": {
+    "serverId": 11197,
+    "type": "None",
+    "name": "giant eye",
+    "wareId": 10280,
+    "spriteHashHex": "FE09EE1C7A1BD2A15800B4C4F55F1946"
+  }
+}

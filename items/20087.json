@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 20087,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 20087,
+    "showAs": 20087,
+    "name": "umbral master crossbow",
+    "restrictProfession": 4,
+    "restrictLevel": 250
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30923
+    ]
+  },
+  "server": {
+    "serverId": 22421,
+    "type": "None",
+    "name": "umbral master crossbow",
+    "wareId": 20087,
+    "spriteHashHex": "BC557ACF17209288A1AE3B798B9A3D8C"
+  }
+}

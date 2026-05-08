@@ -1,0 +1,73 @@
+{
+  "category": "item",
+  "clientId": 19251,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 19251,
+    "showAs": 19251,
+    "name": "smoking coal"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 5,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      19870,
+      9708,
+      19870,
+      9709,
+      19870,
+      9710,
+      19870,
+      9711,
+      19870,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 21585,
+    "type": "None",
+    "name": "smoking coal",
+    "isAnimation": true,
+    "wareId": 19251,
+    "spriteHashHex": "929506EEB56B7ED9D6628E4FA7276774"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 5917,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 5917,
+    "showAs": 5917,
+    "name": "bandana"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7084
+    ]
+  },
+  "server": {
+    "serverId": 5917,
+    "type": "None",
+    "name": "bandana",
+    "wareId": 5917,
+    "spriteHashHex": "C0796D8E764A7BEE33DE64C97494FDCA"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "category": "item",
+  "clientId": 13609,
+  "isUnpassable": true,
+  "blockMissile": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      140287
+    ]
+  },
+  "server": {
+    "serverId": 15079,
+    "type": "None",
+    "spriteHashHex": "AC68BC715589CD7A00ACD2DE9622EA7C"
+  }
+}

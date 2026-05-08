@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3560,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 3560,
+    "showAs": 3560,
+    "name": "bast skirt"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4806
+    ]
+  },
+  "server": {
+    "serverId": 3983,
+    "type": "None",
+    "name": "bast skirt",
+    "wareId": 3560,
+    "spriteHashHex": "CB3C956DCE41C390691BF3FC5E2460D6"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 2854,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2854,
+    "showAs": 2854,
+    "name": "backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      157
+    ]
+  },
+  "server": {
+    "serverId": 1988,
+    "type": "Container",
+    "name": "backpack",
+    "wareId": 2854,
+    "spriteHashHex": "0F7C2A777AF41B8133150EDD80606902"
+  }
+}

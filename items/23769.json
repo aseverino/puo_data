@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23769,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112566
+    ]
+  },
+  "server": {
+    "serverId": 26135,
+    "type": "None",
+    "spriteHashHex": "D634E08D0C347D58DA141B6E8DFC2663",
+    "article": "a",
+    "namePt": "tiara de noctowl",
+    "articlePt": "uma",
+    "pluralPt": "tiaras de noctowl",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

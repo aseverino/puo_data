@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 7773,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7773,
+    "showAs": 7773,
+    "name": "steel axe"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      10747
+    ]
+  },
+  "server": {
+    "serverId": 8601,
+    "type": "None",
+    "name": "steel axe",
+    "wareId": 7773,
+    "spriteHashHex": "FBC7235769EC1402408CB5A1874BA5CB"
+  }
+}

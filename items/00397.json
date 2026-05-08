@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 397,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 397,
+    "showAs": 397,
+    "name": "amazon disguise kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4939
+    ]
+  },
+  "server": {
+    "serverId": 7700,
+    "type": "None",
+    "name": "amazon disguise kit",
+    "wareId": 397,
+    "spriteHashHex": "02559845BC704C0615945BD6912F1CCD"
+  }
+}

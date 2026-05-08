@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 14052,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 14052,
+    "showAs": 14052,
+    "name": "flask of chitin dissolver"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5928
+    ]
+  },
+  "server": {
+    "serverId": 15463,
+    "type": "None",
+    "name": "flask of chitin dissolver",
+    "wareId": 14052,
+    "spriteHashHex": "BE0A5E42AC565A1FB78C2FDCB49A96AC"
+  }
+}

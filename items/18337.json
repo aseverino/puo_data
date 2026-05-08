@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 18337,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 87,
+  "hasElevation": true,
+  "elevation": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 18337,
+    "showAs": 18337,
+    "name": "obsidian Zaoan rook"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27698
+    ]
+  },
+  "server": {
+    "serverId": 20618,
+    "type": "None",
+    "name": "obsidian Zaoan rook",
+    "hasHeight": true,
+    "wareId": 18337,
+    "spriteHashHex": "2D99233012127DE75DB1AF6D145E9682"
+  }
+}

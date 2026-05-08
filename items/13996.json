@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 13996,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 13996,
+    "showAs": 13996,
+    "name": "depth ocrea",
+    "restrictProfession": 24,
+    "restrictLevel": 130
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22270
+    ]
+  },
+  "server": {
+    "serverId": 15409,
+    "type": "None",
+    "name": "depth ocrea",
+    "wareId": 13996,
+    "spriteHashHex": "337B5901E6F369EBA2DBD2B32A6E15A9"
+  }
+}

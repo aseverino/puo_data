@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 20085,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 20085,
+    "showAs": 20085,
+    "name": "crude umbral crossbow",
+    "restrictProfession": 4,
+    "restrictLevel": 75
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30921
+    ]
+  },
+  "server": {
+    "serverId": 22419,
+    "type": "None",
+    "name": "crude umbral crossbow",
+    "wareId": 20085,
+    "spriteHashHex": "2A7403C8C65798B8414E446989C9983C"
+  }
+}

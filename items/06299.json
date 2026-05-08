@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 6299,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 9,
+  "isMarketItem": true,
+  "market": {
+    "category": 11,
+    "tradeAs": 6299,
+    "showAs": 6299,
+    "name": "death ring"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7926
+    ]
+  },
+  "server": {
+    "serverId": 6300,
+    "type": "None",
+    "name": "death ring",
+    "wareId": 6299,
+    "spriteHashHex": "EB30BAEF62D7164AE711C4F503F0E419"
+  }
+}

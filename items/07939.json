@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7939,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7939,
+    "showAs": 7939,
+    "name": "precious necklace"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      942
+    ]
+  },
+  "server": {
+    "serverId": 8767,
+    "type": "None",
+    "name": "precious necklace",
+    "wareId": 7939,
+    "spriteHashHex": "CE43E5702F4ACFCCCF56FA4CF209AC8F"
+  }
+}

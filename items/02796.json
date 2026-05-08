@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 2796,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2796,
+    "showAs": 2976,
+    "name": "birdcage kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4939
+    ]
+  },
+  "server": {
+    "serverId": 3922,
+    "type": "None",
+    "name": "birdcage kit",
+    "hasHeight": true,
+    "wareId": 2796,
+    "spriteHashHex": "02559845BC704C0615945BD6912F1CCD"
+  }
+}

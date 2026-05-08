@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23807,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112620
+    ]
+  },
+  "server": {
+    "serverId": 26173,
+    "type": "None",
+    "spriteHashHex": "67615C9C9C8C6F762E9E1645DFB7ADBA",
+    "article": "a",
+    "namePt": "cachecol de hypno",
+    "articlePt": "um",
+    "pluralPt": "cachecol de hypno",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

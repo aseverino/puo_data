@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3030,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 3030,
+    "showAs": 3030,
+    "name": "small ruby"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5732,
+      5733,
+      3162,
+      3163,
+      5734,
+      5735,
+      6716,
+      6716
+    ]
+  },
+  "server": {
+    "serverId": 2147,
+    "type": "None",
+    "name": "small ruby",
+    "wareId": 3030,
+    "spriteHashHex": "2AB34BF2C15D42EA1AC432B27BDF44B4"
+  }
+}

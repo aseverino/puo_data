@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3202,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3202,
+    "showAs": 3202,
+    "name": "thunderstorm rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      933
+    ]
+  },
+  "server": {
+    "serverId": 2315,
+    "type": "None",
+    "name": "thunderstorm rune",
+    "wareId": 3202,
+    "spriteHashHex": "7D370F0ABAB43E06609E3AF0905F4E7F"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9843,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9843,
+    "showAs": 9843,
+    "name": "flask with beaver bait"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5936
+    ]
+  },
+  "server": {
+    "serverId": 11100,
+    "type": "None",
+    "name": "flask with beaver bait",
+    "wareId": 9843,
+    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C"
+  }
+}

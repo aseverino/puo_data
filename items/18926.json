@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 18926,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 18926,
+    "showAs": 18926,
+    "name": "horoscope"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      28743
+    ]
+  },
+  "server": {
+    "serverId": 21243,
+    "type": "None",
+    "name": "horoscope",
+    "wareId": 18926,
+    "spriteHashHex": "15544AF0AC260753F342600625FBDAC9"
+  }
+}

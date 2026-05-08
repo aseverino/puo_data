@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3243,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3243,
+    "showAs": 3243,
+    "name": "gemmed lamp"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2988
+    ]
+  },
+  "server": {
+    "serverId": 2356,
+    "type": "None",
+    "name": "gemmed lamp",
+    "wareId": 3243,
+    "spriteHashHex": "9B5A0B5FFAA93E532A78619F8B2E196F"
+  }
+}

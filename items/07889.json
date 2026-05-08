@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 7889,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 7889,
+    "showAs": 7889,
+    "name": "lock pick"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11076
+    ]
+  },
+  "server": {
+    "serverId": 8717,
+    "type": "None",
+    "name": "lock pick",
+    "wareId": 7889,
+    "spriteHashHex": "17297D22DB88BBEFE2D5C948BD94D5E6"
+  }
+}

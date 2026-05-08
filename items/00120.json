@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 120,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 120,
+    "showAs": 120,
+    "name": "some special leaves"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1635
+    ]
+  },
+  "server": {
+    "serverId": 14321,
+    "type": "None",
+    "name": "some special leaves",
+    "wareId": 120,
+    "spriteHashHex": "CE1C31439420985C8703D5725D7BC2EE"
+  }
+}

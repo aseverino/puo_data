@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 18936,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 18936,
+    "showAs": 18936,
+    "name": "the Vampire Count\u0027s medal"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      28754
+    ]
+  },
+  "server": {
+    "serverId": 21253,
+    "type": "None",
+    "name": "the Vampire Count\u0027s medal",
+    "wareId": 18936,
+    "spriteHashHex": "7D21C2AAE107F104DBA07E6F6B2C683D"
+  }
+}

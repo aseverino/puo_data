@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3473,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3473,
+    "showAs": 3473,
+    "name": "rolling pin"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      695
+    ]
+  },
+  "server": {
+    "serverId": 2570,
+    "type": "None",
+    "name": "rolling pin",
+    "wareId": 3473,
+    "spriteHashHex": "1CDAD96CAE1A811E5568C62A8571C4C0"
+  }
+}

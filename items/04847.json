@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 4847,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 4847,
+    "showAs": 4847,
+    "name": "funeral urn"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      160
+    ]
+  },
+  "server": {
+    "serverId": 4858,
+    "type": "None",
+    "name": "funeral urn",
+    "wareId": 4847,
+    "spriteHashHex": "CC0F2F429DB103217F42A8DB02D80785"
+  }
+}

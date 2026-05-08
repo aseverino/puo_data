@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 17824,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 17824,
+    "showAs": 17824,
+    "name": "swampling club"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27373
+    ]
+  },
+  "server": {
+    "serverId": 20104,
+    "type": "None",
+    "name": "swampling club",
+    "wareId": 17824,
+    "spriteHashHex": "AF6B40813CC7BE31B8C360D35EFAB232"
+  }
+}

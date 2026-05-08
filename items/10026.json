@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 10026,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 10026,
+    "showAs": 10026,
+    "name": "baby rotworm"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      4917,
+      4918
+    ]
+  },
+  "server": {
+    "serverId": 10943,
+    "type": "None",
+    "name": "baby rotworm",
+    "isAnimation": true,
+    "wareId": 10026,
+    "spriteHashHex": "6F63A0A0C26B7A8754D4D91CE2087984"
+  }
+}

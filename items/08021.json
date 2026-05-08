@@ -1,0 +1,55 @@
+{
+  "category": "item",
+  "clientId": 8021,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 8021,
+    "showAs": 8021,
+    "name": "modified crossbow",
+    "restrictProfession": 4,
+    "restrictLevel": 45
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11279,
+      64542,
+      64543,
+      64544,
+      64545,
+      64546,
+      64546,
+      64546
+    ]
+  },
+  "server": {
+    "serverId": 8849,
+    "type": "None",
+    "name": "modified crossbow",
+    "wareId": 8021,
+    "spriteHashHex": "8004C86F513D08667126CCC556232DAD"
+  }
+}

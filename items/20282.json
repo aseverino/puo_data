@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 20282,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 20282,
+    "showAs": 20282,
+    "name": "nightmare hook"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      31225,
+      0,
+      0,
+      0,
+      31226,
+      31227,
+      0,
+      0,
+      31228,
+      0,
+      31229,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 22616,
+    "type": "None",
+    "name": "nightmare hook",
+    "wareId": 20282,
+    "spriteHashHex": "6C1D9A79BF74893C816E6AB5FA11E411"
+  }
+}

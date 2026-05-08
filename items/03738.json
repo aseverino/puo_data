@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 3738,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 3738,
+    "showAs": 3738,
+    "name": "sling herb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1714
+    ]
+  },
+  "server": {
+    "serverId": 2802,
+    "type": "None",
+    "name": "sling herb",
+    "wareId": 3738,
+    "spriteHashHex": "26CB45906B7C89F69BDB7277F057EA28"
+  }
+}

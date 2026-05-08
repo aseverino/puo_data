@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 6089,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 6089,
+    "showAs": 6089,
+    "name": "music sheet"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7135
+    ]
+  },
+  "server": {
+    "serverId": 6089,
+    "type": "None",
+    "name": "music sheet",
+    "wareId": 6089,
+    "spriteHashHex": "3DFE89A9B4FADBCAA4098ED16534575B"
+  }
+}

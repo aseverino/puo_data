@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 10324,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 10324,
+    "showAs": 10324,
+    "name": "expedition backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15522
+    ]
+  },
+  "server": {
+    "serverId": 11241,
+    "type": "Container",
+    "name": "expedition backpack",
+    "wareId": 10324,
+    "spriteHashHex": "2F366BB9E00AA2F04484DC0279173AF2"
+  }
+}

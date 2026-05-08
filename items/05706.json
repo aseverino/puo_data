@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5706,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 5706,
+    "showAs": 5706,
+    "name": "treasure map"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      398
+    ]
+  },
+  "server": {
+    "serverId": 14337,
+    "type": "None",
+    "name": "treasure map",
+    "wareId": 5706,
+    "spriteHashHex": "590CCA5C33C575BA67BFE60B13FACC1B"
+  }
+}

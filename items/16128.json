@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 16128,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 16128,
+    "showAs": 16128,
+    "name": "minor crystalline token"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25497,
+      25498,
+      25499,
+      25500,
+      25501,
+      25502,
+      25502,
+      25502
+    ]
+  },
+  "server": {
+    "serverId": 18422,
+    "type": "None",
+    "name": "minor crystalline token",
+    "wareId": 16128,
+    "spriteHashHex": "E4A4CDF269DE54095C36DC46B03B3B6E"
+  }
+}

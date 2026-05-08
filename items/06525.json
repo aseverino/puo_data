@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 6525,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 6525,
+    "showAs": 6525,
+    "name": "skeleton decoration"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7936,
+      0,
+      0,
+      0,
+      7938,
+      7937,
+      0,
+      0,
+      7939,
+      0,
+      7940,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 6526,
+    "type": "None",
+    "name": "skeleton decoration",
+    "wareId": 6525,
+    "spriteHashHex": "E9FF4C6DA29E10E570DA25756E3F2458"
+  }
+}

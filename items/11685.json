@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 11685,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 11685,
+    "showAs": 11685,
+    "name": "cheese cookie"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18432,
+      18515,
+      18516,
+      18517,
+      18518,
+      18519,
+      18519,
+      18519
+    ]
+  },
+  "server": {
+    "serverId": 12641,
+    "type": "None",
+    "name": "cheese cookie",
+    "wareId": 11685,
+    "spriteHashHex": "869021DDC717519668688856326E88CF"
+  }
+}

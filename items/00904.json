@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 904,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 904,
+    "showAs": 904,
+    "name": "throwing cake"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7684
+    ]
+  },
+  "server": {
+    "serverId": 6394,
+    "type": "None",
+    "name": "throwing cake",
+    "wareId": 904,
+    "spriteHashHex": "665842EA29CD2554FE716BD98DE86E90"
+  }
+}

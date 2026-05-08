@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 6553,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 6553,
+    "showAs": 6553,
+    "name": "ruthless axe",
+    "restrictProfession": 2,
+    "restrictLevel": 75
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1860
+    ]
+  },
+  "server": {
+    "serverId": 6553,
+    "type": "None",
+    "name": "ruthless axe",
+    "wareId": 6553,
+    "spriteHashHex": "17667D863EDFEF29256FD6F84E5B9181"
+  }
+}

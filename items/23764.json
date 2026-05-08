@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23764,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112560
+    ]
+  },
+  "server": {
+    "serverId": 26130,
+    "type": "None",
+    "spriteHashHex": "D3481F34D9509DA757F0ECED33D8F95F",
+    "article": "a",
+    "plural": "incisor teeth",
+    "namePt": "dente incisivo",
+    "articlePt": "um",
+    "pluralPt": "dentes incisivos",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

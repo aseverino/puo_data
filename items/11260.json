@@ -1,0 +1,33 @@
+{
+  "category": "item",
+  "clientId": 11260,
+  "width": 1,
+  "height": 2,
+  "exactSize": 62,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17623,
+      17620
+    ]
+  },
+  "server": {
+    "serverId": 12216,
+    "type": "None",
+    "spriteHashHex": "25F29D881FF4C229446AF3B73934CE07"
+  }
+}

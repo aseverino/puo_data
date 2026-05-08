@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 11449,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11449,
+    "showAs": 11449,
+    "name": "blood preservation"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17947
+    ]
+  },
+  "server": {
+    "serverId": 12405,
+    "type": "None",
+    "name": "blood preservation",
+    "wareId": 11449,
+    "spriteHashHex": "4358D979BF0A8813B8E913C0EB195CD9"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7380,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 7380,
+    "showAs": 7380,
+    "name": "headchopper",
+    "restrictProfession": 2,
+    "restrictLevel": 35
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9060
+    ]
+  },
+  "server": {
+    "serverId": 7380,
+    "type": "None",
+    "name": "headchopper",
+    "wareId": 7380,
+    "spriteHashHex": "DD872FD898EA25E6466E8953DB177F46"
+  }
+}

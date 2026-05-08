@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 7458,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 7458,
+    "showAs": 7458,
+    "name": "fur cap"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9092
+    ]
+  },
+  "server": {
+    "serverId": 7458,
+    "type": "None",
+    "name": "fur cap",
+    "wareId": 7458,
+    "spriteHashHex": "AF67B2EC766D98A7DF39F1A9721AEA92"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9380,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 9380,
+    "showAs": 9380,
+    "name": "shield of care"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      3091
+    ]
+  },
+  "server": {
+    "serverId": 10297,
+    "type": "None",
+    "name": "shield of care",
+    "wareId": 9380,
+    "spriteHashHex": "21D29025611430F145F36F7CCF67190A"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3021,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3021,
+    "showAs": 3021,
+    "name": "sapphire amulet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2262
+    ]
+  },
+  "server": {
+    "serverId": 2138,
+    "type": "None",
+    "name": "sapphire amulet",
+    "wareId": 3021,
+    "spriteHashHex": "0A6ABC524BC272FB0C61FF5AC29FF9B5"
+  }
+}

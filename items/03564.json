@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3564,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 3564,
+    "showAs": 3564,
+    "name": "red tunic"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1892
+    ]
+  },
+  "server": {
+    "serverId": 2653,
+    "type": "None",
+    "name": "red tunic",
+    "wareId": 3564,
+    "spriteHashHex": "A1CD28C4F23F3D2C8DB6DBCBE75B4154"
+  }
+}

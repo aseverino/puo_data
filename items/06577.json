@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 6577,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 6577,
+    "showAs": 6577,
+    "name": "green balloons"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7976,
+      0,
+      0,
+      0,
+      8012,
+      8011,
+      0,
+      0,
+      8013,
+      0,
+      8014,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 6577,
+    "type": "None",
+    "name": "green balloons",
+    "wareId": 6577,
+    "spriteHashHex": "7F92649BCCD9ADE086BB6E64F955E5CF"
+  }
+}

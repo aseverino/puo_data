@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 2647,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2647,
+    "showAs": 2647,
+    "name": "green tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2969,
+      0,
+      0,
+      0,
+      2966,
+      2965,
+      0,
+      0,
+      2968,
+      0,
+      2967,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 1860,
+    "type": "None",
+    "name": "green tapestry",
+    "wareId": 2647,
+    "spriteHashHex": "40C5683046F70B5502A225834907A5CB"
+  }
+}

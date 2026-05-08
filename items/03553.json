@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3553,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 3553,
+    "showAs": 3553,
+    "name": "bunnyslippers"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2246
+    ]
+  },
+  "server": {
+    "serverId": 2644,
+    "type": "None",
+    "name": "bunnyslippers",
+    "wareId": 3553,
+    "spriteHashHex": "1B323BF0232B1EF3A7C6976090699991"
+  }
+}

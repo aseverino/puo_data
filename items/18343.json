@@ -1,0 +1,101 @@
+{
+  "category": "item",
+  "clientId": 18343,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 18343,
+    "showAs": 18343,
+    "name": "bookworm doll"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 12,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      27701,
+      27702,
+      27703,
+      27704,
+      27705,
+      27706,
+      27707,
+      27708,
+      27709,
+      27710,
+      27711,
+      27712
+    ]
+  },
+  "server": {
+    "serverId": 20624,
+    "type": "None",
+    "name": "bookworm doll",
+    "isAnimation": true,
+    "wareId": 18343,
+    "spriteHashHex": "5F04A55EED8DF90F2D3425BAB540244D"
+  }
+}

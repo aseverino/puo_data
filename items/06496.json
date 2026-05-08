@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 6496,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 6496,
+    "showAs": 6496,
+    "name": "christmas present bag"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2141
+    ]
+  },
+  "server": {
+    "serverId": 6497,
+    "type": "None",
+    "name": "christmas present bag",
+    "wareId": 6496,
+    "spriteHashHex": "6F799B8FAEA754F566F2ABACE62BCFBB"
+  }
+}

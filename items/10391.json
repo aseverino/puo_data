@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 10391,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 10391,
+    "showAs": 10391,
+    "name": "drachaku",
+    "restrictProfession": 2,
+    "restrictLevel": 55
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15487
+    ]
+  },
+  "server": {
+    "serverId": 11308,
+    "type": "None",
+    "name": "drachaku",
+    "wareId": 10391,
+    "spriteHashHex": "1D0B6116B157553AF31E24C475B13021"
+  }
+}

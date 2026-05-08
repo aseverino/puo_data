@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 12232,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12232,
+    "showAs": 12232,
+    "name": "rotten witches\u0027 cauldron seed"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19436
+    ]
+  },
+  "server": {
+    "serverId": 13219,
+    "type": "None",
+    "name": "rotten witches\u0027 cauldron seed",
+    "wareId": 12232,
+    "spriteHashHex": "D6891D1D6BDE19E7F2723749C89D317C"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 3114,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3114,
+    "showAs": 3114,
+    "name": "skull"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1084,
+      1085,
+      1086,
+      1087,
+      1621,
+      1621,
+      1621,
+      1621
+    ]
+  },
+  "server": {
+    "serverId": 2230,
+    "type": "None",
+    "name": "skull",
+    "wareId": 3114,
+    "spriteHashHex": "522D4862498DCA53A7024571BB85C9C6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 11679,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 143,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 11679,
+    "showAs": 11679,
+    "name": "souleater trophy"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18424
+    ]
+  },
+  "server": {
+    "serverId": 12635,
+    "type": "None",
+    "name": "souleater trophy",
+    "wareId": 11679,
+    "spriteHashHex": "393199ABAE170B646F306566B8515516"
+  }
+}

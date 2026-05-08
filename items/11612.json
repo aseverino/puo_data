@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 11612,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 212,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11612,
+    "showAs": 11612,
+    "name": "golden rune emblem"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18359
+    ]
+  },
+  "server": {
+    "serverId": 12568,
+    "type": "None",
+    "name": "golden rune emblem",
+    "wareId": 11612,
+    "spriteHashHex": "6CB768F2F54DC96AFB20808D0DC71EB2"
+  }
+}

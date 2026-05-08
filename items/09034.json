@@ -1,0 +1,64 @@
+{
+  "category": "item",
+  "clientId": 9034,
+  "isPickupable": true,
+  "isRotatable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 26,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9035,
+    "showAs": 9035,
+    "name": "dracoyle statue"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      13219,
+      13220,
+      13221
+    ]
+  },
+  "server": {
+    "serverId": 9948,
+    "type": "None",
+    "name": "dracoyle statue",
+    "isAnimation": true,
+    "wareId": 9035,
+    "spriteHashHex": "71C85FCAEF996E64BF50A9437FBD41C9"
+  }
+}

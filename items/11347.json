@@ -1,0 +1,61 @@
+{
+  "category": "item",
+  "clientId": 11347,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11347,
+    "showAs": 11347,
+    "name": "sacred bowl of purification"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      17357,
+      562,
+      17357,
+      690,
+      17357,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 12303,
+    "type": "None",
+    "name": "sacred bowl of purification",
+    "isAnimation": true,
+    "wareId": 11347,
+    "spriteHashHex": "ECE1B7CAB3D2519B339E789BB528BDDC"
+  }
+}

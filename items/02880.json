@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 2880,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2880,
+    "showAs": 2880,
+    "name": "mug"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1478
+    ]
+  },
+  "server": {
+    "serverId": 2012,
+    "type": "Fluid",
+    "name": "mug",
+    "wareId": 2880,
+    "spriteHashHex": "8D3C6D6E305927646002E658D85FFFBB"
+  }
+}

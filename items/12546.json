@@ -1,0 +1,68 @@
+{
+  "category": "item",
+  "clientId": 12546,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 198,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 12546,
+    "showAs": 12546,
+    "name": "fist on a stick"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 5,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      19833,
+      84245,
+      84246,
+      84245,
+      19833
+    ]
+  },
+  "server": {
+    "serverId": 13535,
+    "type": "None",
+    "name": "fist on a stick",
+    "isAnimation": true,
+    "wareId": 12546,
+    "spriteHashHex": "BC61FE8ABC01E51655B0F8ADFEB171F9"
+  }
+}

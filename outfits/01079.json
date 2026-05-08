@@ -1,0 +1,99 @@
+{
+  "category": "outfit",
+  "clientId": 1079,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 95,
+  "hasOffset": true,
+  "offsetX": -4,
+  "offsetY": -4,
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 2,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      67729,
+      67730,
+      67731,
+      67732,
+      67733,
+      67734,
+      67735,
+      0,
+      67736,
+      67737,
+      67738,
+      67739,
+      67740,
+      67741,
+      67742,
+      0,
+      67743,
+      67744,
+      67745,
+      67746,
+      67747,
+      67748,
+      67749,
+      0,
+      67736,
+      67737,
+      67738,
+      67739,
+      67740,
+      67741,
+      67742,
+      0
+    ]
+  },
+  "idle": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      67723,
+      0,
+      67724,
+      67725,
+      67726,
+      67727,
+      67728,
+      0
+    ]
+  },
+  "isSymmetricOutfit": true
+}

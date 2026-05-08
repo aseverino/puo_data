@@ -1,0 +1,49 @@
+{
+  "category": "item",
+  "clientId": 2917,
+  "isPickupable": true,
+  "hasLight": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 2917,
+    "showAs": 2917,
+    "name": "candlestick"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      304
+    ]
+  },
+  "server": {
+    "serverId": 2047,
+    "type": "None",
+    "name": "candlestick",
+    "wareId": 2917,
+    "spriteHashHex": "F1E48BC8D79065474A5FE84344083424"
+  }
+}

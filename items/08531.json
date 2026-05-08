@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 8531,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 8531,
+    "showAs": 8531,
+    "name": "blood goblet"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      12184
+    ]
+  },
+  "server": {
+    "serverId": 9447,
+    "type": "None",
+    "name": "blood goblet",
+    "wareId": 8531,
+    "spriteHashHex": "494370EE28E60B344CF9B4F781888FAA"
+  }
+}

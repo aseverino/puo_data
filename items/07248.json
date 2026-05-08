@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7248,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7248,
+    "showAs": 7248,
+    "name": "frostbite herb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6815
+    ]
+  },
+  "server": {
+    "serverId": 7248,
+    "type": "None",
+    "name": "frostbite herb",
+    "wareId": 7248,
+    "spriteHashHex": "100B5870C74FBFD6CC88D69B7E136349"
+  }
+}

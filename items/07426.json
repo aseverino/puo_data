@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 7426,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7426,
+    "showAs": 7426,
+    "name": "amber staff",
+    "restrictLevel": 40
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9089
+    ]
+  },
+  "server": {
+    "serverId": 7426,
+    "type": "None",
+    "name": "amber staff",
+    "wareId": 7426,
+    "spriteHashHex": "F45D88C37D09A044407EBCFB505DD292"
+  }
+}

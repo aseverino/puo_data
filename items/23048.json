@@ -1,0 +1,79 @@
+{
+  "category": "item",
+  "clientId": 23048,
+  "isStackable": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 8,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      101272,
+      101273,
+      101274,
+      101275,
+      101276,
+      101277,
+      101278,
+      101279
+    ]
+  },
+  "server": {
+    "serverId": 25403,
+    "type": "None",
+    "isAnimation": true,
+    "spriteHashHex": "0380FCA87E298D276274951C1B8DD3EC",
+    "article": "an",
+    "articlePt": "um",
+    "xmlAttributes": {
+      "description": "You can use it to return to the Pok\u00E9mon Center.",
+      "descriptionpt": "Voc\u00EA pode utiliz\u00E1-lo para retornar ao Centro Pok\u00E9mon."
+    }
+  }
+}

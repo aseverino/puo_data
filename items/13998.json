@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 13998,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 13998,
+    "showAs": 13998,
+    "name": "depth scutum",
+    "restrictProfession": 24,
+    "restrictLevel": 120
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22272
+    ]
+  },
+  "server": {
+    "serverId": 15411,
+    "type": "None",
+    "name": "depth scutum",
+    "wareId": 13998,
+    "spriteHashHex": "E45B0B2365D97118F8C8C924AA168A9E"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "category": "item",
+  "clientId": 12722,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12819,
+    "showAs": 12819,
+    "name": "bucket of bog water"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 7,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      521,
+      562,
+      521,
+      690,
+      521,
+      691,
+      521,
+      0,
+      521,
+      0,
+      521,
+      0,
+      521,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 13864,
+    "type": "None",
+    "name": "bucket of bog water",
+    "isAnimation": true,
+    "wareId": 12819,
+    "spriteHashHex": "50145728591F9024C72876417D51527C"
+  }
+}

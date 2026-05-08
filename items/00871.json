@@ -1,0 +1,98 @@
+{
+  "category": "item",
+  "clientId": 871,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isUnpassable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      10089,
+      10092,
+      10089,
+      10093,
+      10089,
+      10096,
+      10089,
+      10099,
+      10089,
+      10102,
+      10089,
+      10105,
+      10089,
+      10108,
+      10089,
+      10111,
+      10089,
+      10092,
+      10089,
+      10094,
+      10089,
+      10097,
+      10089,
+      10100,
+      10089,
+      10103,
+      10089,
+      10106,
+      10089,
+      10109,
+      10089,
+      10112,
+      10089,
+      10092,
+      10089,
+      10095,
+      10089,
+      10098,
+      10089,
+      10101,
+      10089,
+      10104,
+      10089,
+      10107,
+      10089,
+      10110,
+      10089,
+      10113
+    ]
+  },
+  "server": {
+    "serverId": 7935,
+    "type": "Fluid",
+    "isAnimation": true,
+    "spriteHashHex": "BADF66A66D06E40D646A7A901DD860B3"
+  }
+}

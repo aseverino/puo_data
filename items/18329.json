@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 18329,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 69,
+  "hasElevation": true,
+  "elevation": 8,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 18329,
+    "showAs": 18329,
+    "name": "jade Zaoan bishop"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27690
+    ]
+  },
+  "server": {
+    "serverId": 20610,
+    "type": "None",
+    "name": "jade Zaoan bishop",
+    "hasHeight": true,
+    "wareId": 18329,
+    "spriteHashHex": "FB3802F7F70791BC055D4B2AB57633CF"
+  }
+}

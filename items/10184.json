@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 10184,
+  "isPickupable": true,
+  "isLensHelp": true,
+  "lensHelp": 1112,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 10184,
+    "showAs": 10184,
+    "name": "tactical map"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9664
+    ]
+  },
+  "server": {
+    "serverId": 14354,
+    "type": "None",
+    "name": "tactical map",
+    "wareId": 10184,
+    "spriteHashHex": "308206C48A18CFAFCA177AB31EE6DCBF"
+  }
+}

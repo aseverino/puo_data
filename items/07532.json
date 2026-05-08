@@ -1,0 +1,49 @@
+{
+  "category": "item",
+  "clientId": 7532,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 30,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 7532,
+    "showAs": 7532,
+    "name": "Koshei\u0027s ancient amulet"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9678
+    ]
+  },
+  "server": {
+    "serverId": 8266,
+    "type": "None",
+    "name": "Koshei\u0027s ancient amulet",
+    "wareId": 7532,
+    "spriteHashHex": "03368686C07084B672A200862C377B4F"
+  }
+}

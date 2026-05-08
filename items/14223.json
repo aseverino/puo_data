@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 14223,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 14223,
+    "showAs": 14223,
+    "name": "trophy of Tanjis"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22773,
+      0,
+      0,
+      0,
+      0,
+      22279,
+      0,
+      0,
+      0,
+      0,
+      22280,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 15620,
+    "type": "None",
+    "name": "trophy of Tanjis",
+    "wareId": 14223,
+    "spriteHashHex": "B689635C46725D93E6EAA5FF21CF1CF8"
+  }
+}

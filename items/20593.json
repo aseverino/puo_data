@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 20593,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      41711,
+      41712,
+      41713,
+      41714,
+      41715,
+      41716,
+      41716,
+      41716
+    ]
+  },
+  "server": {
+    "serverId": 22931,
+    "type": "None",
+    "spriteHashHex": "A0872FDC5F44E5B516F7E9BF410B224D",
+    "article": "a",
+    "namePt": "madeira cortada",
+    "articlePt": "uma",
+    "pluralPt": "madeiras cortadas",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

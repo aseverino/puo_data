@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 11683,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 11683,
+    "showAs": 11683,
+    "name": "peas"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18430,
+      18510,
+      18511,
+      18512,
+      18513,
+      18514,
+      18514,
+      18514
+    ]
+  },
+  "server": {
+    "serverId": 12639,
+    "type": "None",
+    "name": "peas",
+    "wareId": 11683,
+    "spriteHashHex": "5B5F6292D153E9C8AA81787BAC122096"
+  }
+}

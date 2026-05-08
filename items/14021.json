@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 14021,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 14021,
+    "showAs": 14021,
+    "name": "Jaul\u0027s Pearl"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22299
+    ]
+  },
+  "server": {
+    "serverId": 15434,
+    "type": "None",
+    "name": "Jaul\u0027s Pearl",
+    "wareId": 14021,
+    "spriteHashHex": "431EB1D9D8B8CABCA199680ED916468B"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7933,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7933,
+    "showAs": 7933,
+    "name": "invitation"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11073
+    ]
+  },
+  "server": {
+    "serverId": 8761,
+    "type": "None",
+    "name": "invitation",
+    "wareId": 7933,
+    "spriteHashHex": "E59D37218227484E4EE836E152C333BC"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3469,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3469,
+    "showAs": 3469,
+    "name": "kitchen knife"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1262
+    ]
+  },
+  "server": {
+    "serverId": 2566,
+    "type": "None",
+    "name": "kitchen knife",
+    "wareId": 3469,
+    "spriteHashHex": "3356E28AC3F3108176405308937B9F4A"
+  }
+}

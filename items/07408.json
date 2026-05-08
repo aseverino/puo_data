@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7408,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7408,
+    "showAs": 7408,
+    "name": "wyvern fang",
+    "restrictLevel": 25
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9244
+    ]
+  },
+  "server": {
+    "serverId": 7408,
+    "type": "None",
+    "name": "wyvern fang",
+    "wareId": 7408,
+    "spriteHashHex": "FA970280A9BF11CEF36A07F1FAD4FE77"
+  }
+}

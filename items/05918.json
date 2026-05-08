@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 5918,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 5918,
+    "showAs": 5918,
+    "name": "pirate knee breeches"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7085
+    ]
+  },
+  "server": {
+    "serverId": 5918,
+    "type": "None",
+    "name": "pirate knee breeches",
+    "wareId": 5918,
+    "spriteHashHex": "2BA8D5A653736A5B2AC65C1855C429C3"
+  }
+}

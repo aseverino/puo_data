@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 14077,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 14077,
+    "showAs": 14077,
+    "name": "kollos shell"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22388
+    ]
+  },
+  "server": {
+    "serverId": 15480,
+    "type": "None",
+    "name": "kollos shell",
+    "wareId": 14077,
+    "spriteHashHex": "74371D4635E5BEDCA601D7D7735C98C3"
+  }
+}

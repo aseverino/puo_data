@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 812,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 812,
+    "showAs": 812,
+    "name": "terra legs",
+    "restrictProfession": 24,
+    "restrictLevel": 40
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9962
+    ]
+  },
+  "server": {
+    "serverId": 7885,
+    "type": "None",
+    "name": "terra legs",
+    "wareId": 812,
+    "spriteHashHex": "5266AD829D4FB8A1050A1A3EE1FBC1F9"
+  }
+}

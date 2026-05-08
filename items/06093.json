@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 6093,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 6093,
+    "showAs": 6093,
+    "name": "crystal ring"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1641
+    ]
+  },
+  "server": {
+    "serverId": 6093,
+    "type": "None",
+    "name": "crystal ring",
+    "wareId": 6093,
+    "spriteHashHex": "4649B61061F0EB94AAE266BCC7B43D7C"
+  }
+}

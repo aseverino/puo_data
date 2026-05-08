@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 2911,
+  "isPickupable": true,
+  "hasLight": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 2911,
+    "showAs": 2911,
+    "name": "candelabrum"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      393
+    ]
+  },
+  "server": {
+    "serverId": 2041,
+    "type": "None",
+    "name": "candelabrum",
+    "wareId": 2911,
+    "spriteHashHex": "10FA2B1D36E516180F9AE47B40449B75"
+  }
+}

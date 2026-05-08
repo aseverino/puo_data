@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 5096,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 5096,
+    "showAs": 5096,
+    "name": "mango"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      5752,
+      5753,
+      5754,
+      5755,
+      5756,
+      5757,
+      5757,
+      5757
+    ]
+  },
+  "server": {
+    "serverId": 5097,
+    "type": "None",
+    "name": "mango",
+    "wareId": 5096,
+    "spriteHashHex": "0F534170E6D9E894D4094C58A961684B"
+  }
+}

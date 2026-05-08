@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23910,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112866
+    ]
+  },
+  "server": {
+    "serverId": 26276,
+    "type": "None",
+    "spriteHashHex": "44E7D22C1DC77D1442432B0364F4B358",
+    "article": "a",
+    "plural": "exeggutor leaves",
+    "namePt": "folha de exeggutor",
+    "articlePt": "uma",
+    "pluralPt": "folhas de exeggutor",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "category": "item",
+  "clientId": 14767,
+  "isPickupable": true,
+  "isHangable": true,
+  "hasLight": true,
+  "lightLevel": 5,
+  "lightColor": 53,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 14766,
+    "showAs": 14766,
+    "name": "majestic shield"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      24177,
+      0,
+      0,
+      0,
+      24179,
+      24178,
+      0,
+      0,
+      24180,
+      0,
+      24181,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 16110,
+    "type": "None",
+    "name": "majestic shield",
+    "wareId": 14766,
+    "spriteHashHex": "B5FDF5F33E37E30067CC38A45A74E120"
+  }
+}

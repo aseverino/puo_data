@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 14242,
+  "isPickupable": true,
+  "hasOffset": true,
+  "offsetX": 8,
+  "offsetY": 8,
+  "hasElevation": true,
+  "elevation": 14,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 14241,
+    "showAs": 14241,
+    "name": "true heart of the sea"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      10014,
+      22824
+    ]
+  },
+  "server": {
+    "serverId": 15639,
+    "type": "None",
+    "name": "true heart of the sea",
+    "hasHeight": true,
+    "wareId": 14241,
+    "spriteHashHex": "92031352023C9834185F5ACD32FB0C7C"
+  }
+}

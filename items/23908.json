@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23908,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112865
+    ]
+  },
+  "server": {
+    "serverId": 26274,
+    "type": "None",
+    "spriteHashHex": "9313EA3958DE4DDF2A56676111C4850A",
+    "article": "a",
+    "namePt": "resist\u00EAncia",
+    "articlePt": "uma",
+    "pluralPt": "resist\u00EAncias",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

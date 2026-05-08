@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 6569,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 6569,
+    "showAs": 6569,
+    "name": "candy"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7978,
+      7979,
+      7980,
+      7981,
+      7982,
+      7983,
+      7984,
+      7985
+    ]
+  },
+  "server": {
+    "serverId": 6569,
+    "type": "None",
+    "name": "candy",
+    "wareId": 6569,
+    "spriteHashHex": "F4884543045F54AF72DBDB3640C5256E"
+  }
+}

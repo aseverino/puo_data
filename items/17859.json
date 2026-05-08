@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 17859,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 17859,
+    "showAs": 17859,
+    "name": "spiky club",
+    "restrictLevel": 20
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27425
+    ]
+  },
+  "server": {
+    "serverId": 20139,
+    "type": "None",
+    "name": "spiky club",
+    "wareId": 17859,
+    "spriteHashHex": "BAFEF5BB41D14E075E5E3D228BA141D1"
+  }
+}

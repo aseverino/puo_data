@@ -1,0 +1,64 @@
+{
+  "category": "item",
+  "clientId": 821,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 7,
+  "isMarketItem": true,
+  "market": {
+    "category": 8,
+    "tradeAs": 821,
+    "showAs": 821,
+    "name": "magma legs",
+    "restrictProfession": 24,
+    "restrictLevel": 40
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      9972,
+      9973,
+      9974,
+      9973
+    ]
+  },
+  "server": {
+    "serverId": 7894,
+    "type": "None",
+    "name": "magma legs",
+    "isAnimation": true,
+    "wareId": 821,
+    "spriteHashHex": "FD5FAEFDB9693D52D779C859A659BAE3"
+  }
+}

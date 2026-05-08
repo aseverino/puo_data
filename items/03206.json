@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3206,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3206,
+    "showAs": 3206,
+    "name": "dragonfetish"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1907
+    ]
+  },
+  "server": {
+    "serverId": 2319,
+    "type": "None",
+    "name": "dragonfetish",
+    "wareId": 3206,
+    "spriteHashHex": "CCF34661BE8B88CBF56DBECD3B7C93E0"
+  }
+}

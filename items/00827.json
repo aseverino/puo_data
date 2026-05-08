@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 827,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 827,
+    "showAs": 827,
+    "name": "magma monocle",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9982
+    ]
+  },
+  "server": {
+    "serverId": 7900,
+    "type": "None",
+    "name": "magma monocle",
+    "wareId": 827,
+    "spriteHashHex": "53130422DB304EE8805DFA17D7FC9FD8"
+  }
+}

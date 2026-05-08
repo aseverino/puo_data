@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 21636,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3483,
+    "showAs": 3483,
+    "name": "fishing rod"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      50697
+    ]
+  },
+  "server": {
+    "serverId": 23975,
+    "type": "None",
+    "name": "fishing rod",
+    "wareId": 3483,
+    "spriteHashHex": "2EB00349EF8E8A4D28B9799D42E0D964"
+  }
+}

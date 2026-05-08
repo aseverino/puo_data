@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23763,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112559
+    ]
+  },
+  "server": {
+    "serverId": 26129,
+    "type": "None",
+    "spriteHashHex": "1CE35D22C6C6DE046CD1C23F16B26BF4",
+    "article": "a",
+    "plural": "rattata tails",
+    "namePt": "cauda de rattata",
+    "articlePt": "uma",
+    "pluralPt": "caudas de rattata",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

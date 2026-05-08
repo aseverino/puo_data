@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 7365,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 7365,
+    "showAs": 7365,
+    "name": "onyx arrow",
+    "restrictLevel": 40
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9284,
+      9274,
+      9281,
+      9282,
+      9283,
+      9285,
+      9285,
+      9285
+    ]
+  },
+  "server": {
+    "serverId": 7365,
+    "type": "None",
+    "name": "onyx arrow",
+    "wareId": 7365,
+    "spriteHashHex": "6A6F6CBEB137506C5310FD37F5D0F855"
+  }
+}

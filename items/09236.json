@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 9236,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9236,
+    "showAs": 9236,
+    "name": "animal fetish"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6232
+    ]
+  },
+  "server": {
+    "serverId": 10154,
+    "type": "None",
+    "name": "animal fetish",
+    "wareId": 9236,
+    "spriteHashHex": "97C4DA1AC645A30E18B791A8D72E2E8D"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 2873,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2873,
+    "showAs": 2873,
+    "name": "bucket"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      248,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525
+    ]
+  },
+  "server": {
+    "serverId": 2005,
+    "type": "Fluid",
+    "name": "bucket",
+    "wareId": 2873,
+    "spriteHashHex": "3EE6F33B4981C9A4892B6E3D1DB10AC1"
+  }
+}

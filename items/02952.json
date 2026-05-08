@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 2952,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2952,
+    "showAs": 2952,
+    "name": "drum"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      754
+    ]
+  },
+  "server": {
+    "serverId": 14331,
+    "type": "None",
+    "name": "drum",
+    "wareId": 2952,
+    "spriteHashHex": "9F6CE09CF89026FA9711F0C00D31C044"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 6500,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 6500,
+    "showAs": 6500,
+    "name": "gingerbreadman"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7874
+    ]
+  },
+  "server": {
+    "serverId": 6501,
+    "type": "None",
+    "name": "gingerbreadman",
+    "wareId": 6500,
+    "spriteHashHex": "773327C9DCE7C326B88302786088F890"
+  }
+}

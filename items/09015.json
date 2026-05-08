@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9015,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 9015,
+    "showAs": 9015,
+    "name": "flower dress"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13164
+    ]
+  },
+  "server": {
+    "serverId": 9929,
+    "type": "None",
+    "name": "flower dress",
+    "wareId": 9015,
+    "spriteHashHex": "D0AF774637051F7BBC678B77FB249514"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 12171,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12171,
+    "showAs": 12171,
+    "name": "handcrafted ribbon"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15710
+    ]
+  },
+  "server": {
+    "serverId": 13158,
+    "type": "None",
+    "name": "handcrafted ribbon",
+    "wareId": 12171,
+    "spriteHashHex": "C7F00ABDA110B2D5D2DB89FF33934D03"
+  }
+}

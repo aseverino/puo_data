@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 12315,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 12315,
+    "showAs": 12315,
+    "name": "maxilla"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19242
+    ]
+  },
+  "server": {
+    "serverId": 13302,
+    "type": "None",
+    "name": "maxilla",
+    "wareId": 12315,
+    "spriteHashHex": "B2559FDD76213C02916B44CA22E24DDE"
+  }
+}

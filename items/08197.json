@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 8197,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8197,
+    "showAs": 8197,
+    "name": "bulb of garlic"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      12950,
+      12951,
+      12952,
+      12953,
+      12954,
+      12955,
+      12955,
+      12955
+    ]
+  },
+  "server": {
+    "serverId": 9114,
+    "type": "None",
+    "name": "bulb of garlic",
+    "wareId": 8197,
+    "spriteHashHex": "F36AF8E62F742687ECEA0E9B381A3390"
+  }
+}

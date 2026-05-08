@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 2653,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2653,
+    "showAs": 2653,
+    "name": "orange tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2979,
+      0,
+      0,
+      0,
+      2976,
+      2975,
+      0,
+      0,
+      2978,
+      0,
+      2977,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 1866,
+    "type": "None",
+    "name": "orange tapestry",
+    "wareId": 2653,
+    "spriteHashHex": "FDDF4399AA385423E189CF04745431BE"
+  }
+}

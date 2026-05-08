@@ -1,0 +1,35 @@
+{
+  "category": "missile",
+  "clientId": 29,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 3,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      38716,
+      38717,
+      38718,
+      38719,
+      0,
+      38720,
+      38721,
+      38722,
+      38723
+    ]
+  }
+}

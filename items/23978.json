@@ -1,0 +1,70 @@
+{
+  "category": "item",
+  "clientId": 23978,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 6,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      112939,
+      112940,
+      112941,
+      112942,
+      112943,
+      112944
+    ]
+  },
+  "server": {
+    "serverId": 26344,
+    "type": "None",
+    "isAnimation": true,
+    "spriteHashHex": "AF78486A5D4E586B677C0F25B5BF60B3",
+    "article": "a",
+    "plural": "dragon-fire essences",
+    "namePt": "ess\u00EAncia de fogo de drag\u00E3o",
+    "articlePt": "uma",
+    "pluralPt": "ess\u00EAncias de fogo de drag\u00E3o",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

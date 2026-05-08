@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 8027,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 8027,
+    "showAs": 8027,
+    "name": "composite hornbow",
+    "restrictProfession": 4,
+    "restrictLevel": 50
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11284
+    ]
+  },
+  "server": {
+    "serverId": 8855,
+    "type": "None",
+    "name": "composite hornbow",
+    "wareId": 8027,
+    "spriteHashHex": "4C3031C4473ABAF45F97872262BE19B2"
+  }
+}

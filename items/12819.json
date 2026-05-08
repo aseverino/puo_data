@@ -1,0 +1,61 @@
+{
+  "category": "item",
+  "clientId": 12819,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 12819,
+    "showAs": 12819,
+    "name": "prepared bucket"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      248,
+      562,
+      248,
+      690,
+      248,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 13954,
+    "type": "None",
+    "name": "prepared bucket",
+    "isAnimation": true,
+    "wareId": 12819,
+    "spriteHashHex": "1D40D099BE31BC7FCBD5389C9C730849"
+  }
+}

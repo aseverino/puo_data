@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23804,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112617
+    ]
+  },
+  "server": {
+    "serverId": 26170,
+    "type": "None",
+    "spriteHashHex": "9519234F5FCC9709780841199CF257AA",
+    "article": "a",
+    "namePt": "m\u00E1scara de graveler",
+    "articlePt": "uma",
+    "pluralPt": "m\u00E1scaras de graveler",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

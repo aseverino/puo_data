@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 17819,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 17819,
+    "showAs": 17819,
+    "name": "earflap"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27365
+    ]
+  },
+  "server": {
+    "serverId": 20099,
+    "type": "None",
+    "name": "earflap",
+    "wareId": 17819,
+    "spriteHashHex": "55833B6438CA21770DC939E3A142887A"
+  }
+}

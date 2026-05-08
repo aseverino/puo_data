@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 11647,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 134,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11647,
+    "showAs": 11647,
+    "name": "silver rune emblem"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18394
+    ]
+  },
+  "server": {
+    "serverId": 12603,
+    "type": "None",
+    "name": "silver rune emblem",
+    "wareId": 11647,
+    "spriteHashHex": "AD806A442D40C87B2AAA7E53FB610740"
+  }
+}

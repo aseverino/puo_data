@@ -1,0 +1,62 @@
+{
+  "category": "item",
+  "clientId": 4115,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 186,
+  "hasOffset": true,
+  "offsetX": 4,
+  "offsetY": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 4115,
+    "showAs": 4115,
+    "name": "phoenix statue"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      17445,
+      18433,
+      18434
+    ]
+  },
+  "server": {
+    "serverId": 12667,
+    "type": "None",
+    "name": "phoenix statue",
+    "isAnimation": true,
+    "wareId": 4115,
+    "spriteHashHex": "EC307D1B238BB3CB41186C3ECAAD8FD4"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 944,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 944,
+    "showAs": 944,
+    "name": "iced soil"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9566
+    ]
+  },
+  "server": {
+    "serverId": 8302,
+    "type": "None",
+    "name": "iced soil",
+    "wareId": 944,
+    "spriteHashHex": "23CB98A08BF9AE00B459B30BD8ACA72D"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 16099,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 16099,
+    "showAs": 16099,
+    "name": "mushroom backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25422
+    ]
+  },
+  "server": {
+    "serverId": 18393,
+    "type": "Container",
+    "name": "mushroom backpack",
+    "wareId": 16099,
+    "spriteHashHex": "965BB2E5C13242F6F099405106A6722A"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "category": "item",
+  "clientId": 10801,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10800,
+    "showAs": 10800,
+    "name": "orc\u0027s jaw shredder"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      17352,
+      17352,
+      17353,
+      17353
+    ]
+  },
+  "server": {
+    "serverId": 11757,
+    "type": "None",
+    "name": "orc\u0027s jaw shredder",
+    "isAnimation": true,
+    "wareId": 10800,
+    "spriteHashHex": "17EDEC52B26946CD95D439E35D2D9B73"
+  }
+}

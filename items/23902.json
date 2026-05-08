@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23902,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112860
+    ]
+  },
+  "server": {
+    "serverId": 26268,
+    "type": "None",
+    "spriteHashHex": "DE6A15785597205DF62C2E0742D4650D",
+    "article": "a",
+    "namePt": "tent\u00E1culo de tentacruel",
+    "articlePt": "um",
+    "pluralPt": "tent\u00E1culos de tentacruel",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

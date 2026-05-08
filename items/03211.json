@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3211,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3211,
+    "showAs": 3211,
+    "name": "witchesbroom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      37
+    ]
+  },
+  "server": {
+    "serverId": 2324,
+    "type": "None",
+    "name": "witchesbroom",
+    "wareId": 3211,
+    "spriteHashHex": "BD86049227BFDD1AE63DB7429BAD6D39"
+  }
+}

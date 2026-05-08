@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9660,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9660,
+    "showAs": 9660,
+    "name": "mystical hourglass"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13931
+    ]
+  },
+  "server": {
+    "serverId": 10577,
+    "type": "None",
+    "name": "mystical hourglass",
+    "wareId": 9660,
+    "spriteHashHex": "B72B649A4ACFEA0ABB08C42DBA6AECEB"
+  }
+}

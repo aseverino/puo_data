@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9394,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 9,
+  "isMarketItem": true,
+  "market": {
+    "category": 11,
+    "tradeAs": 9394,
+    "showAs": 9394,
+    "name": "claw of \u0027The Noxious Spawn\u0027",
+    "restrictLevel": 100
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13829
+    ]
+  },
+  "server": {
+    "serverId": 10311,
+    "type": "None",
+    "name": "claw of \u0027The Noxious Spawn\u0027",
+    "wareId": 9394,
+    "spriteHashHex": "2A9BB9105B10E3BC85EC2AF52E0D820E"
+  }
+}

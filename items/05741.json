@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 5741,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 5741,
+    "showAs": 5741,
+    "name": "skull helmet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6900
+    ]
+  },
+  "server": {
+    "serverId": 5741,
+    "type": "None",
+    "name": "skull helmet",
+    "wareId": 5741,
+    "spriteHashHex": "50DFF445DADC1724F0550AA20C73F8E9"
+  }
+}

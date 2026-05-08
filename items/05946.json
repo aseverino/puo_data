@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 5946,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 5946,
+    "showAs": 5946,
+    "name": "comb"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7238
+    ]
+  },
+  "server": {
+    "serverId": 5946,
+    "type": "None",
+    "name": "comb",
+    "wareId": 5946,
+    "spriteHashHex": "7821FEDFDFE00E92A5660C98BD60CC47"
+  }
+}

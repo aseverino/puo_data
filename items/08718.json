@@ -1,0 +1,65 @@
+{
+  "category": "item",
+  "clientId": 8718,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8718,
+    "showAs": 8718,
+    "name": "the dust of Lersatio"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      7109,
+      562,
+      7109,
+      690,
+      7109,
+      562,
+      7109,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 9634,
+    "type": "None",
+    "name": "the dust of Lersatio",
+    "isAnimation": true,
+    "wareId": 8718,
+    "spriteHashHex": "EBFD52AA69F54851E1DAC3664B607F6B"
+  }
+}

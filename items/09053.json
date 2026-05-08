@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9053,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9053,
+    "showAs": 9053,
+    "name": "glob of mercury"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13177
+    ]
+  },
+  "server": {
+    "serverId": 9966,
+    "type": "None",
+    "name": "glob of mercury",
+    "wareId": 9053,
+    "spriteHashHex": "3F16E2D7177F312EAA87BB8377ACA231"
+  }
+}

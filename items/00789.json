@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 789,
+  "isGroundBorder": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 789,
+    "showAs": 789,
+    "name": "earth clerical mace",
+    "restrictLevel": 20
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      141721
+    ]
+  },
+  "server": {
+    "serverId": 7864,
+    "type": "None",
+    "name": "earth clerical mace",
+    "isAnimation": true,
+    "wareId": 789,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "7B0046D1958D264DCD16915F009A5A50"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "category": "item",
+  "clientId": 14758,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 22,
+    "tradeAs": 14758,
+    "showAs": 14758,
+    "name": "premium scroll"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 7,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      22939,
+      22940,
+      22941,
+      22942,
+      22942,
+      22942,
+      22942
+    ]
+  },
+  "server": {
+    "serverId": 16101,
+    "type": "None",
+    "name": "premium scroll",
+    "isAnimation": true,
+    "wareId": 14758,
+    "spriteHashHex": "E6996907F9FD5C43FD2154DA496FA77A"
+  }
+}

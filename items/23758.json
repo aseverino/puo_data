@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 23758,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112543,
+      112544,
+      112545,
+      112546,
+      112546,
+      112547,
+      112547,
+      112547
+    ]
+  },
+  "server": {
+    "serverId": 26124,
+    "type": "None",
+    "spriteHashHex": "88B18035FC727E57E8E047A320E43B30",
+    "article": "a",
+    "namePt": "pena de cauda de pidgeotto",
+    "articlePt": "uma",
+    "pluralPt": "penas de cauda de pidgeotto",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

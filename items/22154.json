@@ -1,0 +1,150 @@
+{
+  "category": "item",
+  "clientId": 22154,
+  "isOnBottom": true,
+  "isUnpassable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 187,
+  "miniMap": true,
+  "miniMapColor": 186,
+  "width": 2,
+  "height": 2,
+  "exactSize": 54,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 14,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      62858,
+      62859,
+      62860,
+      62861,
+      62862,
+      62863,
+      62864,
+      62861,
+      62865,
+      62866,
+      62867,
+      62861,
+      62868,
+      62869,
+      62870,
+      62861,
+      62871,
+      62872,
+      62873,
+      62861,
+      62874,
+      62875,
+      62876,
+      62861,
+      62877,
+      62878,
+      62879,
+      62861,
+      62880,
+      62881,
+      62879,
+      62882,
+      62883,
+      62884,
+      62879,
+      62885,
+      62886,
+      62887,
+      62879,
+      62888,
+      62889,
+      62890,
+      62879,
+      62882,
+      62891,
+      62892,
+      62879,
+      62893,
+      62894,
+      62895,
+      62873,
+      62861,
+      62896,
+      62897,
+      62898,
+      62861
+    ]
+  },
+  "server": {
+    "serverId": 24492,
+    "type": "None",
+    "isAnimation": true,
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "E86ED273AC3046E09273BA77711CBDE0"
+  }
+}

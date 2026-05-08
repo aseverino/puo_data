@@ -1,0 +1,38 @@
+{
+  "category": "item",
+  "clientId": 23767,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112563
+    ]
+  },
+  "server": {
+    "serverId": 26133,
+    "type": "None",
+    "spriteHashHex": "9C20BB633F6826FF965948E10ECF13BD",
+    "namePt": "cabelo de fearow",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

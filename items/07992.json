@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 7992,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 7992,
+    "showAs": 7992,
+    "name": "mage hat",
+    "restrictProfession": 24
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11216
+    ]
+  },
+  "server": {
+    "serverId": 8820,
+    "type": "None",
+    "name": "mage hat",
+    "wareId": 7992,
+    "spriteHashHex": "B3940F54A54D797A03017718EE2539CD"
+  }
+}

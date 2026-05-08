@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 5552,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 5552,
+    "showAs": 5552,
+    "name": "rum flask"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1580
+    ]
+  },
+  "server": {
+    "serverId": 5553,
+    "type": "Fluid",
+    "name": "rum flask",
+    "wareId": 5552,
+    "spriteHashHex": "B928052D13C7B2BD1514992273F2B1AB"
+  }
+}

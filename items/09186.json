@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 9186,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9186,
+    "showAs": 9186,
+    "name": "old encrypted text"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9665
+    ]
+  },
+  "server": {
+    "serverId": 10104,
+    "type": "None",
+    "name": "old encrypted text",
+    "wareId": 9186,
+    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F"
+  }
+}

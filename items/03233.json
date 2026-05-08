@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3233,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3233,
+    "showAs": 3233,
+    "name": "tear of daraman"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2920
+    ]
+  },
+  "server": {
+    "serverId": 2346,
+    "type": "None",
+    "name": "tear of daraman",
+    "wareId": 3233,
+    "spriteHashHex": "945D9431F3516502A178BEF1FB594232"
+  }
+}

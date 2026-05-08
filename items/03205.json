@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3205,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3205,
+    "showAs": 3205,
+    "name": "family brooch"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1444
+    ]
+  },
+  "server": {
+    "serverId": 2318,
+    "type": "None",
+    "name": "family brooch",
+    "wareId": 3205,
+    "spriteHashHex": "291CD2D98AB141E1FF9653841F0CBFD0"
+  }
+}

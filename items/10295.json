@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 10295,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10295,
+    "showAs": 10295,
+    "name": "winter wolf fur"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15438
+    ]
+  },
+  "server": {
+    "serverId": 11212,
+    "type": "None",
+    "name": "winter wolf fur",
+    "wareId": 10295,
+    "spriteHashHex": "73EFA9EA1126279C95C2D92F66D60488"
+  }
+}

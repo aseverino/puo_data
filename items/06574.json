@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 6574,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 6574,
+    "showAs": 6574,
+    "name": "bar of chocolate"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7977
+    ]
+  },
+  "server": {
+    "serverId": 6574,
+    "type": "None",
+    "name": "bar of chocolate",
+    "wareId": 6574,
+    "spriteHashHex": "9E09306AD29AD543E57EC00B821F5C1D"
+  }
+}

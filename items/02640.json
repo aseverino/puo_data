@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 2640,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2640,
+    "showAs": 2640,
+    "name": "picture"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2788,
+      0,
+      0,
+      0,
+      2470,
+      2469,
+      0,
+      0,
+      2543,
+      0,
+      2542,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 1853,
+    "type": "None",
+    "name": "picture",
+    "wareId": 2640,
+    "spriteHashHex": "29D36368951787284BEFCC58F749310C"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 792,
+  "isGroundBorder": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 792,
+    "showAs": 792,
+    "name": "earth orcish maul",
+    "restrictLevel": 35
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      141724
+    ]
+  },
+  "server": {
+    "serverId": 7867,
+    "type": "None",
+    "name": "earth orcish maul",
+    "isAnimation": true,
+    "wareId": 792,
+    "alwaysOnTopOrder": 1,
+    "spriteHashHex": "57FE52A1672C5513D0F79B3653EC1961"
+  }
+}

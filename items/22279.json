@@ -1,0 +1,49 @@
+{
+  "category": "item",
+  "clientId": 22279,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      72872,
+      97110,
+      97111,
+      97112,
+      97113,
+      97113,
+      97113,
+      97113
+    ]
+  },
+  "server": {
+    "serverId": 24617,
+    "type": "None",
+    "spriteHashHex": "4F27E1F4FB3E5E832D653352AE995ACD",
+    "article": "a",
+    "articlePt": "um",
+    "xmlAttributes": {
+      "description": "A Berry to be consumed by Pok\u00E9mon. Using it on a Pok\u00E9mon makes it more friendly but lowers its base Speed.",
+      "maxStack": "75"
+    }
+  }
+}

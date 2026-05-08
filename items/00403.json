@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 403,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 403,
+    "showAs": 403,
+    "name": "File AH-X17L89"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1420
+    ]
+  },
+  "server": {
+    "serverId": 7705,
+    "type": "None",
+    "name": "File AH-X17L89",
+    "wareId": 403,
+    "spriteHashHex": "7DFCCA2446382EABEE3F20E2C4290F2C"
+  }
+}

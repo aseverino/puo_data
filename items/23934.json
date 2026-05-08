@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23934,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112893
+    ]
+  },
+  "server": {
+    "serverId": 26300,
+    "type": "None",
+    "spriteHashHex": "B498049161289F47D74599E4614F8AD9",
+    "article": "a",
+    "plural": "mareep wool",
+    "namePt": "l\u00E3 de mareep",
+    "articlePt": "uma",
+    "pluralPt": "l\u00E3 de mareep",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 11694,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 4,
+  "lightColor": 178,
+  "hasOffset": true,
+  "offsetX": 6,
+  "offsetY": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 11694,
+    "showAs": 11694,
+    "name": "snake god trophy"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18441
+    ]
+  },
+  "server": {
+    "serverId": 12650,
+    "type": "None",
+    "name": "snake god trophy",
+    "wareId": 11694,
+    "spriteHashHex": "AFDEFF17E5B610F70A8F43A956F8F99F"
+  }
+}

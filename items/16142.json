@@ -1,0 +1,53 @@
+{
+  "category": "item",
+  "clientId": 16142,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 16,
+    "tradeAs": 16142,
+    "showAs": 16142,
+    "name": "drill bolt",
+    "restrictLevel": 70
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25533,
+      25534,
+      25535,
+      25536,
+      25537,
+      25538,
+      25538,
+      25538
+    ]
+  },
+  "server": {
+    "serverId": 18436,
+    "type": "None",
+    "name": "drill bolt",
+    "wareId": 16142,
+    "spriteHashHex": "3A6F428D9FAD0EEF7FF51213A1126C03"
+  }
+}

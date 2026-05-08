@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 16097,
+  "isPickupable": true,
+  "hasLight": true,
+  "cloth": true,
+  "clothSlot": 10,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 16097,
+    "showAs": 16097,
+    "name": "glowing mushroom"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25420
+    ]
+  },
+  "server": {
+    "serverId": 18391,
+    "type": "None",
+    "name": "glowing mushroom",
+    "wareId": 16097,
+    "spriteHashHex": "95ACF1D3555D8EDB59EE369AEF7C100E"
+  }
+}

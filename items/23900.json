@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23900,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112858
+    ]
+  },
+  "server": {
+    "serverId": 26266,
+    "type": "None",
+    "spriteHashHex": "08F274E07B1B79D14B7ADE56AD9BEB19",
+    "article": "a",
+    "namePt": "peda\u00E7o de casco de slowbro",
+    "articlePt": "um",
+    "pluralPt": "peda\u00E7os de casco de slowbro",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

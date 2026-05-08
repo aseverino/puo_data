@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 3198,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 1,
+  "lightColor": 215,
+  "isMarketItem": true,
+  "market": {
+    "category": 12,
+    "tradeAs": 3198,
+    "showAs": 3198,
+    "name": "heavy magic missile rune"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      929
+    ]
+  },
+  "server": {
+    "serverId": 2311,
+    "type": "None",
+    "name": "heavy magic missile rune",
+    "wareId": 3198,
+    "spriteHashHex": "1F73C58A849D3996CC59B37994E232E6"
+  }
+}

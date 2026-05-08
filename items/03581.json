@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3581,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3581,
+    "showAs": 3581,
+    "name": "shrimp"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2476,
+      2477,
+      2484,
+      2485,
+      2513,
+      2513,
+      2513,
+      2513
+    ]
+  },
+  "server": {
+    "serverId": 2670,
+    "type": "None",
+    "name": "shrimp",
+    "wareId": 3581,
+    "spriteHashHex": "10227574AB832F5956FD18C0020BE92B"
+  }
+}

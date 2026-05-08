@@ -1,0 +1,23 @@
+{
+  "category": "item",
+  "clientId": 3351,
+  "isMoveable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 5924,
+    "type": "None",
+    "name": "steel helmet",
+    "wareId": 3351,
+    "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07"
+  }
+}

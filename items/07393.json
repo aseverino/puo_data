@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 7393,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 7393,
+    "showAs": 7393,
+    "name": "demon trophy"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9071,
+      0,
+      0,
+      0,
+      3189,
+      3188,
+      0,
+      0,
+      3191,
+      0,
+      3190,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 7393,
+    "type": "None",
+    "name": "demon trophy",
+    "wareId": 7393,
+    "spriteHashHex": "4D70C146FB289BA8D6854AD325EB38A1"
+  }
+}

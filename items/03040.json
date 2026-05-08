@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 3040,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 3040,
+    "showAs": 3040,
+    "name": "gold nugget"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1306,
+      1307,
+      1308,
+      1309,
+      1310,
+      1311,
+      1311,
+      1311
+    ]
+  },
+  "server": {
+    "serverId": 2157,
+    "type": "None",
+    "name": "gold nugget",
+    "wareId": 3040,
+    "spriteHashHex": "108E851EE00191D78CEB4CC65BDD1CC3"
+  }
+}

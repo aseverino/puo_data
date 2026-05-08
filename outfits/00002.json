@@ -1,0 +1,112 @@
+{
+  "category": "outfit",
+  "clientId": 2,
+  "hasOffset": true,
+  "hasExtendedOffset": true,
+  "extendedOffsets": [
+    {},
+    {},
+    {},
+    {}
+  ],
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 8,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      31376,
+      31377,
+      31378,
+      31379,
+      85337,
+      85338,
+      85339,
+      85340,
+      31384,
+      31385,
+      31386,
+      31387,
+      31380,
+      31381,
+      31382,
+      31383,
+      83913,
+      83914,
+      83915,
+      83916,
+      83917,
+      83918,
+      83919,
+      83920,
+      83921,
+      83922,
+      83923,
+      83924,
+      83925,
+      83926,
+      83927,
+      83928
+    ]
+  },
+  "idle": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      31372,
+      31373,
+      31374,
+      31375
+    ]
+  }
+}

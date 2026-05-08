@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 5801,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 5801,
+    "showAs": 5801,
+    "name": "jewelled backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      17356
+    ]
+  },
+  "server": {
+    "serverId": 5801,
+    "type": "Container",
+    "name": "jewelled backpack",
+    "wareId": 5801,
+    "spriteHashHex": "753A0F7C63D5CF5B7AF9691C841C7310"
+  }
+}

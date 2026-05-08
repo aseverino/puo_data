@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 941,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 941,
+    "showAs": 941,
+    "name": "glimmering soil"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9564
+    ]
+  },
+  "server": {
+    "serverId": 8299,
+    "type": "None",
+    "name": "glimmering soil",
+    "wareId": 941,
+    "spriteHashHex": "49D739AD42A2B23845E96F99B85D1B31"
+  }
+}

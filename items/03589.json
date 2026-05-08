@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3589,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 3589,
+    "showAs": 3589,
+    "name": "coconut"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1625,
+      1626,
+      1627,
+      1628,
+      1629,
+      1630,
+      1630,
+      1630
+    ]
+  },
+  "server": {
+    "serverId": 2678,
+    "type": "None",
+    "name": "coconut",
+    "wareId": 3589,
+    "spriteHashHex": "2940CB0AA6870D5C4E721D2733B5EBBF"
+  }
+}

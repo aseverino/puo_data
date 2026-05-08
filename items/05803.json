@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 5803,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 5803,
+    "showAs": 5803,
+    "name": "arbalest",
+    "restrictProfession": 4,
+    "restrictLevel": 75
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6698
+    ]
+  },
+  "server": {
+    "serverId": 5803,
+    "type": "None",
+    "name": "arbalest",
+    "wareId": 5803,
+    "spriteHashHex": "B12259FD1F8051149AEE3C0D48EA8A60"
+  }
+}

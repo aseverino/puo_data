@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 9603,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 9603,
+    "showAs": 9603,
+    "name": "orange bag"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13842
+    ]
+  },
+  "server": {
+    "serverId": 10520,
+    "type": "Container",
+    "name": "orange bag",
+    "wareId": 9603,
+    "spriteHashHex": "B6E438242E7FB600D2DB19B75705C430"
+  }
+}

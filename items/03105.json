@@ -1,0 +1,72 @@
+{
+  "category": "item",
+  "clientId": 3105,
+  "isGroundBorder": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3105,
+    "showAs": 3105,
+    "name": "dirty fur"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      0,
+      0,
+      0,
+      142617,
+      0,
+      0,
+      0,
+      142618,
+      0,
+      0,
+      0,
+      142619,
+      0,
+      0,
+      0,
+      142620,
+      0,
+      0,
+      0,
+      142621,
+      0,
+      0,
+      0,
+      142622,
+      0,
+      0,
+      0,
+      142623,
+      0,
+      0,
+      0,
+      142624
+    ]
+  },
+  "server": {
+    "serverId": 2221,
+    "type": "None",
+    "alwaysOnTopOrder": 3,
+    "spriteHashHex": "97C4DA1AC645A30E18B791A8D72E2E8D"
+  }
+}

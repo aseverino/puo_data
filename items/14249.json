@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 14249,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 14249,
+    "showAs": 14249,
+    "name": "buggy backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22836
+    ]
+  },
+  "server": {
+    "serverId": 15646,
+    "type": "Container",
+    "name": "buggy backpack",
+    "wareId": 14249,
+    "spriteHashHex": "D8CBAE0A1A814CBA25F99A55989341F7"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 19146,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 19146,
+    "showAs": 19146,
+    "name": "torn incantation fragment"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      28746
+    ]
+  },
+  "server": {
+    "serverId": 21462,
+    "type": "None",
+    "name": "torn incantation fragment",
+    "wareId": 19146,
+    "spriteHashHex": "E0AB06161E96765E9132EE099FAB7B03"
+  }
+}

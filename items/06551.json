@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 6551,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 6551,
+    "showAs": 6551,
+    "name": "blue powder"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7109
+    ]
+  },
+  "server": {
+    "serverId": 6551,
+    "type": "None",
+    "name": "blue powder",
+    "wareId": 6551,
+    "spriteHashHex": "35A52FFE5311BD2260E728CFBAC86F1B"
+  }
+}

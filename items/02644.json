@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 2644,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2644,
+    "showAs": 2644,
+    "name": "purple tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2964,
+      0,
+      0,
+      0,
+      2961,
+      2960,
+      0,
+      0,
+      2963,
+      0,
+      2962,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 1857,
+    "type": "None",
+    "name": "purple tapestry",
+    "wareId": 2644,
+    "spriteHashHex": "CDA64C6E34095D2162EFF1AA9898F385"
+  }
+}

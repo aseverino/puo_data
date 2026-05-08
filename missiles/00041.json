@@ -1,0 +1,38 @@
+{
+  "category": "missile",
+  "clientId": 41,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 143,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 3,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      38757,
+      38758,
+      38759,
+      38760,
+      0,
+      38761,
+      38762,
+      38763,
+      38764
+    ]
+  }
+}

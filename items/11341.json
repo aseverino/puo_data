@@ -1,0 +1,61 @@
+{
+  "category": "item",
+  "clientId": 11341,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11341,
+    "showAs": 11341,
+    "name": "sacred earth"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      13977,
+      562,
+      13977,
+      690,
+      13977,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 12297,
+    "type": "None",
+    "name": "sacred earth",
+    "isAnimation": true,
+    "wareId": 11341,
+    "spriteHashHex": "C7E8D9C6A04B9D9D400BA8D7F358E8D2"
+  }
+}

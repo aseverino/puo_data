@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7527,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7527,
+    "showAs": 7527,
+    "name": "jewel case"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9395
+    ]
+  },
+  "server": {
+    "serverId": 8261,
+    "type": "None",
+    "name": "jewel case",
+    "wareId": 7527,
+    "spriteHashHex": "38087B1506D35014B5FACEB393D44ABB"
+  }
+}

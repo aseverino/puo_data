@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 20206,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 20206,
+    "showAs": 20206,
+    "name": "hemp rope"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30880
+    ]
+  },
+  "server": {
+    "serverId": 22540,
+    "type": "None",
+    "name": "hemp rope",
+    "wareId": 20206,
+    "spriteHashHex": "78FDAC8FA555412103C01164C3B6FAA7"
+  }
+}

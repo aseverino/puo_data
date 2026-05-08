@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9017,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 9017,
+    "showAs": 9017,
+    "name": "coconut shoes"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13179
+    ]
+  },
+  "server": {
+    "serverId": 9931,
+    "type": "None",
+    "name": "coconut shoes",
+    "wareId": 9017,
+    "spriteHashHex": "67E024538767DC6B0DA64F828DE29924"
+  }
+}

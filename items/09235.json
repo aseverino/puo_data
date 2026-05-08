@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 9235,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 9235,
+    "showAs": 9235,
+    "name": "golem disassembler"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      708
+    ]
+  },
+  "server": {
+    "serverId": 10153,
+    "type": "None",
+    "name": "golem disassembler",
+    "wareId": 9235,
+    "spriteHashHex": "FA9072FE470A0B13D27073159585E4B2"
+  }
+}

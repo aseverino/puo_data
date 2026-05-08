@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 11652,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 11652,
+    "showAs": 11652,
+    "name": "broken key ring"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      18350
+    ]
+  },
+  "server": {
+    "serverId": 12608,
+    "type": "None",
+    "name": "broken key ring",
+    "wareId": 11652,
+    "spriteHashHex": "D8CB8A0C0ECF8865BB1B54A07EF4C9D7"
+  }
+}

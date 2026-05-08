@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23999,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112965
+    ]
+  },
+  "server": {
+    "serverId": 26365,
+    "type": "None",
+    "spriteHashHex": "3B739EA106B0938AFCDA3D863C1B0955",
+    "article": "a",
+    "plural": "red-white striped fur",
+    "namePt": "pelo vermelho e branco",
+    "articlePt": "uma",
+    "pluralPt": "pelo vermelho e branco",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

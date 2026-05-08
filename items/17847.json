@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 17847,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 17847,
+    "showAs": 17847,
+    "name": "wimp tooth chain"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27412
+    ]
+  },
+  "server": {
+    "serverId": 20127,
+    "type": "None",
+    "name": "wimp tooth chain",
+    "wareId": 17847,
+    "spriteHashHex": "DE296D7A57545B53545199730C75096D"
+  }
+}

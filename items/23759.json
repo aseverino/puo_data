@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 23759,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112548,
+      112549,
+      112550,
+      112551,
+      112552,
+      112553,
+      112554,
+      112555
+    ]
+  },
+  "server": {
+    "serverId": 26125,
+    "type": "None",
+    "spriteHashHex": "DA4E3EC0CF8009D5C24853DB9D2B5CDA",
+    "article": "a",
+    "namePt": "bico de spearow",
+    "articlePt": "um",
+    "pluralPt": "bicos de spearow",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

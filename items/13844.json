@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 13844,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 13844,
+    "showAs": 13844,
+    "name": "ice flower seeds"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9683,
+      22042
+    ]
+  },
+  "server": {
+    "serverId": 15271,
+    "type": "None",
+    "name": "ice flower seeds",
+    "wareId": 13844,
+    "spriteHashHex": "6F0BFA57CDD2A817C1991DECEFC6D539"
+  }
+}

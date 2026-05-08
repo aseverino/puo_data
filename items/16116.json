@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 16116,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 16116,
+    "showAs": 16116,
+    "name": "prismatic shield",
+    "restrictProfession": 2,
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25440
+    ]
+  },
+  "server": {
+    "serverId": 18410,
+    "type": "None",
+    "name": "prismatic shield",
+    "wareId": 16116,
+    "spriteHashHex": "9EEF16F906F3ED0CC05B098E7FEC5E20"
+  }
+}

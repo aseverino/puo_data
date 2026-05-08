@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 20202,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 20202,
+    "showAs": 20202,
+    "name": "dead weight"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      30874
+    ]
+  },
+  "server": {
+    "serverId": 22536,
+    "type": "None",
+    "name": "dead weight",
+    "wareId": 20202,
+    "spriteHashHex": "DB2E3CE3EFBE0BA0CF50C87B7B327F00"
+  }
+}

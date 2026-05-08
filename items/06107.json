@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 6107,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 6107,
+    "showAs": 6107,
+    "name": "staff"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1285
+    ]
+  },
+  "server": {
+    "serverId": 6107,
+    "type": "None",
+    "name": "staff",
+    "wareId": 6107,
+    "spriteHashHex": "4924554C30B9658B525C97DB24D3E894"
+  }
+}

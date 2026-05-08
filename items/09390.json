@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 9390,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9390,
+    "showAs": 9390,
+    "name": "machine crate"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      240
+    ]
+  },
+  "server": {
+    "serverId": 10307,
+    "type": "None",
+    "name": "machine crate",
+    "wareId": 9390,
+    "spriteHashHex": "67D7BDB733506B8C46878FD06340473E"
+  }
+}

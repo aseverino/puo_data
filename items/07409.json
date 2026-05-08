@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7409,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 7409,
+    "showAs": 7409,
+    "name": "northern star",
+    "restrictLevel": 50
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6462
+    ]
+  },
+  "server": {
+    "serverId": 7409,
+    "type": "None",
+    "name": "northern star",
+    "wareId": 7409,
+    "spriteHashHex": "C16939301048C3CF5AA7A7711A949987"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 5668,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 5668,
+    "showAs": 5668,
+    "name": "mysterious voodoo skull"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      7138,
+      7141
+    ]
+  },
+  "server": {
+    "serverId": 5669,
+    "type": "None",
+    "name": "mysterious voodoo skull",
+    "isAnimation": true,
+    "wareId": 5668,
+    "spriteHashHex": "71ABD94110CBAB97177884122E5BBC6C"
+  }
+}

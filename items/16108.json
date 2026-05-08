@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 16108,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 16108,
+    "showAs": 16108,
+    "name": "gill necklace",
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25431
+    ]
+  },
+  "server": {
+    "serverId": 18402,
+    "type": "None",
+    "name": "gill necklace",
+    "wareId": 16108,
+    "spriteHashHex": "127F70F1F678E3EBF757A4C4ACCEE224"
+  }
+}

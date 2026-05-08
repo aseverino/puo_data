@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 11982,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 11982,
+    "showAs": 11982,
+    "name": "dry piece of wood"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      19192
+    ]
+  },
+  "server": {
+    "serverId": 12969,
+    "type": "None",
+    "name": "dry piece of wood",
+    "wareId": 11982,
+    "spriteHashHex": "3667C148E4523A78E6B50B8AFB579D5C"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 7463,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 4,
+  "isMarketItem": true,
+  "market": {
+    "category": 1,
+    "tradeAs": 7463,
+    "showAs": 7463,
+    "name": "mammoth fur cape"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9300
+    ]
+  },
+  "server": {
+    "serverId": 7463,
+    "type": "None",
+    "name": "mammoth fur cape",
+    "wareId": 7463,
+    "spriteHashHex": "7DF36E3DC924241444B6E06A237B55E3"
+  }
+}

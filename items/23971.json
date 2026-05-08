@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 23971,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112933
+    ]
+  },
+  "server": {
+    "serverId": 26337,
+    "type": "None",
+    "spriteHashHex": "2F1ED10549D3E0CD6C58C06EED1BDA7B",
+    "article": "a",
+    "plural": "bunnelby ears",
+    "namePt": "orelha de bunnelby",
+    "articlePt": "uma",
+    "pluralPt": "orelhas de bunnelby",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

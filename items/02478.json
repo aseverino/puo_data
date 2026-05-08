@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 2478,
+  "isContainer": true,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2478,
+    "showAs": 2478,
+    "name": "treasure chest"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2267
+    ]
+  },
+  "server": {
+    "serverId": 1746,
+    "type": "Container",
+    "name": "treasure chest",
+    "hasHeight": true,
+    "wareId": 2478,
+    "spriteHashHex": "F792372AC6CC24740270380BFCD4578F"
+  }
+}

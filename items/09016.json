@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9016,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 9016,
+    "showAs": 9016,
+    "name": "flask of rust remover"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13920
+    ]
+  },
+  "server": {
+    "serverId": 9930,
+    "type": "None",
+    "name": "flask of rust remover",
+    "wareId": 9016,
+    "spriteHashHex": "D0BF9CCE33D9D58F29D60C876C94329C"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7866,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7866,
+    "showAs": 7866,
+    "name": "deed of ownership"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2927
+    ]
+  },
+  "server": {
+    "serverId": 8694,
+    "type": "None",
+    "name": "deed of ownership",
+    "wareId": 7866,
+    "spriteHashHex": "583EB9112FA93DDE9983812A99D1787D"
+  }
+}

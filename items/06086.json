@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 6086,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 6086,
+    "showAs": 6086,
+    "name": "faked label"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      879
+    ]
+  },
+  "server": {
+    "serverId": 6086,
+    "type": "None",
+    "name": "faked label",
+    "wareId": 6086,
+    "spriteHashHex": "396C7BA760C75D1FE8A4E437B77D0362"
+  }
+}

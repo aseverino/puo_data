@@ -1,0 +1,65 @@
+{
+  "category": "item",
+  "clientId": 3492,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3492,
+    "showAs": 3492,
+    "name": "worm"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      4917,
+      4915,
+      4913,
+      4911,
+      4909,
+      4907,
+      4905,
+      4903,
+      4918,
+      4916,
+      4914,
+      4912,
+      4910,
+      4908,
+      4906,
+      4904
+    ]
+  },
+  "server": {
+    "serverId": 3976,
+    "type": "None",
+    "name": "worm",
+    "isAnimation": true,
+    "wareId": 3492,
+    "spriteHashHex": "6F63A0A0C26B7A8754D4D91CE2087984"
+  }
+}

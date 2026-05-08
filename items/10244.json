@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 10244,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 10244,
+    "showAs": 10244,
+    "name": "bonebeast trophy"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13724,
+      0,
+      0,
+      0,
+      13725,
+      13726,
+      0,
+      0,
+      13727,
+      0,
+      15476,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 11161,
+    "type": "None",
+    "name": "bonebeast trophy",
+    "wareId": 10244,
+    "spriteHashHex": "89CB33C5CA3937619D8B08C137802C48"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 20347,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 20347,
+    "showAs": 20347,
+    "name": "cake backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      31348
+    ]
+  },
+  "server": {
+    "serverId": 22696,
+    "type": "Container",
+    "name": "cake backpack",
+    "wareId": 20347,
+    "spriteHashHex": "A15503AA6E57FDCAF7D10A5DF1B9FBD5"
+  }
+}

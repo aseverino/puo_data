@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 8011,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8011,
+    "showAs": 8011,
+    "name": "plum"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11240,
+      11241,
+      11242,
+      11243,
+      11244,
+      11245,
+      11245,
+      11245
+    ]
+  },
+  "server": {
+    "serverId": 8839,
+    "type": "None",
+    "name": "plum",
+    "wareId": 8011,
+    "spriteHashHex": "19ECD0DC95BB1A967559E80893C5DAAC"
+  }
+}

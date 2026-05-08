@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 18925,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 18925,
+    "showAs": 18925,
+    "name": "lancet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      28742
+    ]
+  },
+  "server": {
+    "serverId": 21242,
+    "type": "None",
+    "name": "lancet",
+    "wareId": 18925,
+    "spriteHashHex": "903444772CC4CA22A187B32D227873B0"
+  }
+}

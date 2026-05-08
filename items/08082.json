@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 8082,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 21,
+    "tradeAs": 8082,
+    "showAs": 8082,
+    "name": "K",
+    "restrictProfession": 16,
+    "restrictLevel": 42
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11305
+    ]
+  },
+  "server": {
+    "serverId": 8910,
+    "type": "None",
+    "name": "K",
+    "wareId": 8082,
+    "spriteHashHex": "823BB9B11212EB79C60364EC29C5BB6E"
+  }
+}

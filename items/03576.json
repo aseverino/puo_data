@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3576,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 3576,
+    "showAs": 3576,
+    "name": "post officer\u0027s hat"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      747
+    ]
+  },
+  "server": {
+    "serverId": 2665,
+    "type": "None",
+    "name": "post officer\u0027s hat",
+    "wareId": 3576,
+    "spriteHashHex": "85EDD1EE3A84BB71F97CBA6E7A357AF0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 9045,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 9045,
+    "showAs": 9045,
+    "name": "royal tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13165,
+      0,
+      0,
+      0,
+      13166,
+      13167,
+      0,
+      0,
+      13168,
+      0,
+      13169,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 9958,
+    "type": "None",
+    "name": "royal tapestry",
+    "wareId": 9045,
+    "spriteHashHex": "1492768A8D93E87FFC6D3D2873D5C78B"
+  }
+}

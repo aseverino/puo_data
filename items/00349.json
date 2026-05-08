@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 349,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 9,
+  "isMarketItem": true,
+  "market": {
+    "category": 11,
+    "tradeAs": 349,
+    "showAs": 349,
+    "name": "signet ring"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9680
+    ]
+  },
+  "server": {
+    "serverId": 7697,
+    "type": "None",
+    "name": "signet ring",
+    "wareId": 349,
+    "spriteHashHex": "7E788C53EDCF738179E046067AD497C8"
+  }
+}

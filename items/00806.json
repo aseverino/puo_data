@@ -1,0 +1,63 @@
+{
+  "category": "item",
+  "clientId": 806,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 2,
+  "lightColor": 59,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 806,
+    "showAs": 806,
+    "name": "energy clerical mace",
+    "restrictLevel": 20
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 3,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      9994,
+      9995,
+      9996
+    ]
+  },
+  "server": {
+    "serverId": 7879,
+    "type": "None",
+    "name": "energy clerical mace",
+    "isAnimation": true,
+    "wareId": 806,
+    "spriteHashHex": "BECFB8B496216BD7AB54BBA7771227C3"
+  }
+}

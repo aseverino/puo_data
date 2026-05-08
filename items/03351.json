@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3351,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 3351,
+    "showAs": 3351,
+    "name": "steel helmet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      376
+    ]
+  },
+  "server": {
+    "serverId": 2457,
+    "type": "None",
+    "name": "steel helmet",
+    "wareId": 3351,
+    "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07"
+  }
+}

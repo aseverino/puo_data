@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 13992,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 13992,
+    "showAs": 13992,
+    "name": "sandfish"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22306
+    ]
+  },
+  "server": {
+    "serverId": 15405,
+    "type": "None",
+    "name": "sandfish",
+    "wareId": 13992,
+    "spriteHashHex": "A72DA148A0D2FBE48D9967671F610117"
+  }
+}

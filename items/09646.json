@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9646,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 9646,
+    "showAs": 9646,
+    "name": "book of prayers"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13912
+    ]
+  },
+  "server": {
+    "serverId": 10563,
+    "type": "None",
+    "name": "book of prayers",
+    "wareId": 9646,
+    "spriteHashHex": "10BED0A5A2514C7221FC0D0168170DC7"
+  }
+}

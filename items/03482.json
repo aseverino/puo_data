@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3482,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3481,
+    "showAs": 3482,
+    "name": "trap"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1893
+    ]
+  },
+  "server": {
+    "serverId": 2579,
+    "type": "None",
+    "name": "trap",
+    "wareId": 3481,
+    "spriteHashHex": "859DEA1354DE2F1CF8AF6D90E6AB7674"
+  }
+}

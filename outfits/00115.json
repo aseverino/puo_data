@@ -1,0 +1,83 @@
+{
+  "category": "outfit",
+  "clientId": 115,
+  "hasOffset": true,
+  "hasExtendedOffset": true,
+  "extendedOffsets": [
+    {
+      "x": -7,
+      "y": -10
+    },
+    {
+      "x": -10,
+      "y": -7
+    },
+    {
+      "x": -7,
+      "y": -10
+    },
+    {
+      "x": -10,
+      "y": -7
+    }
+  ],
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 2,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        },
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      32877,
+      32878,
+      32879,
+      32880,
+      32881,
+      32882,
+      32879,
+      32880
+    ]
+  },
+  "idle": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      32875,
+      32876
+    ]
+  },
+  "isSymmetricOutfit": true
+}

@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 2988,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2988,
+    "showAs": 2988,
+    "name": "exotic flowers"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      45903,
+      2230,
+      2229,
+      2228
+    ]
+  },
+  "server": {
+    "serverId": 2107,
+    "type": "None",
+    "name": "exotic flowers",
+    "wareId": 2988,
+    "spriteHashHex": "C01273DD4E3CB677D82D79248D6285B5"
+  }
+}

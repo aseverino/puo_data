@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7391,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7391,
+    "showAs": 7391,
+    "name": "thaian sword",
+    "restrictProfession": 2,
+    "restrictLevel": 50
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9069
+    ]
+  },
+  "server": {
+    "serverId": 7391,
+    "type": "None",
+    "name": "thaian sword",
+    "wareId": 7391,
+    "spriteHashHex": "65F58E18188FACBD707460F5165FA395"
+  }
+}

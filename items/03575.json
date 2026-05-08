@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 3575,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 3575,
+    "showAs": 3575,
+    "name": "wood cape"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1895,
+      64518,
+      64519,
+      64520,
+      64520,
+      64520,
+      64520,
+      64520
+    ]
+  },
+  "server": {
+    "serverId": 2664,
+    "type": "None",
+    "name": "wood cape",
+    "wareId": 3575,
+    "spriteHashHex": "9520BD9113D4C58AAFBA671AD72ADF5B"
+  }
+}

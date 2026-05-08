@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 7448,
+  "isUnpassable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 7448,
+    "showAs": 7448,
+    "name": "small ice statue"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      6494,
+      79032,
+      79033,
+      79034
+    ]
+  },
+  "server": {
+    "serverId": 7448,
+    "type": "None",
+    "name": "small ice statue",
+    "wareId": 7448,
+    "spriteHashHex": "948A9C08D66A457710E1901049D5302C"
+  }
+}

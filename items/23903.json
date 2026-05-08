@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23903,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112861
+    ]
+  },
+  "server": {
+    "serverId": 26269,
+    "type": "None",
+    "spriteHashHex": "4388C9A3DD9B41E07980FEFFA862F321",
+    "article": "a",
+    "namePt": "pin\u00E7a de tentacruel",
+    "articlePt": "uma",
+    "pluralPt": "pin\u00E7as de tentacruel",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

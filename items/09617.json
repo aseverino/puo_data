@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 9617,
+  "isPickupable": true,
+  "isRotatable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9616,
+    "showAs": 9616,
+    "name": "bejeweled ship\u0027s telescope"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13860
+    ]
+  },
+  "server": {
+    "serverId": 10533,
+    "type": "None",
+    "name": "bejeweled ship\u0027s telescope",
+    "wareId": 9616,
+    "spriteHashHex": "E0CA71B17B4299CCC276549C966C036B"
+  }
+}

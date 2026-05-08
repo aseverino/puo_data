@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23815,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112626
+    ]
+  },
+  "server": {
+    "serverId": 26181,
+    "type": "None",
+    "spriteHashHex": "B2BEA7F603DEAA673AE514FC5E0DA050",
+    "article": "a",
+    "namePt": "m\u00E1scara de venomoth",
+    "articlePt": "uma",
+    "pluralPt": "m\u00E1scaras de venomoth",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

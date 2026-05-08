@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 16242,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 16242,
+    "showAs": 16242,
+    "name": "red teleport crystal"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25607
+    ]
+  },
+  "server": {
+    "serverId": 18509,
+    "type": "None",
+    "name": "red teleport crystal",
+    "wareId": 16242,
+    "spriteHashHex": "739FF9B66149D4EC35AFEF11D14077A4"
+  }
+}

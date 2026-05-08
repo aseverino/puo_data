@@ -1,0 +1,55 @@
+{
+  "category": "item",
+  "clientId": 14769,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 5,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 14769,
+    "showAs": 14769,
+    "name": "spellbook of ancient arcana",
+    "restrictProfession": 24,
+    "restrictLevel": 150
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 2,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      22971,
+      22972
+    ]
+  },
+  "server": {
+    "serverId": 16112,
+    "type": "None",
+    "name": "spellbook of ancient arcana",
+    "isAnimation": true,
+    "wareId": 14769,
+    "spriteHashHex": "92C2F0EE0C21A69FA0BDEB78093D2DAF"
+  }
+}

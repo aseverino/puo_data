@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 17820,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 17820,
+    "showAs": 17820,
+    "name": "soft cheese"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      27366
+    ]
+  },
+  "server": {
+    "serverId": 20100,
+    "type": "None",
+    "name": "soft cheese",
+    "wareId": 17820,
+    "spriteHashHex": "0EAC347C2AEFEA9FB8D65200C0895FFF"
+  }
+}

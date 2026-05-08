@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 2789,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2789,
+    "showAs": 2433,
+    "name": "drawer kit"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4938
+    ]
+  },
+  "server": {
+    "serverId": 3915,
+    "type": "None",
+    "name": "drawer kit",
+    "hasHeight": true,
+    "wareId": 2789,
+    "spriteHashHex": "A18180051CD2CB417FF554DF0FAB1558"
+  }
+}

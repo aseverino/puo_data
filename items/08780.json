@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 8780,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 8780,
+    "showAs": 8780,
+    "name": "the torso of a jester doll"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      12726
+    ]
+  },
+  "server": {
+    "serverId": 9695,
+    "type": "None",
+    "name": "the torso of a jester doll",
+    "wareId": 8780,
+    "spriteHashHex": "3D6B9E3604D38CB843BD78A32E49089B"
+  }
+}

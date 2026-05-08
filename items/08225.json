@@ -1,0 +1,68 @@
+{
+  "category": "item",
+  "clientId": 8225,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 180,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 8453,
+    "showAs": 8453,
+    "name": "blood crystal"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      10862,
+      562,
+      10862,
+      690,
+      10862,
+      562,
+      10862,
+      691
+    ]
+  },
+  "server": {
+    "serverId": 9141,
+    "type": "None",
+    "name": "blood crystal",
+    "isAnimation": true,
+    "wareId": 8453,
+    "spriteHashHex": "177C8ADF3747A2B66216CED534163692"
+  }
+}

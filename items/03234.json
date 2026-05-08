@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3234,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 3234,
+    "showAs": 3234,
+    "name": "cookbook"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25668
+    ]
+  },
+  "server": {
+    "serverId": 2347,
+    "type": "None",
+    "name": "cookbook",
+    "wareId": 3234,
+    "spriteHashHex": "531DC2739695061789951EFE9886D5E7"
+  }
+}

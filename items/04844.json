@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 4844,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 4844,
+    "showAs": 4844,
+    "name": "elven poetry book"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25669
+    ]
+  },
+  "server": {
+    "serverId": 4855,
+    "type": "None",
+    "name": "elven poetry book",
+    "wareId": 4844,
+    "spriteHashHex": "E7603FB255251DFDA2446F2F174AB2D5"
+  }
+}

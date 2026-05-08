@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 3476,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3476,
+    "showAs": 3476,
+    "name": "bowl"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2464
+    ]
+  },
+  "server": {
+    "serverId": 2573,
+    "type": "None",
+    "name": "bowl",
+    "wareId": 3476,
+    "spriteHashHex": "A7EDF21B47569EC14E052C5489C2771D"
+  }
+}

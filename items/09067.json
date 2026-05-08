@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 9067,
+  "isPickupable": true,
+  "hasLight": true,
+  "lightLevel": 3,
+  "lightColor": 192,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 9067,
+    "showAs": 9067,
+    "name": "crystal of power"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      13254
+    ]
+  },
+  "server": {
+    "serverId": 9980,
+    "type": "None",
+    "name": "crystal of power",
+    "wareId": 9067,
+    "spriteHashHex": "B3A835BD77E58AFB55CBB7DC70AF2915"
+  }
+}

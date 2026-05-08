@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 19374,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 3,
+    "tradeAs": 19374,
+    "showAs": 19374,
+    "name": "vampire silk slippers"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      29489
+    ]
+  },
+  "server": {
+    "serverId": 21708,
+    "type": "None",
+    "name": "vampire silk slippers",
+    "wareId": 19374,
+    "spriteHashHex": "D3BF04E4E6BADD13423B2922D8415259"
+  }
+}

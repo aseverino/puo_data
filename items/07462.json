@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 7462,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 7462,
+    "showAs": 7462,
+    "name": "ragnir helmet"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9299
+    ]
+  },
+  "server": {
+    "serverId": 7462,
+    "type": "None",
+    "name": "ragnir helmet",
+    "wareId": 7462,
+    "spriteHashHex": "993353D0CF0BDEA9B8F481C2F152C88C"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "category": "item",
+  "clientId": 23809,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112622
+    ]
+  },
+  "server": {
+    "serverId": 26175,
+    "type": "None",
+    "spriteHashHex": "FF30EF75E32681AFD58A9350E3E16F40",
+    "article": "a",
+    "namePt": "chapa de peitoral de rhydon",
+    "articlePt": "uma",
+    "pluralPt": "chapas de peitoral de rhydon",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

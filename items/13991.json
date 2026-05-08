@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 13991,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 13991,
+    "showAs": 13991,
+    "name": "deepling axe",
+    "restrictLevel": 80
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22275
+    ]
+  },
+  "server": {
+    "serverId": 15404,
+    "type": "None",
+    "name": "deepling axe",
+    "wareId": 13991,
+    "spriteHashHex": "82E8A55F5A23C9A42CAB5CFE520B0787"
+  }
+}

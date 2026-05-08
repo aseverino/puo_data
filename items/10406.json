@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 10406,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 17,
+    "tradeAs": 10406,
+    "showAs": 10406,
+    "name": "Zaoan halberd",
+    "restrictLevel": 25
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15510
+    ]
+  },
+  "server": {
+    "serverId": 11323,
+    "type": "None",
+    "name": "Zaoan halberd",
+    "wareId": 10406,
+    "spriteHashHex": "642D63D08EF3B468CEA1709F3CE7D551"
+  }
+}

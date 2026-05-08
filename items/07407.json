@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7407,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7407,
+    "showAs": 7407,
+    "name": "haunted blade",
+    "restrictProfession": 2,
+    "restrictLevel": 30
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      4316
+    ]
+  },
+  "server": {
+    "serverId": 7407,
+    "type": "None",
+    "name": "haunted blade",
+    "wareId": 7407,
+    "spriteHashHex": "1F28D1F25E279EE3514F3171C612A0F5"
+  }
+}

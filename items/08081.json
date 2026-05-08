@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 8081,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 13,
+    "tradeAs": 8077,
+    "showAs": 8077,
+    "name": "J",
+    "restrictProfession": 2,
+    "restrictLevel": 100
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11304
+    ]
+  },
+  "server": {
+    "serverId": 8909,
+    "type": "None",
+    "name": "J",
+    "wareId": 8077,
+    "spriteHashHex": "B9C7C22EDF218957A5B0DC674572F3C6"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "category": "item",
+  "clientId": 20314,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 20313,
+    "showAs": 20313,
+    "name": "santa music box"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 5,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      31304,
+      3018,
+      31305,
+      3019,
+      31306,
+      3020,
+      31307,
+      3021,
+      31308,
+      3017
+    ]
+  },
+  "server": {
+    "serverId": 22648,
+    "type": "None",
+    "name": "santa music box",
+    "isAnimation": true,
+    "wareId": 20313,
+    "spriteHashHex": "15C366BF69A4C48B021342F789EE72B2"
+  }
+}

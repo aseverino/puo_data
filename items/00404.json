@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 404,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 16,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 404,
+    "showAs": 404,
+    "name": "barrel of beer"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      42
+    ]
+  },
+  "server": {
+    "serverId": 7706,
+    "type": "None",
+    "name": "barrel of beer",
+    "hasHeight": true,
+    "wareId": 404,
+    "spriteHashHex": "F99F118A8B669D9F5F181A35ACEE3D3D"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "category": "item",
+  "clientId": 2650,
+  "isPickupable": true,
+  "isHangable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 5,
+    "tradeAs": 2650,
+    "showAs": 2650,
+    "name": "yellow tapestry"
+  },
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 3,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2974,
+      0,
+      0,
+      0,
+      2971,
+      2970,
+      0,
+      0,
+      2973,
+      0,
+      2972,
+      0
+    ]
+  },
+  "server": {
+    "serverId": 1863,
+    "type": "None",
+    "name": "yellow tapestry",
+    "wareId": 2650,
+    "spriteHashHex": "C6EA5C79D747B2623A28D01ECB42F6FB"
+  }
+}

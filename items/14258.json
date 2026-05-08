@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 14258,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 1,
+  "isMarketItem": true,
+  "market": {
+    "category": 7,
+    "tradeAs": 13995,
+    "showAs": 13995,
+    "name": "depth galea",
+    "restrictLevel": 150
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      22269
+    ]
+  },
+  "server": {
+    "serverId": 15651,
+    "type": "None",
+    "name": "depth galea",
+    "wareId": 13995,
+    "spriteHashHex": "09E4A6C1CE025625FD4B5E696B2BD8D5"
+  }
+}

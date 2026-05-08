@@ -1,0 +1,51 @@
+{
+  "category": "item",
+  "clientId": 8013,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 6,
+    "tradeAs": 8013,
+    "showAs": 8013,
+    "name": "lemon"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11252,
+      11253,
+      11254,
+      11255,
+      11256,
+      11257,
+      11257,
+      11257
+    ]
+  },
+  "server": {
+    "serverId": 8841,
+    "type": "None",
+    "name": "lemon",
+    "wareId": 8013,
+    "spriteHashHex": "C8CC5DAB38370050EB6C904B3B2FC603"
+  }
+}

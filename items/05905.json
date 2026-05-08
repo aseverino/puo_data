@@ -1,0 +1,43 @@
+{
+  "category": "item",
+  "clientId": 5905,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 5905,
+    "showAs": 5905,
+    "name": "vampire dust"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      7109
+    ]
+  },
+  "server": {
+    "serverId": 5905,
+    "type": "None",
+    "name": "vampire dust",
+    "wareId": 5905,
+    "spriteHashHex": "35A52FFE5311BD2260E728CFBAC86F1B"
+  }
+}

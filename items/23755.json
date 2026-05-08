@@ -1,0 +1,48 @@
+{
+  "category": "item",
+  "clientId": 23755,
+  "isStackable": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      112518,
+      112519,
+      112520,
+      112521,
+      112522,
+      112523,
+      112524,
+      112525
+    ]
+  },
+  "server": {
+    "serverId": 26121,
+    "type": "None",
+    "spriteHashHex": "47C4CB38C2B4413F33860FB77F9BD949",
+    "article": "a",
+    "namePt": "bico de pidgey",
+    "articlePt": "um",
+    "pluralPt": "bicos de pidgey",
+    "xmlAttributes": {
+      "maxStack": "30"
+    }
+  }
+}

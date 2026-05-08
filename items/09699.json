@@ -1,0 +1,68 @@
+{
+  "category": "item",
+  "clientId": 9699,
+  "isPickupable": true,
+  "hasElevation": true,
+  "elevation": 8,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 9699,
+    "showAs": 9699,
+    "name": "filled carrying device"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0,
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 4,
+    "isAnimated": true,
+    "animation": {
+      "animationMode": 1,
+      "frameDurations": [
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        },
+        {
+          "min": 500,
+          "max": 500
+        }
+      ]
+    },
+    "spriteIds": [
+      239,
+      9870,
+      13981,
+      9871,
+      13981,
+      9870,
+      13981,
+      9872
+    ]
+  },
+  "server": {
+    "serverId": 10616,
+    "type": "None",
+    "name": "filled carrying device",
+    "hasHeight": true,
+    "isAnimation": true,
+    "wareId": 9699,
+    "spriteHashHex": "5E507AF04216AD2EB3B685C94920E625"
+  }
+}

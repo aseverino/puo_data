@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 3453,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 18,
+    "tradeAs": 3453,
+    "showAs": 3453,
+    "name": "scythe"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      62
+    ]
+  },
+  "server": {
+    "serverId": 2550,
+    "type": "None",
+    "name": "scythe",
+    "wareId": 3453,
+    "spriteHashHex": "58BD52D79D40BC39F0A749C5CEBC1AE3"
+  }
+}

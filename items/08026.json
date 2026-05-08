@@ -1,0 +1,55 @@
+{
+  "category": "item",
+  "clientId": 8026,
+  "isStackable": true,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 19,
+    "tradeAs": 8026,
+    "showAs": 8026,
+    "name": "warsinger bow",
+    "restrictProfession": 4,
+    "restrictLevel": 80
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      11283,
+      64564,
+      64565,
+      64566,
+      64567,
+      64568,
+      64568,
+      64568
+    ]
+  },
+  "server": {
+    "serverId": 8854,
+    "type": "None",
+    "name": "warsinger bow",
+    "wareId": 8026,
+    "spriteHashHex": "27100DDA2A02E7F41DFB93FD0C503E38"
+  }
+}

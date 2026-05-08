@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 3456,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 14,
+    "tradeAs": 3456,
+    "showAs": 3456,
+    "name": "pick"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      38
+    ]
+  },
+  "server": {
+    "serverId": 2553,
+    "type": "None",
+    "name": "pick",
+    "wareId": 3456,
+    "spriteHashHex": "735FED6BE3CCD540857DC053CCCEC7DC"
+  }
+}

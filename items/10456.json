@@ -1,0 +1,50 @@
+{
+  "category": "item",
+  "clientId": 10456,
+  "isStackable": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 15,
+    "tradeAs": 10456,
+    "showAs": 10456,
+    "name": "sandcrawler shell"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      15370,
+      61088,
+      61089,
+      61090,
+      61091,
+      61091,
+      61091,
+      61091
+    ]
+  },
+  "server": {
+    "serverId": 11373,
+    "type": "None",
+    "name": "sandcrawler shell",
+    "wareId": 10456,
+    "spriteHashHex": "C117D74B7180C58E8E17F80156FC6E5A"
+  }
+}

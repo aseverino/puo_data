@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 3572,
+  "isStackable": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 2,
+  "isMarketItem": true,
+  "market": {
+    "category": 2,
+    "tradeAs": 3572,
+    "showAs": 3572,
+    "name": "scarf"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 4,
+  "patternY": 2,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      1221,
+      64528,
+      64529,
+      64530,
+      64531,
+      64532,
+      64532,
+      64532
+    ]
+  },
+  "server": {
+    "serverId": 2661,
+    "type": "None",
+    "name": "scarf",
+    "wareId": 3572,
+    "spriteHashHex": "1E57B31A1D938CA76BD8A199032BB4EF"
+  }
+}

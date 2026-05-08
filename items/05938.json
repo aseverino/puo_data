@@ -1,0 +1,44 @@
+{
+  "category": "item",
+  "clientId": 5938,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 5938,
+    "showAs": 5938,
+    "name": "Ceiron\u0027s waterskin"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      25665
+    ]
+  },
+  "server": {
+    "serverId": 11399,
+    "type": "None",
+    "name": "Ceiron\u0027s waterskin",
+    "wareId": 5938,
+    "spriteHashHex": "0EBAD9E68EA7778EDC58AFC55A82964D"
+  }
+}

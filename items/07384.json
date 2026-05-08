@@ -1,0 +1,47 @@
+{
+  "category": "item",
+  "clientId": 7384,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 6,
+  "isMarketItem": true,
+  "market": {
+    "category": 20,
+    "tradeAs": 7384,
+    "showAs": 7384,
+    "name": "mystic blade",
+    "restrictLevel": 60
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      9063
+    ]
+  },
+  "server": {
+    "serverId": 7384,
+    "type": "None",
+    "name": "mystic blade",
+    "wareId": 7384,
+    "spriteHashHex": "47D4EA60DA69E341769A0ABEBBD0F56F"
+  }
+}

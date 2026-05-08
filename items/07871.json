@@ -1,0 +1,42 @@
+{
+  "category": "item",
+  "clientId": 7871,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 9,
+    "tradeAs": 7871,
+    "showAs": 7871,
+    "name": "the famous Mina Losa painting"
+  },
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      2825
+    ]
+  },
+  "server": {
+    "serverId": 8699,
+    "type": "None",
+    "name": "the famous Mina Losa painting",
+    "wareId": 7871,
+    "spriteHashHex": "1E2653F1E2B427B5AA7ADB3734B9ABB5"
+  }
+}

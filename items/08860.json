@@ -1,0 +1,46 @@
+{
+  "category": "item",
+  "clientId": 8860,
+  "isContainer": true,
+  "isPickupable": true,
+  "cloth": true,
+  "clothSlot": 3,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 8860,
+    "showAs": 8860,
+    "name": "brocade backpack"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      12851
+    ]
+  },
+  "server": {
+    "serverId": 9774,
+    "type": "Container",
+    "name": "brocade backpack",
+    "wareId": 8860,
+    "spriteHashHex": "7DA51D756956EAC1924ADF2DC8D409E3"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "category": "item",
+  "clientId": 2893,
+  "isMultiUse": true,
+  "isFluidContainer": true,
+  "isPickupable": true,
+  "isMarketItem": true,
+  "market": {
+    "category": 4,
+    "tradeAs": 2893,
+    "showAs": 2893,
+    "name": "amphora"
+  },
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      160
+    ]
+  },
+  "server": {
+    "serverId": 2023,
+    "type": "Fluid",
+    "name": "amphora",
+    "wareId": 2893,
+    "spriteHashHex": "CC0F2F429DB103217F42A8DB02D80785"
+  }
+}
