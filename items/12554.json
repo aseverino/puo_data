@@ -38,6 +38,7 @@
     "type": "None",
     "name": "obvious piece of cloth",
     "wareId": 12554,
-    "spriteHashHex": "92D106CA4697DB8E618060B2E4C86C98"
+    "spriteHashHex": "92D106CA4697DB8E618060B2E4C86C98",
+    "xmlIdRaw": "13543"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Tibiacity Encyclopedia",
     "wareId": 8149,
-    "spriteHashHex": "03560C80B8842DC1732FC49D341D3FF7"
+    "spriteHashHex": "03560C80B8842DC1732FC49D341D3FF7",
+    "xmlIdRaw": "8977"
   }
 }

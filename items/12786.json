@@ -38,6 +38,7 @@
     "type": "None",
     "name": "plague mask",
     "wareId": 12786,
-    "spriteHashHex": "D803077021ED616D1ED8B8FE36061E5F"
+    "spriteHashHex": "D803077021ED616D1ED8B8FE36061E5F",
+    "xmlIdRaw": "13925"
   }
 }

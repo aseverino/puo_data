@@ -37,6 +37,7 @@
     "type": "None",
     "name": "green dragon scale",
     "wareId": 5920,
-    "spriteHashHex": "72BFB410B40DD1DB4309DC37E0544316"
+    "spriteHashHex": "72BFB410B40DD1DB4309DC37E0544316",
+    "xmlIdRaw": "5920"
   }
 }

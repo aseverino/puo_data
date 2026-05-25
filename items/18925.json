@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lancet",
     "wareId": 18925,
-    "spriteHashHex": "903444772CC4CA22A187B32D227873B0"
+    "spriteHashHex": "903444772CC4CA22A187B32D227873B0",
+    "xmlIdRaw": "21242"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "fake dwarven beard",
     "wareId": 170,
-    "spriteHashHex": "BA4760FA3E1BB0FBE04E960482216163"
+    "spriteHashHex": "BA4760FA3E1BB0FBE04E960482216163",
+    "xmlIdRaw": "7526"
   }
 }

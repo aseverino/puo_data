@@ -40,6 +40,7 @@
     "type": "None",
     "name": "gill necklace",
     "wareId": 16108,
-    "spriteHashHex": "127F70F1F678E3EBF757A4C4ACCEE224"
+    "spriteHashHex": "127F70F1F678E3EBF757A4C4ACCEE224",
+    "xmlIdRaw": "18402"
   }
 }

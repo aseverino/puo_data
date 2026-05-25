@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Tanjis\u0027 Sight",
     "wareId": 14022,
-    "spriteHashHex": "E2BE41F74107766ADE133CB55994F0DD"
+    "spriteHashHex": "E2BE41F74107766ADE133CB55994F0DD",
+    "xmlIdRaw": "15435"
   }
 }

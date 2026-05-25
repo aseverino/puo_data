@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lizard essence",
     "wareId": 11680,
-    "spriteHashHex": "4E7FC947590A566E1449BFF62C5FEF98"
+    "spriteHashHex": "4E7FC947590A566E1449BFF62C5FEF98",
+    "xmlIdRaw": "12636"
   }
 }

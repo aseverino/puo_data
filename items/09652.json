@@ -38,6 +38,7 @@
     "type": "None",
     "name": "witch broom",
     "wareId": 9652,
-    "spriteHashHex": "FC88BF2F3ACE8972367488C45068F16A"
+    "spriteHashHex": "FC88BF2F3ACE8972367488C45068F16A",
+    "xmlIdRaw": "10569"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "deepling staff",
     "wareId": 13987,
-    "spriteHashHex": "1E50A9C04F3F9E609537CEB4C3642594"
+    "spriteHashHex": "1E50A9C04F3F9E609537CEB4C3642594",
+    "xmlIdRaw": "15400"
   }
 }

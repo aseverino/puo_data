@@ -38,6 +38,7 @@
     "type": "None",
     "name": "perfect behemoth fang",
     "wareId": 5893,
-    "spriteHashHex": "F3DF908463220ECEF9183630C07EEEDA"
+    "spriteHashHex": "F3DF908463220ECEF9183630C07EEEDA",
+    "xmlIdRaw": "5893"
   }
 }

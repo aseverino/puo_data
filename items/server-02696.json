@@ -1,0 +1,24 @@
+{
+  "category": "item",
+  "clientId": 3607,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 2696,
+    "type": "None",
+    "name": "cheese",
+    "wareId": 3607,
+    "spriteHashHex": "0EAC347C2AEFEA9FB8D65200C0895FFF"
+  }
+}

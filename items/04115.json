@@ -57,6 +57,7 @@
     "name": "phoenix statue",
     "isAnimation": true,
     "wareId": 4115,
-    "spriteHashHex": "EC307D1B238BB3CB41186C3ECAAD8FD4"
+    "spriteHashHex": "EC307D1B238BB3CB41186C3ECAAD8FD4",
+    "xmlIdRaw": "12667"
   }
 }

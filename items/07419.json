@@ -42,6 +42,7 @@
     "type": "None",
     "name": "dreaded cleaver",
     "wareId": 7419,
-    "spriteHashHex": "F0634280908AA0AB932D8DE9E0CCF8FF"
+    "spriteHashHex": "F0634280908AA0AB932D8DE9E0CCF8FF",
+    "xmlIdRaw": "7419"
   }
 }

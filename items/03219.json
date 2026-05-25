@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Waldo\u0027s post horn",
     "wareId": 3219,
-    "spriteHashHex": "B5DD6946D3B468842403D89133AD0208"
+    "spriteHashHex": "B5DD6946D3B468842403D89133AD0208",
+    "xmlIdRaw": "2332"
   }
 }

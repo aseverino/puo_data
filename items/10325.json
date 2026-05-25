@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "expedition bag",
     "wareId": 10325,
-    "spriteHashHex": "DB18981F44F433563AD7022EB7E01A48"
+    "spriteHashHex": "DB18981F44F433563AD7022EB7E01A48",
+    "xmlIdRaw": "11242"
   }
 }

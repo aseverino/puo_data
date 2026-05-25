@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piggy bank",
     "wareId": 2995,
-    "spriteHashHex": "417FB2EB387D2C3B3855FE06977A8CB5"
+    "spriteHashHex": "417FB2EB387D2C3B3855FE06977A8CB5",
+    "xmlIdRaw": "2114"
   }
 }

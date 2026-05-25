@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pitchfork",
     "wareId": 3451,
-    "spriteHashHex": "3273C8742032326A7E3CB1A0A477121D"
+    "spriteHashHex": "3273C8742032326A7E3CB1A0A477121D",
+    "xmlIdRaw": "2548"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dragon priest\u0027s wandtip",
     "wareId": 10444,
-    "spriteHashHex": "AE7CE3AAA42F26882D34FD467295956B"
+    "spriteHashHex": "AE7CE3AAA42F26882D34FD467295956B",
+    "xmlIdRaw": "11361"
   }
 }

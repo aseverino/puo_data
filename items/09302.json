@@ -40,6 +40,7 @@
     "type": "None",
     "name": "sacred tree amulet",
     "wareId": 9302,
-    "spriteHashHex": "8720503959602EAE09DC2AA7E9BCFDFA"
+    "spriteHashHex": "8720503959602EAE09DC2AA7E9BCFDFA",
+    "xmlIdRaw": "10219"
   }
 }

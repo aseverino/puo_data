@@ -38,6 +38,7 @@
     "type": "None",
     "name": "very noble-looking watch",
     "wareId": 6092,
-    "spriteHashHex": "D7FEC273D8D00B10FAEFFF286575E175"
+    "spriteHashHex": "D7FEC273D8D00B10FAEFFF286575E175",
+    "xmlIdRaw": "6092"
   }
 }

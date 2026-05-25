@@ -43,6 +43,7 @@
     "type": "None",
     "name": "umbral axe",
     "wareId": 20071,
-    "spriteHashHex": "21A148F41B27E0603AAE161C67C4110F"
+    "spriteHashHex": "21A148F41B27E0603AAE161C67C4110F",
+    "xmlIdRaw": "22405"
   }
 }

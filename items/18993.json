@@ -38,6 +38,7 @@
     "type": "None",
     "name": "rorc feather",
     "wareId": 18993,
-    "spriteHashHex": "FFEF395410B1D74EFBCEBE99D8D265F3"
+    "spriteHashHex": "FFEF395410B1D74EFBCEBE99D8D265F3",
+    "xmlIdRaw": "21310"
   }
 }

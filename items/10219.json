@@ -39,6 +39,7 @@
     "type": "None",
     "name": "crocodile steak",
     "wareId": 10219,
-    "spriteHashHex": "3FB096648E829944DB92E76E2FDA9D29"
+    "spriteHashHex": "3FB096648E829944DB92E76E2FDA9D29",
+    "xmlIdRaw": "11429"
   }
 }

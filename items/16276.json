@@ -58,6 +58,7 @@
     "name": "noble sword",
     "isAnimation": true,
     "wareId": 16275,
-    "spriteHashHex": "C36DB3926B1504AEA6DE28D5623A3AA2"
+    "spriteHashHex": "C36DB3926B1504AEA6DE28D5623A3AA2",
+    "xmlIdRaw": "18551"
   }
 }

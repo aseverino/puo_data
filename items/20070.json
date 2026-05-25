@@ -43,6 +43,7 @@
     "type": "None",
     "name": "crude umbral axe",
     "wareId": 20070,
-    "spriteHashHex": "881CE716CB493704BE0E7BFE8D480239"
+    "spriteHashHex": "881CE716CB493704BE0E7BFE8D480239",
+    "xmlIdRaw": "22404"
   }
 }

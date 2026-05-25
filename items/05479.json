@@ -37,6 +37,7 @@
     "type": "None",
     "name": "cat\u0027s paw",
     "wareId": 5479,
-    "spriteHashHex": "C10C364A7D770D5A824D9D9FA2D4DC97"
+    "spriteHashHex": "C10C364A7D770D5A824D9D9FA2D4DC97",
+    "xmlIdRaw": "5480"
   }
 }

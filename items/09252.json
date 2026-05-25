@@ -40,6 +40,7 @@
     "type": "None",
     "name": "old power core",
     "wareId": 9252,
-    "spriteHashHex": "19BF8BF20B9269CAFF47D2C02C2FA8DF"
+    "spriteHashHex": "19BF8BF20B9269CAFF47D2C02C2FA8DF",
+    "xmlIdRaw": "10170"
   }
 }

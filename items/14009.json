@@ -39,6 +39,7 @@
     "type": "None",
     "name": "key to the Drowned Library",
     "wareId": 14009,
-    "spriteHashHex": "4A526A5E73D7EFA32BA8781FEB9B4DD8"
+    "spriteHashHex": "4A526A5E73D7EFA32BA8781FEB9B4DD8",
+    "xmlIdRaw": "15422"
   }
 }

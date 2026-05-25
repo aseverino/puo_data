@@ -37,6 +37,7 @@
     "type": "None",
     "name": "damaged logbook",
     "wareId": 6124,
-    "spriteHashHex": "DD37E9DF2E332627BA9CA382C404CFD6"
+    "spriteHashHex": "DD37E9DF2E332627BA9CA382C404CFD6",
+    "xmlIdRaw": "14338"
   }
 }

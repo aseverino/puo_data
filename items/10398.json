@@ -37,6 +37,7 @@
     "type": "None",
     "name": "draken trophy",
     "wareId": 10398,
-    "spriteHashHex": "B2B9AAFAE795E48CB8016D3501DC195D"
+    "spriteHashHex": "B2B9AAFAE795E48CB8016D3501DC195D",
+    "xmlIdRaw": "11315"
   }
 }

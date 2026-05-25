@@ -38,6 +38,7 @@
     "type": "None",
     "name": "witherblossom",
     "wareId": 12235,
-    "spriteHashHex": "4150D4B7CFB13BB8158472EDA4857302"
+    "spriteHashHex": "4150D4B7CFB13BB8158472EDA4857302",
+    "xmlIdRaw": "13222"
   }
 }

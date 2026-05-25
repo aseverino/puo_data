@@ -48,6 +48,7 @@
     "name": "true heart of the sea",
     "hasHeight": true,
     "wareId": 14241,
-    "spriteHashHex": "00E62EEC019B949D690B9E5C1E9D22CE"
+    "spriteHashHex": "00E62EEC019B949D690B9E5C1E9D22CE",
+    "xmlIdRaw": "15638"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "sprocketwhip cone",
     "wareId": 12234,
-    "spriteHashHex": "B605EEC2B66C4F2F740708F849FD2A57"
+    "spriteHashHex": "B605EEC2B66C4F2F740708F849FD2A57",
+    "xmlIdRaw": "13221"
   }
 }

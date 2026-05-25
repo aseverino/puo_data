@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wimp tooth chain",
     "wareId": 17847,
-    "spriteHashHex": "DE296D7A57545B53545199730C75096D"
+    "spriteHashHex": "DE296D7A57545B53545199730C75096D",
+    "xmlIdRaw": "20127"
   }
 }

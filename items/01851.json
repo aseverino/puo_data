@@ -25,13 +25,23 @@
       ]
     },
     "spriteIds": [
-      141240
+      147988
     ]
   },
   "server": {
     "serverId": 3607,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "28FF95F6AF58D25B3719F35795C1B2D2"
+    "spriteHashHex": "28FF95F6AF58D25B3719F35795C1B2D2",
+    "xmlIdRaw": "3607",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

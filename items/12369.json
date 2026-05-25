@@ -102,6 +102,7 @@
     "name": "captured wolf",
     "isAnimation": true,
     "wareId": 12369,
-    "spriteHashHex": "27CA9355BB96B13A6E6E2488168B7F7B"
+    "spriteHashHex": "27CA9355BB96B13A6E6E2488168B7F7B",
+    "xmlIdRaw": "13633"
   }
 }

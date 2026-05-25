@@ -38,6 +38,7 @@
     "type": "None",
     "name": "waspoid wing",
     "wareId": 14081,
-    "spriteHashHex": "4CAA00E04F87791131FD227A121EC4AE"
+    "spriteHashHex": "4CAA00E04F87791131FD227A121EC4AE",
+    "xmlIdRaw": "15484"
   }
 }

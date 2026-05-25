@@ -47,6 +47,7 @@
     "type": "None",
     "name": "candy",
     "wareId": 6569,
-    "spriteHashHex": "F4884543045F54AF72DBDB3640C5256E"
+    "spriteHashHex": "F4884543045F54AF72DBDB3640C5256E",
+    "xmlIdRaw": "6569"
   }
 }

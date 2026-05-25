@@ -39,6 +39,7 @@
     "type": "None",
     "name": "norse shield",
     "wareId": 7460,
-    "spriteHashHex": "33DAD062842EC4C6038DCEF9855C2B28"
+    "spriteHashHex": "33DAD062842EC4C6038DCEF9855C2B28",
+    "xmlIdRaw": "7460"
   }
 }

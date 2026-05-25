@@ -39,6 +39,7 @@
     "type": "None",
     "name": "scarab amulet",
     "wareId": 3018,
-    "spriteHashHex": "88289B1269450C362F4E9113DA0C5135"
+    "spriteHashHex": "88289B1269450C362F4E9113DA0C5135",
+    "xmlIdRaw": "2135"
   }
 }

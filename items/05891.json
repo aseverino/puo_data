@@ -51,6 +51,7 @@
     "name": "enchanted chicken wing",
     "isAnimation": true,
     "wareId": 5891,
-    "spriteHashHex": "A1F4378C1C606DE743F470EC04EE6419"
+    "spriteHashHex": "A1F4378C1C606DE743F470EC04EE6419",
+    "xmlIdRaw": "5891"
   }
 }

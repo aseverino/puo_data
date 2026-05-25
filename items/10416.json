@@ -38,6 +38,7 @@
     "type": "None",
     "name": "high guard shoulderplates",
     "wareId": 10416,
-    "spriteHashHex": "F2E849D2E44344AF224EF344CE465AC0"
+    "spriteHashHex": "F2E849D2E44344AF224EF344CE465AC0",
+    "xmlIdRaw": "11333"
   }
 }

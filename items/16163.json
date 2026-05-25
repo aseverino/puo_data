@@ -40,6 +40,7 @@
     "type": "None",
     "name": "crystal crossbow",
     "wareId": 16163,
-    "spriteHashHex": "93323102F02473004CFB0E54EDDF825B"
+    "spriteHashHex": "93323102F02473004CFB0E54EDDF825B",
+    "xmlIdRaw": "18453"
   }
 }

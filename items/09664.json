@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of hellfire armor",
     "wareId": 9664,
-    "spriteHashHex": "7264935BA23DDD78F98F09F9A6713CCE"
+    "spriteHashHex": "7264935BA23DDD78F98F09F9A6713CCE",
+    "xmlIdRaw": "10581"
   }
 }

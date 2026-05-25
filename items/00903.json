@@ -37,6 +37,7 @@
     "type": "None",
     "name": "badger fur",
     "wareId": 903,
-    "spriteHashHex": "A3BE7B6C2CEF8DB6649CC1A1EF66129F"
+    "spriteHashHex": "A3BE7B6C2CEF8DB6649CC1A1EF66129F",
+    "xmlIdRaw": "7965"
   }
 }

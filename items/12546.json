@@ -63,6 +63,7 @@
     "name": "fist on a stick",
     "isAnimation": true,
     "wareId": 12546,
-    "spriteHashHex": "BC61FE8ABC01E51655B0F8ADFEB171F9"
+    "spriteHashHex": "BC61FE8ABC01E51655B0F8ADFEB171F9",
+    "xmlIdRaw": "13535"
   }
 }

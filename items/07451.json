@@ -42,6 +42,7 @@
     "type": "None",
     "name": "shadow sceptre",
     "wareId": 7451,
-    "spriteHashHex": "3520986163E4F32EC8397413150E122E"
+    "spriteHashHex": "3520986163E4F32EC8397413150E122E",
+    "xmlIdRaw": "7451"
   }
 }

@@ -45,6 +45,7 @@
     "type": "None",
     "name": "green crystal fragment",
     "wareId": 16127,
-    "spriteHashHex": "B16DB7F77BF879F43046F54CA5B46EE2"
+    "spriteHashHex": "B16DB7F77BF879F43046F54CA5B46EE2",
+    "xmlIdRaw": "18421"
   }
 }

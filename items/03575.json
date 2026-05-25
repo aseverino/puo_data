@@ -49,6 +49,7 @@
     "type": "None",
     "name": "wood cape",
     "wareId": 3575,
-    "spriteHashHex": "9520BD9113D4C58AAFBA671AD72ADF5B"
+    "spriteHashHex": "9520BD9113D4C58AAFBA671AD72ADF5B",
+    "xmlIdRaw": "2664"
   }
 }

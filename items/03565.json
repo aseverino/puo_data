@@ -39,6 +39,7 @@
     "type": "None",
     "name": "cape",
     "wareId": 3565,
-    "spriteHashHex": "A8056C75DBB1F9A71E1776F3768F0ECE"
+    "spriteHashHex": "A8056C75DBB1F9A71E1776F3768F0ECE",
+    "xmlIdRaw": "2654"
   }
 }

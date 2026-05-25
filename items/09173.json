@@ -39,6 +39,7 @@
     "type": "None",
     "name": "love potion",
     "wareId": 9173,
-    "spriteHashHex": "CA58C983090C557784E6CFEF35657D41"
+    "spriteHashHex": "CA58C983090C557784E6CFEF35657D41",
+    "xmlIdRaw": "10092"
   }
 }

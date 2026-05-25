@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "red backpack",
     "wareId": 2867,
-    "spriteHashHex": "9764D4EF4E1866E05698F7F4D51D4B0E"
+    "spriteHashHex": "9764D4EF4E1866E05698F7F4D51D4B0E",
+    "xmlIdRaw": "2000"
   }
 }

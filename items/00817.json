@@ -40,6 +40,7 @@
     "type": "None",
     "name": "magma amulet",
     "wareId": 817,
-    "spriteHashHex": "E48819CA0C908FC1B207FC034B9E670E"
+    "spriteHashHex": "E48819CA0C908FC1B207FC034B9E670E",
+    "xmlIdRaw": "7890"
   }
 }

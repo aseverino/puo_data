@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "demon backpack",
     "wareId": 9601,
-    "spriteHashHex": "BF81CACD425DA88F78C7A7FACFCA590C"
+    "spriteHashHex": "BF81CACD425DA88F78C7A7FACFCA590C",
+    "xmlIdRaw": "10518"
   }
 }

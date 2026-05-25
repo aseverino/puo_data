@@ -38,6 +38,7 @@
     "type": "None",
     "name": "frazzle skin",
     "wareId": 20199,
-    "spriteHashHex": "CECCDEA7DA1895DDFDFF343C02AA0295"
+    "spriteHashHex": "CECCDEA7DA1895DDFDFF343C02AA0295",
+    "xmlIdRaw": "22533"
   }
 }

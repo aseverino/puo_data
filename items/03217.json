@@ -41,6 +41,7 @@
     "type": "None",
     "name": "letterbag",
     "wareId": 3217,
-    "spriteHashHex": "80466866E900AE61ADB290D92897470E"
+    "spriteHashHex": "80466866E900AE61ADB290D92897470E",
+    "xmlIdRaw": "2330"
   }
 }

@@ -44,6 +44,7 @@
     "type": "None",
     "name": "candlestick",
     "wareId": 2917,
-    "spriteHashHex": "F1E48BC8D79065474A5FE84344083424"
+    "spriteHashHex": "F1E48BC8D79065474A5FE84344083424",
+    "xmlIdRaw": "2047"
   }
 }

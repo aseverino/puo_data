@@ -41,6 +41,7 @@
     "type": "None",
     "name": "christmas branch",
     "wareId": 6489,
-    "spriteHashHex": "F3DFBFC6BFFB789499D388D9B78F2F8B"
+    "spriteHashHex": "F3DFBFC6BFFB789499D388D9B78F2F8B",
+    "xmlIdRaw": "6490"
   }
 }

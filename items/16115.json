@@ -52,6 +52,7 @@
     "name": "wand of everblazing",
     "isAnimation": true,
     "wareId": 16115,
-    "spriteHashHex": "625C7CF7C095E523DF9FCA2EE8BEBC8D"
+    "spriteHashHex": "625C7CF7C095E523DF9FCA2EE8BEBC8D",
+    "xmlIdRaw": "18409"
   }
 }

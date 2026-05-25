@@ -40,6 +40,7 @@
     "type": "None",
     "name": "special flask",
     "wareId": 135,
-    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C"
+    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C",
+    "xmlIdRaw": "14323"
   }
 }

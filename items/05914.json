@@ -38,6 +38,7 @@
     "type": "None",
     "name": "yellow piece of cloth",
     "wareId": 5914,
-    "spriteHashHex": "CB31830081032D08FE80C420719DF889"
+    "spriteHashHex": "CB31830081032D08FE80C420719DF889",
+    "xmlIdRaw": "5914"
   }
 }

@@ -56,6 +56,7 @@
     "name": "orc\u0027s jaw shredder",
     "isAnimation": true,
     "wareId": 10800,
-    "spriteHashHex": "17EDEC52B26946CD95D439E35D2D9B73"
+    "spriteHashHex": "17EDEC52B26946CD95D439E35D2D9B73",
+    "xmlIdRaw": "11756"
   }
 }

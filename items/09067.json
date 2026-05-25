@@ -40,6 +40,7 @@
     "type": "None",
     "name": "crystal of power",
     "wareId": 9067,
-    "spriteHashHex": "B3A835BD77E58AFB55CBB7DC70AF2915"
+    "spriteHashHex": "B3A835BD77E58AFB55CBB7DC70AF2915",
+    "xmlIdRaw": "9980"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "gemmed lamp",
     "wareId": 3243,
-    "spriteHashHex": "9B5A0B5FFAA93E532A78619F8B2E196F"
+    "spriteHashHex": "9B5A0B5FFAA93E532A78619F8B2E196F",
+    "xmlIdRaw": "2356"
   }
 }

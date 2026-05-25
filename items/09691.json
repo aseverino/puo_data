@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lion\u0027s mane",
     "wareId": 9691,
-    "spriteHashHex": "692C12328959F4373A39BB678A9CABA1"
+    "spriteHashHex": "692C12328959F4373A39BB678A9CABA1",
+    "xmlIdRaw": "10608"
   }
 }

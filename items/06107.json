@@ -37,6 +37,7 @@
     "type": "None",
     "name": "staff",
     "wareId": 6107,
-    "spriteHashHex": "4924554C30B9658B525C97DB24D3E894"
+    "spriteHashHex": "4924554C30B9658B525C97DB24D3E894",
+    "xmlIdRaw": "6107"
   }
 }

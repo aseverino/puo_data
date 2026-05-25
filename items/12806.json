@@ -38,6 +38,7 @@
     "type": "None",
     "name": "flintstone",
     "wareId": 12806,
-    "spriteHashHex": "08194D876BED2278F3C5AEB42CAE480C"
+    "spriteHashHex": "08194D876BED2278F3C5AEB42CAE480C",
+    "xmlIdRaw": "13943"
   }
 }

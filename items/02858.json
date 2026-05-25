@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "yellow bag",
     "wareId": 2858,
-    "spriteHashHex": "71FA63B73ACC4358EAFE74A41FE78247"
+    "spriteHashHex": "71FA63B73ACC4358EAFE74A41FE78247",
+    "xmlIdRaw": "1992"
   }
 }

@@ -73,6 +73,7 @@
     "name": "scythe of the reaper",
     "isAnimation": true,
     "wareId": 9384,
-    "spriteHashHex": "572F226C7F747FECCD57049287D852E3"
+    "spriteHashHex": "572F226C7F747FECCD57049287D852E3",
+    "xmlIdRaw": "10301"
   }
 }

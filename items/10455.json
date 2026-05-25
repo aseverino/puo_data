@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lancer beetle shell",
     "wareId": 10455,
-    "spriteHashHex": "3C82CAA4B873551FA14DABC0B2FC5E8B"
+    "spriteHashHex": "3C82CAA4B873551FA14DABC0B2FC5E8B",
+    "xmlIdRaw": "11372"
   }
 }

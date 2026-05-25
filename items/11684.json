@@ -38,6 +38,7 @@
     "type": "None",
     "name": "downy feather",
     "wareId": 11684,
-    "spriteHashHex": "B138BC7A0C136FBC29805CA221448724"
+    "spriteHashHex": "B138BC7A0C136FBC29805CA221448724",
+    "xmlIdRaw": "12640"
   }
 }

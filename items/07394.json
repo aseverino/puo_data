@@ -49,6 +49,7 @@
     "type": "None",
     "name": "wolf trophy",
     "wareId": 7394,
-    "spriteHashHex": "B0AC3C3A270BDB2433EC649DED53AB58"
+    "spriteHashHex": "B0AC3C3A270BDB2433EC649DED53AB58",
+    "xmlIdRaw": "7394"
   }
 }

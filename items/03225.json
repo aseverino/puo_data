@@ -37,6 +37,7 @@
     "type": "None",
     "name": "left horn",
     "wareId": 3225,
-    "spriteHashHex": "84611B20A4E10C5338A0BD3318519181"
+    "spriteHashHex": "84611B20A4E10C5338A0BD3318519181",
+    "xmlIdRaw": "2338"
   }
 }

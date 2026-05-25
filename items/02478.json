@@ -43,6 +43,7 @@
     "name": "treasure chest",
     "hasHeight": true,
     "wareId": 2478,
-    "spriteHashHex": "F792372AC6CC24740270380BFCD4578F"
+    "spriteHashHex": "F792372AC6CC24740270380BFCD4578F",
+    "xmlIdRaw": "1746"
   }
 }

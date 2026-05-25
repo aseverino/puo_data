@@ -39,6 +39,7 @@
     "type": "None",
     "name": "wolf tooth chain",
     "wareId": 5940,
-    "spriteHashHex": "FF7D371ED970E68857FE5BE4CA5C0AF2"
+    "spriteHashHex": "FF7D371ED970E68857FE5BE4CA5C0AF2",
+    "xmlIdRaw": "5940"
   }
 }

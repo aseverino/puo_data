@@ -45,6 +45,7 @@
     "type": "None",
     "name": "nail",
     "wareId": 953,
-    "spriteHashHex": "B4E595FE34CEC89D4962CAB752072765"
+    "spriteHashHex": "B4E595FE34CEC89D4962CAB752072765",
+    "xmlIdRaw": "8309"
   }
 }

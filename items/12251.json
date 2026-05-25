@@ -38,6 +38,7 @@
     "type": "None",
     "name": "shapechanger",
     "wareId": 12251,
-    "spriteHashHex": "066932EA0E082D9BD4D9237EF9DEB90F"
+    "spriteHashHex": "066932EA0E082D9BD4D9237EF9DEB90F",
+    "xmlIdRaw": "13238"
   }
 }

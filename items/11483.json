@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of archer armor",
     "wareId": 11483,
-    "spriteHashHex": "BD40753B1A31D792DA1FAF107307547C"
+    "spriteHashHex": "BD40753B1A31D792DA1FAF107307547C",
+    "xmlIdRaw": "12439"
   }
 }

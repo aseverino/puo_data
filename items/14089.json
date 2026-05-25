@@ -42,6 +42,7 @@
     "type": "None",
     "name": "hive scythe",
     "wareId": 14089,
-    "spriteHashHex": "EE21FA50E47917BCA861FDE4683B000A"
+    "spriteHashHex": "EE21FA50E47917BCA861FDE4683B000A",
+    "xmlIdRaw": "15492"
   }
 }

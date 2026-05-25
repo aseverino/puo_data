@@ -38,6 +38,7 @@
     "type": "None",
     "name": "stone wing",
     "wareId": 10278,
-    "spriteHashHex": "05E5D9C5E3C731E9C16B89B6D6427462"
+    "spriteHashHex": "05E5D9C5E3C731E9C16B89B6D6427462",
+    "xmlIdRaw": "11195"
   }
 }

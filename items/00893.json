@@ -37,6 +37,7 @@
     "type": "None",
     "name": "waterball",
     "wareId": 893,
-    "spriteHashHex": "FE810E4DAC43E55CDB2FF88BAFAAB340"
+    "spriteHashHex": "FE810E4DAC43E55CDB2FF88BAFAAB340",
+    "xmlIdRaw": "7956"
   }
 }

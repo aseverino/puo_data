@@ -51,6 +51,7 @@
     "name": "undead heart",
     "isAnimation": true,
     "wareId": 10450,
-    "spriteHashHex": "42F3DBFC79A6153F3E441A1E6031C1FD"
+    "spriteHashHex": "42F3DBFC79A6153F3E441A1E6031C1FD",
+    "xmlIdRaw": "11367"
   }
 }

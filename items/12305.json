@@ -39,6 +39,7 @@
     "type": "None",
     "name": "tin key",
     "wareId": 12305,
-    "spriteHashHex": "C51B67CC018FAA2AD2092D80323919E4"
+    "spriteHashHex": "C51B67CC018FAA2AD2092D80323919E4",
+    "xmlIdRaw": "13292"
   }
 }

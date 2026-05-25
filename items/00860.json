@@ -41,6 +41,7 @@
     "type": "None",
     "name": "crimson sword",
     "wareId": 860,
-    "spriteHashHex": "23ED66708B7D3121B3334DE1B102993E"
+    "spriteHashHex": "23ED66708B7D3121B3334DE1B102993E",
+    "xmlIdRaw": "11395"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ragnir helmet",
     "wareId": 7462,
-    "spriteHashHex": "993353D0CF0BDEA9B8F481C2F152C88C"
+    "spriteHashHex": "993353D0CF0BDEA9B8F481C2F152C88C",
+    "xmlIdRaw": "7462"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dowser",
     "wareId": 19110,
-    "spriteHashHex": "E8168ABE3B3628D232176DCFF400CD11"
+    "spriteHashHex": "E8168ABE3B3628D232176DCFF400CD11",
+    "xmlIdRaw": "21427"
   }
 }

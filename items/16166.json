@@ -55,6 +55,7 @@
     "name": "pet pig",
     "isAnimation": true,
     "wareId": 16165,
-    "spriteHashHex": "B0577A119214D274051C4A51CD2AFEE6"
+    "spriteHashHex": "B0577A119214D274051C4A51CD2AFEE6",
+    "xmlIdRaw": "18456"
   }
 }

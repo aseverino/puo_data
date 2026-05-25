@@ -118,6 +118,7 @@
     "name": "golden falcon",
     "isAnimation": true,
     "wareId": 8148,
-    "spriteHashHex": "8BEA44C51247D7DEEF98243DF5FCF5F4"
+    "spriteHashHex": "8BEA44C51247D7DEEF98243DF5FCF5F4",
+    "xmlIdRaw": "9003"
   }
 }

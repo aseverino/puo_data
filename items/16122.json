@@ -45,6 +45,7 @@
     "type": "None",
     "name": "green crystal splinter",
     "wareId": 16122,
-    "spriteHashHex": "E7C7B6B8FAA0BAB315E7D532828831B1"
+    "spriteHashHex": "E7C7B6B8FAA0BAB315E7D532828831B1",
+    "xmlIdRaw": "18416"
   }
 }

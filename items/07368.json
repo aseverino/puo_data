@@ -82,6 +82,7 @@
     "name": "assassin star",
     "isAnimation": true,
     "wareId": 7368,
-    "spriteHashHex": "9AC25CEF595F46843173E2A19B590D7F"
+    "spriteHashHex": "9AC25CEF595F46843173E2A19B590D7F",
+    "xmlIdRaw": "7368"
   }
 }

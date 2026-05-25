@@ -41,6 +41,7 @@
     "type": "None",
     "name": "dragon scale boots",
     "wareId": 10201,
-    "spriteHashHex": "A8D43C8A7FC84525DA9F625FBFF79A2C"
+    "spriteHashHex": "A8D43C8A7FC84525DA9F625FBFF79A2C",
+    "xmlIdRaw": "11118"
   }
 }

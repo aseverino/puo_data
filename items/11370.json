@@ -37,6 +37,7 @@
     "type": "None",
     "name": "sceptre part",
     "wareId": 11370,
-    "spriteHashHex": "4F6763F7FF7AE428C00F8842B12AFB05"
+    "spriteHashHex": "4F6763F7FF7AE428C00F8842B12AFB05",
+    "xmlIdRaw": "12326"
   }
 }

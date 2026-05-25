@@ -38,6 +38,7 @@
     "type": "None",
     "name": "winged tail",
     "wareId": 10313,
-    "spriteHashHex": "D54E2DDB0D0DDB382835694B691610AD"
+    "spriteHashHex": "D54E2DDB0D0DDB382835694B691610AD",
+    "xmlIdRaw": "11230"
   }
 }

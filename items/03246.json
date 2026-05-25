@@ -39,6 +39,7 @@
     "type": "None",
     "name": "boots of waterwalking",
     "wareId": 3246,
-    "spriteHashHex": "CA50964F20FBE211E4ECA1794932BFF3"
+    "spriteHashHex": "CA50964F20FBE211E4ECA1794932BFF3",
+    "xmlIdRaw": "2358"
   }
 }

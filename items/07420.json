@@ -42,6 +42,7 @@
     "type": "None",
     "name": "reaper\u0027s axe",
     "wareId": 7420,
-    "spriteHashHex": "8995131C2E2E8C9DCF4CDA1BA7EDE0E8"
+    "spriteHashHex": "8995131C2E2E8C9DCF4CDA1BA7EDE0E8",
+    "xmlIdRaw": "7420"
   }
 }

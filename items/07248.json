@@ -37,6 +37,7 @@
     "type": "None",
     "name": "frostbite herb",
     "wareId": 7248,
-    "spriteHashHex": "100B5870C74FBFD6CC88D69B7E136349"
+    "spriteHashHex": "100B5870C74FBFD6CC88D69B7E136349",
+    "xmlIdRaw": "7248"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "zaogun flag",
     "wareId": 10413,
-    "spriteHashHex": "EB34485351AD4BDC504296963DF27DF5"
+    "spriteHashHex": "EB34485351AD4BDC504296963DF27DF5",
+    "xmlIdRaw": "11330"
   }
 }

@@ -50,6 +50,7 @@
     "name": "spellbook of ancient arcana",
     "isAnimation": true,
     "wareId": 14769,
-    "spriteHashHex": "92C2F0EE0C21A69FA0BDEB78093D2DAF"
+    "spriteHashHex": "92C2F0EE0C21A69FA0BDEB78093D2DAF",
+    "xmlIdRaw": "16112"
   }
 }

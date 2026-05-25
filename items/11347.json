@@ -56,6 +56,7 @@
     "name": "sacred bowl of purification",
     "isAnimation": true,
     "wareId": 11347,
-    "spriteHashHex": "ECE1B7CAB3D2519B339E789BB528BDDC"
+    "spriteHashHex": "ECE1B7CAB3D2519B339E789BB528BDDC",
+    "xmlIdRaw": "12303"
   }
 }

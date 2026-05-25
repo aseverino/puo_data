@@ -40,6 +40,7 @@
     "type": "None",
     "name": "bonfire amulet",
     "wareId": 9301,
-    "spriteHashHex": "FF08C0F13352EE65AB15E1FB73456821"
+    "spriteHashHex": "FF08C0F13352EE65AB15E1FB73456821",
+    "xmlIdRaw": "10218"
   }
 }

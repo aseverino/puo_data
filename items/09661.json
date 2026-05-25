@@ -38,6 +38,7 @@
     "type": "None",
     "name": "frosty heart",
     "wareId": 9661,
-    "spriteHashHex": "A90EF64FFCAB0649615364A5E844804E"
+    "spriteHashHex": "A90EF64FFCAB0649615364A5E844804E",
+    "xmlIdRaw": "10578"
   }
 }

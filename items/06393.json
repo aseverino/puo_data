@@ -34,10 +34,11 @@
     ]
   },
   "server": {
-    "serverId": 7966,
+    "serverId": 8194,
     "type": "None",
     "name": "cream cake",
     "wareId": 6393,
-    "spriteHashHex": "665842EA29CD2554FE716BD98DE86E90"
+    "spriteHashHex": "665842EA29CD2554FE716BD98DE86E90",
+    "xmlIdRaw": "8194"
   }
 }

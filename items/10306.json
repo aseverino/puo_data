@@ -38,6 +38,7 @@
     "type": "None",
     "name": "essence of a bad dream",
     "wareId": 10306,
-    "spriteHashHex": "4F867BD025D1E07D07D2C05B384F6587"
+    "spriteHashHex": "4F867BD025D1E07D07D2C05B384F6587",
+    "xmlIdRaw": "11223"
   }
 }

@@ -49,6 +49,7 @@
     "type": "None",
     "name": "trophy of Tanjis",
     "wareId": 14223,
-    "spriteHashHex": "B689635C46725D93E6EAA5FF21CF1CF8"
+    "spriteHashHex": "B689635C46725D93E6EAA5FF21CF1CF8",
+    "xmlIdRaw": "15620"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "blood crystal",
     "wareId": 8453,
-    "spriteHashHex": "B81E8257BCFCBBCD1DE1A161615E37DE"
+    "spriteHashHex": "B81E8257BCFCBBCD1DE1A161615E37DE",
+    "xmlIdRaw": "9369"
   }
 }

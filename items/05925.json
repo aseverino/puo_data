@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hardened bone",
     "wareId": 5925,
-    "spriteHashHex": "03DE1AB22515DB19D20001AFC2156D99"
+    "spriteHashHex": "03DE1AB22515DB19D20001AFC2156D99",
+    "xmlIdRaw": "5925"
   }
 }

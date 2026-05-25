@@ -40,6 +40,7 @@
     "type": "None",
     "name": "bait",
     "wareId": 939,
-    "spriteHashHex": "2E7D03BF77B897AE87B51D12992F6DB0"
+    "spriteHashHex": "2E7D03BF77B897AE87B51D12992F6DB0",
+    "xmlIdRaw": "8297"
   }
 }

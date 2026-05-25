@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hollow stampor hoof",
     "wareId": 12314,
-    "spriteHashHex": "AEE35AF6447CBDA102929FF78A9080A6"
+    "spriteHashHex": "AEE35AF6447CBDA102929FF78A9080A6",
+    "xmlIdRaw": "13301"
   }
 }

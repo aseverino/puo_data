@@ -42,6 +42,7 @@
     "type": "None",
     "name": "blacksteel sword",
     "wareId": 7406,
-    "spriteHashHex": "1DFABFD92EA8F9D79353FFD472667567"
+    "spriteHashHex": "1DFABFD92EA8F9D79353FFD472667567",
+    "xmlIdRaw": "7406"
   }
 }

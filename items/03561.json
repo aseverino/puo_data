@@ -39,6 +39,7 @@
     "type": "None",
     "name": "jacket",
     "wareId": 3561,
-    "spriteHashHex": "6A2CD1553AEDDDEBD49EEC9BB6AF3945"
+    "spriteHashHex": "6A2CD1553AEDDDEBD49EEC9BB6AF3945",
+    "xmlIdRaw": "2650"
   }
 }

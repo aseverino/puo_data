@@ -41,6 +41,7 @@
     "type": "None",
     "name": "luminous orb",
     "wareId": 11454,
-    "spriteHashHex": "4C8208600BDE0F95D2F84442CECC6216"
+    "spriteHashHex": "4C8208600BDE0F95D2F84442CECC6216",
+    "xmlIdRaw": "12410"
   }
 }

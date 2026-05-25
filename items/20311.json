@@ -43,6 +43,7 @@
     "type": "None",
     "name": "snow globe",
     "wareId": 20311,
-    "spriteHashHex": "B86EC6C7537EB5EB157E99D4D17FDBBB"
+    "spriteHashHex": "B86EC6C7537EB5EB157E99D4D17FDBBB",
+    "xmlIdRaw": "22645"
   }
 }

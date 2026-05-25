@@ -38,6 +38,7 @@
     "type": "None",
     "name": "scarab pincers",
     "wareId": 9631,
-    "spriteHashHex": "4BF08FA88CD40227A6019F2538045D99"
+    "spriteHashHex": "4BF08FA88CD40227A6019F2538045D99",
+    "xmlIdRaw": "10548"
   }
 }

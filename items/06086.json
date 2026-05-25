@@ -39,6 +39,7 @@
     "type": "None",
     "name": "faked label",
     "wareId": 6086,
-    "spriteHashHex": "396C7BA760C75D1FE8A4E437B77D0362"
+    "spriteHashHex": "396C7BA760C75D1FE8A4E437B77D0362",
+    "xmlIdRaw": "6086"
   }
 }

@@ -34,12 +34,9 @@
     ]
   },
   "server": {
-    "serverId": 411,
+    "serverId": 8282,
     "type": "Ground",
     "walkStack": true,
-    "spriteHashHex": "A4317C0F41AD1C8A1CB053912F776260",
-    "xmlAttributes": {
-      "floorchange": "down"
-    }
+    "spriteHashHex": "A4317C0F41AD1C8A1CB053912F776260"
   }
 }

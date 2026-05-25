@@ -49,6 +49,7 @@
     "type": "None",
     "name": "orange tapestry",
     "wareId": 2653,
-    "spriteHashHex": "FDDF4399AA385423E189CF04745431BE"
+    "spriteHashHex": "FDDF4399AA385423E189CF04745431BE",
+    "xmlIdRaw": "1866"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "umbral bow",
     "wareId": 20083,
-    "spriteHashHex": "BD85E564FA1D9A8AF71EF42DA9029ACF"
+    "spriteHashHex": "BD85E564FA1D9A8AF71EF42DA9029ACF",
+    "xmlIdRaw": "22417"
   }
 }

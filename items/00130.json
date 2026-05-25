@@ -45,6 +45,7 @@
     "type": "None",
     "name": "exploding cookie",
     "wareId": 130,
-    "spriteHashHex": "7406C4404AE6DFA31D5E66EB885E8C30"
+    "spriteHashHex": "7406C4404AE6DFA31D5E66EB885E8C30",
+    "xmlIdRaw": "8111"
   }
 }

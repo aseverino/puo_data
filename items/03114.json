@@ -49,6 +49,7 @@
     "type": "None",
     "name": "skull",
     "wareId": 3114,
-    "spriteHashHex": "522D4862498DCA53A7024571BB85C9C6"
+    "spriteHashHex": "522D4862498DCA53A7024571BB85C9C6",
+    "xmlIdRaw": "2230"
   }
 }

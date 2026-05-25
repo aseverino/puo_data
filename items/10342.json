@@ -42,6 +42,7 @@
     "type": "None",
     "name": "unity charm",
     "wareId": 10342,
-    "spriteHashHex": "1F0A22C5AEAA1C9E7A495A3462035137"
+    "spriteHashHex": "1F0A22C5AEAA1C9E7A495A3462035137",
+    "xmlIdRaw": "11259"
   }
 }

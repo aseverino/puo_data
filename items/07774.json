@@ -41,6 +41,7 @@
     "type": "None",
     "name": "jagged sword",
     "wareId": 7774,
-    "spriteHashHex": "5C6853C3D852FACB45598B2CD254C14E"
+    "spriteHashHex": "5C6853C3D852FACB45598B2CD254C14E",
+    "xmlIdRaw": "8602"
   }
 }

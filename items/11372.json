@@ -76,6 +76,7 @@
     "name": "interdimensional potion",
     "isAnimation": true,
     "wareId": 11372,
-    "spriteHashHex": "8601432B73953996D5FB037833516D5C"
+    "spriteHashHex": "8601432B73953996D5FB037833516D5C",
+    "xmlIdRaw": "12328"
   }
 }

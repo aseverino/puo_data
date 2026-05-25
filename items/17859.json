@@ -42,6 +42,7 @@
     "type": "None",
     "name": "spiky club",
     "wareId": 17859,
-    "spriteHashHex": "BAFEF5BB41D14E075E5E3D228BA141D1"
+    "spriteHashHex": "BAFEF5BB41D14E075E5E3D228BA141D1",
+    "xmlIdRaw": "20139"
   }
 }

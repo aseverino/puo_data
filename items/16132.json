@@ -38,6 +38,7 @@
     "type": "None",
     "name": "eye of a weeper",
     "wareId": 16132,
-    "spriteHashHex": "875CD20B6FCBE57A9B49E0683DD4BCFC"
+    "spriteHashHex": "875CD20B6FCBE57A9B49E0683DD4BCFC",
+    "xmlIdRaw": "18426"
   }
 }

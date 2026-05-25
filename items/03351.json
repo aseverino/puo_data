@@ -40,6 +40,7 @@
     "type": "None",
     "name": "steel helmet",
     "wareId": 3351,
-    "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07"
+    "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07",
+    "xmlIdRaw": "2457"
   }
 }

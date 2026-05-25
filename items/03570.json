@@ -40,6 +40,7 @@
     "type": "None",
     "name": "ball gown",
     "wareId": 3570,
-    "spriteHashHex": "B570A5445D2027FAA43615224F07CC28"
+    "spriteHashHex": "B570A5445D2027FAA43615224F07CC28",
+    "xmlIdRaw": "2659"
   }
 }

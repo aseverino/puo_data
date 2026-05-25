@@ -38,6 +38,7 @@
     "type": "None",
     "name": "silencer claws",
     "wareId": 20200,
-    "spriteHashHex": "CF1EF68D5E42BFE304065738DF341D24"
+    "spriteHashHex": "CF1EF68D5E42BFE304065738DF341D24",
+    "xmlIdRaw": "22534"
   }
 }

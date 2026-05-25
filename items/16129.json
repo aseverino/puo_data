@@ -46,6 +46,7 @@
     "type": "None",
     "name": "major crystalline token",
     "wareId": 16129,
-    "spriteHashHex": "64AF25A388017CE4BCE7B6EF69ED97F4"
+    "spriteHashHex": "64AF25A388017CE4BCE7B6EF69ED97F4",
+    "xmlIdRaw": "18423"
   }
 }

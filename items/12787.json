@@ -38,6 +38,7 @@
     "type": "None",
     "name": "plague bell",
     "wareId": 12787,
-    "spriteHashHex": "B08477D574F8C522229CFAC6B914EAE0"
+    "spriteHashHex": "B08477D574F8C522229CFAC6B914EAE0",
+    "xmlIdRaw": "13926"
   }
 }

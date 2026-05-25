@@ -39,6 +39,7 @@
     "type": "None",
     "name": "bunnyslippers",
     "wareId": 3553,
-    "spriteHashHex": "1B323BF0232B1EF3A7C6976090699991"
+    "spriteHashHex": "1B323BF0232B1EF3A7C6976090699991",
+    "xmlIdRaw": "2644"
   }
 }

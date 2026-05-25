@@ -37,6 +37,7 @@
     "type": "None",
     "name": "doll",
     "wareId": 2991,
-    "spriteHashHex": "0F4AAE8B6A82A35BF1247472FEF1A4AD"
+    "spriteHashHex": "0F4AAE8B6A82A35BF1247472FEF1A4AD",
+    "xmlIdRaw": "2110"
   }
 }

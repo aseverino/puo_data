@@ -48,6 +48,7 @@
     "type": "None",
     "name": "vortex bolt",
     "wareId": 14252,
-    "spriteHashHex": "85F893B87315434D6500EBBB6E1E0F70"
+    "spriteHashHex": "85F893B87315434D6500EBBB6E1E0F70",
+    "xmlIdRaw": "15649"
   }
 }

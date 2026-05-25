@@ -55,6 +55,7 @@
     "name": "the tail of the Keeper",
     "isAnimation": true,
     "wareId": 11367,
-    "spriteHashHex": "F484DD91C93B9A88F77E6085B6C9DCC2"
+    "spriteHashHex": "F484DD91C93B9A88F77E6085B6C9DCC2",
+    "xmlIdRaw": "12323"
   }
 }

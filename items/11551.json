@@ -54,6 +54,7 @@
     "name": "mystic root",
     "isAnimation": true,
     "wareId": 11551,
-    "spriteHashHex": "DE3DDED55CAF884E47BE3C0586FBCC71"
+    "spriteHashHex": "DE3DDED55CAF884E47BE3C0586FBCC71",
+    "xmlIdRaw": "12507"
   }
 }

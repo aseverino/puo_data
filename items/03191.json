@@ -43,6 +43,7 @@
     "type": "None",
     "name": "great fireball rune",
     "wareId": 3191,
-    "spriteHashHex": "DC1EE40D615857E34773F079C98AB3E1"
+    "spriteHashHex": "DC1EE40D615857E34773F079C98AB3E1",
+    "xmlIdRaw": "2304"
   }
 }

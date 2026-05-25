@@ -40,6 +40,7 @@
     "type": "None",
     "name": "F",
     "wareId": 8077,
-    "spriteHashHex": "31A2A58EDA06919865A22AB0DA74A203"
+    "spriteHashHex": "31A2A58EDA06919865A22AB0DA74A203",
+    "xmlIdRaw": "8905"
   }
 }

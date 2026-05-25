@@ -37,6 +37,7 @@
     "type": "None",
     "name": "atlas",
     "wareId": 6108,
-    "spriteHashHex": "E6132EAF4C3BA1A5B174E8B6CC069555"
+    "spriteHashHex": "E6132EAF4C3BA1A5B174E8B6CC069555",
+    "xmlIdRaw": "6108"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "fur cap",
     "wareId": 7458,
-    "spriteHashHex": "AF67B2EC766D98A7DF39F1A9721AEA92"
+    "spriteHashHex": "AF67B2EC766D98A7DF39F1A9721AEA92",
+    "xmlIdRaw": "7458"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "blood herb",
     "wareId": 3734,
-    "spriteHashHex": "724612A16FD4A08CCB610F1603C2FED4"
+    "spriteHashHex": "724612A16FD4A08CCB610F1603C2FED4",
+    "xmlIdRaw": "2798"
   }
 }

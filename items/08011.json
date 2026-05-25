@@ -46,6 +46,7 @@
     "type": "None",
     "name": "plum",
     "wareId": 8011,
-    "spriteHashHex": "19ECD0DC95BB1A967559E80893C5DAAC"
+    "spriteHashHex": "19ECD0DC95BB1A967559E80893C5DAAC",
+    "xmlIdRaw": "8839"
   }
 }

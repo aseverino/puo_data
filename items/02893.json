@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "amphora",
     "wareId": 2893,
-    "spriteHashHex": "CC0F2F429DB103217F42A8DB02D80785"
+    "spriteHashHex": "CC0F2F429DB103217F42A8DB02D80785",
+    "xmlIdRaw": "2023"
   }
 }

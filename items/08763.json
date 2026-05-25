@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bowl of evergreen flowers",
     "wareId": 8763,
-    "spriteHashHex": "7691420F5A135D856EC2F2845FD3132C"
+    "spriteHashHex": "7691420F5A135D856EC2F2845FD3132C",
+    "xmlIdRaw": "11428"
   }
 }

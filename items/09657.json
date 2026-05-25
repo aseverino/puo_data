@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cyclops toe",
     "wareId": 9657,
-    "spriteHashHex": "8D44C77EF970741338F47D8D6F826189"
+    "spriteHashHex": "8D44C77EF970741338F47D8D6F826189",
+    "xmlIdRaw": "10574"
   }
 }

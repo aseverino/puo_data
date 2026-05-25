@@ -37,6 +37,7 @@
     "type": "None",
     "name": "jewel case",
     "wareId": 7527,
-    "spriteHashHex": "38087B1506D35014B5FACEB393D44ABB"
+    "spriteHashHex": "38087B1506D35014B5FACEB393D44ABB",
+    "xmlIdRaw": "8261"
   }
 }

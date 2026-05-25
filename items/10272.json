@@ -38,6 +38,7 @@
     "type": "None",
     "name": "crab pincers",
     "wareId": 10272,
-    "spriteHashHex": "EE4D699DD5D300948724527B9E71E5AA"
+    "spriteHashHex": "EE4D699DD5D300948724527B9E71E5AA",
+    "xmlIdRaw": "11189"
   }
 }

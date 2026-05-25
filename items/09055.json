@@ -38,6 +38,7 @@
     "type": "None",
     "name": "glob of tar",
     "wareId": 9055,
-    "spriteHashHex": "FE819E34D270464BAE770A54EB0EAB21"
+    "spriteHashHex": "FE819E34D270464BAE770A54EB0EAB21",
+    "xmlIdRaw": "9968"
   }
 }

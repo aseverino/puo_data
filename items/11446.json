@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hair of a banshee",
     "wareId": 11446,
-    "spriteHashHex": "C2B58AC36F9D992FFA5299CD70925BFB"
+    "spriteHashHex": "C2B58AC36F9D992FFA5299CD70925BFB",
+    "xmlIdRaw": "12402"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "blade of corruption",
     "wareId": 11693,
-    "spriteHashHex": "450BACE35E886BB7349E98932461A4DF"
+    "spriteHashHex": "450BACE35E886BB7349E98932461A4DF",
+    "xmlIdRaw": "12649"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hydra head",
     "wareId": 10282,
-    "spriteHashHex": "10EC8664B73D320642E5F4D5C9A65F5F"
+    "spriteHashHex": "10EC8664B73D320642E5F4D5C9A65F5F",
+    "xmlIdRaw": "11199"
   }
 }

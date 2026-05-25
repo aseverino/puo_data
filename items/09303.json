@@ -40,6 +40,7 @@
     "type": "None",
     "name": "leviathan\u0027s amulet",
     "wareId": 9303,
-    "spriteHashHex": "8B182958033ED2C17CCB14118A4B33E3"
+    "spriteHashHex": "8B182958033ED2C17CCB14118A4B33E3",
+    "xmlIdRaw": "10220"
   }
 }

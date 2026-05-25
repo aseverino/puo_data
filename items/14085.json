@@ -39,6 +39,7 @@
     "type": "None",
     "name": "deepling filet",
     "wareId": 14085,
-    "spriteHashHex": "7D991422C16F38C64EAF6D28AA445BB3"
+    "spriteHashHex": "7D991422C16F38C64EAF6D28AA445BB3",
+    "xmlIdRaw": "15488"
   }
 }

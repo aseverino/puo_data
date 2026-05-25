@@ -39,6 +39,7 @@
     "type": "None",
     "name": "technomancer beard",
     "wareId": 396,
-    "spriteHashHex": "18BD3EE62808D1BA609B655F927A1911"
+    "spriteHashHex": "18BD3EE62808D1BA609B655F927A1911",
+    "xmlIdRaw": "7699"
   }
 }

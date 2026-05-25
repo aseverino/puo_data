@@ -39,6 +39,7 @@
     "type": "None",
     "name": "small oil lamp",
     "wareId": 2933,
-    "spriteHashHex": "F40C31D07A550B6076F224A1E49A21CC"
+    "spriteHashHex": "F40C31D07A550B6076F224A1E49A21CC",
+    "xmlIdRaw": "2063"
   }
 }

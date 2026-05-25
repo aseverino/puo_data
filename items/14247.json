@@ -40,6 +40,7 @@
     "type": "None",
     "name": "ornate crossbow",
     "wareId": 14247,
-    "spriteHashHex": "39D86EF33394CB62CC6F13BC6B5AC928"
+    "spriteHashHex": "39D86EF33394CB62CC6F13BC6B5AC928",
+    "xmlIdRaw": "15644"
   }
 }

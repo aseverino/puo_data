@@ -61,6 +61,7 @@
     "name": "snow globe",
     "isAnimation": true,
     "wareId": 20311,
-    "spriteHashHex": "83A0EE56BE4C034DADF9FE70D3C2BFFC"
+    "spriteHashHex": "83A0EE56BE4C034DADF9FE70D3C2BFFC",
+    "xmlIdRaw": "22646"
   }
 }

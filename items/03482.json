@@ -37,6 +37,7 @@
     "type": "None",
     "name": "trap",
     "wareId": 3481,
-    "spriteHashHex": "859DEA1354DE2F1CF8AF6D90E6AB7674"
+    "spriteHashHex": "859DEA1354DE2F1CF8AF6D90E6AB7674",
+    "xmlIdRaw": "2579"
   }
 }

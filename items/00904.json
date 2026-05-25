@@ -39,6 +39,7 @@
     "type": "None",
     "name": "throwing cake",
     "wareId": 904,
-    "spriteHashHex": "665842EA29CD2554FE716BD98DE86E90"
+    "spriteHashHex": "665842EA29CD2554FE716BD98DE86E90",
+    "xmlIdRaw": "6394"
   }
 }

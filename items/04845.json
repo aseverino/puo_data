@@ -37,6 +37,7 @@
     "type": "None",
     "name": "dwarven pickaxe",
     "wareId": 4845,
-    "spriteHashHex": "0DFF6C64CEC77D1272CDE0A9280C85C3"
+    "spriteHashHex": "0DFF6C64CEC77D1272CDE0A9280C85C3",
+    "xmlIdRaw": "4874"
   }
 }

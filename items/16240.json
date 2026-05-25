@@ -40,6 +40,7 @@
     "type": "None",
     "name": "statue of Gnomevil",
     "wareId": 16240,
-    "spriteHashHex": "6E99CDFFF192AA0930A3517A2393D50C"
+    "spriteHashHex": "6E99CDFFF192AA0930A3517A2393D50C",
+    "xmlIdRaw": "18508"
   }
 }

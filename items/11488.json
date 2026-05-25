@@ -38,6 +38,7 @@
     "type": "None",
     "name": "quara eye",
     "wareId": 11488,
-    "spriteHashHex": "D893B540477FDF62E2C096111CD27C5C"
+    "spriteHashHex": "D893B540477FDF62E2C096111CD27C5C",
+    "xmlIdRaw": "12444"
   }
 }

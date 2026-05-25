@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hydra tongue",
     "wareId": 7250,
-    "spriteHashHex": "F861A3FD868545C5641711ACBD9C181C"
+    "spriteHashHex": "F861A3FD868545C5641711ACBD9C181C",
+    "xmlIdRaw": "7250"
   }
 }

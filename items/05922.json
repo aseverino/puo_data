@@ -38,6 +38,7 @@
     "type": "None",
     "name": "holy orchid",
     "wareId": 5922,
-    "spriteHashHex": "B75B1F2725B17AB0EEE80C43415E70FC"
+    "spriteHashHex": "B75B1F2725B17AB0EEE80C43415E70FC",
+    "xmlIdRaw": "5922"
   }
 }

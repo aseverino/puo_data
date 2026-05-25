@@ -43,6 +43,7 @@
     "type": "None",
     "name": "avalanche rune",
     "wareId": 3161,
-    "spriteHashHex": "9EA9C6BF28A2E16EE0072731C7EA8432"
+    "spriteHashHex": "9EA9C6BF28A2E16EE0072731C7EA8432",
+    "xmlIdRaw": "2274"
   }
 }

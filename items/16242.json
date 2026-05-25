@@ -39,6 +39,7 @@
     "type": "None",
     "name": "red teleport crystal",
     "wareId": 16242,
-    "spriteHashHex": "739FF9B66149D4EC35AFEF11D14077A4"
+    "spriteHashHex": "739FF9B66149D4EC35AFEF11D14077A4",
+    "xmlIdRaw": "18509"
   }
 }

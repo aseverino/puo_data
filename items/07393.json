@@ -49,6 +49,7 @@
     "type": "None",
     "name": "demon trophy",
     "wareId": 7393,
-    "spriteHashHex": "4D70C146FB289BA8D6854AD325EB38A1"
+    "spriteHashHex": "4D70C146FB289BA8D6854AD325EB38A1",
+    "xmlIdRaw": "7393"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bat wing",
     "wareId": 5894,
-    "spriteHashHex": "BE0562F37CA403E332F0773ECFB8370C"
+    "spriteHashHex": "BE0562F37CA403E332F0773ECFB8370C",
+    "xmlIdRaw": "5894"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "juice squeezer",
     "wareId": 5865,
-    "spriteHashHex": "441D139795ABA23F32847674F0A88B60"
+    "spriteHashHex": "441D139795ABA23F32847674F0A88B60",
+    "xmlIdRaw": "5865"
   }
 }

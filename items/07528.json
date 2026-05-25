@@ -37,6 +37,7 @@
     "type": "None",
     "name": "piece of a broken amulet",
     "wareId": 7528,
-    "spriteHashHex": "5B27875D6EE4E976174B6FF8C9BCAF9F"
+    "spriteHashHex": "5B27875D6EE4E976174B6FF8C9BCAF9F",
+    "xmlIdRaw": "8262"
   }
 }

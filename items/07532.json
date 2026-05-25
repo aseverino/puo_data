@@ -44,6 +44,7 @@
     "type": "None",
     "name": "Koshei\u0027s ancient amulet",
     "wareId": 7532,
-    "spriteHashHex": "03368686C07084B672A200862C377B4F"
+    "spriteHashHex": "03368686C07084B672A200862C377B4F",
+    "xmlIdRaw": "8266"
   }
 }

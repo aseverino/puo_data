@@ -42,6 +42,7 @@
     "type": "None",
     "name": "sun mirror",
     "wareId": 19361,
-    "spriteHashHex": "10A9C3D6144DD64008E15D74B628CFFB"
+    "spriteHashHex": "10A9C3D6144DD64008E15D74B628CFFB",
+    "xmlIdRaw": "21695"
   }
 }

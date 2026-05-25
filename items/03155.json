@@ -40,6 +40,7 @@
     "type": "None",
     "name": "sudden death rune",
     "wareId": 3155,
-    "spriteHashHex": "C39AE5C07224E4F7E773F45B16511017"
+    "spriteHashHex": "C39AE5C07224E4F7E773F45B16511017",
+    "xmlIdRaw": "2268"
   }
 }

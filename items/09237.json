@@ -37,6 +37,7 @@
     "type": "None",
     "name": "shadow orb",
     "wareId": 9237,
-    "spriteHashHex": "0BC89D0D9F7868CD8246B82E5224243F"
+    "spriteHashHex": "0BC89D0D9F7868CD8246B82E5224243F",
+    "xmlIdRaw": "10155"
   }
 }

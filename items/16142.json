@@ -48,6 +48,7 @@
     "type": "None",
     "name": "drill bolt",
     "wareId": 16142,
-    "spriteHashHex": "3A6F428D9FAD0EEF7FF51213A1126C03"
+    "spriteHashHex": "3A6F428D9FAD0EEF7FF51213A1126C03",
+    "xmlIdRaw": "18436"
   }
 }

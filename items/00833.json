@@ -43,6 +43,7 @@
     "name": "red bed kit",
     "hasHeight": true,
     "wareId": 833,
-    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4"
+    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4",
+    "xmlIdRaw": "7906"
   }
 }

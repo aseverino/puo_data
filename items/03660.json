@@ -37,6 +37,7 @@
     "type": "None",
     "name": "yellow rose",
     "wareId": 3660,
-    "spriteHashHex": "6B0262D952695333130E651293CB2EED"
+    "spriteHashHex": "6B0262D952695333130E651293CB2EED",
+    "xmlIdRaw": "2746"
   }
 }

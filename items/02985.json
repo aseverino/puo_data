@@ -38,6 +38,7 @@
     "type": "None",
     "name": "potted flower",
     "wareId": 2985,
-    "spriteHashHex": "A5C488FBC65D28E2B4B57C728C8F54C6"
+    "spriteHashHex": "A5C488FBC65D28E2B4B57C728C8F54C6",
+    "xmlIdRaw": "2104"
   }
 }

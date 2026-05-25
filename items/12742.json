@@ -38,6 +38,7 @@
     "type": "None",
     "name": "yielowax",
     "wareId": 12742,
-    "spriteHashHex": "1E5174E48DF7686F5DF6ED1B8D4B6353"
+    "spriteHashHex": "1E5174E48DF7686F5DF6ED1B8D4B6353",
+    "xmlIdRaw": "13881"
   }
 }

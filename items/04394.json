@@ -26,16 +26,17 @@
       ]
     },
     "spriteIds": [
-      141289,
-      141290,
-      141291,
-      141292
+      147836,
+      147837,
+      147838,
+      147839
     ]
   },
   "server": {
     "serverId": 4405,
     "type": "Ground",
     "walkStack": true,
-    "spriteHashHex": "F8AC822BB0061D227EB81B08815D02A8"
+    "spriteHashHex": "F8AC822BB0061D227EB81B08815D02A8",
+    "xmlIdRaw": "4405"
   }
 }

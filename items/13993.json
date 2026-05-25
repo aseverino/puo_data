@@ -41,6 +41,7 @@
     "type": "None",
     "name": "ornate chestplate",
     "wareId": 13993,
-    "spriteHashHex": "BD8C87180ABAA0C737B6D5A20E0812DB"
+    "spriteHashHex": "BD8C87180ABAA0C737B6D5A20E0812DB",
+    "xmlIdRaw": "15406"
   }
 }

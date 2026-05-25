@@ -40,6 +40,7 @@
     "type": "None",
     "name": "ice cream cone",
     "wareId": 7372,
-    "spriteHashHex": "717C633A4AE6865798DB57EF30408205"
+    "spriteHashHex": "717C633A4AE6865798DB57EF30408205",
+    "xmlIdRaw": "14341"
   }
 }

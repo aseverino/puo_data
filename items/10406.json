@@ -41,6 +41,7 @@
     "type": "None",
     "name": "Zaoan halberd",
     "wareId": 10406,
-    "spriteHashHex": "642D63D08EF3B468CEA1709F3CE7D551"
+    "spriteHashHex": "642D63D08EF3B468CEA1709F3CE7D551",
+    "xmlIdRaw": "11323"
   }
 }

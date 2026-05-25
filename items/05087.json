@@ -42,6 +42,7 @@
     "name": "monkey statue \u0027hear\u0027 kit",
     "hasHeight": true,
     "wareId": 5087,
-    "spriteHashHex": "A18180051CD2CB417FF554DF0FAB1558"
+    "spriteHashHex": "A18180051CD2CB417FF554DF0FAB1558",
+    "xmlIdRaw": "5087"
   }
 }

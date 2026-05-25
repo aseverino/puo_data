@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "grey backpack",
     "wareId": 2870,
-    "spriteHashHex": "CA5EDBE519372E2EA979609BFD9768C0"
+    "spriteHashHex": "CA5EDBE519372E2EA979609BFD9768C0",
+    "xmlIdRaw": "2003"
   }
 }

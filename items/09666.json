@@ -38,6 +38,7 @@
     "type": "None",
     "name": "sea serpent scale",
     "wareId": 9666,
-    "spriteHashHex": "6448371076D3859A09E4878A249032FC"
+    "spriteHashHex": "6448371076D3859A09E4878A249032FC",
+    "xmlIdRaw": "10583"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "bloody edge",
     "wareId": 7416,
-    "spriteHashHex": "C93752AF4026D5D4D6C6C0B73A3FAD52"
+    "spriteHashHex": "C93752AF4026D5D4D6C6C0B73A3FAD52",
+    "xmlIdRaw": "7416"
   }
 }

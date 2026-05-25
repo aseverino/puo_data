@@ -39,6 +39,7 @@
     "type": "None",
     "name": "reins",
     "wareId": 12308,
-    "spriteHashHex": "3E474A87C3B8CFB8F5A15CD741FC9054"
+    "spriteHashHex": "3E474A87C3B8CFB8F5A15CD741FC9054",
+    "xmlIdRaw": "13295"
   }
 }

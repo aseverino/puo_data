@@ -37,6 +37,7 @@
     "type": "None",
     "name": "mago mechanic core",
     "wareId": 9249,
-    "spriteHashHex": "A86CE6467B61A32B50B1775A7C773782"
+    "spriteHashHex": "A86CE6467B61A32B50B1775A7C773782",
+    "xmlIdRaw": "10167"
   }
 }

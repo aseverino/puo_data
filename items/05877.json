@@ -38,6 +38,7 @@
     "type": "None",
     "name": "green dragon leather",
     "wareId": 5877,
-    "spriteHashHex": "25A83135BE9D79735A9D235A0F613D0B"
+    "spriteHashHex": "25A83135BE9D79735A9D235A0F613D0B",
+    "xmlIdRaw": "5877"
   }
 }

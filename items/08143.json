@@ -38,6 +38,7 @@
     "type": "None",
     "name": "gland",
     "wareId": 8143,
-    "spriteHashHex": "A08705F2C4B09EAEFF95268429A73F05"
+    "spriteHashHex": "A08705F2C4B09EAEFF95268429A73F05",
+    "xmlIdRaw": "8971"
   }
 }

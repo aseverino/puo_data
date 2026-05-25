@@ -38,6 +38,7 @@
     "type": "None",
     "name": "reward box",
     "wareId": 12057,
-    "spriteHashHex": "2F44A43DE32B1BAD0F3554AA88EA8722"
+    "spriteHashHex": "2F44A43DE32B1BAD0F3554AA88EA8722",
+    "xmlIdRaw": "13044"
   }
 }

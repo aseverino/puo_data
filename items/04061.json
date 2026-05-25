@@ -55,6 +55,7 @@
     "name": "stone of wisdom",
     "isAnimation": true,
     "wareId": 4061,
-    "spriteHashHex": "21BD8064836800AF5196E6F144A85965"
+    "spriteHashHex": "21BD8064836800AF5196E6F144A85965",
+    "xmlIdRaw": "12662"
   }
 }

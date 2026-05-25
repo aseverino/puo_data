@@ -42,6 +42,7 @@
     "type": "None",
     "name": "thaian sword",
     "wareId": 7391,
-    "spriteHashHex": "65F58E18188FACBD707460F5165FA395"
+    "spriteHashHex": "65F58E18188FACBD707460F5165FA395",
+    "xmlIdRaw": "7391"
   }
 }

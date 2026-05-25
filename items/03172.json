@@ -40,6 +40,7 @@
     "type": "None",
     "name": "poison field rune",
     "wareId": 3172,
-    "spriteHashHex": "DD3ECF8A20677096839F07D2E78ECFD4"
+    "spriteHashHex": "DD3ECF8A20677096839F07D2E78ECFD4",
+    "xmlIdRaw": "2285"
   }
 }

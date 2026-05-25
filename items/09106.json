@@ -39,6 +39,7 @@
     "type": "None",
     "name": "molten wax",
     "wareId": 9106,
-    "spriteHashHex": "C39C11F507D81F5C3D9AA539D1D8FBFC"
+    "spriteHashHex": "C39C11F507D81F5C3D9AA539D1D8FBFC",
+    "xmlIdRaw": "10025"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "crude umbral crossbow",
     "wareId": 20085,
-    "spriteHashHex": "2A7403C8C65798B8414E446989C9983C"
+    "spriteHashHex": "2A7403C8C65798B8414E446989C9983C",
+    "xmlIdRaw": "22419"
   }
 }

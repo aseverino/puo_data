@@ -48,6 +48,7 @@
     "type": "None",
     "name": "earth arrow",
     "wareId": 774,
-    "spriteHashHex": "7B53D428AB857E17CD4377158B55BA39"
+    "spriteHashHex": "7B53D428AB857E17CD4377158B55BA39",
+    "xmlIdRaw": "7850"
   }
 }

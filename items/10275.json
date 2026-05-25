@@ -38,6 +38,7 @@
     "type": "None",
     "name": "carrion worm fang",
     "wareId": 10275,
-    "spriteHashHex": "3B1BAF3D57E3606F707B5DBF8398D7A6"
+    "spriteHashHex": "3B1BAF3D57E3606F707B5DBF8398D7A6",
+    "xmlIdRaw": "11192"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bill",
     "wareId": 3216,
-    "spriteHashHex": "011287058546927FD435D9197BDED57A"
+    "spriteHashHex": "011287058546927FD435D9197BDED57A",
+    "xmlIdRaw": "2329"
   }
 }

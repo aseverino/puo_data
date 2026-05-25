@@ -37,6 +37,7 @@
     "type": "None",
     "name": "metal fitting",
     "wareId": 9115,
-    "spriteHashHex": "1F178D30FA90EF27E9E6085C35FB461E"
+    "spriteHashHex": "1F178D30FA90EF27E9E6085C35FB461E",
+    "xmlIdRaw": "10034"
   }
 }

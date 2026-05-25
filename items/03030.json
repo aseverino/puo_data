@@ -47,6 +47,7 @@
     "type": "None",
     "name": "small ruby",
     "wareId": 3030,
-    "spriteHashHex": "2AB34BF2C15D42EA1AC432B27BDF44B4"
+    "spriteHashHex": "2AB34BF2C15D42EA1AC432B27BDF44B4",
+    "xmlIdRaw": "2147"
   }
 }

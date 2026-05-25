@@ -39,6 +39,7 @@
     "type": "None",
     "name": "Jerom\u0027s family necklace",
     "wareId": 7754,
-    "spriteHashHex": "7FDCD847D9CC34130B859179C1A72C3D"
+    "spriteHashHex": "7FDCD847D9CC34130B859179C1A72C3D",
+    "xmlIdRaw": "8584"
   }
 }

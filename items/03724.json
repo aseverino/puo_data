@@ -39,6 +39,7 @@
     "type": "None",
     "name": "red mushroom",
     "wareId": 3724,
-    "spriteHashHex": "FD67160D222170205ADBA39017D5DC9E"
+    "spriteHashHex": "FD67160D222170205ADBA39017D5DC9E",
+    "xmlIdRaw": "2788"
   }
 }

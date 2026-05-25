@@ -41,6 +41,7 @@
     "type": "None",
     "name": "lightning boots",
     "wareId": 820,
-    "spriteHashHex": "3098FCBF045DCFC22CF8D90F0F3D05C3"
+    "spriteHashHex": "3098FCBF045DCFC22CF8D90F0F3D05C3",
+    "xmlIdRaw": "7893"
   }
 }

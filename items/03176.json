@@ -40,6 +40,7 @@
     "type": "None",
     "name": "poison wall rune",
     "wareId": 3176,
-    "spriteHashHex": "8CFF324BFFBD24DA49220D2FE72DAE60"
+    "spriteHashHex": "8CFF324BFFBD24DA49220D2FE72DAE60",
+    "xmlIdRaw": "2289"
   }
 }

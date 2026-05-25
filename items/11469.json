@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hunter\u0027s quiver",
     "wareId": 11469,
-    "spriteHashHex": "50036842CB2323B3B4913C32B610FEBB"
+    "spriteHashHex": "50036842CB2323B3B4913C32B610FEBB",
+    "xmlIdRaw": "12425"
   }
 }

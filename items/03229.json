@@ -40,6 +40,7 @@
     "type": "None",
     "name": "helmet of the ancients",
     "wareId": 3229,
-    "spriteHashHex": "C09ACD877E29B4A81BDF67226CE1527E"
+    "spriteHashHex": "C09ACD877E29B4A81BDF67226CE1527E",
+    "xmlIdRaw": "2342"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "the torso of a jester doll",
     "wareId": 8780,
-    "spriteHashHex": "3D6B9E3604D38CB843BD78A32E49089B"
+    "spriteHashHex": "3D6B9E3604D38CB843BD78A32E49089B",
+    "xmlIdRaw": "9695"
   }
 }

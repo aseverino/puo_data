@@ -38,6 +38,7 @@
     "type": "None",
     "name": "shiny stone",
     "wareId": 10310,
-    "spriteHashHex": "597FE34C7DCE0CE4305A904DB120D7F6"
+    "spriteHashHex": "597FE34C7DCE0CE4305A904DB120D7F6",
+    "xmlIdRaw": "11227"
   }
 }

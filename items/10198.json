@@ -37,6 +37,7 @@
     "type": "None",
     "name": "tribal crest",
     "wareId": 10198,
-    "spriteHashHex": "FA3C10C97E5904389B1F12D3DC5DAC6C"
+    "spriteHashHex": "FA3C10C97E5904389B1F12D3DC5DAC6C",
+    "xmlIdRaw": "11115"
   }
 }

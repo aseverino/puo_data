@@ -37,6 +37,7 @@
     "type": "None",
     "name": "worm queen tooth",
     "wareId": 9239,
-    "spriteHashHex": "2255F34514C74EAE565BE4E394E7142D"
+    "spriteHashHex": "2255F34514C74EAE565BE4E394E7142D",
+    "xmlIdRaw": "10157"
   }
 }

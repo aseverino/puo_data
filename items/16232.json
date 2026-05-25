@@ -40,6 +40,7 @@
     "type": "None",
     "name": "statue of Abyssador",
     "wareId": 16232,
-    "spriteHashHex": "82478D143BE8E19A0DAEBD15CD0E3407"
+    "spriteHashHex": "82478D143BE8E19A0DAEBD15CD0E3407",
+    "xmlIdRaw": "18500"
   }
 }

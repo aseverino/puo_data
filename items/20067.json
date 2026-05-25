@@ -42,6 +42,7 @@
     "type": "None",
     "name": "crude umbral slayer",
     "wareId": 20067,
-    "spriteHashHex": "AE2A6EF3B858ABE2A4B1EDFF9BC519DF"
+    "spriteHashHex": "AE2A6EF3B858ABE2A4B1EDFF9BC519DF",
+    "xmlIdRaw": "22401"
   }
 }

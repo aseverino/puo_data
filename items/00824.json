@@ -41,6 +41,7 @@
     "type": "None",
     "name": "glacier robe",
     "wareId": 824,
-    "spriteHashHex": "58757E130C370A874116EF9F2B888550"
+    "spriteHashHex": "58757E130C370A874116EF9F2B888550",
+    "xmlIdRaw": "7897"
   }
 }

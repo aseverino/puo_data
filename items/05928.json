@@ -39,6 +39,7 @@
     "type": "None",
     "name": "empty goldfish bowl",
     "wareId": 5928,
-    "spriteHashHex": "A1568BD3B56819BD55B205F48578DEE8"
+    "spriteHashHex": "A1568BD3B56819BD55B205F48578DEE8",
+    "xmlIdRaw": "5928"
   }
 }

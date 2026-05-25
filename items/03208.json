@@ -41,6 +41,7 @@
     "type": "None",
     "name": "giant smithhammer",
     "wareId": 3208,
-    "spriteHashHex": "13898C81D5F06CA8A4A0EA15C41C5BB3"
+    "spriteHashHex": "13898C81D5F06CA8A4A0EA15C41C5BB3",
+    "xmlIdRaw": "14334"
   }
 }

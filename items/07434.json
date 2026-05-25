@@ -42,6 +42,7 @@
     "type": "None",
     "name": "royal axe",
     "wareId": 7434,
-    "spriteHashHex": "AF697FAE29030B4411FFDBCF6B34078E"
+    "spriteHashHex": "AF697FAE29030B4411FFDBCF6B34078E",
+    "xmlIdRaw": "7434"
   }
 }

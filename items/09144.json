@@ -41,6 +41,7 @@
     "type": "None",
     "name": "Epaminondas doll",
     "wareId": 9144,
-    "spriteHashHex": "1054ECCF0EFF18D9903CE8F40FD78999"
+    "spriteHashHex": "1054ECCF0EFF18D9903CE8F40FD78999",
+    "xmlIdRaw": "10063"
   }
 }

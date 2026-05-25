@@ -45,6 +45,7 @@
     "type": "None",
     "name": "black pearl",
     "wareId": 3027,
-    "spriteHashHex": "A0D6E1FEED17A16290F6AA5DCCF29815"
+    "spriteHashHex": "A0D6E1FEED17A16290F6AA5DCCF29815",
+    "xmlIdRaw": "2144"
   }
 }

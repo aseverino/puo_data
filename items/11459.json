@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pineapple",
     "wareId": 11459,
-    "spriteHashHex": "3ED02FA908189E4A023E722137801ED5"
+    "spriteHashHex": "3ED02FA908189E4A023E722137801ED5",
+    "xmlIdRaw": "12415"
   }
 }

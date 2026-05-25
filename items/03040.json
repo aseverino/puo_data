@@ -45,6 +45,7 @@
     "type": "None",
     "name": "gold nugget",
     "wareId": 3040,
-    "spriteHashHex": "108E851EE00191D78CEB4CC65BDD1CC3"
+    "spriteHashHex": "108E851EE00191D78CEB4CC65BDD1CC3",
+    "xmlIdRaw": "2157"
   }
 }

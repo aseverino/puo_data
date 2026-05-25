@@ -37,6 +37,7 @@
     "type": "None",
     "name": "cookbook",
     "wareId": 3234,
-    "spriteHashHex": "531DC2739695061789951EFE9886D5E7"
+    "spriteHashHex": "531DC2739695061789951EFE9886D5E7",
+    "xmlIdRaw": "2347"
   }
 }

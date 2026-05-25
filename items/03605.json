@@ -40,6 +40,7 @@
     "type": "None",
     "name": "bunch of wheat",
     "wareId": 3605,
-    "spriteHashHex": "6B318F5B501C1A8346189D8DA244197E"
+    "spriteHashHex": "6B318F5B501C1A8346189D8DA244197E",
+    "xmlIdRaw": "2694"
   }
 }

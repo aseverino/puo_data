@@ -41,6 +41,7 @@
     "type": "None",
     "name": "dragon eye",
     "wareId": 16262,
-    "spriteHashHex": "FD06F5E591A3587E3667B8C5EB3838E1"
+    "spriteHashHex": "FD06F5E591A3587E3667B8C5EB3838E1",
+    "xmlIdRaw": "18526"
   }
 }

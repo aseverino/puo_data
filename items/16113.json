@@ -40,6 +40,7 @@
     "type": "None",
     "name": "prismatic necklace",
     "wareId": 16113,
-    "spriteHashHex": "9919110623D316D4A2993C5B82BF63B3"
+    "spriteHashHex": "9919110623D316D4A2993C5B82BF63B3",
+    "xmlIdRaw": "18407"
   }
 }

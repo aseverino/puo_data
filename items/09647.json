@@ -38,6 +38,7 @@
     "type": "None",
     "name": "demonic skeletal hand",
     "wareId": 9647,
-    "spriteHashHex": "6D1D4A9B54A3D1C47C5999063D02E14F"
+    "spriteHashHex": "6D1D4A9B54A3D1C47C5999063D02E14F",
+    "xmlIdRaw": "10564"
   }
 }

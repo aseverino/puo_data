@@ -38,6 +38,7 @@
     "type": "None",
     "name": "terramite legs",
     "wareId": 10454,
-    "spriteHashHex": "A0F9940A96E24A0115B539684BE23B87"
+    "spriteHashHex": "A0F9940A96E24A0115B539684BE23B87",
+    "xmlIdRaw": "11371"
   }
 }

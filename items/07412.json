@@ -42,6 +42,7 @@
     "type": "None",
     "name": "butcher\u0027s axe",
     "wareId": 7412,
-    "spriteHashHex": "EA549FD79686EAC962B7C67C11F7E42E"
+    "spriteHashHex": "EA549FD79686EAC962B7C67C11F7E42E",
+    "xmlIdRaw": "7412"
   }
 }

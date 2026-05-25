@@ -49,6 +49,7 @@
     "type": "None",
     "name": "orc trophy",
     "wareId": 7395,
-    "spriteHashHex": "77522B00030A63B593AC00CCF522F010"
+    "spriteHashHex": "77522B00030A63B593AC00CCF522F010",
+    "xmlIdRaw": "7395"
   }
 }

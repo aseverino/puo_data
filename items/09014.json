@@ -39,6 +39,7 @@
     "type": "None",
     "name": "leaf legs",
     "wareId": 9014,
-    "spriteHashHex": "ABD95F43962170147C6CD1505399D93D"
+    "spriteHashHex": "ABD95F43962170147C6CD1505399D93D",
+    "xmlIdRaw": "9928"
   }
 }

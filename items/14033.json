@@ -40,6 +40,7 @@
     "type": "None",
     "name": "flower pot",
     "wareId": 14033,
-    "spriteHashHex": "F73226E7F14828EEA8E9E943C317A60E"
+    "spriteHashHex": "F73226E7F14828EEA8E9E943C317A60E",
+    "xmlIdRaw": "15445"
   }
 }

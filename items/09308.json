@@ -37,6 +37,7 @@
     "type": "None",
     "name": "nautical map",
     "wareId": 9308,
-    "spriteHashHex": "0320CB4CA1D2647FC3CB55819B80D775"
+    "spriteHashHex": "0320CB4CA1D2647FC3CB55819B80D775",
+    "xmlIdRaw": "10225"
   }
 }

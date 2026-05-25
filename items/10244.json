@@ -49,6 +49,7 @@
     "type": "None",
     "name": "bonebeast trophy",
     "wareId": 10244,
-    "spriteHashHex": "89CB33C5CA3937619D8B08C137802C48"
+    "spriteHashHex": "89CB33C5CA3937619D8B08C137802C48",
+    "xmlIdRaw": "11161"
   }
 }

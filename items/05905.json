@@ -38,6 +38,7 @@
     "type": "None",
     "name": "vampire dust",
     "wareId": 5905,
-    "spriteHashHex": "35A52FFE5311BD2260E728CFBAC86F1B"
+    "spriteHashHex": "35A52FFE5311BD2260E728CFBAC86F1B",
+    "xmlIdRaw": "5905"
   }
 }

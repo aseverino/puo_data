@@ -118,6 +118,7 @@
     "name": "doll of Durin The Almighty",
     "isAnimation": true,
     "wareId": 14764,
-    "spriteHashHex": "7D5E3930148ED3E1D1A89C9003BE0AEE"
+    "spriteHashHex": "7D5E3930148ED3E1D1A89C9003BE0AEE",
+    "xmlIdRaw": "16108"
   }
 }

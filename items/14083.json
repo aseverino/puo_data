@@ -38,6 +38,7 @@
     "type": "None",
     "name": "compound eye",
     "wareId": 14083,
-    "spriteHashHex": "37D2E767BC6AD355BB4848D273A917CE"
+    "spriteHashHex": "37D2E767BC6AD355BB4848D273A917CE",
+    "xmlIdRaw": "15486"
   }
 }

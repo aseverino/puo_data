@@ -40,6 +40,7 @@
     "type": "None",
     "name": "veggie casserole",
     "wareId": 9084,
-    "spriteHashHex": "263C09F9E25FA6F76E633144755B532C"
+    "spriteHashHex": "263C09F9E25FA6F76E633144755B532C",
+    "xmlIdRaw": "9997"
   }
 }

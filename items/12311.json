@@ -39,6 +39,7 @@
     "type": "None",
     "name": "carrot on a stick",
     "wareId": 12311,
-    "spriteHashHex": "072D2438219C5A35E3737B0E5FAAAEE5"
+    "spriteHashHex": "072D2438219C5A35E3737B0E5FAAAEE5",
+    "xmlIdRaw": "13298"
   }
 }

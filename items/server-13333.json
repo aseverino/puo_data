@@ -1,7 +1,6 @@
 {
   "category": "item",
   "clientId": 7315,
-  "isMoveable": true,
   "isPickupable": true,
   "hasLight": true,
   "lightLevel": 2,

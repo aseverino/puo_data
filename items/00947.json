@@ -40,6 +40,7 @@
     "type": "None",
     "name": "mother soil",
     "wareId": 947,
-    "spriteHashHex": "1A78F59C3EAC2719252902469CF83F7D"
+    "spriteHashHex": "1A78F59C3EAC2719252902469CF83F7D",
+    "xmlIdRaw": "8305"
   }
 }

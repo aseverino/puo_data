@@ -75,6 +75,7 @@
     "name": "medusa skull",
     "isAnimation": true,
     "wareId": 14762,
-    "spriteHashHex": "7DCE5E947E1BCAD00BD2941F8B05E464"
+    "spriteHashHex": "7DCE5E947E1BCAD00BD2941F8B05E464",
+    "xmlIdRaw": "16106"
   }
 }

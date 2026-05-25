@@ -39,6 +39,7 @@
     "type": "None",
     "name": "shapeshifter ring",
     "wareId": 907,
-    "spriteHashHex": "AAC5990C7520BFB2F94DBF4730C53210"
+    "spriteHashHex": "AAC5990C7520BFB2F94DBF4730C53210",
+    "xmlIdRaw": "14327"
   }
 }

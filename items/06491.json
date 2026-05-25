@@ -49,6 +49,7 @@
     "type": "None",
     "name": "bat decoration",
     "wareId": 6491,
-    "spriteHashHex": "7FF6786923228C47A69901FA3BAB04C0"
+    "spriteHashHex": "7FF6786923228C47A69901FA3BAB04C0",
+    "xmlIdRaw": "6492"
   }
 }

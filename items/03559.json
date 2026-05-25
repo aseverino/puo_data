@@ -39,6 +39,7 @@
     "type": "None",
     "name": "leather legs",
     "wareId": 3559,
-    "spriteHashHex": "D618AF0ECB6410DA458FE1A784F4250F"
+    "spriteHashHex": "D618AF0ECB6410DA458FE1A784F4250F",
+    "xmlIdRaw": "2649"
   }
 }

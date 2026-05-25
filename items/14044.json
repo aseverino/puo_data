@@ -38,6 +38,7 @@
     "type": "None",
     "name": "deepling claw",
     "wareId": 14044,
-    "spriteHashHex": "52AF53750AE68C9E5220A8351CFBD57A"
+    "spriteHashHex": "52AF53750AE68C9E5220A8351CFBD57A",
+    "xmlIdRaw": "15455"
   }
 }

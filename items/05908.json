@@ -39,6 +39,7 @@
     "type": "None",
     "name": "obsidian knife",
     "wareId": 5908,
-    "spriteHashHex": "FB13D870F4DED8719BAF84F13C51E11E"
+    "spriteHashHex": "FB13D870F4DED8719BAF84F13C51E11E",
+    "xmlIdRaw": "5908"
   }
 }

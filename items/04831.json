@@ -37,6 +37,7 @@
     "type": "None",
     "name": "old parchment",
     "wareId": 4831,
-    "spriteHashHex": "488B15E4E4EDD821F3900E5F256061E4"
+    "spriteHashHex": "488B15E4E4EDD821F3900E5F256061E4",
+    "xmlIdRaw": "5956"
   }
 }

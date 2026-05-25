@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "green backpack",
     "wareId": 2865,
-    "spriteHashHex": "522E5165253081DC625304F5B447EF16"
+    "spriteHashHex": "522E5165253081DC625304F5B447EF16",
+    "xmlIdRaw": "1998"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "depth lorica",
     "wareId": 13994,
-    "spriteHashHex": "451698654D8B3011AEFBB347790D9B62"
+    "spriteHashHex": "451698654D8B3011AEFBB347790D9B62",
+    "xmlIdRaw": "15407"
   }
 }

@@ -47,6 +47,7 @@
     "type": "None",
     "name": "lump of dough",
     "wareId": 3604,
-    "spriteHashHex": "F07A6B1B18B2B6136FEECB63ACE5F9E3"
+    "spriteHashHex": "F07A6B1B18B2B6136FEECB63ACE5F9E3",
+    "xmlIdRaw": "2693"
   }
 }

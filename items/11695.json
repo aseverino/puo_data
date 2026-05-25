@@ -43,6 +43,7 @@
     "type": "None",
     "name": "black jade cobra",
     "wareId": 11695,
-    "spriteHashHex": "E1531D35D22FED35CB95C47BCD8A4F5A"
+    "spriteHashHex": "E1531D35D22FED35CB95C47BCD8A4F5A",
+    "xmlIdRaw": "12651"
   }
 }

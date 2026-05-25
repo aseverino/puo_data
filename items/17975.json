@@ -42,6 +42,7 @@
     "name": "venorean wardrobe kit",
     "hasHeight": true,
     "wareId": 17975,
-    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4"
+    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4",
+    "xmlIdRaw": "20255"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "honeycomb",
     "wareId": 5902,
-    "spriteHashHex": "0150D2A6999E60E14D0E4C4F1D20EDDF"
+    "spriteHashHex": "0150D2A6999E60E14D0E4C4F1D20EDDF",
+    "xmlIdRaw": "5902"
   }
 }

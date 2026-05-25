@@ -37,6 +37,7 @@
     "type": "None",
     "name": "Tome of Knowledge",
     "wareId": 10217,
-    "spriteHashHex": "FB44206153C58E535AE23085DCBE26A1"
+    "spriteHashHex": "FB44206153C58E535AE23085DCBE26A1",
+    "xmlIdRaw": "11134"
   }
 }

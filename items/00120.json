@@ -40,6 +40,7 @@
     "type": "None",
     "name": "some special leaves",
     "wareId": 120,
-    "spriteHashHex": "CE1C31439420985C8703D5725D7BC2EE"
+    "spriteHashHex": "CE1C31439420985C8703D5725D7BC2EE",
+    "xmlIdRaw": "14321"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "northern fishburger",
     "wareId": 9088,
-    "spriteHashHex": "E9878A28C1A8A7BB5498DB5B952BCFE0"
+    "spriteHashHex": "E9878A28C1A8A7BB5498DB5B952BCFE0",
+    "xmlIdRaw": "10001"
   }
 }

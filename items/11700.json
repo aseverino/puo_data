@@ -39,6 +39,7 @@
     "type": "None",
     "name": "sedge hat",
     "wareId": 11700,
-    "spriteHashHex": "6EB232CB889909B4D466046CF6F7FFA2"
+    "spriteHashHex": "6EB232CB889909B4D466046CF6F7FFA2",
+    "xmlIdRaw": "12656"
   }
 }

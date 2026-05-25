@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cursed shoulder spikes",
     "wareId": 10410,
-    "spriteHashHex": "88FE15EC7CCF9A5CF583675D1AD7F9FA"
+    "spriteHashHex": "88FE15EC7CCF9A5CF583675D1AD7F9FA",
+    "xmlIdRaw": "11327"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "terrorbird beak",
     "wareId": 10273,
-    "spriteHashHex": "34095EE83E100164BFA577314EC422D0"
+    "spriteHashHex": "34095EE83E100164BFA577314EC422D0",
+    "xmlIdRaw": "11190"
   }
 }

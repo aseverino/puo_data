@@ -40,6 +40,7 @@
     "type": "None",
     "name": "torn incantation fragment",
     "wareId": 19146,
-    "spriteHashHex": "E0AB06161E96765E9132EE099FAB7B03"
+    "spriteHashHex": "E0AB06161E96765E9132EE099FAB7B03",
+    "xmlIdRaw": "21462"
   }
 }

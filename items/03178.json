@@ -40,6 +40,7 @@
     "type": "None",
     "name": "chameleon rune",
     "wareId": 3178,
-    "spriteHashHex": "CE76EA0FEAE190ACDD3A0513FEF90FC4"
+    "spriteHashHex": "CE76EA0FEAE190ACDD3A0513FEF90FC4",
+    "xmlIdRaw": "2291"
   }
 }

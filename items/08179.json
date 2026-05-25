@@ -45,6 +45,7 @@
     "name": "toy spider",
     "isAnimation": true,
     "wareId": 8178,
-    "spriteHashHex": "885EC4FF51AF843293D57589EC983296"
+    "spriteHashHex": "885EC4FF51AF843293D57589EC983296",
+    "xmlIdRaw": "9007"
   }
 }

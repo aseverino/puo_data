@@ -50,6 +50,7 @@
     "type": "None",
     "name": "nightmare beacon",
     "wareId": 20280,
-    "spriteHashHex": "BDB0E81D2BA5E826C1D410A0A9FCFEC3"
+    "spriteHashHex": "BDB0E81D2BA5E826C1D410A0A9FCFEC3",
+    "xmlIdRaw": "22615"
   }
 }

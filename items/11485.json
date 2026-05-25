@@ -38,6 +38,7 @@
     "type": "None",
     "name": "poison spider shell",
     "wareId": 11485,
-    "spriteHashHex": "34807C5DBAB6A3F786946087EF2AB99C"
+    "spriteHashHex": "34807C5DBAB6A3F786946087EF2AB99C",
+    "xmlIdRaw": "12441"
   }
 }

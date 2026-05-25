@@ -39,6 +39,7 @@
     "type": "None",
     "name": "food matrix crystal",
     "wareId": 8829,
-    "spriteHashHex": "7835B7EBB4642322BC1C9F5A55FED38D"
+    "spriteHashHex": "7835B7EBB4642322BC1C9F5A55FED38D",
+    "xmlIdRaw": "9744"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lyre",
     "wareId": 2949,
-    "spriteHashHex": "2A2DA0C26A4FD53630075A137E8217E4"
+    "spriteHashHex": "2A2DA0C26A4FD53630075A137E8217E4",
+    "xmlIdRaw": "2071"
   }
 }

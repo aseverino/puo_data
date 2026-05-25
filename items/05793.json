@@ -38,6 +38,7 @@
     "type": "None",
     "name": "die",
     "wareId": 5797,
-    "spriteHashHex": "24F9BC2768951617E5623E65BFE3988A"
+    "spriteHashHex": "24F9BC2768951617E5623E65BFE3988A",
+    "xmlIdRaw": "5793"
   }
 }

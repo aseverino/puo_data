@@ -42,6 +42,7 @@
     "type": "None",
     "name": "mammoth whopper",
     "wareId": 7381,
-    "spriteHashHex": "6B4ACEF28D6723A6699B0B070AE06E52"
+    "spriteHashHex": "6B4ACEF28D6723A6699B0B070AE06E52",
+    "xmlIdRaw": "7381"
   }
 }

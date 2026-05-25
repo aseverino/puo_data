@@ -40,6 +40,7 @@
     "type": "None",
     "name": "normal waterskin",
     "wareId": 7286,
-    "spriteHashHex": "0EBAD9E68EA7778EDC58AFC55A82964D"
+    "spriteHashHex": "0EBAD9E68EA7778EDC58AFC55A82964D",
+    "xmlIdRaw": "7286"
   }
 }

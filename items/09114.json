@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wooden ties",
     "wareId": 9114,
-    "spriteHashHex": "465BD9370122013C8D61EE9D20A42495"
+    "spriteHashHex": "465BD9370122013C8D61EE9D20A42495",
+    "xmlIdRaw": "10033"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "mucus plug",
     "wareId": 16102,
-    "spriteHashHex": "F604BF48FCCFD04CFEE9505E17C65A65"
+    "spriteHashHex": "F604BF48FCCFD04CFEE9505E17C65A65",
+    "xmlIdRaw": "18396"
   }
 }

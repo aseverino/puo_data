@@ -38,6 +38,7 @@
     "type": "None",
     "name": "santa teddy",
     "wareId": 10338,
-    "spriteHashHex": "8ADDB4A96DEAB91472C8D8C02D7CEFE2"
+    "spriteHashHex": "8ADDB4A96DEAB91472C8D8C02D7CEFE2",
+    "xmlIdRaw": "11255"
   }
 }

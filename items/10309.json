@@ -38,6 +38,7 @@
     "type": "None",
     "name": "strand of medusa hair",
     "wareId": 10309,
-    "spriteHashHex": "F5A9A4822F171BBF2B3C9709430C0FF6"
+    "spriteHashHex": "F5A9A4822F171BBF2B3C9709430C0FF6",
+    "xmlIdRaw": "11226"
   }
 }

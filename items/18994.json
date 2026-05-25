@@ -38,6 +38,7 @@
     "type": "None",
     "name": "elven hoof",
     "wareId": 18994,
-    "spriteHashHex": "211CA347B681E2040E114B75ABA366EA"
+    "spriteHashHex": "211CA347B681E2040E114B75ABA366EA",
+    "xmlIdRaw": "21311"
   }
 }

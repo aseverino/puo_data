@@ -50,6 +50,7 @@
     "type": "None",
     "name": "chain bolter",
     "wareId": 8022,
-    "spriteHashHex": "AA524B9EBA40CE6AD08DC733A3968B54"
+    "spriteHashHex": "AA524B9EBA40CE6AD08DC733A3968B54",
+    "xmlIdRaw": "8850"
   }
 }

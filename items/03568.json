@@ -39,6 +39,7 @@
     "type": "None",
     "name": "simple dress",
     "wareId": 3568,
-    "spriteHashHex": "185B6C0EF678DD53806BA0435191C5A0"
+    "spriteHashHex": "185B6C0EF678DD53806BA0435191C5A0",
+    "xmlIdRaw": "2657"
   }
 }

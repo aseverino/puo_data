@@ -49,6 +49,7 @@
     "type": "None",
     "name": "behemoth trophy",
     "wareId": 7396,
-    "spriteHashHex": "DE3BA336D0CEE387FE742379886B62F8"
+    "spriteHashHex": "DE3BA336D0CEE387FE742379886B62F8",
+    "xmlIdRaw": "7396"
   }
 }

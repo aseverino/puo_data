@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bonecarving knife",
     "wareId": 17830,
-    "spriteHashHex": "80F552A20C3D640FDAC62334970EEA8B"
+    "spriteHashHex": "80F552A20C3D640FDAC62334970EEA8B",
+    "xmlIdRaw": "20110"
   }
 }

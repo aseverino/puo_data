@@ -39,6 +39,7 @@
     "type": "None",
     "name": "note from the thieves guild",
     "wareId": 7873,
-    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F"
+    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F",
+    "xmlIdRaw": "8701"
   }
 }

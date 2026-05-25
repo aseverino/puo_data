@@ -37,6 +37,7 @@
     "type": "None",
     "name": "scale from a frozen dragon",
     "wareId": 7314,
-    "spriteHashHex": "D7D133064671D33BC97F0AA1B619FF65"
+    "spriteHashHex": "D7D133064671D33BC97F0AA1B619FF65",
+    "xmlIdRaw": "7314"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "club of the fury",
     "wareId": 9385,
-    "spriteHashHex": "1CDAD96CAE1A811E5568C62A8571C4C0"
+    "spriteHashHex": "1CDAD96CAE1A811E5568C62A8571C4C0",
+    "xmlIdRaw": "10302"
   }
 }

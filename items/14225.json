@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dung ball",
     "wareId": 14225,
-    "spriteHashHex": "75C2E909FE8DB533AFE8A85D303B224D"
+    "spriteHashHex": "75C2E909FE8DB533AFE8A85D303B224D",
+    "xmlIdRaw": "15622"
   }
 }

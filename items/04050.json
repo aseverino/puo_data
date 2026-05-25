@@ -112,6 +112,7 @@
     "name": "spirit cage",
     "isAnimation": true,
     "wareId": 4050,
-    "spriteHashHex": "52A163F1601920D0B9349BB6FDCFCB68"
+    "spriteHashHex": "52A163F1601920D0B9349BB6FDCFCB68",
+    "xmlIdRaw": "12671"
   }
 }

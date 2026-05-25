@@ -38,6 +38,7 @@
     "type": "None",
     "name": "silver raid token",
     "wareId": 19083,
-    "spriteHashHex": "515E66CD669C01B36CAB1A3A1C1DE660"
+    "spriteHashHex": "515E66CD669C01B36CAB1A3A1C1DE660",
+    "xmlIdRaw": "21400"
   }
 }

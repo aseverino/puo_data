@@ -38,6 +38,7 @@
     "type": "None",
     "name": "black hood",
     "wareId": 9645,
-    "spriteHashHex": "C02476D039AC4FD8BFCD0C276C43ACC3"
+    "spriteHashHex": "C02476D039AC4FD8BFCD0C276C43ACC3",
+    "xmlIdRaw": "10562"
   }
 }

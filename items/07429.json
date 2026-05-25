@@ -60,6 +60,7 @@
     "name": "blessed sceptre",
     "isAnimation": true,
     "wareId": 7429,
-    "spriteHashHex": "E394135B3A1788BDCBB110B3FB813B0C"
+    "spriteHashHex": "E394135B3A1788BDCBB110B3FB813B0C",
+    "xmlIdRaw": "7429"
   }
 }

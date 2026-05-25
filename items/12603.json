@@ -41,6 +41,7 @@
     "type": "None",
     "name": "wand of dimensions",
     "wareId": 12603,
-    "spriteHashHex": "663875CA81D2F1EC3228E28951831401"
+    "spriteHashHex": "663875CA81D2F1EC3228E28951831401",
+    "xmlIdRaw": "13760"
   }
 }

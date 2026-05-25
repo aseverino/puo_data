@@ -54,6 +54,7 @@
     "name": "spectral cloth",
     "isAnimation": true,
     "wareId": 11546,
-    "spriteHashHex": "EAE56AA763EEE462818EE3AA263E92C0"
+    "spriteHashHex": "EAE56AA763EEE462818EE3AA263E92C0",
+    "xmlIdRaw": "12502"
   }
 }

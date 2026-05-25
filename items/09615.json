@@ -38,6 +38,7 @@
     "type": "None",
     "name": "midnight shard",
     "wareId": 9615,
-    "spriteHashHex": "1A941666F749EBDF6088976AACEC24E0"
+    "spriteHashHex": "1A941666F749EBDF6088976AACEC24E0",
+    "xmlIdRaw": "10531"
   }
 }

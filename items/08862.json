@@ -41,6 +41,7 @@
     "type": "None",
     "name": "yalahari armor",
     "wareId": 8862,
-    "spriteHashHex": "6CCDC704547D5AE4E7DAAD0D7635B0FA"
+    "spriteHashHex": "6CCDC704547D5AE4E7DAAD0D7635B0FA",
+    "xmlIdRaw": "9776"
   }
 }

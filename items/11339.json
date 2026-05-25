@@ -39,6 +39,7 @@
     "type": "None",
     "name": "unworked sacred wood",
     "wareId": 11339,
-    "spriteHashHex": "2301A37121A4A69769823187DC504837"
+    "spriteHashHex": "2301A37121A4A69769823187DC504837",
+    "xmlIdRaw": "12295"
   }
 }

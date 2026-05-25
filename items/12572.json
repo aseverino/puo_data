@@ -103,6 +103,7 @@
     "name": "dragon goblet",
     "isAnimation": true,
     "wareId": 10477,
-    "spriteHashHex": "B696695145815BC79976CB059FD5966D"
+    "spriteHashHex": "B696695145815BC79976CB059FD5966D",
+    "xmlIdRaw": "13561"
   }
 }

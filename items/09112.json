@@ -39,6 +39,7 @@
     "type": "None",
     "name": "flask with magical oil",
     "wareId": 9112,
-    "spriteHashHex": "E4A809BB796B60DB900B2F3937044B8C"
+    "spriteHashHex": "E4A809BB796B60DB900B2F3937044B8C",
+    "xmlIdRaw": "10031"
   }
 }

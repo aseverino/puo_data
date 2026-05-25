@@ -40,6 +40,7 @@
     "type": "None",
     "name": "muck remover",
     "wareId": 16101,
-    "spriteHashHex": "803D2BD29284185C5969A35B6976143A"
+    "spriteHashHex": "803D2BD29284185C5969A35B6976143A",
+    "xmlIdRaw": "18395"
   }
 }

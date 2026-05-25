@@ -40,6 +40,7 @@
     "type": "None",
     "name": "tactical map",
     "wareId": 10184,
-    "spriteHashHex": "308206C48A18CFAFCA177AB31EE6DCBF"
+    "spriteHashHex": "308206C48A18CFAFCA177AB31EE6DCBF",
+    "xmlIdRaw": "14354"
   }
 }

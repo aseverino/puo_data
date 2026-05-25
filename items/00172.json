@@ -37,6 +37,7 @@
     "type": "None",
     "name": "blank poetry parchment",
     "wareId": 172,
-    "spriteHashHex": "FAC15E02912DA93702FAA7E2D211A3FA"
+    "spriteHashHex": "FAC15E02912DA93702FAA7E2D211A3FA",
+    "xmlIdRaw": "7528"
   }
 }

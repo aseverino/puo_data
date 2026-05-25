@@ -39,6 +39,7 @@
     "type": "None",
     "name": "coat",
     "wareId": 3562,
-    "spriteHashHex": "1E1FA128C84030F7A77B963FBD954E26"
+    "spriteHashHex": "1E1FA128C84030F7A77B963FBD954E26",
+    "xmlIdRaw": "2651"
   }
 }

@@ -40,6 +40,7 @@
     "name": "food crate",
     "hasHeight": true,
     "wareId": 8772,
-    "spriteHashHex": "67D7BDB733506B8C46878FD06340473E"
+    "spriteHashHex": "67D7BDB733506B8C46878FD06340473E",
+    "xmlIdRaw": "9687"
   }
 }

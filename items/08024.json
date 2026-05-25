@@ -50,6 +50,7 @@
     "type": "None",
     "name": "the devileye",
     "wareId": 8024,
-    "spriteHashHex": "79D2DCD7924C03FED8FE0362614E0B6B"
+    "spriteHashHex": "79D2DCD7924C03FED8FE0362614E0B6B",
+    "xmlIdRaw": "8852"
   }
 }

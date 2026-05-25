@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pirate hat",
     "wareId": 6096,
-    "spriteHashHex": "0FCF9A8D97883892AD9DE89CA92CD02D"
+    "spriteHashHex": "0FCF9A8D97883892AD9DE89CA92CD02D",
+    "xmlIdRaw": "6096"
   }
 }

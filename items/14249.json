@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "buggy backpack",
     "wareId": 14249,
-    "spriteHashHex": "D8CBAE0A1A814CBA25F99A55989341F7"
+    "spriteHashHex": "D8CBAE0A1A814CBA25F99A55989341F7",
+    "xmlIdRaw": "15646"
   }
 }

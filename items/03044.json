@@ -38,6 +38,7 @@
     "type": "None",
     "name": "tusk",
     "wareId": 3044,
-    "spriteHashHex": "060FFDB79A3368CCCC5EF7DE07C4C717"
+    "spriteHashHex": "060FFDB79A3368CCCC5EF7DE07C4C717",
+    "xmlIdRaw": "3956"
   }
 }

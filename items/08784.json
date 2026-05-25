@@ -37,6 +37,7 @@
     "type": "None",
     "name": "part of a jester doll",
     "wareId": 8784,
-    "spriteHashHex": "EA9D1882AA4A95DB398AA0D6F92E5B46"
+    "spriteHashHex": "EA9D1882AA4A95DB398AA0D6F92E5B46",
+    "xmlIdRaw": "9699"
   }
 }

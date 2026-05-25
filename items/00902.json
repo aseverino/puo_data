@@ -49,6 +49,7 @@
     "type": "None",
     "name": "marlin trophy",
     "wareId": 902,
-    "spriteHashHex": "3E9270B7250BC1B118DC6EC8A99F3B3B"
+    "spriteHashHex": "3E9270B7250BC1B118DC6EC8A99F3B3B",
+    "xmlIdRaw": "7964"
   }
 }

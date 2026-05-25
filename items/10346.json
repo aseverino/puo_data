@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "santa backpack",
     "wareId": 10346,
-    "spriteHashHex": "DA6CF38AD487AA0AF658E5C670999009"
+    "spriteHashHex": "DA6CF38AD487AA0AF658E5C670999009",
+    "xmlIdRaw": "11263"
   }
 }

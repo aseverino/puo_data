@@ -42,6 +42,7 @@
     "type": "None",
     "name": "assassin dagger",
     "wareId": 7404,
-    "spriteHashHex": "2C22431C5DAA62B65347FD4C8FA29012"
+    "spriteHashHex": "2C22431C5DAA62B65347FD4C8FA29012",
+    "xmlIdRaw": "7404"
   }
 }

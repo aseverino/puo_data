@@ -38,6 +38,7 @@
     "type": "None",
     "name": "giant crab pincer",
     "wareId": 12317,
-    "spriteHashHex": "762244FF8FFD4C3176283226712F927C"
+    "spriteHashHex": "762244FF8FFD4C3176283226712F927C",
+    "xmlIdRaw": "13304"
   }
 }

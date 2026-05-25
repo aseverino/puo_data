@@ -37,6 +37,7 @@
     "type": "None",
     "name": "tear of daraman",
     "wareId": 3233,
-    "spriteHashHex": "945D9431F3516502A178BEF1FB594232"
+    "spriteHashHex": "945D9431F3516502A178BEF1FB594232",
+    "xmlIdRaw": "2346"
   }
 }

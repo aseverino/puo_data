@@ -56,6 +56,7 @@
     "name": "crystal of focus",
     "isAnimation": true,
     "wareId": 9027,
-    "spriteHashHex": "EC493F77C584BAEE988108F1A3D446AC"
+    "spriteHashHex": "EC493F77C584BAEE988108F1A3D446AC",
+    "xmlIdRaw": "9941"
   }
 }

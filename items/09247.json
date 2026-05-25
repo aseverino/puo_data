@@ -38,6 +38,7 @@
     "type": "None",
     "name": "golem blueprint",
     "wareId": 9247,
-    "spriteHashHex": "1E3B49AA0610D7587149FC6350DDE9BA"
+    "spriteHashHex": "1E3B49AA0610D7587149FC6350DDE9BA",
+    "xmlIdRaw": "10165"
   }
 }

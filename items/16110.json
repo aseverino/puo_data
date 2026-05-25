@@ -41,6 +41,7 @@
     "type": "None",
     "name": "prismatic armor",
     "wareId": 16110,
-    "spriteHashHex": "A4D95B498EDA13BECBAF0B2947C89B9B"
+    "spriteHashHex": "A4D95B498EDA13BECBAF0B2947C89B9B",
+    "xmlIdRaw": "18404"
   }
 }

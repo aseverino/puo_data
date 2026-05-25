@@ -45,6 +45,7 @@
     "type": "None",
     "name": "blue crystal splinter",
     "wareId": 16124,
-    "spriteHashHex": "6BA25A4C832A4703D1AFCD98999D4413"
+    "spriteHashHex": "6BA25A4C832A4703D1AFCD98999D4413",
+    "xmlIdRaw": "18418"
   }
 }

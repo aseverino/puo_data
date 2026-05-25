@@ -49,6 +49,7 @@
     "type": "None",
     "name": "purple tapestry",
     "wareId": 2644,
-    "spriteHashHex": "CDA64C6E34095D2162EFF1AA9898F385"
+    "spriteHashHex": "CDA64C6E34095D2162EFF1AA9898F385",
+    "xmlIdRaw": "1857"
   }
 }

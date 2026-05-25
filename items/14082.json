@@ -38,6 +38,7 @@
     "type": "None",
     "name": "spidris mandible",
     "wareId": 14082,
-    "spriteHashHex": "DF98C6B1132B963B4AA0F1862E7523D5"
+    "spriteHashHex": "DF98C6B1132B963B4AA0F1862E7523D5",
+    "xmlIdRaw": "15485"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "prismatic shield",
     "wareId": 16116,
-    "spriteHashHex": "9EEF16F906F3ED0CC05B098E7FEC5E20"
+    "spriteHashHex": "9EEF16F906F3ED0CC05B098E7FEC5E20",
+    "xmlIdRaw": "18410"
   }
 }

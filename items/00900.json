@@ -37,6 +37,7 @@
     "type": "None",
     "name": "yellow pillow",
     "wareId": 900,
-    "spriteHashHex": "E67832A76CA225225548FE15FC46D83B"
+    "spriteHashHex": "E67832A76CA225225548FE15FC46D83B",
+    "xmlIdRaw": "1689"
   }
 }

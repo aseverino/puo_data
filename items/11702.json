@@ -38,6 +38,7 @@
     "type": "None",
     "name": "brimstone fangs",
     "wareId": 11702,
-    "spriteHashHex": "D95302A527E76D5BA01141854B8015EF"
+    "spriteHashHex": "D95302A527E76D5BA01141854B8015EF",
+    "xmlIdRaw": "12658"
   }
 }

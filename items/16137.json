@@ -38,6 +38,7 @@
     "type": "None",
     "name": "stone nose",
     "wareId": 16137,
-    "spriteHashHex": "E9D4C6138B77C029092A9BC90F1377F0"
+    "spriteHashHex": "E9D4C6138B77C029092A9BC90F1377F0",
+    "xmlIdRaw": "18431"
   }
 }

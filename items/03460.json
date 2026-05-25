@@ -39,6 +39,7 @@
     "type": "None",
     "name": "hammer",
     "wareId": 3460,
-    "spriteHashHex": "2B7B2DCED8392D07B146C2CEB764E75D"
+    "spriteHashHex": "2B7B2DCED8392D07B146C2CEB764E75D",
+    "xmlIdRaw": "2557"
   }
 }

@@ -43,6 +43,7 @@
     "type": "None",
     "name": "snake god trophy",
     "wareId": 11694,
-    "spriteHashHex": "AFDEFF17E5B610F70A8F43A956F8F99F"
+    "spriteHashHex": "AFDEFF17E5B610F70A8F43A956F8F99F",
+    "xmlIdRaw": "12650"
   }
 }

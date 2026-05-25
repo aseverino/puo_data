@@ -38,6 +38,7 @@
     "type": "None",
     "name": "glob of mercury",
     "wareId": 9053,
-    "spriteHashHex": "3F16E2D7177F312EAA87BB8377ACA231"
+    "spriteHashHex": "3F16E2D7177F312EAA87BB8377ACA231",
+    "xmlIdRaw": "9966"
   }
 }

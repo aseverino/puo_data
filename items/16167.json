@@ -39,6 +39,7 @@
     "type": "None",
     "name": "teleport crystal",
     "wareId": 16167,
-    "spriteHashHex": "481089EB1FE85D8958280EF1EA4385D9"
+    "spriteHashHex": "481089EB1FE85D8958280EF1EA4385D9",
+    "xmlIdRaw": "18457"
   }
 }

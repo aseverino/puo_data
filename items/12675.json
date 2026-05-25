@@ -37,6 +37,7 @@
     "type": "None",
     "name": "book of orc language",
     "wareId": 12675,
-    "spriteHashHex": "B0CE8297CD1BF41B158C6D323FD03EA4"
+    "spriteHashHex": "B0CE8297CD1BF41B158C6D323FD03EA4",
+    "xmlIdRaw": "13831"
   }
 }

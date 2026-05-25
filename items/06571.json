@@ -38,6 +38,7 @@
     "type": "None",
     "name": "surprise bag",
     "wareId": 6571,
-    "spriteHashHex": "E84B3CD69BFE2F5A12728EA40084CE3E"
+    "spriteHashHex": "E84B3CD69BFE2F5A12728EA40084CE3E",
+    "xmlIdRaw": "6571"
   }
 }

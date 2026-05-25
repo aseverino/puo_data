@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ice pick",
     "wareId": 4872,
-    "spriteHashHex": "0DFF6C64CEC77D1272CDE0A9280C85C3"
+    "spriteHashHex": "0DFF6C64CEC77D1272CDE0A9280C85C3",
+    "xmlIdRaw": "11421"
   }
 }

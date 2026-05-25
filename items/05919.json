@@ -37,6 +37,7 @@
     "type": "None",
     "name": "dragon claw",
     "wareId": 5919,
-    "spriteHashHex": "5070F926D1D3C64B1842C75728549FF0"
+    "spriteHashHex": "5070F926D1D3C64B1842C75728549FF0",
+    "xmlIdRaw": "5919"
   }
 }

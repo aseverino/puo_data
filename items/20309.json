@@ -38,6 +38,7 @@
     "type": "None",
     "name": "leaf golem santa",
     "wareId": 20309,
-    "spriteHashHex": "47BD7CB9E06501F9F40063D25EFCE568"
+    "spriteHashHex": "47BD7CB9E06501F9F40063D25EFCE568",
+    "xmlIdRaw": "22643"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Countess Sorrow\u0027s frozen tear",
     "wareId": 6536,
-    "spriteHashHex": "3D62C92F26C716D67B3AE23AA13DB456"
+    "spriteHashHex": "3D62C92F26C716D67B3AE23AA13DB456",
+    "xmlIdRaw": "6536"
   }
 }

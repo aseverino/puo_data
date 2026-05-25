@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "vase",
     "wareId": 2876,
-    "spriteHashHex": "0D359885E2A5B64B4A0FB9A8A0F16425"
+    "spriteHashHex": "0D359885E2A5B64B4A0FB9A8A0F16425",
+    "xmlIdRaw": "2008"
   }
 }

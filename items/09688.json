@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bundle of cursed straw",
     "wareId": 9688,
-    "spriteHashHex": "6CE5D744259F2DA8D7F3804A8E8CEE1C"
+    "spriteHashHex": "6CE5D744259F2DA8D7F3804A8E8CEE1C",
+    "xmlIdRaw": "10605"
   }
 }

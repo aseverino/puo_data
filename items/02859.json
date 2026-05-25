@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "red bag",
     "wareId": 2859,
-    "spriteHashHex": "D0DD765A294FC6B3123A1C941E9D3C07"
+    "spriteHashHex": "D0DD765A294FC6B3123A1C941E9D3C07",
+    "xmlIdRaw": "1993"
   }
 }

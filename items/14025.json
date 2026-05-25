@@ -52,6 +52,7 @@
     "type": "None",
     "name": "party lampions",
     "wareId": 14025,
-    "spriteHashHex": "395A83AFD8E39DFF862CD9411CDA2CDF"
+    "spriteHashHex": "395A83AFD8E39DFF862CD9411CDA2CDF",
+    "xmlIdRaw": "15437"
   }
 }

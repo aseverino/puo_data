@@ -40,6 +40,7 @@
     "type": "None",
     "name": "terra hood",
     "wareId": 830,
-    "spriteHashHex": "4742BB56A7CF29070AE2D62EDD92488F"
+    "spriteHashHex": "4742BB56A7CF29070AE2D62EDD92488F",
+    "xmlIdRaw": "7903"
   }
 }

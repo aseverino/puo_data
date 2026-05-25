@@ -41,6 +41,7 @@
     "type": "None",
     "name": "steel axe",
     "wareId": 7773,
-    "spriteHashHex": "FBC7235769EC1402408CB5A1874BA5CB"
+    "spriteHashHex": "FBC7235769EC1402408CB5A1874BA5CB",
+    "xmlIdRaw": "8601"
   }
 }

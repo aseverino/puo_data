@@ -49,6 +49,7 @@
     "type": "None",
     "name": "lion trophy",
     "wareId": 7400,
-    "spriteHashHex": "4473ED684C6A82422F26193A21182F6B"
+    "spriteHashHex": "4473ED684C6A82422F26193A21182F6B",
+    "xmlIdRaw": "7400"
   }
 }

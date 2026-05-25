@@ -38,6 +38,7 @@
     "type": "None",
     "name": "music sheet",
     "wareId": 6090,
-    "spriteHashHex": "3DFE89A9B4FADBCAA4098ED16534575B"
+    "spriteHashHex": "3DFE89A9B4FADBCAA4098ED16534575B",
+    "xmlIdRaw": "6090"
   }
 }

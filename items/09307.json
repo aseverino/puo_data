@@ -37,6 +37,7 @@
     "type": "None",
     "name": "mechanical fish",
     "wareId": 9307,
-    "spriteHashHex": "2804175ABD86468BFD301D983BE862DD"
+    "spriteHashHex": "2804175ABD86468BFD301D983BE862DD",
+    "xmlIdRaw": "10224"
   }
 }

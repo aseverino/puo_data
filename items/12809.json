@@ -91,6 +91,7 @@
     "name": "The Epic Wisdom",
     "isAnimation": true,
     "wareId": 12809,
-    "spriteHashHex": "00FA7ECA341F4F265E4FE5FB56AB80F2"
+    "spriteHashHex": "00FA7ECA341F4F265E4FE5FB56AB80F2",
+    "xmlIdRaw": "13946"
   }
 }

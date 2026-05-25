@@ -61,6 +61,7 @@
     "name": "yummy gummy worm",
     "isAnimation": true,
     "wareId": 8177,
-    "spriteHashHex": "33C4ED6A69479980CA93D2EFDE74C505"
+    "spriteHashHex": "33C4ED6A69479980CA93D2EFDE74C505",
+    "xmlIdRaw": "9005"
   }
 }

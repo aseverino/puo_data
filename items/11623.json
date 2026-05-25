@@ -40,6 +40,7 @@
     "type": "None",
     "name": "silver rune emblem",
     "wareId": 11623,
-    "spriteHashHex": "573C840D66441B756DE4418E097967D0"
+    "spriteHashHex": "573C840D66441B756DE4418E097967D0",
+    "xmlIdRaw": "12579"
   }
 }

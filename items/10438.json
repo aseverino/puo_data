@@ -41,6 +41,7 @@
     "type": "None",
     "name": "spellweaver\u0027s robe",
     "wareId": 10438,
-    "spriteHashHex": "21191514B3F529ECCF570C7194B6AEA9"
+    "spriteHashHex": "21191514B3F529ECCF570C7194B6AEA9",
+    "xmlIdRaw": "11355"
   }
 }

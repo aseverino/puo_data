@@ -49,6 +49,7 @@
     "type": "None",
     "name": "cyclops trophy",
     "wareId": 7398,
-    "spriteHashHex": "478792D8813FEA26A181CA818533CA25"
+    "spriteHashHex": "478792D8813FEA26A181CA818533CA25",
+    "xmlIdRaw": "7398"
   }
 }

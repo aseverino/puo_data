@@ -40,6 +40,7 @@
     "type": "None",
     "name": "roasted dragon wings",
     "wareId": 9081,
-    "spriteHashHex": "5C77CDDAD10C78A304CDA6AA717D39B4"
+    "spriteHashHex": "5C77CDDAD10C78A304CDA6AA717D39B4",
+    "xmlIdRaw": "9994"
   }
 }

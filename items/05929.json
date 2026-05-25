@@ -55,6 +55,7 @@
     "name": "goldfish bowl",
     "isAnimation": true,
     "wareId": 5929,
-    "spriteHashHex": "FC4C62B3A2DEA21AEDDE147CF21F8B22"
+    "spriteHashHex": "FC4C62B3A2DEA21AEDDE147CF21F8B22",
+    "xmlIdRaw": "5929"
   }
 }

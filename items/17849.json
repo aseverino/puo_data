@@ -38,6 +38,7 @@
     "type": "None",
     "name": "skull shatterer",
     "wareId": 17849,
-    "spriteHashHex": "C9CFDF0B0FAF72E46CCDE714338C9453"
+    "spriteHashHex": "C9CFDF0B0FAF72E46CCDE714338C9453",
+    "xmlIdRaw": "20129"
   }
 }

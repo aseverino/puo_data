@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small purple pillow",
     "wareId": 2386,
-    "spriteHashHex": "4151981749D8525FF56E7368CE2C7A26"
+    "spriteHashHex": "4151981749D8525FF56E7368CE2C7A26",
+    "xmlIdRaw": "1678"
   }
 }

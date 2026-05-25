@@ -63,6 +63,7 @@
     "name": "orshabaal\u0027s brain",
     "isAnimation": true,
     "wareId": 5808,
-    "spriteHashHex": "3C4AAB5DDB5B06C20F9149C9E3F6EE28"
+    "spriteHashHex": "3C4AAB5DDB5B06C20F9149C9E3F6EE28",
+    "xmlIdRaw": "5808"
   }
 }

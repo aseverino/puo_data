@@ -39,6 +39,7 @@
     "type": "None",
     "name": "replica of the sceptre",
     "wareId": 11362,
-    "spriteHashHex": "598FBAD42E6DC5DCFA46AA40FB4ED309"
+    "spriteHashHex": "598FBAD42E6DC5DCFA46AA40FB4ED309",
+    "xmlIdRaw": "12318"
   }
 }

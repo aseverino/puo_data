@@ -37,6 +37,7 @@
     "type": "None",
     "name": "blue tome",
     "wareId": 2850,
-    "spriteHashHex": "33F5A071742AD191E9FCC087F83A637B"
+    "spriteHashHex": "33F5A071742AD191E9FCC087F83A637B",
+    "xmlIdRaw": "1984"
   }
 }

@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "orange bag",
     "wareId": 9603,
-    "spriteHashHex": "B6E438242E7FB600D2DB19B75705C430"
+    "spriteHashHex": "B6E438242E7FB600D2DB19B75705C430",
+    "xmlIdRaw": "10520"
   }
 }

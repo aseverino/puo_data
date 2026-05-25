@@ -43,6 +43,7 @@
     "type": "Fluid",
     "name": "cocktail glass",
     "wareId": 9232,
-    "spriteHashHex": "98BEF6E0EB8B8C27EE98F02192CAC097"
+    "spriteHashHex": "98BEF6E0EB8B8C27EE98F02192CAC097",
+    "xmlIdRaw": "10150"
   }
 }

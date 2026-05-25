@@ -39,6 +39,7 @@
     "type": "None",
     "name": "spoon",
     "wareId": 3468,
-    "spriteHashHex": "BD335597D82ADDA2C498E229A1A7B6D0"
+    "spriteHashHex": "BD335597D82ADDA2C498E229A1A7B6D0",
+    "xmlIdRaw": "2565"
   }
 }

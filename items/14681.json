@@ -46,6 +46,7 @@
     "name": "anniversary cake",
     "isAnimation": true,
     "wareId": 14681,
-    "spriteHashHex": "8479DEEAB654779E04596B3F6ED2CC83"
+    "spriteHashHex": "8479DEEAB654779E04596B3F6ED2CC83",
+    "xmlIdRaw": "16014"
   }
 }

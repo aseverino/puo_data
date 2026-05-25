@@ -39,6 +39,7 @@
     "type": "None",
     "name": "scorpion sceptre",
     "wareId": 12509,
-    "spriteHashHex": "B8502917F16D854CC2CF5B7B4870AE91"
+    "spriteHashHex": "B8502917F16D854CC2CF5B7B4870AE91",
+    "xmlIdRaw": "13498"
   }
 }

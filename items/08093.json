@@ -43,6 +43,7 @@
     "type": "None",
     "name": "Q",
     "wareId": 8093,
-    "spriteHashHex": "8E4CE8CCEFE965337748C646FCEFEDEA"
+    "spriteHashHex": "8E4CE8CCEFE965337748C646FCEFEDEA",
+    "xmlIdRaw": "8921"
   }
 }

@@ -50,6 +50,7 @@
     "type": "None",
     "name": "the ironworker",
     "wareId": 8025,
-    "spriteHashHex": "570E4B17E5BD4F47866A5E6EA2E1B6CC"
+    "spriteHashHex": "570E4B17E5BD4F47866A5E6EA2E1B6CC",
+    "xmlIdRaw": "8853"
   }
 }

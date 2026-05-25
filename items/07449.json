@@ -42,6 +42,7 @@
     "type": "None",
     "name": "crystal sword",
     "wareId": 7449,
-    "spriteHashHex": "58326F3D3DF333A681E50FE2F57F5E5A"
+    "spriteHashHex": "58326F3D3DF333A681E50FE2F57F5E5A",
+    "xmlIdRaw": "7449"
   }
 }

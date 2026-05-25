@@ -39,6 +39,7 @@
     "type": "None",
     "name": "mushroom pie",
     "wareId": 16103,
-    "spriteHashHex": "CD4B56425E8234B1A9CFFEDBB8FE8E82"
+    "spriteHashHex": "CD4B56425E8234B1A9CFFEDBB8FE8E82",
+    "xmlIdRaw": "18397"
   }
 }

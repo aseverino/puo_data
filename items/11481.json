@@ -38,6 +38,7 @@
     "type": "None",
     "name": "pelvis bone",
     "wareId": 11481,
-    "spriteHashHex": "AAFC0DCA9BD9720FDE827BA0EA0A1F3B"
+    "spriteHashHex": "AAFC0DCA9BD9720FDE827BA0EA0A1F3B",
+    "xmlIdRaw": "12437"
   }
 }

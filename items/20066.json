@@ -43,6 +43,7 @@
     "type": "None",
     "name": "umbral masterblade",
     "wareId": 20066,
-    "spriteHashHex": "7CD64A2EE59FC916CFB6794CD53A8C91"
+    "spriteHashHex": "7CD64A2EE59FC916CFB6794CD53A8C91",
+    "xmlIdRaw": "22400"
   }
 }

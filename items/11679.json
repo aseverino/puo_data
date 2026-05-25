@@ -40,6 +40,7 @@
     "type": "None",
     "name": "souleater trophy",
     "wareId": 11679,
-    "spriteHashHex": "393199ABAE170B646F306566B8515516"
+    "spriteHashHex": "393199ABAE170B646F306566B8515516",
+    "xmlIdRaw": "12635"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "prison cell key",
     "wareId": 9172,
-    "spriteHashHex": "3B4A1ABA295612A44264D31DE85D56AA"
+    "spriteHashHex": "3B4A1ABA295612A44264D31DE85D56AA",
+    "xmlIdRaw": "14350"
   }
 }

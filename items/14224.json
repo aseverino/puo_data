@@ -49,6 +49,7 @@
     "type": "None",
     "name": "trophy of Jaul",
     "wareId": 14224,
-    "spriteHashHex": "F16161F69B2BAAE9CF8C1B386A15EF7E"
+    "spriteHashHex": "F16161F69B2BAAE9CF8C1B386A15EF7E",
+    "xmlIdRaw": "15621"
   }
 }

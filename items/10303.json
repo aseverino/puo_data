@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dark rosary",
     "wareId": 10303,
-    "spriteHashHex": "31D6D1818EE79C6C35F9202E4C446CEB"
+    "spriteHashHex": "31D6D1818EE79C6C35F9202E4C446CEB",
+    "xmlIdRaw": "11220"
   }
 }

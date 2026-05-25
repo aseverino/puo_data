@@ -49,6 +49,7 @@
     "type": "None",
     "name": "green balloons",
     "wareId": 6577,
-    "spriteHashHex": "7F92649BCCD9ADE086BB6E64F955E5CF"
+    "spriteHashHex": "7F92649BCCD9ADE086BB6E64F955E5CF",
+    "xmlIdRaw": "6577"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "Zaoan shoes",
     "wareId": 10386,
-    "spriteHashHex": "73067786070BA580307CBE141154FC94"
+    "spriteHashHex": "73067786070BA580307CBE141154FC94",
+    "xmlIdRaw": "11303"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wooden doll",
     "wareId": 2989,
-    "spriteHashHex": "7F695CEAFE98ACC99FCE7B33DB0C680B"
+    "spriteHashHex": "7F695CEAFE98ACC99FCE7B33DB0C680B",
+    "xmlIdRaw": "2108"
   }
 }

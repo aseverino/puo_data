@@ -41,6 +41,7 @@
     "type": "None",
     "name": "magma boots",
     "wareId": 818,
-    "spriteHashHex": "27F6DDB1CA049CF096896E08C292A104"
+    "spriteHashHex": "27F6DDB1CA049CF096896E08C292A104",
+    "xmlIdRaw": "7891"
   }
 }

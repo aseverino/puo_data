@@ -40,6 +40,7 @@
     "type": "None",
     "name": "depth galea",
     "wareId": 13995,
-    "spriteHashHex": "09E4A6C1CE025625FD4B5E696B2BD8D5"
+    "spriteHashHex": "09E4A6C1CE025625FD4B5E696B2BD8D5",
+    "xmlIdRaw": "15408"
   }
 }

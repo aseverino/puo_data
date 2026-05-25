@@ -39,6 +39,7 @@
     "type": "None",
     "name": "snake destroyer",
     "wareId": 4835,
-    "spriteHashHex": "F59583C801BE01674E1D177AB8905FA9"
+    "spriteHashHex": "F59583C801BE01674E1D177AB8905FA9",
+    "xmlIdRaw": "4846"
   }
 }

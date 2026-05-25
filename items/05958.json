@@ -54,6 +54,7 @@
     "name": "winning lottery ticket",
     "isAnimation": true,
     "wareId": 5958,
-    "spriteHashHex": "D8211BC805988272016DBDB4CE7CF5E6"
+    "spriteHashHex": "D8211BC805988272016DBDB4CE7CF5E6",
+    "xmlIdRaw": "5958"
   }
 }

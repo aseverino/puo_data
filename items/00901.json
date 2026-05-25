@@ -39,6 +39,7 @@
     "type": "None",
     "name": "marlin",
     "wareId": 901,
-    "spriteHashHex": "BFABF8EB93339E472F8CE418313E9865"
+    "spriteHashHex": "BFABF8EB93339E472F8CE418313E9865",
+    "xmlIdRaw": "7963"
   }
 }

@@ -43,6 +43,7 @@
     "type": "None",
     "name": "crude umbral mace",
     "wareId": 20076,
-    "spriteHashHex": "8DCCBB17CB58AC5E5B34B1A8C65E39DB"
+    "spriteHashHex": "8DCCBB17CB58AC5E5B34B1A8C65E39DB",
+    "xmlIdRaw": "22410"
   }
 }

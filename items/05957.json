@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lottery ticket",
     "wareId": 5957,
-    "spriteHashHex": "1B8571673452ED6A2DD8392D1157BD2F"
+    "spriteHashHex": "1B8571673452ED6A2DD8392D1157BD2F",
+    "xmlIdRaw": "6119"
   }
 }

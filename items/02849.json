@@ -37,6 +37,7 @@
     "type": "None",
     "name": "green tome",
     "wareId": 2849,
-    "spriteHashHex": "1F95E6B360E6C5DD9CC5EF12FA57387C"
+    "spriteHashHex": "1F95E6B360E6C5DD9CC5EF12FA57387C",
+    "xmlIdRaw": "1983"
   }
 }

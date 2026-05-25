@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ghastly dragon head",
     "wareId": 10449,
-    "spriteHashHex": "BA04DB9A583F37F3351972D4F13064B7"
+    "spriteHashHex": "BA04DB9A583F37F3351972D4F13064B7",
+    "xmlIdRaw": "11366"
   }
 }

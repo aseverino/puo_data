@@ -38,6 +38,7 @@
     "type": "None",
     "name": "stone herb",
     "wareId": 3735,
-    "spriteHashHex": "9BE88B0C7218AB88875BDCB2C4971AE7"
+    "spriteHashHex": "9BE88B0C7218AB88875BDCB2C4971AE7",
+    "xmlIdRaw": "2799"
   }
 }

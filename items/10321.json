@@ -38,6 +38,7 @@
     "type": "None",
     "name": "mammoth tusk",
     "wareId": 10321,
-    "spriteHashHex": "1433204DC917237D8AF09B44B1F63211"
+    "spriteHashHex": "1433204DC917237D8AF09B44B1F63211",
+    "xmlIdRaw": "11238"
   }
 }

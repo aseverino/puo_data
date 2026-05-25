@@ -37,6 +37,7 @@
     "type": "None",
     "name": "rorc egg",
     "wareId": 18996,
-    "spriteHashHex": "9C298F34C438AA0DAD8A7267BFB13CBF"
+    "spriteHashHex": "9C298F34C438AA0DAD8A7267BFB13CBF",
+    "xmlIdRaw": "21313"
   }
 }

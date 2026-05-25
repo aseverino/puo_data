@@ -5,6 +5,7 @@
   "groundSpeed": 150,
   "miniMap": true,
   "miniMapColor": 129,
+  "terrainType": 2,
   "width": 1,
   "height": 1,
   "exactSize": 32,

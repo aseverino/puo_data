@@ -77,6 +77,7 @@
     "name": "slime gobbler",
     "isAnimation": true,
     "wareId": 12077,
-    "spriteHashHex": "C1511B4B092B6E65F64DD072B78770B7"
+    "spriteHashHex": "C1511B4B092B6E65F64DD072B78770B7",
+    "xmlIdRaw": "13601"
   }
 }

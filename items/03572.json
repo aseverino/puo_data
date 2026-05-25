@@ -47,6 +47,7 @@
     "type": "None",
     "name": "scarf",
     "wareId": 3572,
-    "spriteHashHex": "1E57B31A1D938CA76BD8A199032BB4EF"
+    "spriteHashHex": "1E57B31A1D938CA76BD8A199032BB4EF",
+    "xmlIdRaw": "2661"
   }
 }

@@ -67,6 +67,7 @@
     "name": "special flask",
     "isAnimation": true,
     "wareId": 133,
-    "spriteHashHex": "E93929086D9C0764F9DA0D1CD96256A8"
+    "spriteHashHex": "E93929086D9C0764F9DA0D1CD96256A8",
+    "xmlIdRaw": "7494"
   }
 }

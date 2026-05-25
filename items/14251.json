@@ -48,6 +48,7 @@
     "type": "None",
     "name": "tarsal arrow",
     "wareId": 14251,
-    "spriteHashHex": "303811B4B57E4EB5AA563A284631E10B"
+    "spriteHashHex": "303811B4B57E4EB5AA563A284631E10B",
+    "xmlIdRaw": "15648"
   }
 }

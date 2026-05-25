@@ -39,6 +39,7 @@
     "type": "None",
     "name": "soft cheese",
     "wareId": 17820,
-    "spriteHashHex": "0EAC347C2AEFEA9FB8D65200C0895FFF"
+    "spriteHashHex": "0EAC347C2AEFEA9FB8D65200C0895FFF",
+    "xmlIdRaw": "20100"
   }
 }

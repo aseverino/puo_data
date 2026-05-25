@@ -40,6 +40,7 @@
     "type": "None",
     "name": "mycological bow",
     "wareId": 16164,
-    "spriteHashHex": "B3E39558456BE7296CFB9291407FD13D"
+    "spriteHashHex": "B3E39558456BE7296CFB9291407FD13D",
+    "xmlIdRaw": "18454"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "necklace of the deep",
     "wareId": 13990,
-    "spriteHashHex": "14EA1FFD83D7AD3B3E8EFB29805FFAD4"
+    "spriteHashHex": "14EA1FFD83D7AD3B3E8EFB29805FFAD4",
+    "xmlIdRaw": "15403"
   }
 }

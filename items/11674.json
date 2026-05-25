@@ -40,6 +40,7 @@
     "type": "None",
     "name": "cobra crown",
     "wareId": 11674,
-    "spriteHashHex": "B700156E07D9155D1E57D8D00ABA4FFF"
+    "spriteHashHex": "B700156E07D9155D1E57D8D00ABA4FFF",
+    "xmlIdRaw": "12630"
   }
 }

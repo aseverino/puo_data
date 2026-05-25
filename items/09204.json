@@ -38,6 +38,7 @@
     "type": "None",
     "name": "old pirate poem",
     "wareId": 9204,
-    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F"
+    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F",
+    "xmlIdRaw": "10122"
   }
 }

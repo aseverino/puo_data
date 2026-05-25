@@ -32,6 +32,16 @@
     "serverId": 1315,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "C607348F3143CF0088E0C3E41CC3A9AC"
+    "spriteHashHex": "C607348F3143CF0088E0C3E41CC3A9AC",
+    "xmlIdRaw": "1315",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

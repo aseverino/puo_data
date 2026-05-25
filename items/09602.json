@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "orange backpack",
     "wareId": 9602,
-    "spriteHashHex": "C00CBB4505D053C7D991DBB9B241B425"
+    "spriteHashHex": "C00CBB4505D053C7D991DBB9B241B425",
+    "xmlIdRaw": "10519"
   }
 }

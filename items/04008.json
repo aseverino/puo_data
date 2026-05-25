@@ -1,8 +1,8 @@
 {
   "category": "item",
   "clientId": 4008,
-  "width": 1,
-  "height": 1,
+  "width": 4,
+  "height": 4,
   "exactSize": 32,
   "layers": [
     0
@@ -21,12 +21,28 @@
       ]
     },
     "spriteIds": [
-      0
+      148416,
+      148417,
+      148418,
+      148419,
+      148420,
+      148421,
+      148422,
+      148423,
+      148424,
+      148425,
+      148426,
+      148427,
+      148428,
+      148429,
+      148430,
+      148431
     ]
   },
   "server": {
     "serverId": 2827,
     "type": "None",
-    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
+    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C",
+    "xmlIdRaw": "2827"
   }
 }

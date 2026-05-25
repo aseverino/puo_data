@@ -38,6 +38,7 @@
     "type": "None",
     "name": "treasure map",
     "wareId": 5706,
-    "spriteHashHex": "590CCA5C33C575BA67BFE60B13FACC1B"
+    "spriteHashHex": "590CCA5C33C575BA67BFE60B13FACC1B",
+    "xmlIdRaw": "14337"
   }
 }

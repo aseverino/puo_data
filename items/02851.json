@@ -37,6 +37,7 @@
     "type": "None",
     "name": "grey tome",
     "wareId": 2851,
-    "spriteHashHex": "64FB148D9F8D931BD18FDA7C224716E1"
+    "spriteHashHex": "64FB148D9F8D931BD18FDA7C224716E1",
+    "xmlIdRaw": "1985"
   }
 }

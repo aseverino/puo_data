@@ -39,6 +39,7 @@
     "type": "None",
     "name": "coconut shrimp bake",
     "wareId": 11584,
-    "spriteHashHex": "C9B5258987FA07772747872A789AE4D9"
+    "spriteHashHex": "C9B5258987FA07772747872A789AE4D9",
+    "xmlIdRaw": "12540"
   }
 }

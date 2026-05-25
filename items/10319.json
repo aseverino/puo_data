@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wool",
     "wareId": 10319,
-    "spriteHashHex": "F96424BEEA22C0B2E93A47287448EF89"
+    "spriteHashHex": "F96424BEEA22C0B2E93A47287448EF89",
+    "xmlIdRaw": "11236"
   }
 }

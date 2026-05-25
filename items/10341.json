@@ -42,6 +42,7 @@
     "type": "None",
     "name": "phoenix charm",
     "wareId": 10341,
-    "spriteHashHex": "E27A09379F65831952765135C7BB261A"
+    "spriteHashHex": "E27A09379F65831952765135C7BB261A",
+    "xmlIdRaw": "11258"
   }
 }

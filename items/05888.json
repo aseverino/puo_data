@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of hell steel",
     "wareId": 5888,
-    "spriteHashHex": "8C05CED6B12356662D99BE6324B17460"
+    "spriteHashHex": "8C05CED6B12356662D99BE6324B17460",
+    "xmlIdRaw": "5888"
   }
 }

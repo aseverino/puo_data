@@ -38,6 +38,7 @@
     "type": "None",
     "name": "warmaster\u0027s wristguards",
     "wareId": 10405,
-    "spriteHashHex": "249ABA57E62088BA682EE27EF0BD0E22"
+    "spriteHashHex": "249ABA57E62088BA682EE27EF0BD0E22",
+    "xmlIdRaw": "11322"
   }
 }

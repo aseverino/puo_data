@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "rum flask",
     "wareId": 5552,
-    "spriteHashHex": "B928052D13C7B2BD1514992273F2B1AB"
+    "spriteHashHex": "B928052D13C7B2BD1514992273F2B1AB",
+    "xmlIdRaw": "5553"
   }
 }

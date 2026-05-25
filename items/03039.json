@@ -38,6 +38,7 @@
     "type": "None",
     "name": "red gem",
     "wareId": 3039,
-    "spriteHashHex": "3BB0CF59347C1801FBDCE760A39BA999"
+    "spriteHashHex": "3BB0CF59347C1801FBDCE760A39BA999",
+    "xmlIdRaw": "2156"
   }
 }

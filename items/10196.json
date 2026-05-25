@@ -38,6 +38,7 @@
     "type": "None",
     "name": "orc tooth",
     "wareId": 10196,
-    "spriteHashHex": "BBEB3F4B609FAD9D7D2AC2560FD983DB"
+    "spriteHashHex": "BBEB3F4B609FAD9D7D2AC2560FD983DB",
+    "xmlIdRaw": "11113"
   }
 }

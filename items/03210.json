@@ -40,6 +40,7 @@
     "type": "None",
     "name": "hat of the mad",
     "wareId": 3210,
-    "spriteHashHex": "1CF813FC3984D96A5E7B21F1E3098993"
+    "spriteHashHex": "1CF813FC3984D96A5E7B21F1E3098993",
+    "xmlIdRaw": "2323"
   }
 }

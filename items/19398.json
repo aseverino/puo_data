@@ -105,6 +105,7 @@
     "name": "memory box",
     "isAnimation": true,
     "wareId": 19397,
-    "spriteHashHex": "16293B8A525879619E6E0389ED8A7DE4"
+    "spriteHashHex": "16293B8A525879619E6E0389ED8A7DE4",
+    "xmlIdRaw": "21732"
   }
 }

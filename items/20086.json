@@ -40,6 +40,7 @@
     "type": "None",
     "name": "umbral crossbow",
     "wareId": 20086,
-    "spriteHashHex": "9FA1450DD22D1389AAD50994C9CD2D71"
+    "spriteHashHex": "9FA1450DD22D1389AAD50994C9CD2D71",
+    "xmlIdRaw": "22420"
   }
 }

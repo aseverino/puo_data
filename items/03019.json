@@ -39,6 +39,7 @@
     "type": "None",
     "name": "demonbone amulet",
     "wareId": 3019,
-    "spriteHashHex": "185E296E58F051CEC24C7E84F001B3B2"
+    "spriteHashHex": "185E296E58F051CEC24C7E84F001B3B2",
+    "xmlIdRaw": "2136"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "elven astral observer",
     "wareId": 11465,
-    "spriteHashHex": "37282FD09432636611078D14FD469A0A"
+    "spriteHashHex": "37282FD09432636611078D14FD469A0A",
+    "xmlIdRaw": "12421"
   }
 }

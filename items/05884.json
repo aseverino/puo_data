@@ -45,6 +45,7 @@
     "name": "spirit container",
     "isAnimation": true,
     "wareId": 5884,
-    "spriteHashHex": "D0D14EF780D869C8DBFF8A205E625579"
+    "spriteHashHex": "D0D14EF780D869C8DBFF8A205E625579",
+    "xmlIdRaw": "5884"
   }
 }

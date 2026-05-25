@@ -37,6 +37,7 @@
     "type": "None",
     "name": "elemental spikes",
     "wareId": 12803,
-    "spriteHashHex": "040E884DF7725028FD1E6C27A5F13124"
+    "spriteHashHex": "040E884DF7725028FD1E6C27A5F13124",
+    "xmlIdRaw": "13940"
   }
 }

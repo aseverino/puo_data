@@ -47,6 +47,7 @@
     "type": "None",
     "name": "green perch",
     "wareId": 7159,
-    "spriteHashHex": "7D3D58B5D8D4A651742322E4EBB70FDB"
+    "spriteHashHex": "7D3D58B5D8D4A651742322E4EBB70FDB",
+    "xmlIdRaw": "7159"
   }
 }

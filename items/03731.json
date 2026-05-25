@@ -39,6 +39,7 @@
     "type": "None",
     "name": "fire mushroom",
     "wareId": 3731,
-    "spriteHashHex": "8BA0CED2D825FD0EBDD05BDEAB4A0410"
+    "spriteHashHex": "8BA0CED2D825FD0EBDD05BDEAB4A0410",
+    "xmlIdRaw": "2795"
   }
 }

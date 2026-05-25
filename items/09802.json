@@ -56,6 +56,7 @@
     "name": "friendship amulet",
     "isAnimation": true,
     "wareId": 9802,
-    "spriteHashHex": "48F4BAE02A1A5DC6F43F840AAA3907A7"
+    "spriteHashHex": "48F4BAE02A1A5DC6F43F840AAA3907A7",
+    "xmlIdRaw": "10719"
   }
 }

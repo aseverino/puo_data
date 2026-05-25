@@ -53,6 +53,7 @@
     "name": "charged ghost charm",
     "isAnimation": true,
     "wareId": 8827,
-    "spriteHashHex": "59A60EEA1017173B894990282A31A553"
+    "spriteHashHex": "59A60EEA1017173B894990282A31A553",
+    "xmlIdRaw": "9742"
   }
 }

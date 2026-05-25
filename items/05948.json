@@ -38,6 +38,7 @@
     "type": "None",
     "name": "red dragon leather",
     "wareId": 5948,
-    "spriteHashHex": "BDC09F296E6BF53396DD06018AAF96D4"
+    "spriteHashHex": "BDC09F296E6BF53396DD06018AAF96D4",
+    "xmlIdRaw": "5948"
   }
 }

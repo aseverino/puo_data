@@ -38,6 +38,7 @@
     "type": "None",
     "name": "noble turban",
     "wareId": 11486,
-    "spriteHashHex": "EF1C122F00E962E2A09C79643BD6BE4C"
+    "spriteHashHex": "EF1C122F00E962E2A09C79643BD6BE4C",
+    "xmlIdRaw": "12442"
   }
 }

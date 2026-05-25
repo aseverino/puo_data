@@ -41,6 +41,7 @@
     "type": "None",
     "name": "terra boots",
     "wareId": 813,
-    "spriteHashHex": "02DE630CC1423D4B012C58B8917C7BA6"
+    "spriteHashHex": "02DE630CC1423D4B012C58B8917C7BA6",
+    "xmlIdRaw": "7886"
   }
 }

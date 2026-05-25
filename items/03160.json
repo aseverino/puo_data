@@ -43,6 +43,7 @@
     "type": "None",
     "name": "ultimate healing rune",
     "wareId": 3160,
-    "spriteHashHex": "7984C8D92FEDDE41B453BB41D4A39C29"
+    "spriteHashHex": "7984C8D92FEDDE41B453BB41D4A39C29",
+    "xmlIdRaw": "2273"
   }
 }

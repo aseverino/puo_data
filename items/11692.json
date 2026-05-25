@@ -42,6 +42,7 @@
     "type": "None",
     "name": "snake god\u0027s sceptre",
     "wareId": 11692,
-    "spriteHashHex": "B07047224FAD754B17F431B9F367202B"
+    "spriteHashHex": "B07047224FAD754B17F431B9F367202B",
+    "xmlIdRaw": "12648"
   }
 }

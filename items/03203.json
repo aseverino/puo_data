@@ -43,6 +43,7 @@
     "type": "None",
     "name": "animate dead rune",
     "wareId": 3203,
-    "spriteHashHex": "36DCE9E907E88845CCB8DA78D576F42A"
+    "spriteHashHex": "36DCE9E907E88845CCB8DA78D576F42A",
+    "xmlIdRaw": "2316"
   }
 }

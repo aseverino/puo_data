@@ -40,6 +40,7 @@
     "type": "None",
     "name": "statue of Deathstrike",
     "wareId": 16236,
-    "spriteHashHex": "8790FE33BE73B5D24874C2E64124ABA5"
+    "spriteHashHex": "8790FE33BE73B5D24874C2E64124ABA5",
+    "xmlIdRaw": "18504"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "mystical hourglass",
     "wareId": 9660,
-    "spriteHashHex": "B72B649A4ACFEA0ABB08C42DBA6AECEB"
+    "spriteHashHex": "B72B649A4ACFEA0ABB08C42DBA6AECEB",
+    "xmlIdRaw": "10577"
   }
 }

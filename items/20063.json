@@ -91,6 +91,7 @@
     "name": "dream matter",
     "isAnimation": true,
     "wareId": 20063,
-    "spriteHashHex": "31F611EFD2E72FBC26B69424BDA52603"
+    "spriteHashHex": "31F611EFD2E72FBC26B69424BDA52603",
+    "xmlIdRaw": "22397"
   }
 }

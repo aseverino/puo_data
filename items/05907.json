@@ -39,6 +39,7 @@
     "type": "None",
     "name": "slingshot",
     "wareId": 5907,
-    "spriteHashHex": "1C4603F9E997B06C13398336D31DD88B"
+    "spriteHashHex": "1C4603F9E997B06C13398336D31DD88B",
+    "xmlIdRaw": "5907"
   }
 }

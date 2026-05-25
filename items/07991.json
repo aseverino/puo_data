@@ -40,6 +40,7 @@
     "type": "None",
     "name": "magician\u0027s robe",
     "wareId": 7991,
-    "spriteHashHex": "80E48C463053219E56E501608BC3E51D"
+    "spriteHashHex": "80E48C463053219E56E501608BC3E51D",
+    "xmlIdRaw": "8819"
   }
 }

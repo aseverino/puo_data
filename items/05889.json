@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of draconian steel",
     "wareId": 5889,
-    "spriteHashHex": "A805BDDADDEAFF72A4C8172D910C1EDD"
+    "spriteHashHex": "A805BDDADDEAFF72A4C8172D910C1EDD",
+    "xmlIdRaw": "5889"
   }
 }

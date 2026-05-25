@@ -38,6 +38,7 @@
     "type": "None",
     "name": "pile of grave earth",
     "wareId": 11484,
-    "spriteHashHex": "E2B1F8AB45CF1655601E43E73EC36006"
+    "spriteHashHex": "E2B1F8AB45CF1655601E43E73EC36006",
+    "xmlIdRaw": "12440"
   }
 }

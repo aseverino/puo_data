@@ -39,6 +39,7 @@
     "type": "None",
     "name": "meat shield",
     "wareId": 9372,
-    "spriteHashHex": "25B94F0E20A6C48C9CCE50CFF790721D"
+    "spriteHashHex": "25B94F0E20A6C48C9CCE50CFF790721D",
+    "xmlIdRaw": "10289"
   }
 }

@@ -46,6 +46,7 @@
     "type": "None",
     "name": "mango",
     "wareId": 5096,
-    "spriteHashHex": "0F534170E6D9E894D4094C58A961684B"
+    "spriteHashHex": "0F534170E6D9E894D4094C58A961684B",
+    "xmlIdRaw": "5097"
   }
 }

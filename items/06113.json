@@ -37,6 +37,7 @@
     "type": "None",
     "name": "letter to Eremo",
     "wareId": 6113,
-    "spriteHashHex": "B246BAB998F44CD6564916E730DDF34F"
+    "spriteHashHex": "B246BAB998F44CD6564916E730DDF34F",
+    "xmlIdRaw": "8370"
   }
 }

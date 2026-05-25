@@ -67,6 +67,7 @@
     "name": "santa music box",
     "isAnimation": true,
     "wareId": 20313,
-    "spriteHashHex": "15C366BF69A4C48B021342F789EE72B2"
+    "spriteHashHex": "15C366BF69A4C48B021342F789EE72B2",
+    "xmlIdRaw": "22648"
   }
 }

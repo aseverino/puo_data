@@ -43,6 +43,7 @@
     "type": "None",
     "name": "silkweaver bow",
     "wareId": 8029,
-    "spriteHashHex": "D84B87411FBB774A26DBF063ADB7168C"
+    "spriteHashHex": "D84B87411FBB774A26DBF063ADB7168C",
+    "xmlIdRaw": "8857"
   }
 }

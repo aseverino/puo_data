@@ -38,6 +38,7 @@
     "type": "None",
     "name": "sulphurous stone",
     "wareId": 10315,
-    "spriteHashHex": "C0AC46F96FA64722EAB989662EA281C8"
+    "spriteHashHex": "C0AC46F96FA64722EAB989662EA281C8",
+    "xmlIdRaw": "11232"
   }
 }

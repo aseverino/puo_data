@@ -38,6 +38,7 @@
     "type": "None",
     "name": "christmas token",
     "wareId": 6526,
-    "spriteHashHex": "EC66713851E3A941E205F1647E66BB39"
+    "spriteHashHex": "EC66713851E3A941E205F1647E66BB39",
+    "xmlIdRaw": "6527"
   }
 }

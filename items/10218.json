@@ -40,6 +40,7 @@
     "type": "None",
     "name": "corned fish",
     "wareId": 10218,
-    "spriteHashHex": "F8E8576B8D74FA862E0B8B4C2126E635"
+    "spriteHashHex": "F8E8576B8D74FA862E0B8B4C2126E635",
+    "xmlIdRaw": "11135"
   }
 }

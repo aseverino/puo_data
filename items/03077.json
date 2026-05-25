@@ -45,6 +45,7 @@
     "name": "ankh",
     "wareId": 3077,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "279F596E21841B3DAB4064857FE14692"
+    "spriteHashHex": "279F596E21841B3DAB4064857FE14692",
+    "xmlIdRaw": "2193"
   }
 }

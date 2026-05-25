@@ -39,6 +39,7 @@
     "type": "None",
     "name": "tonguefruit",
     "wareId": 12231,
-    "spriteHashHex": "DA4C2BC9C41A3B36CAC48BD7FA11DF06"
+    "spriteHashHex": "DA4C2BC9C41A3B36CAC48BD7FA11DF06",
+    "xmlIdRaw": "13218"
   }
 }

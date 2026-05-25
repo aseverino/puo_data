@@ -42,6 +42,7 @@
     "type": "None",
     "name": "ornate mace",
     "wareId": 14001,
-    "spriteHashHex": "326B3BFF29286DD0D60312D903DE19A9"
+    "spriteHashHex": "326B3BFF29286DD0D60312D903DE19A9",
+    "xmlIdRaw": "15414"
   }
 }

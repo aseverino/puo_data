@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small whistle",
     "wareId": 12602,
-    "spriteHashHex": "1EBC1C564CC05BC2A5A7F15866A35C6E"
+    "spriteHashHex": "1EBC1C564CC05BC2A5A7F15866A35C6E",
+    "xmlIdRaw": "13759"
   }
 }

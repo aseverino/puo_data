@@ -38,6 +38,7 @@
     "type": "None",
     "name": "god flowers",
     "wareId": 2981,
-    "spriteHashHex": "C96AB98A4DF69694012C6A597A3DA017"
+    "spriteHashHex": "C96AB98A4DF69694012C6A597A3DA017",
+    "xmlIdRaw": "2100"
   }
 }

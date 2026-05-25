@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pirate shirt",
     "wareId": 6095,
-    "spriteHashHex": "B041DB413C986FD9309751D5E2D4C4FD"
+    "spriteHashHex": "B041DB413C986FD9309751D5E2D4C4FD",
+    "xmlIdRaw": "6095"
   }
 }

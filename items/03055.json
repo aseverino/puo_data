@@ -39,6 +39,7 @@
     "type": "None",
     "name": "platinum amulet",
     "wareId": 3055,
-    "spriteHashHex": "EBA9F7FEAC4BD8EE7C83F67F6021ADB5"
+    "spriteHashHex": "EBA9F7FEAC4BD8EE7C83F67F6021ADB5",
+    "xmlIdRaw": "2171"
   }
 }

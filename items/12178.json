@@ -66,6 +66,7 @@
     "name": "demon infant",
     "isAnimation": true,
     "wareId": 12178,
-    "spriteHashHex": "AC6418594208528E3E4719A5E7D64739"
+    "spriteHashHex": "AC6418594208528E3E4719A5E7D64739",
+    "xmlIdRaw": "13165"
   }
 }

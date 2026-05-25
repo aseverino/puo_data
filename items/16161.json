@@ -42,6 +42,7 @@
     "type": "None",
     "name": "crystalline axe",
     "wareId": 16161,
-    "spriteHashHex": "34F715F8FFEAAA323EDF6CF88F267D46"
+    "spriteHashHex": "34F715F8FFEAAA323EDF6CF88F267D46",
+    "xmlIdRaw": "18451"
   }
 }

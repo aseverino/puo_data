@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "beach backpack",
     "wareId": 5949,
-    "spriteHashHex": "B3C0DD0C4B546CD60FEF2E645D1904F1"
+    "spriteHashHex": "B3C0DD0C4B546CD60FEF2E645D1904F1",
+    "xmlIdRaw": "5949"
   }
 }

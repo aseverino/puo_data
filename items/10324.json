@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "expedition backpack",
     "wareId": 10324,
-    "spriteHashHex": "2F366BB9E00AA2F04484DC0279173AF2"
+    "spriteHashHex": "2F366BB9E00AA2F04484DC0279173AF2",
+    "xmlIdRaw": "11241"
   }
 }

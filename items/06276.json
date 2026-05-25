@@ -40,6 +40,7 @@
     "type": "None",
     "name": "lump of cake dough",
     "wareId": 6276,
-    "spriteHashHex": "A3239DAC6D7FDB7A8C26D21A72651FBC"
+    "spriteHashHex": "A3239DAC6D7FDB7A8C26D21A72651FBC",
+    "xmlIdRaw": "6277"
   }
 }

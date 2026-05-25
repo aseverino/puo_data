@@ -45,6 +45,7 @@
     "type": "None",
     "name": "gear wheel",
     "wareId": 8775,
-    "spriteHashHex": "C87D100BBDB37F6B318CB4FBAD81F65D"
+    "spriteHashHex": "C87D100BBDB37F6B318CB4FBAD81F65D",
+    "xmlIdRaw": "9690"
   }
 }

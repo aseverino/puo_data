@@ -38,6 +38,7 @@
     "type": "None",
     "name": "deepling warts",
     "wareId": 14012,
-    "spriteHashHex": "275BBA061D202A6F4CC802F8D76D90C7"
+    "spriteHashHex": "275BBA061D202A6F4CC802F8D76D90C7",
+    "xmlIdRaw": "15425"
   }
 }

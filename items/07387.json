@@ -42,6 +42,7 @@
     "type": "None",
     "name": "diamond sceptre",
     "wareId": 7387,
-    "spriteHashHex": "D91E587FD0815EF5E2F52B33DDC9B425"
+    "spriteHashHex": "D91E587FD0815EF5E2F52B33DDC9B425",
+    "xmlIdRaw": "7387"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "red powder",
     "wareId": 6550,
-    "spriteHashHex": "3469D9B04CBD8D8723BF30AA07D6955B"
+    "spriteHashHex": "3469D9B04CBD8D8723BF30AA07D6955B",
+    "xmlIdRaw": "6550"
   }
 }

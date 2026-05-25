@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golden prison key",
     "wareId": 20273,
-    "spriteHashHex": "70EA9859BC69D0150D2FDFD21FB022FE"
+    "spriteHashHex": "70EA9859BC69D0150D2FDFD21FB022FE",
+    "xmlIdRaw": "22607"
   }
 }

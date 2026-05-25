@@ -40,6 +40,7 @@
     "type": "None",
     "name": "star ring",
     "wareId": 12669,
-    "spriteHashHex": "7D3AE692C9DE793517CB87A4BA1F2216"
+    "spriteHashHex": "7D3AE692C9DE793517CB87A4BA1F2216",
+    "xmlIdRaw": "13825"
   }
 }

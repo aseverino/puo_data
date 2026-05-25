@@ -42,6 +42,7 @@
     "type": "None",
     "name": "umbral slayer",
     "wareId": 20068,
-    "spriteHashHex": "5C6933948FCEED6F69D655BC2896406E"
+    "spriteHashHex": "5C6933948FCEED6F69D655BC2896406E",
+    "xmlIdRaw": "22402"
   }
 }

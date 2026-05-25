@@ -38,6 +38,7 @@
     "type": "None",
     "name": "maxilla",
     "wareId": 12315,
-    "spriteHashHex": "B2559FDD76213C02916B44CA22E24DDE"
+    "spriteHashHex": "B2559FDD76213C02916B44CA22E24DDE",
+    "xmlIdRaw": "13302"
   }
 }

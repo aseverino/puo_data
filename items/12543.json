@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golden hyena pendant",
     "wareId": 12543,
-    "spriteHashHex": "72DF1BA418CA3A492CF09E5091044173"
+    "spriteHashHex": "72DF1BA418CA3A492CF09E5091044173",
+    "xmlIdRaw": "13532"
   }
 }

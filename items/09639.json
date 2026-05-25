@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cultish robe",
     "wareId": 9639,
-    "spriteHashHex": "164424002D28D94D15E98C1148512DC2"
+    "spriteHashHex": "164424002D28D94D15E98C1148512DC2",
+    "xmlIdRaw": "10556"
   }
 }

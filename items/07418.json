@@ -42,6 +42,7 @@
     "type": "None",
     "name": "nightmare blade",
     "wareId": 7418,
-    "spriteHashHex": "97DD41D46E471694D9D992FD1523C208"
+    "spriteHashHex": "97DD41D46E471694D9D992FD1523C208",
+    "xmlIdRaw": "7418"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "fishing rod",
     "wareId": 3483,
-    "spriteHashHex": "A7E7249E3E103733CC2C7228F265246D"
+    "spriteHashHex": "A7E7249E3E103733CC2C7228F265246D",
+    "xmlIdRaw": "23974"
   }
 }

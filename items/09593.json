@@ -39,6 +39,7 @@
     "type": "None",
     "name": "broken wedding ring",
     "wareId": 9593,
-    "spriteHashHex": "B001C9D09E980BB63E306ECEB1773D68"
+    "spriteHashHex": "B001C9D09E980BB63E306ECEB1773D68",
+    "xmlIdRaw": "10510"
   }
 }

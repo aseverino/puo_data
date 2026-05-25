@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "purple backpack",
     "wareId": 2868,
-    "spriteHashHex": "C27F9A49A8FDB16D34B346512179D009"
+    "spriteHashHex": "C27F9A49A8FDB16D34B346512179D009",
+    "xmlIdRaw": "2001"
   }
 }

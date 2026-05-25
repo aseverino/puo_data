@@ -38,6 +38,7 @@
     "type": "None",
     "name": "blue powder",
     "wareId": 6551,
-    "spriteHashHex": "35A52FFE5311BD2260E728CFBAC86F1B"
+    "spriteHashHex": "35A52FFE5311BD2260E728CFBAC86F1B",
+    "xmlIdRaw": "6551"
   }
 }

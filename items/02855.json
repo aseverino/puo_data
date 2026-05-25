@@ -39,6 +39,7 @@
     "type": "Container",
     "name": "basket",
     "wareId": 2855,
-    "spriteHashHex": "6C8AC72BCF37BF8C5B644C805E2D45A6"
+    "spriteHashHex": "6C8AC72BCF37BF8C5B644C805E2D45A6",
+    "xmlIdRaw": "1989"
   }
 }

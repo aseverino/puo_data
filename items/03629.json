@@ -30,6 +30,7 @@
   "server": {
     "serverId": 2715,
     "type": "None",
-    "spriteHashHex": "027B8B36C045EADCCE137ADA17A24914"
+    "spriteHashHex": "027B8B36C045EADCCE137ADA17A24914",
+    "xmlIdRaw": "2715"
   }
 }

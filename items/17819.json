@@ -38,6 +38,7 @@
     "type": "None",
     "name": "earflap",
     "wareId": 17819,
-    "spriteHashHex": "55833B6438CA21770DC939E3A142887A"
+    "spriteHashHex": "55833B6438CA21770DC939E3A142887A",
+    "xmlIdRaw": "20099"
   }
 }

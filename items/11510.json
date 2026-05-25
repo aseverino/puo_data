@@ -38,6 +38,7 @@
     "type": "None",
     "name": "scroll of heroic deeds",
     "wareId": 11510,
-    "spriteHashHex": "13810BD7259992D7573D63FCAB07C2D0"
+    "spriteHashHex": "13810BD7259992D7573D63FCAB07C2D0",
+    "xmlIdRaw": "12466"
   }
 }

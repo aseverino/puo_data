@@ -38,6 +38,7 @@
     "type": "None",
     "name": "silver brooch",
     "wareId": 3017,
-    "spriteHashHex": "291CD2D98AB141E1FF9653841F0CBFD0"
+    "spriteHashHex": "291CD2D98AB141E1FF9653841F0CBFD0",
+    "xmlIdRaw": "2134"
   }
 }

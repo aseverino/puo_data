@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of warrior armor",
     "wareId": 11482,
-    "spriteHashHex": "A91D86B4C64AE70E0BE676A21C1CCCA3"
+    "spriteHashHex": "A91D86B4C64AE70E0BE676A21C1CCCA3",
+    "xmlIdRaw": "12438"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "runed sword",
     "wareId": 7417,
-    "spriteHashHex": "2607A1C0460D4A47CBCF9109E0E66B0D"
+    "spriteHashHex": "2607A1C0460D4A47CBCF9109E0E66B0D",
+    "xmlIdRaw": "7417"
   }
 }

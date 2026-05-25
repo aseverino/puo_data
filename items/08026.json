@@ -50,6 +50,7 @@
     "type": "None",
     "name": "warsinger bow",
     "wareId": 8026,
-    "spriteHashHex": "27100DDA2A02E7F41DFB93FD0C503E38"
+    "spriteHashHex": "27100DDA2A02E7F41DFB93FD0C503E38",
+    "xmlIdRaw": "8854"
   }
 }

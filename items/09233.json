@@ -38,6 +38,7 @@
     "type": "None",
     "name": "golem part",
     "wareId": 9233,
-    "spriteHashHex": "82E9DA61359DEAFE48371A2DDAB080F5"
+    "spriteHashHex": "82E9DA61359DEAFE48371A2DDAB080F5",
+    "xmlIdRaw": "10151"
   }
 }

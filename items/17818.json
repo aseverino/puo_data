@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cheesy figurine",
     "wareId": 17818,
-    "spriteHashHex": "CECE974116C2A0957E273A6DA235CF19"
+    "spriteHashHex": "CECE974116C2A0957E273A6DA235CF19",
+    "xmlIdRaw": "20098"
   }
 }

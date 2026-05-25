@@ -38,6 +38,7 @@
     "type": "None",
     "name": "war crystal",
     "wareId": 9654,
-    "spriteHashHex": "EADF7B458222842F240474D91E5079E5"
+    "spriteHashHex": "EADF7B458222842F240474D91E5079E5",
+    "xmlIdRaw": "10571"
   }
 }

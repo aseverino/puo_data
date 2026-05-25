@@ -43,6 +43,7 @@
     "type": "None",
     "name": "fire bomb rune",
     "wareId": 3192,
-    "spriteHashHex": "39D94F46BB61A86B79CC410F0B81A06A"
+    "spriteHashHex": "39D94F46BB61A86B79CC410F0B81A06A",
+    "xmlIdRaw": "2305"
   }
 }

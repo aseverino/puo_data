@@ -64,6 +64,7 @@
     "name": "incredible mumpiz slayer",
     "isAnimation": true,
     "wareId": 9396,
-    "spriteHashHex": "4E76F741537CAA2C93445110FACB1819"
+    "spriteHashHex": "4E76F741537CAA2C93445110FACB1819",
+    "xmlIdRaw": "10313"
   }
 }

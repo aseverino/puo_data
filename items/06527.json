@@ -42,6 +42,7 @@
     "type": "None",
     "name": "the avenger",
     "wareId": 6527,
-    "spriteHashHex": "26EA96C6DBD74546E73917A2FF2C8C0B"
+    "spriteHashHex": "26EA96C6DBD74546E73917A2FF2C8C0B",
+    "xmlIdRaw": "6528"
   }
 }

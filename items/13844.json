@@ -42,6 +42,7 @@
     "type": "None",
     "name": "ice flower seeds",
     "wareId": 13844,
-    "spriteHashHex": "6F0BFA57CDD2A817C1991DECEFC6D539"
+    "spriteHashHex": "6F0BFA57CDD2A817C1991DECEFC6D539",
+    "xmlIdRaw": "15271"
   }
 }

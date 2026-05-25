@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "grey bag",
     "wareId": 2862,
-    "spriteHashHex": "75C74383E639A5700CB75AB2349FC8A0"
+    "spriteHashHex": "75C74383E639A5700CB75AB2349FC8A0",
+    "xmlIdRaw": "1996"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ludicrous piece of cloth",
     "wareId": 12555,
-    "spriteHashHex": "1CA35997BE09E219299267876DC3EEA7"
+    "spriteHashHex": "1CA35997BE09E219299267876DC3EEA7",
+    "xmlIdRaw": "13544"
   }
 }

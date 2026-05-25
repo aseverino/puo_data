@@ -39,6 +39,7 @@
     "type": "None",
     "name": "sacred bowl",
     "wareId": 11331,
-    "spriteHashHex": "EF654388818480F0463C74112C1F7E1E"
+    "spriteHashHex": "EF654388818480F0463C74112C1F7E1E",
+    "xmlIdRaw": "12287"
   }
 }

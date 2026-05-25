@@ -38,6 +38,7 @@
     "type": "None",
     "name": "jewelled belt",
     "wareId": 11470,
-    "spriteHashHex": "1064E436DD9D77510F47EE15BF51B1A4"
+    "spriteHashHex": "1064E436DD9D77510F47EE15BF51B1A4",
+    "xmlIdRaw": "12426"
   }
 }

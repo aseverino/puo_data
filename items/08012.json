@@ -46,6 +46,7 @@
     "type": "None",
     "name": "raspberry",
     "wareId": 8012,
-    "spriteHashHex": "9A629AB664A3D9F8064BB8CD068F53E3"
+    "spriteHashHex": "9A629AB664A3D9F8064BB8CD068F53E3",
+    "xmlIdRaw": "8840"
   }
 }

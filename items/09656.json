@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken gladiator shield",
     "wareId": 9656,
-    "spriteHashHex": "2B55779BE1CC4C5D821873F7056FCF0F"
+    "spriteHashHex": "2B55779BE1CC4C5D821873F7056FCF0F",
+    "xmlIdRaw": "10573"
   }
 }

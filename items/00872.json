@@ -43,6 +43,7 @@
     "name": "trophy stand",
     "hasHeight": true,
     "wareId": 872,
-    "spriteHashHex": "12886009DD8CE0B71103B9DA01C089BF"
+    "spriteHashHex": "12886009DD8CE0B71103B9DA01C089BF",
+    "xmlIdRaw": "7936"
   }
 }

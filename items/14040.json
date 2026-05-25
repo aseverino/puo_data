@@ -42,6 +42,7 @@
     "type": "None",
     "name": "warrior\u0027s axe",
     "wareId": 14040,
-    "spriteHashHex": "CB24DA1DC71CF2AD14902276CC2A404C"
+    "spriteHashHex": "CB24DA1DC71CF2AD14902276CC2A404C",
+    "xmlIdRaw": "15451"
   }
 }

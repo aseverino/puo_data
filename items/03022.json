@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ancient tiara",
     "wareId": 3022,
-    "spriteHashHex": "06DB44C9F5E0613004C2468329986AE5"
+    "spriteHashHex": "06DB44C9F5E0613004C2468329986AE5",
+    "xmlIdRaw": "2139"
   }
 }

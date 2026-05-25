@@ -37,6 +37,7 @@
     "type": "None",
     "name": "pirate voodoo doll",
     "wareId": 5810,
-    "spriteHashHex": "D699A993B40B40459E188451593DA00E"
+    "spriteHashHex": "D699A993B40B40459E188451593DA00E",
+    "xmlIdRaw": "5810"
   }
 }

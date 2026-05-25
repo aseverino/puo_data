@@ -39,6 +39,7 @@
     "type": "None",
     "name": "patched boots",
     "wareId": 3550,
-    "spriteHashHex": "59F7AF8C0215DB5C44F266953C6AE0FA"
+    "spriteHashHex": "59F7AF8C0215DB5C44F266953C6AE0FA",
+    "xmlIdRaw": "2641"
   }
 }

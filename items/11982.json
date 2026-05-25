@@ -39,6 +39,7 @@
     "type": "None",
     "name": "dry piece of wood",
     "wareId": 11982,
-    "spriteHashHex": "3667C148E4523A78E6B50B8AFB579D5C"
+    "spriteHashHex": "3667C148E4523A78E6B50B8AFB579D5C",
+    "xmlIdRaw": "12969"
   }
 }

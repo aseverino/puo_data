@@ -58,6 +58,7 @@
     "name": "energy war axe",
     "isAnimation": true,
     "wareId": 805,
-    "spriteHashHex": "D5068926BCEFEA9F09F427A0875E3980"
+    "spriteHashHex": "D5068926BCEFEA9F09F427A0875E3980",
+    "xmlIdRaw": "7878"
   }
 }

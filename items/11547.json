@@ -54,6 +54,7 @@
     "name": "exquisite wood",
     "isAnimation": true,
     "wareId": 11547,
-    "spriteHashHex": "49802061E32027A8F35BB0605BD51EC6"
+    "spriteHashHex": "49802061E32027A8F35BB0605BD51EC6",
+    "xmlIdRaw": "12503"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "christmas card",
     "wareId": 6387,
-    "spriteHashHex": "70CB9C9851D9873E9B7AD3A292F55F28"
+    "spriteHashHex": "70CB9C9851D9873E9B7AD3A292F55F28",
+    "xmlIdRaw": "6388"
   }
 }

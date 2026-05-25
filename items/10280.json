@@ -38,6 +38,7 @@
     "type": "None",
     "name": "giant eye",
     "wareId": 10280,
-    "spriteHashHex": "FE09EE1C7A1BD2A15800B4C4F55F1946"
+    "spriteHashHex": "FE09EE1C7A1BD2A15800B4C4F55F1946",
+    "xmlIdRaw": "11197"
   }
 }

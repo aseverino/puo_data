@@ -38,6 +38,7 @@
     "type": "None",
     "name": "clay lump",
     "wareId": 10422,
-    "spriteHashHex": "1D20EA1907B4641D87447D6AA7E9F10E"
+    "spriteHashHex": "1D20EA1907B4641D87447D6AA7E9F10E",
+    "xmlIdRaw": "11339"
   }
 }

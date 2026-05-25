@@ -37,6 +37,7 @@
     "type": "None",
     "name": "stuffed toad",
     "wareId": 10294,
-    "spriteHashHex": "676E72C2A23733C59F6175DD3AC0B0F1"
+    "spriteHashHex": "676E72C2A23733C59F6175DD3AC0B0F1",
+    "xmlIdRaw": "11211"
   }
 }

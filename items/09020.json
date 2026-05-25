@@ -40,6 +40,7 @@
     "type": "None",
     "name": "worn firewalker boots",
     "wareId": 9020,
-    "spriteHashHex": "539FB431ED08D0C3175B7E6582131A45"
+    "spriteHashHex": "539FB431ED08D0C3175B7E6582131A45",
+    "xmlIdRaw": "10022"
   }
 }

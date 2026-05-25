@@ -38,6 +38,7 @@
     "type": "None",
     "name": "tail of corruption",
     "wareId": 11672,
-    "spriteHashHex": "554B5E3F73BF2ACE34FFF5E79C764CDE"
+    "spriteHashHex": "554B5E3F73BF2ACE34FFF5E79C764CDE",
+    "xmlIdRaw": "12628"
   }
 }

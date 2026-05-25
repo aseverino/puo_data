@@ -38,6 +38,7 @@
     "type": "None",
     "name": "white piece of cloth",
     "wareId": 5909,
-    "spriteHashHex": "67F15118A13FA34D32209559EBB2AD54"
+    "spriteHashHex": "67F15118A13FA34D32209559EBB2AD54",
+    "xmlIdRaw": "5909"
   }
 }

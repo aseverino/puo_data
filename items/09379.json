@@ -39,6 +39,7 @@
     "type": "None",
     "name": "heavy metal t-shirt",
     "wareId": 9379,
-    "spriteHashHex": "4D71D79F39CEDD444F5D18304385C087"
+    "spriteHashHex": "4D71D79F39CEDD444F5D18304385C087",
+    "xmlIdRaw": "10296"
   }
 }

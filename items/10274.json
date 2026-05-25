@@ -38,6 +38,7 @@
     "type": "None",
     "name": "skunk tail",
     "wareId": 10274,
-    "spriteHashHex": "E286D3345BFBA8F1859E25C1AE344DA8"
+    "spriteHashHex": "E286D3345BFBA8F1859E25C1AE344DA8",
+    "xmlIdRaw": "11191"
   }
 }

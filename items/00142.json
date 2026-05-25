@@ -39,6 +39,7 @@
     "type": "None",
     "name": "bale of white cloth",
     "wareId": 142,
-    "spriteHashHex": "5ADE7C60A05E2E2D6356B1FD567C2E7F"
+    "spriteHashHex": "5ADE7C60A05E2E2D6356B1FD567C2E7F",
+    "xmlIdRaw": "7500"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "minotaur leather",
     "wareId": 5878,
-    "spriteHashHex": "83A176FD437FF320D6A7B7B921078831"
+    "spriteHashHex": "83A176FD437FF320D6A7B7B921078831",
+    "xmlIdRaw": "5878"
   }
 }

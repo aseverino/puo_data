@@ -48,6 +48,7 @@
     "type": "None",
     "name": "crystalline arrow",
     "wareId": 15793,
-    "spriteHashHex": "C4D16FF6E53A5C705EA17539CB13C193"
+    "spriteHashHex": "C4D16FF6E53A5C705EA17539CB13C193",
+    "xmlIdRaw": "18304"
   }
 }

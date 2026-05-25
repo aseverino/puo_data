@@ -38,6 +38,7 @@
     "type": "None",
     "name": "green powder",
     "wareId": 6549,
-    "spriteHashHex": "204862F2075039C43C1215C895C4D6FD"
+    "spriteHashHex": "204862F2075039C43C1215C895C4D6FD",
+    "xmlIdRaw": "6549"
   }
 }

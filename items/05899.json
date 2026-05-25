@@ -38,6 +38,7 @@
     "type": "None",
     "name": "turtle shell",
     "wareId": 5899,
-    "spriteHashHex": "48A09B9A6CB4B022593024DA0003403C"
+    "spriteHashHex": "48A09B9A6CB4B022593024DA0003403C",
+    "xmlIdRaw": "5899"
   }
 }

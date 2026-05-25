@@ -42,6 +42,7 @@
     "type": "None",
     "name": "snake god\u0027s wristguard",
     "wareId": 11691,
-    "spriteHashHex": "5E2E6D2EDF80D371ECAC980AD6476A32"
+    "spriteHashHex": "5E2E6D2EDF80D371ECAC980AD6476A32",
+    "xmlIdRaw": "12647"
   }
 }

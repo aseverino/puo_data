@@ -54,6 +54,7 @@
     "type": "None",
     "name": "wood",
     "wareId": 5901,
-    "spriteHashHex": "186398950E5C88E5256AF2E530473A49"
+    "spriteHashHex": "186398950E5C88E5256AF2E530473A49",
+    "xmlIdRaw": "5901"
   }
 }

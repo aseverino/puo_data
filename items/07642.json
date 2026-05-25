@@ -40,6 +40,7 @@
     "type": "None",
     "name": "great spirit potion",
     "wareId": 7642,
-    "spriteHashHex": "1797A59C9DF0DA746CC7FEB8F09D84B4"
+    "spriteHashHex": "1797A59C9DF0DA746CC7FEB8F09D84B4",
+    "xmlIdRaw": "8472"
   }
 }

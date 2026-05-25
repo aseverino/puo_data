@@ -40,6 +40,7 @@
     "type": "None",
     "name": "melon",
     "wareId": 3593,
-    "spriteHashHex": "4C89177D65261AF901955320EA870A9D"
+    "spriteHashHex": "4C89177D65261AF901955320EA870A9D",
+    "xmlIdRaw": "2682"
   }
 }

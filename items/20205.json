@@ -38,6 +38,7 @@
     "type": "None",
     "name": "goosebump leather",
     "wareId": 20205,
-    "spriteHashHex": "EA42C0077F803662FC6C651A03E9985A"
+    "spriteHashHex": "EA42C0077F803662FC6C651A03E9985A",
+    "xmlIdRaw": "22539"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "goblin ear",
     "wareId": 11539,
-    "spriteHashHex": "5D36C1EB38C0993C5C5C08C10C84D604"
+    "spriteHashHex": "5D36C1EB38C0993C5C5C08C10C84D604",
+    "xmlIdRaw": "12495"
   }
 }

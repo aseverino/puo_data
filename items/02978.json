@@ -65,6 +65,7 @@
     "name": "pumpkinhead",
     "isAnimation": true,
     "wareId": 2977,
-    "spriteHashHex": "F98B914092D8086D81A010E71764BFC7"
+    "spriteHashHex": "F98B914092D8086D81A010E71764BFC7",
+    "xmlIdRaw": "2097"
   }
 }

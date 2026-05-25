@@ -39,6 +39,7 @@
     "type": "None",
     "name": "kitchen knife",
     "wareId": 3469,
-    "spriteHashHex": "3356E28AC3F3108176405308937B9F4A"
+    "spriteHashHex": "3356E28AC3F3108176405308937B9F4A",
+    "xmlIdRaw": "2566"
   }
 }

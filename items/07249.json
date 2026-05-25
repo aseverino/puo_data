@@ -37,6 +37,7 @@
     "type": "None",
     "name": "purple kiss blossom",
     "wareId": 7249,
-    "spriteHashHex": "108878836FF866D26191A917D4955895"
+    "spriteHashHex": "108878836FF866D26191A917D4955895",
+    "xmlIdRaw": "7249"
   }
 }

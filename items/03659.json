@@ -37,6 +37,7 @@
     "type": "None",
     "name": "blue rose",
     "wareId": 3659,
-    "spriteHashHex": "6872117440A2814456F87DFDDCA1D582"
+    "spriteHashHex": "6872117440A2814456F87DFDDCA1D582",
+    "xmlIdRaw": "2745"
   }
 }

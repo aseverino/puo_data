@@ -36,6 +36,7 @@
     "type": "Ground",
     "walkStack": true,
     "spriteHashHex": "7D3279E27FB743F6B668223C220D698D",
+    "xmlIdRaw": "25327",
     "xmlAttributes": {
       "floorchange": "down"
     }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bamboo stick",
     "wareId": 11445,
-    "spriteHashHex": "86B0486D7F52EB795D0092EE9E2419D7"
+    "spriteHashHex": "86B0486D7F52EB795D0092EE9E2419D7",
+    "xmlIdRaw": "12401"
   }
 }

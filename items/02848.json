@@ -37,6 +37,7 @@
     "type": "None",
     "name": "purple tome",
     "wareId": 2848,
-    "spriteHashHex": "2C25E6D1567349D52F9DC1249D057B95"
+    "spriteHashHex": "2C25E6D1567349D52F9DC1249D057B95",
+    "xmlIdRaw": "1982"
   }
 }

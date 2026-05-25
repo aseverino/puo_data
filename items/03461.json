@@ -39,6 +39,7 @@
     "type": "None",
     "name": "saw",
     "wareId": 3461,
-    "spriteHashHex": "851F98FF5BE6290ACB1F4DF51E0C00A4"
+    "spriteHashHex": "851F98FF5BE6290ACB1F4DF51E0C00A4",
+    "xmlIdRaw": "2558"
   }
 }

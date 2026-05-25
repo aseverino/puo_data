@@ -42,6 +42,7 @@
     "type": "None",
     "name": "spectral stone",
     "wareId": 4840,
-    "spriteHashHex": "BA755E4D61297C96A99C0ED99F0082D0"
+    "spriteHashHex": "BA755E4D61297C96A99C0ED99F0082D0",
+    "xmlIdRaw": "4851"
   }
 }

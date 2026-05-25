@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pair of earmuffs",
     "wareId": 7459,
-    "spriteHashHex": "8825236FC2902D7358DBF08E0439B496"
+    "spriteHashHex": "8825236FC2902D7358DBF08E0439B496",
+    "xmlIdRaw": "7459"
   }
 }

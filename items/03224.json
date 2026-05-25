@@ -37,6 +37,7 @@
     "type": "None",
     "name": "right horn",
     "wareId": 3224,
-    "spriteHashHex": "A5B2C131972AC7BEF931D048A4E86F40"
+    "spriteHashHex": "A5B2C131972AC7BEF931D048A4E86F40",
+    "xmlIdRaw": "2337"
   }
 }

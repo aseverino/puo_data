@@ -37,6 +37,7 @@
     "type": "None",
     "name": "shard",
     "wareId": 7290,
-    "spriteHashHex": "02898C437904C42B726BA07E3907D4A5"
+    "spriteHashHex": "02898C437904C42B726BA07E3907D4A5",
+    "xmlIdRaw": "7290"
   }
 }

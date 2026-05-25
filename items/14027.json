@@ -49,6 +49,7 @@
     "type": "None",
     "name": "party wall tinsel",
     "wareId": 14027,
-    "spriteHashHex": "14B2C3C7450F80FA7BEB099C267E42CD"
+    "spriteHashHex": "14B2C3C7450F80FA7BEB099C267E42CD",
+    "xmlIdRaw": "15439"
   }
 }

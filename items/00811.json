@@ -69,6 +69,7 @@
     "name": "terra mantle",
     "isAnimation": true,
     "wareId": 811,
-    "spriteHashHex": "7EDEDC3A0657169BFE12F997410617DE"
+    "spriteHashHex": "7EDEDC3A0657169BFE12F997410617DE",
+    "xmlIdRaw": "7884"
   }
 }

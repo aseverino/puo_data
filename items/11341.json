@@ -56,6 +56,7 @@
     "name": "sacred earth",
     "isAnimation": true,
     "wareId": 11341,
-    "spriteHashHex": "C7E8D9C6A04B9D9D400BA8D7F358E8D2"
+    "spriteHashHex": "C7E8D9C6A04B9D9D400BA8D7F358E8D2",
+    "xmlIdRaw": "12297"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "white flower",
     "wareId": 102,
-    "spriteHashHex": "A99B2F6459584292AF96AF221A4AE2C7"
+    "spriteHashHex": "A99B2F6459584292AF96AF221A4AE2C7",
+    "xmlIdRaw": "7476"
   }
 }

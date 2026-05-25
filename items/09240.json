@@ -37,6 +37,7 @@
     "type": "None",
     "name": "deep crystal",
     "wareId": 9240,
-    "spriteHashHex": "BA755E4D61297C96A99C0ED99F0082D0"
+    "spriteHashHex": "BA755E4D61297C96A99C0ED99F0082D0",
+    "xmlIdRaw": "10158"
   }
 }

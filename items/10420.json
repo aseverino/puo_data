@@ -38,6 +38,7 @@
     "type": "None",
     "name": "petrified scream",
     "wareId": 10420,
-    "spriteHashHex": "EF2ECE48CAE9070D59F00A96159C1D32"
+    "spriteHashHex": "EF2ECE48CAE9070D59F00A96159C1D32",
+    "xmlIdRaw": "11337"
   }
 }

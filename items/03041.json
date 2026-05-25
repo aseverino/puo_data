@@ -38,6 +38,7 @@
     "type": "None",
     "name": "blue gem",
     "wareId": 3041,
-    "spriteHashHex": "FBF0B40822949D301499FC39113BDDFE"
+    "spriteHashHex": "FBF0B40822949D301499FC39113BDDFE",
+    "xmlIdRaw": "2158"
   }
 }

@@ -47,6 +47,7 @@
     "type": "None",
     "name": "blueberry",
     "wareId": 3588,
-    "spriteHashHex": "B1A6B12AB945DCC1B61B33A55ACA1E8C"
+    "spriteHashHex": "B1A6B12AB945DCC1B61B33A55ACA1E8C",
+    "xmlIdRaw": "2677"
   }
 }

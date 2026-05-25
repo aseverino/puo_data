@@ -38,6 +38,7 @@
     "type": "None",
     "name": "luminous piece of cloth",
     "wareId": 12556,
-    "spriteHashHex": "213E93DB660466B352D144D72BDCE57C"
+    "spriteHashHex": "213E93DB660466B352D144D72BDCE57C",
+    "xmlIdRaw": "13545"
   }
 }

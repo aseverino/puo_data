@@ -42,6 +42,7 @@
     "type": "None",
     "name": "dragon slayer",
     "wareId": 7402,
-    "spriteHashHex": "36F61C637580CE120952BE944F701DA9"
+    "spriteHashHex": "36F61C637580CE120952BE944F701DA9",
+    "xmlIdRaw": "7402"
   }
 }

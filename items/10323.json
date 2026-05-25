@@ -41,6 +41,7 @@
     "type": "None",
     "name": "guardian boots",
     "wareId": 10323,
-    "spriteHashHex": "29C451E41880FE0711663F7F9A5355EF"
+    "spriteHashHex": "29C451E41880FE0711663F7F9A5355EF",
+    "xmlIdRaw": "11240"
   }
 }

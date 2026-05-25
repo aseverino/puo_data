@@ -53,6 +53,7 @@
     "name": "weapon matrix crystal",
     "isAnimation": true,
     "wareId": 8828,
-    "spriteHashHex": "711C4E4015CD79507387B627A1D2F4B1"
+    "spriteHashHex": "711C4E4015CD79507387B627A1D2F4B1",
+    "xmlIdRaw": "9743"
   }
 }

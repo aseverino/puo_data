@@ -43,6 +43,7 @@
     "type": "None",
     "name": "soulfire rune",
     "wareId": 3195,
-    "spriteHashHex": "A1448431AD02B3A2A7D7373F346C01C8"
+    "spriteHashHex": "A1448431AD02B3A2A7D7373F346C01C8",
+    "xmlIdRaw": "2308"
   }
 }

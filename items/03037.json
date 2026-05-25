@@ -38,6 +38,7 @@
     "type": "None",
     "name": "yellow gem",
     "wareId": 3037,
-    "spriteHashHex": "68A190FB87FF29E6DD32ECE5E9E76D5E"
+    "spriteHashHex": "68A190FB87FF29E6DD32ECE5E9E76D5E",
+    "xmlIdRaw": "2154"
   }
 }

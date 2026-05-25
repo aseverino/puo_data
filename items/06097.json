@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hook",
     "wareId": 6097,
-    "spriteHashHex": "2CC347FB65373619F4F46BEC66181A8A"
+    "spriteHashHex": "2CC347FB65373619F4F46BEC66181A8A",
+    "xmlIdRaw": "6097"
   }
 }

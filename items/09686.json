@@ -38,6 +38,7 @@
     "type": "None",
     "name": "swamp grass",
     "wareId": 9686,
-    "spriteHashHex": "5519E6761797B5A6FB5DD89DAF6783E5"
+    "spriteHashHex": "5519E6761797B5A6FB5DD89DAF6783E5",
+    "xmlIdRaw": "10603"
   }
 }

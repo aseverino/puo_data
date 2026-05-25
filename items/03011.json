@@ -39,6 +39,7 @@
     "type": "None",
     "name": "crown",
     "wareId": 3011,
-    "spriteHashHex": "B1F606C6F6521E0764DB4B340B1EFAB8"
+    "spriteHashHex": "B1F606C6F6521E0764DB4B340B1EFAB8",
+    "xmlIdRaw": "2128"
   }
 }

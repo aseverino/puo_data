@@ -40,6 +40,7 @@
     "type": "None",
     "name": "seeds",
     "wareId": 647,
-    "spriteHashHex": "6567AD5CD35883F267BA8E1030ECC093"
+    "spriteHashHex": "6567AD5CD35883F267BA8E1030ECC093",
+    "xmlIdRaw": "23971"
   }
 }

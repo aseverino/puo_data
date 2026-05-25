@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bony tail",
     "wareId": 10277,
-    "spriteHashHex": "8636059C3328A60AA6E08F729CE86B85"
+    "spriteHashHex": "8636059C3328A60AA6E08F729CE86B85",
+    "xmlIdRaw": "11194"
   }
 }

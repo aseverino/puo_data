@@ -91,6 +91,7 @@
     "name": "mathmaster shield",
     "isAnimation": true,
     "wareId": 14760,
-    "spriteHashHex": "7C40CD3880D9B00F163B64EAC14D7CDD"
+    "spriteHashHex": "7C40CD3880D9B00F163B64EAC14D7CDD",
+    "xmlIdRaw": "16103"
   }
 }

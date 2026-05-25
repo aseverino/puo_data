@@ -38,6 +38,7 @@
     "type": "None",
     "name": "troll green",
     "wareId": 3741,
-    "spriteHashHex": "29CDA218BE07CEE7688F1F1BBEE144E4"
+    "spriteHashHex": "29CDA218BE07CEE7688F1F1BBEE144E4",
+    "xmlIdRaw": "2805"
   }
 }

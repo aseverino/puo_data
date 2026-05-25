@@ -42,6 +42,7 @@
     "type": "None",
     "name": "umbral hammer",
     "wareId": 20080,
-    "spriteHashHex": "BC73FCB691AABDD0041817B721FA0B6F"
+    "spriteHashHex": "BC73FCB691AABDD0041817B721FA0B6F",
+    "xmlIdRaw": "22414"
   }
 }

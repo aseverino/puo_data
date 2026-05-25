@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bonelord eye",
     "wareId": 5898,
-    "spriteHashHex": "875D5064C588EB50CE941201731D1B3D"
+    "spriteHashHex": "875D5064C588EB50CE941201731D1B3D",
+    "xmlIdRaw": "5898"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bloody pincers",
     "wareId": 9633,
-    "spriteHashHex": "A53AB6AB20A22B55CD5CCA006E2D4BD4"
+    "spriteHashHex": "A53AB6AB20A22B55CD5CCA006E2D4BD4",
+    "xmlIdRaw": "10550"
   }
 }

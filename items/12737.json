@@ -39,6 +39,7 @@
     "type": "None",
     "name": "broken ring of ending",
     "wareId": 12737,
-    "spriteHashHex": "1E4134EEA0E1196574C68C1CE1DDDD31"
+    "spriteHashHex": "1E4134EEA0E1196574C68C1CE1DDDD31",
+    "xmlIdRaw": "13877"
   }
 }

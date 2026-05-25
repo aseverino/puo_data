@@ -38,6 +38,7 @@
     "type": "None",
     "name": "white deer antlers",
     "wareId": 12544,
-    "spriteHashHex": "FCE5D066C301C8AE35702EFFFA6A6E91"
+    "spriteHashHex": "FCE5D066C301C8AE35702EFFFA6A6E91",
+    "xmlIdRaw": "13533"
   }
 }

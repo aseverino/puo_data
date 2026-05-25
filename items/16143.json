@@ -48,6 +48,7 @@
     "type": "None",
     "name": "envenomed arrow",
     "wareId": 16143,
-    "spriteHashHex": "49E5FAE06369465D7BB18ED5EC79E94D"
+    "spriteHashHex": "49E5FAE06369465D7BB18ED5EC79E94D",
+    "xmlIdRaw": "18437"
   }
 }

@@ -60,6 +60,7 @@
     "name": "baby seal doll",
     "isAnimation": true,
     "wareId": 7183,
-    "spriteHashHex": "991F3CCF7AC03D8A2E4C7E357F326EAA"
+    "spriteHashHex": "991F3CCF7AC03D8A2E4C7E357F326EAA",
+    "xmlIdRaw": "7184"
   }
 }

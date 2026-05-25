@@ -37,6 +37,7 @@
     "type": "None",
     "name": "vampiric crest",
     "wareId": 9041,
-    "spriteHashHex": "EFC0730C0E64F080FD27032A7D125C75"
+    "spriteHashHex": "EFC0730C0E64F080FD27032A7D125C75",
+    "xmlIdRaw": "9955"
   }
 }

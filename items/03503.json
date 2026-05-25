@@ -43,6 +43,7 @@
     "name": "parcel",
     "hasHeight": true,
     "wareId": 3503,
-    "spriteHashHex": "5DDB03EDA538A296AADC784190564416"
+    "spriteHashHex": "5DDB03EDA538A296AADC784190564416",
+    "xmlIdRaw": "2595"
   }
 }

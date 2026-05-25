@@ -45,6 +45,7 @@
     "type": "None",
     "name": "brown crystal splinter",
     "wareId": 16123,
-    "spriteHashHex": "D58CAF911D585F959C3B3CA620A990E3"
+    "spriteHashHex": "D58CAF911D585F959C3B3CA620A990E3",
+    "xmlIdRaw": "18417"
   }
 }

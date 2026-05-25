@@ -60,6 +60,7 @@
     "name": "ectoplasmic sushi",
     "isAnimation": true,
     "wareId": 11681,
-    "spriteHashHex": "E0835D8BC983EADDD7AE0C4892D7A095"
+    "spriteHashHex": "E0835D8BC983EADDD7AE0C4892D7A095",
+    "xmlIdRaw": "12637"
   }
 }

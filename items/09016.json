@@ -40,6 +40,7 @@
     "type": "None",
     "name": "flask of rust remover",
     "wareId": 9016,
-    "spriteHashHex": "D0BF9CCE33D9D58F29D60C876C94329C"
+    "spriteHashHex": "D0BF9CCE33D9D58F29D60C876C94329C",
+    "xmlIdRaw": "9930"
   }
 }

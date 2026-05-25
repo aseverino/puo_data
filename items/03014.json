@@ -62,6 +62,7 @@
     "name": "star amulet",
     "isAnimation": true,
     "wareId": 3014,
-    "spriteHashHex": "F097E51440D211F24D1B7E65A8EFC3F2"
+    "spriteHashHex": "F097E51440D211F24D1B7E65A8EFC3F2",
+    "xmlIdRaw": "2131"
   }
 }

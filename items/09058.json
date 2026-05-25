@@ -67,6 +67,7 @@
     "name": "gold ingot",
     "isAnimation": true,
     "wareId": 9058,
-    "spriteHashHex": "2FB7DAB372C6A3C3565ECC8D2434A24A"
+    "spriteHashHex": "2FB7DAB372C6A3C3565ECC8D2434A24A",
+    "xmlIdRaw": "9971"
   }
 }

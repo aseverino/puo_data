@@ -41,6 +41,7 @@
     "type": "None",
     "name": "lightning robe",
     "wareId": 825,
-    "spriteHashHex": "C30F896BBE10EF91DEA3C9F5CAC55400"
+    "spriteHashHex": "C30F896BBE10EF91DEA3C9F5CAC55400",
+    "xmlIdRaw": "7898"
   }
 }

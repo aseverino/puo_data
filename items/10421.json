@@ -49,6 +49,7 @@
     "type": "None",
     "name": "disgusting trophy",
     "wareId": 10421,
-    "spriteHashHex": "C07BCC168ECB58D975DD57E2204FD5D7"
+    "spriteHashHex": "C07BCC168ECB58D975DD57E2204FD5D7",
+    "xmlIdRaw": "11338"
   }
 }

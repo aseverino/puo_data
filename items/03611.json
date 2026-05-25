@@ -2,7 +2,7 @@
   "category": "item",
   "clientId": 3611,
   "dontHide": true,
-  "width": 4,
+  "width": 3,
   "height": 3,
   "exactSize": 128,
   "layers": [
@@ -22,22 +22,19 @@
       ]
     },
     "spriteIds": [
-      141514,
-      141515,
-      141516,
-      0,
-      141517,
-      0,
+      148244,
+      148245,
+      148246,
+      148247,
       0,
       0,
-      141518,
-      0,
+      148248,
       0,
       0
     ]
   },
   "server": {
-    "serverId": 14058,
+    "serverId": 16221,
     "type": "None",
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
   }

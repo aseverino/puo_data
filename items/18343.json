@@ -96,6 +96,7 @@
     "name": "bookworm doll",
     "isAnimation": true,
     "wareId": 18343,
-    "spriteHashHex": "5F04A55EED8DF90F2D3425BAB540244D"
+    "spriteHashHex": "5F04A55EED8DF90F2D3425BAB540244D",
+    "xmlIdRaw": "20624"
   }
 }

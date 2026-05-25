@@ -38,6 +38,7 @@
     "type": "None",
     "name": "christmas cookie tray",
     "wareId": 20310,
-    "spriteHashHex": "8709C1B9FF81F0663F015C1163120DF7"
+    "spriteHashHex": "8709C1B9FF81F0663F015C1163120DF7",
+    "xmlIdRaw": "22644"
   }
 }

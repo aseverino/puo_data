@@ -46,6 +46,7 @@
     "type": "None",
     "name": "jalape\uFFFDo pepper",
     "wareId": 8016,
-    "spriteHashHex": "C1506C0A40B5AFB494EEC947C9D82F01"
+    "spriteHashHex": "C1506C0A40B5AFB494EEC947C9D82F01",
+    "xmlIdRaw": "8844"
   }
 }

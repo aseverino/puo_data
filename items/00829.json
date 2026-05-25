@@ -40,6 +40,7 @@
     "type": "None",
     "name": "glacier mask",
     "wareId": 829,
-    "spriteHashHex": "A008ED68173CC11E80D24D3732B62F4C"
+    "spriteHashHex": "A008ED68173CC11E80D24D3732B62F4C",
+    "xmlIdRaw": "7902"
   }
 }

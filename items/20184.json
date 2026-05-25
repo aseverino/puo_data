@@ -40,6 +40,7 @@
     "type": "None",
     "name": "broken visor",
     "wareId": 20184,
-    "spriteHashHex": "8A1567D3301FDEAAA5C3AF2D88E50E83"
+    "spriteHashHex": "8A1567D3301FDEAAA5C3AF2D88E50E83",
+    "xmlIdRaw": "22518"
   }
 }

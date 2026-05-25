@@ -39,6 +39,7 @@
     "type": "None",
     "name": "crystal necklace",
     "wareId": 3008,
-    "spriteHashHex": "353650A4C1AB688999CDC7FB85A535FC"
+    "spriteHashHex": "353650A4C1AB688999CDC7FB85A535FC",
+    "xmlIdRaw": "2125"
   }
 }

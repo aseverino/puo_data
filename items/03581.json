@@ -47,6 +47,7 @@
     "type": "None",
     "name": "shrimp",
     "wareId": 3581,
-    "spriteHashHex": "10227574AB832F5956FD18C0020BE92B"
+    "spriteHashHex": "10227574AB832F5956FD18C0020BE92B",
+    "xmlIdRaw": "2670"
   }
 }

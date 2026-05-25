@@ -30,6 +30,7 @@
     "serverId": 26171,
     "type": "None",
     "spriteHashHex": "F70D189D2D7566E893939A11DEF41073",
+    "xmlIdRaw": "26171",
     "namePt": "pele rochosa de graveler",
     "xmlAttributes": {
       "maxStack": "30"

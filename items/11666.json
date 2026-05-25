@@ -38,6 +38,7 @@
     "type": "None",
     "name": "tentacle piece",
     "wareId": 11666,
-    "spriteHashHex": "20BA00BADDA2166424E4D08B617CD4A7"
+    "spriteHashHex": "20BA00BADDA2166424E4D08B617CD4A7",
+    "xmlIdRaw": "12622"
   }
 }

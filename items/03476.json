@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bowl",
     "wareId": 3476,
-    "spriteHashHex": "A7EDF21B47569EC14E052C5489C2771D"
+    "spriteHashHex": "A7EDF21B47569EC14E052C5489C2771D",
+    "xmlIdRaw": "2573"
   }
 }

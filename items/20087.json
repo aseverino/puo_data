@@ -40,6 +40,7 @@
     "type": "None",
     "name": "umbral master crossbow",
     "wareId": 20087,
-    "spriteHashHex": "BC557ACF17209288A1AE3B798B9A3D8C"
+    "spriteHashHex": "BC557ACF17209288A1AE3B798B9A3D8C",
+    "xmlIdRaw": "22421"
   }
 }

@@ -43,6 +43,7 @@
     "type": "None",
     "name": "crude umbral blade",
     "wareId": 20064,
-    "spriteHashHex": "BBD2729D9782E5180E5AE5259B4D75FB"
+    "spriteHashHex": "BBD2729D9782E5180E5AE5259B4D75FB",
+    "xmlIdRaw": "22398"
   }
 }

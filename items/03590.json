@@ -47,6 +47,7 @@
     "type": "None",
     "name": "cherry",
     "wareId": 3590,
-    "spriteHashHex": "5C7584070C2CD697C7EFD408DB6F8C1B"
+    "spriteHashHex": "5C7584070C2CD697C7EFD408DB6F8C1B",
+    "xmlIdRaw": "2679"
   }
 }

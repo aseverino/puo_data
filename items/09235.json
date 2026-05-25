@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golem disassembler",
     "wareId": 9235,
-    "spriteHashHex": "FA9072FE470A0B13D27073159585E4B2"
+    "spriteHashHex": "FA9072FE470A0B13D27073159585E4B2",
+    "xmlIdRaw": "10153"
   }
 }

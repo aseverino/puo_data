@@ -38,6 +38,7 @@
     "type": "None",
     "name": "legionnaire flags",
     "wareId": 10417,
-    "spriteHashHex": "93A127677FD2519CE256BA5AA0EB56D6"
+    "spriteHashHex": "93A127677FD2519CE256BA5AA0EB56D6",
+    "xmlIdRaw": "11334"
   }
 }

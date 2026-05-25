@@ -41,6 +41,7 @@
     "type": "None",
     "name": "yalahari leg piece",
     "wareId": 8863,
-    "spriteHashHex": "E3F7328C6986CAF2A52C0A757ABDD4E1"
+    "spriteHashHex": "E3F7328C6986CAF2A52C0A757ABDD4E1",
+    "xmlIdRaw": "9777"
   }
 }

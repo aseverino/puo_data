@@ -40,6 +40,7 @@
     "type": "None",
     "name": "flour",
     "wareId": 3603,
-    "spriteHashHex": "70EF1B51EFB796576621F768CB3A800D"
+    "spriteHashHex": "70EF1B51EFB796576621F768CB3A800D",
+    "xmlIdRaw": "2692"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "prismatic boots",
     "wareId": 16112,
-    "spriteHashHex": "1B14AAFDAEE09F6847A5B1422C20E6D9"
+    "spriteHashHex": "1B14AAFDAEE09F6847A5B1422C20E6D9",
+    "xmlIdRaw": "18406"
   }
 }

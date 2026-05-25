@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Mr. Punish\u0027s handcuffs",
     "wareId": 6537,
-    "spriteHashHex": "A4F71FDAC3A1B3E34469BB344BD11F84"
+    "spriteHashHex": "A4F71FDAC3A1B3E34469BB344BD11F84",
+    "xmlIdRaw": "6537"
   }
 }

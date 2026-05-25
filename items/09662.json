@@ -38,6 +38,7 @@
     "type": "None",
     "name": "mutated bat ear",
     "wareId": 9662,
-    "spriteHashHex": "D471A013C63473EB9BEF9843D63C060C"
+    "spriteHashHex": "D471A013C63473EB9BEF9843D63C060C",
+    "xmlIdRaw": "10579"
   }
 }

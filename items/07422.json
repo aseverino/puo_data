@@ -42,6 +42,7 @@
     "type": "None",
     "name": "jade hammer",
     "wareId": 7422,
-    "spriteHashHex": "E4F73FD571F1FD354ACE3CCF703BE870"
+    "spriteHashHex": "E4F73FD571F1FD354ACE3CCF703BE870",
+    "xmlIdRaw": "7422"
   }
 }

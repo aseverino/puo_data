@@ -40,6 +40,7 @@
     "type": "None",
     "name": "rabbit\u0027s foot",
     "wareId": 12172,
-    "spriteHashHex": "67B817ED493E77C0850144AE8E61B4ED"
+    "spriteHashHex": "67B817ED493E77C0850144AE8E61B4ED",
+    "xmlIdRaw": "13159"
   }
 }

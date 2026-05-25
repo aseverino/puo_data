@@ -38,6 +38,7 @@
     "type": "None",
     "name": "fern",
     "wareId": 3737,
-    "spriteHashHex": "21487A041472CBB412C9F86879F8AA0F"
+    "spriteHashHex": "21487A041472CBB412C9F86879F8AA0F",
+    "xmlIdRaw": "2801"
   }
 }

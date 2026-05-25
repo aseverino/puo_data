@@ -38,6 +38,7 @@
     "type": "None",
     "name": "half-digested piece of meat",
     "wareId": 10283,
-    "spriteHashHex": "E03B0CFA37B4C6C6067F5EA6974DDA72"
+    "spriteHashHex": "E03B0CFA37B4C6C6067F5EA6974DDA72",
+    "xmlIdRaw": "11200"
   }
 }

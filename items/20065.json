@@ -43,6 +43,7 @@
     "type": "None",
     "name": "umbral blade",
     "wareId": 20065,
-    "spriteHashHex": "0003189658A8C7D219F4A6B772BA7F84"
+    "spriteHashHex": "0003189658A8C7D219F4A6B772BA7F84",
+    "xmlIdRaw": "22399"
   }
 }

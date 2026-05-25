@@ -39,6 +39,7 @@
     "type": "None",
     "name": "skull helmet",
     "wareId": 5741,
-    "spriteHashHex": "50DFF445DADC1724F0550AA20C73F8E9"
+    "spriteHashHex": "50DFF445DADC1724F0550AA20C73F8E9",
+    "xmlIdRaw": "5741"
   }
 }

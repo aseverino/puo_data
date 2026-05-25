@@ -39,6 +39,7 @@
     "type": "None",
     "name": "haunch of boar",
     "wareId": 12310,
-    "spriteHashHex": "F3C60FE8D982ABF36511B2A08C2DACB9"
+    "spriteHashHex": "F3C60FE8D982ABF36511B2A08C2DACB9",
+    "xmlIdRaw": "13297"
   }
 }

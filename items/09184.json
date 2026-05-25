@@ -38,6 +38,7 @@
     "type": "None",
     "name": "the lower left part of a map",
     "wareId": 9184,
-    "spriteHashHex": "0320CB4CA1D2647FC3CB55819B80D775"
+    "spriteHashHex": "0320CB4CA1D2647FC3CB55819B80D775",
+    "xmlIdRaw": "10102"
   }
 }

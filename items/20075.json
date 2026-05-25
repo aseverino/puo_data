@@ -42,6 +42,7 @@
     "type": "None",
     "name": "umbral master chopper",
     "wareId": 20075,
-    "spriteHashHex": "53752AF740C8B271BB1B9420B1F14C5A"
+    "spriteHashHex": "53752AF740C8B271BB1B9420B1F14C5A",
+    "xmlIdRaw": "22409"
   }
 }

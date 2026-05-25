@@ -40,6 +40,7 @@
     "type": "None",
     "name": "lump of holy water dough",
     "wareId": 8195,
-    "spriteHashHex": "6A56E0A9240CE08BE7AC6E9089E322B6"
+    "spriteHashHex": "6A56E0A9240CE08BE7AC6E9089E322B6",
+    "xmlIdRaw": "9112"
   }
 }

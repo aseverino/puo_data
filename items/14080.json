@@ -38,6 +38,7 @@
     "type": "None",
     "name": "waspoid claw",
     "wareId": 14080,
-    "spriteHashHex": "6EA7DBDF28C5418188E1818829066B99"
+    "spriteHashHex": "6EA7DBDF28C5418188E1818829066B99",
+    "xmlIdRaw": "15483"
   }
 }

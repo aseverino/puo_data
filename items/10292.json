@@ -38,6 +38,7 @@
     "type": "None",
     "name": "silky fur",
     "wareId": 10292,
-    "spriteHashHex": "2AB391F40EDA8B925DFC19E861B621AA"
+    "spriteHashHex": "2AB391F40EDA8B925DFC19E861B621AA",
+    "xmlIdRaw": "11209"
   }
 }

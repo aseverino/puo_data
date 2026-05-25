@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small ice statue",
     "wareId": 7447,
-    "spriteHashHex": "D5CFE1989177A8AA7C35FE3864615F95"
+    "spriteHashHex": "D5CFE1989177A8AA7C35FE3864615F95",
+    "xmlIdRaw": "7447"
   }
 }

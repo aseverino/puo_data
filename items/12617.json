@@ -37,6 +37,7 @@
     "type": "None",
     "name": "torn teddy",
     "wareId": 12617,
-    "spriteHashHex": "8DB9D4ECE7B8360A6AC794B2BD1CDF43"
+    "spriteHashHex": "8DB9D4ECE7B8360A6AC794B2BD1CDF43",
+    "xmlIdRaw": "13774"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "holy falcon",
     "wareId": 3024,
-    "spriteHashHex": "784DB1F69BAC9A22C359D2B8B5D856E3"
+    "spriteHashHex": "784DB1F69BAC9A22C359D2B8B5D856E3",
+    "xmlIdRaw": "2141"
   }
 }

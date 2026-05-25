@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bongo drum",
     "wareId": 2951,
-    "spriteHashHex": "89C6486411AF03A88EBD72216E3D7669"
+    "spriteHashHex": "89C6486411AF03A88EBD72216E3D7669",
+    "xmlIdRaw": "3951"
   }
 }

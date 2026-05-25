@@ -41,6 +41,7 @@
     "type": "None",
     "name": "war drum",
     "wareId": 2966,
-    "spriteHashHex": "2D593C4568E9B12243C2A6205DF60734"
+    "spriteHashHex": "2D593C4568E9B12243C2A6205DF60734",
+    "xmlIdRaw": "3953"
   }
 }

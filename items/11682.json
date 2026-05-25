@@ -39,6 +39,7 @@
     "type": "None",
     "name": "dragonfruit",
     "wareId": 11682,
-    "spriteHashHex": "137B4B97A4B6B19E3B8276C848DAC2FD"
+    "spriteHashHex": "137B4B97A4B6B19E3B8276C848DAC2FD",
+    "xmlIdRaw": "12638"
   }
 }

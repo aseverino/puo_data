@@ -43,6 +43,7 @@
     "type": "None",
     "name": "energy wall rune",
     "wareId": 3166,
-    "spriteHashHex": "D795BA7CB1E9BD5CB35BE98576C3020E"
+    "spriteHashHex": "D795BA7CB1E9BD5CB35BE98576C3020E",
+    "xmlIdRaw": "2279"
   }
 }

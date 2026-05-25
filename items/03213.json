@@ -37,6 +37,7 @@
     "type": "None",
     "name": "annihilation bear",
     "wareId": 3213,
-    "spriteHashHex": "D2CF1D8CD831F54A98399FA4F97ADA65"
+    "spriteHashHex": "D2CF1D8CD831F54A98399FA4F97ADA65",
+    "xmlIdRaw": "2326"
   }
 }

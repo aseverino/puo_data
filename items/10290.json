@@ -37,6 +37,7 @@
     "type": "None",
     "name": "mini mummy",
     "wareId": 10290,
-    "spriteHashHex": "10AB4FF3A44E6ECE626C894534A866C5"
+    "spriteHashHex": "10AB4FF3A44E6ECE626C894534A866C5",
+    "xmlIdRaw": "11207"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "quara pincers",
     "wareId": 11490,
-    "spriteHashHex": "FF398A3AA188493BF5CEB10E3C60766A"
+    "spriteHashHex": "FF398A3AA188493BF5CEB10E3C60766A",
+    "xmlIdRaw": "12446"
   }
 }

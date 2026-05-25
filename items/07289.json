@@ -39,6 +39,7 @@
     "type": "None",
     "name": "frost charm",
     "wareId": 7289,
-    "spriteHashHex": "A8CE260962D81C199D358256328F6D82"
+    "spriteHashHex": "A8CE260962D81C199D358256328F6D82",
+    "xmlIdRaw": "7289"
   }
 }

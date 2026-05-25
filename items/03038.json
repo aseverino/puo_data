@@ -38,6 +38,7 @@
     "type": "None",
     "name": "green gem",
     "wareId": 3038,
-    "spriteHashHex": "B56F3B9149FA89EEAB4FA78B7AF2899B"
+    "spriteHashHex": "B56F3B9149FA89EEAB4FA78B7AF2899B",
+    "xmlIdRaw": "2155"
   }
 }

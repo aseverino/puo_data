@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wyrm scale",
     "wareId": 9665,
-    "spriteHashHex": "52641F266A14B79EAC3E8450B0071579"
+    "spriteHashHex": "52641F266A14B79EAC3E8450B0071579",
+    "xmlIdRaw": "10582"
   }
 }

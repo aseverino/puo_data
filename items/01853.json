@@ -25,13 +25,14 @@
       ]
     },
     "spriteIds": [
-      141242
+      146956
     ]
   },
   "server": {
     "serverId": 3609,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "582A63AC2BD1A82D526CFE184861D9C7"
+    "spriteHashHex": "582A63AC2BD1A82D526CFE184861D9C7",
+    "xmlIdRaw": "3609"
   }
 }

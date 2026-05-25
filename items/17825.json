@@ -38,6 +38,7 @@
     "type": "None",
     "name": "rat god doll",
     "wareId": 17825,
-    "spriteHashHex": "63F6767ACA728F0E736BEC4509B72CD9"
+    "spriteHashHex": "63F6767ACA728F0E736BEC4509B72CD9",
+    "xmlIdRaw": "20105"
   }
 }

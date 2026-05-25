@@ -58,6 +58,7 @@
     "name": "energy heroic axe",
     "isAnimation": true,
     "wareId": 803,
-    "spriteHashHex": "4BFA7A2038F3E10E6343E15A966C66B2"
+    "spriteHashHex": "4BFA7A2038F3E10E6343E15A966C66B2",
+    "xmlIdRaw": "7876"
   }
 }

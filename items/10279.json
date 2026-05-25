@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of crocodile leather",
     "wareId": 10279,
-    "spriteHashHex": "A48148638B2950C9D996FD287BDAE575"
+    "spriteHashHex": "A48148638B2950C9D996FD287BDAE575",
+    "xmlIdRaw": "11196"
   }
 }

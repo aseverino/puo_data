@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "blue backpack",
     "wareId": 2869,
-    "spriteHashHex": "E70D0DD901E8432D481140990049AA32"
+    "spriteHashHex": "E70D0DD901E8432D481140990049AA32",
+    "xmlIdRaw": "2002"
   }
 }

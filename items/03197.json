@@ -43,6 +43,7 @@
     "type": "None",
     "name": "disintegrate rune",
     "wareId": 3197,
-    "spriteHashHex": "649715A0CCA52751FF545B8D419B6A87"
+    "spriteHashHex": "649715A0CCA52751FF545B8D419B6A87",
+    "xmlIdRaw": "2310"
   }
 }

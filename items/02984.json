@@ -41,6 +41,7 @@
     "type": "None",
     "name": "honey flower",
     "wareId": 2984,
-    "spriteHashHex": "D2535386B4350DA2D589B8CD98B82841"
+    "spriteHashHex": "D2535386B4350DA2D589B8CD98B82841",
+    "xmlIdRaw": "2103"
   }
 }

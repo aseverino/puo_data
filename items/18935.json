@@ -40,6 +40,7 @@
     "type": "None",
     "name": "vampire\u0027s signet ring",
     "wareId": 18935,
-    "spriteHashHex": "426DF0E3318049D036D5DECE464D91D1"
+    "spriteHashHex": "426DF0E3318049D036D5DECE464D91D1",
+    "xmlIdRaw": "21252"
   }
 }

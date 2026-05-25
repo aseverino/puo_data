@@ -37,6 +37,7 @@
     "type": "None",
     "name": "jester doll",
     "wareId": 8778,
-    "spriteHashHex": "94DE38FF52E31227397EF0BDCA8A7F51"
+    "spriteHashHex": "94DE38FF52E31227397EF0BDCA8A7F51",
+    "xmlIdRaw": "9693"
   }
 }

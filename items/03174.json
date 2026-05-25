@@ -40,6 +40,7 @@
     "type": "None",
     "name": "light magic missile rune",
     "wareId": 3174,
-    "spriteHashHex": "2E7B07705FD08A9A9CFEB76757F1AB64"
+    "spriteHashHex": "2E7B07705FD08A9A9CFEB76757F1AB64",
+    "xmlIdRaw": "2287"
   }
 }

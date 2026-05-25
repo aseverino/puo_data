@@ -37,6 +37,7 @@
     "type": "None",
     "name": "pan",
     "wareId": 3466,
-    "spriteHashHex": "220DC0A01B8DD8F1E050B6001511380C"
+    "spriteHashHex": "220DC0A01B8DD8F1E050B6001511380C",
+    "xmlIdRaw": "2563"
   }
 }

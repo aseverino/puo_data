@@ -40,6 +40,7 @@
     "type": "None",
     "name": "banana chocolate shake",
     "wareId": 9083,
-    "spriteHashHex": "24C85F440A5FBCE61CB9C5DD8776EDCA"
+    "spriteHashHex": "24C85F440A5FBCE61CB9C5DD8776EDCA",
+    "xmlIdRaw": "9996"
   }
 }

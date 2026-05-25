@@ -38,6 +38,7 @@
     "type": "None",
     "name": "snake skin",
     "wareId": 9694,
-    "spriteHashHex": "F0A8EF656EEC09828F65B599175FB9D1"
+    "spriteHashHex": "F0A8EF656EEC09828F65B599175FB9D1",
+    "xmlIdRaw": "10611"
   }
 }

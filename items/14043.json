@@ -41,6 +41,7 @@
     "type": "None",
     "name": "guardian axe",
     "wareId": 14043,
-    "spriteHashHex": "1286DB98B65B752C777C3BDFCB09606D"
+    "spriteHashHex": "1286DB98B65B752C777C3BDFCB09606D",
+    "xmlIdRaw": "15454"
   }
 }

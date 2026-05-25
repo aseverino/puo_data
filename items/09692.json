@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lump of dirt",
     "wareId": 9692,
-    "spriteHashHex": "43DA18A4AAE117FADD1BB4F17B3DBE54"
+    "spriteHashHex": "43DA18A4AAE117FADD1BB4F17B3DBE54",
+    "xmlIdRaw": "10609"
   }
 }

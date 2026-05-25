@@ -46,6 +46,7 @@
     "name": "mysterious voodoo skull",
     "isAnimation": true,
     "wareId": 5668,
-    "spriteHashHex": "71ABD94110CBAB97177884122E5BBC6C"
+    "spriteHashHex": "71ABD94110CBAB97177884122E5BBC6C",
+    "xmlIdRaw": "5669"
   }
 }

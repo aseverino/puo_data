@@ -38,6 +38,7 @@
     "type": "None",
     "name": "necromantic robe",
     "wareId": 11475,
-    "spriteHashHex": "CC1C789A4AAA4A93D51B80D339EC04EE"
+    "spriteHashHex": "CC1C789A4AAA4A93D51B80D339EC04EE",
+    "xmlIdRaw": "12431"
   }
 }

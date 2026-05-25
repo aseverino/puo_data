@@ -38,6 +38,7 @@
     "type": "None",
     "name": "drum",
     "wareId": 2952,
-    "spriteHashHex": "9F6CE09CF89026FA9711F0C00D31C044"
+    "spriteHashHex": "9F6CE09CF89026FA9711F0C00D31C044",
+    "xmlIdRaw": "14331"
   }
 }

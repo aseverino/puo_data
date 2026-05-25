@@ -38,6 +38,7 @@
     "type": "None",
     "name": "botany almanach",
     "wareId": 11699,
-    "spriteHashHex": "57C91682F5974E8D41DAC56040394F5B"
+    "spriteHashHex": "57C91682F5974E8D41DAC56040394F5B",
+    "xmlIdRaw": "12655"
   }
 }

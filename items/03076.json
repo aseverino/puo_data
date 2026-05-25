@@ -45,6 +45,7 @@
     "name": "crystal ball",
     "wareId": 3076,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "A86CE6467B61A32B50B1775A7C773782"
+    "spriteHashHex": "A86CE6467B61A32B50B1775A7C773782",
+    "xmlIdRaw": "2192"
   }
 }

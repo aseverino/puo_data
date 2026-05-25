@@ -40,6 +40,7 @@
     "type": "None",
     "name": "bamboo leaves",
     "wareId": 12549,
-    "spriteHashHex": "33E0AFDAE325B739221957FFDA15A5EB"
+    "spriteHashHex": "33E0AFDAE325B739221957FFDA15A5EB",
+    "xmlIdRaw": "13538"
   }
 }

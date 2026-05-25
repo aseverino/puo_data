@@ -38,6 +38,7 @@
     "type": "None",
     "name": "haunted piece of wood",
     "wareId": 9683,
-    "spriteHashHex": "37E4B7A1261AF4FAEE8F7837A964C7D7"
+    "spriteHashHex": "37E4B7A1261AF4FAEE8F7837A964C7D7",
+    "xmlIdRaw": "10600"
   }
 }

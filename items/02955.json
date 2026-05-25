@@ -38,6 +38,7 @@
     "type": "None",
     "name": "fanfare",
     "wareId": 2955,
-    "spriteHashHex": "5124AE84BFD775BBFD8EDBE0836AC283"
+    "spriteHashHex": "5124AE84BFD775BBFD8EDBE0836AC283",
+    "xmlIdRaw": "2076"
   }
 }

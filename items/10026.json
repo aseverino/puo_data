@@ -45,6 +45,7 @@
     "name": "baby rotworm",
     "isAnimation": true,
     "wareId": 10026,
-    "spriteHashHex": "6F63A0A0C26B7A8754D4D91CE2087984"
+    "spriteHashHex": "6F63A0A0C26B7A8754D4D91CE2087984",
+    "xmlIdRaw": "10943"
   }
 }

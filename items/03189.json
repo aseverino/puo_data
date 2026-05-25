@@ -43,6 +43,7 @@
     "type": "None",
     "name": "fireball rune",
     "wareId": 3189,
-    "spriteHashHex": "56BCDA1980DF887757F211B2433BC4D1"
+    "spriteHashHex": "56BCDA1980DF887757F211B2433BC4D1",
+    "xmlIdRaw": "2302"
   }
 }

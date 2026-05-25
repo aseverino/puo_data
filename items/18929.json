@@ -40,6 +40,7 @@
     "type": "None",
     "name": "incantation notes",
     "wareId": 18929,
-    "spriteHashHex": "E0AB06161E96765E9132EE099FAB7B03"
+    "spriteHashHex": "E0AB06161E96765E9132EE099FAB7B03",
+    "xmlIdRaw": "21246"
   }
 }

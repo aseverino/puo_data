@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "golden bag",
     "wareId": 2863,
-    "spriteHashHex": "974F24AB1539A93F8B222C7D1DD052C8"
+    "spriteHashHex": "974F24AB1539A93F8B222C7D1DD052C8",
+    "xmlIdRaw": "1997"
   }
 }

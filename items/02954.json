@@ -38,6 +38,7 @@
     "type": "None",
     "name": "simple fanfare",
     "wareId": 2954,
-    "spriteHashHex": "0EF7129E5BF71C64B0102E1DA93B6422"
+    "spriteHashHex": "0EF7129E5BF71C64B0102E1DA93B6422",
+    "xmlIdRaw": "2075"
   }
 }

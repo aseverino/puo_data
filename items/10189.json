@@ -39,6 +39,7 @@
     "type": "None",
     "name": "flask of extra greasy oil",
     "wareId": 10189,
-    "spriteHashHex": "E20EE40ECB68EBCA163B648492C88830"
+    "spriteHashHex": "E20EE40ECB68EBCA163B648492C88830",
+    "xmlIdRaw": "11106"
   }
 }

@@ -47,6 +47,7 @@
     "type": "None",
     "name": "strawberry",
     "wareId": 3591,
-    "spriteHashHex": "34CBBD333376DFBB4D4EEFDD2D936FA1"
+    "spriteHashHex": "34CBBD333376DFBB4D4EEFDD2D936FA1",
+    "xmlIdRaw": "2680"
   }
 }

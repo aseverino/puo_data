@@ -37,6 +37,7 @@
     "type": "None",
     "name": "secret letter",
     "wareId": 402,
-    "spriteHashHex": "B246BAB998F44CD6564916E730DDF34F"
+    "spriteHashHex": "B246BAB998F44CD6564916E730DDF34F",
+    "xmlIdRaw": "14326"
   }
 }

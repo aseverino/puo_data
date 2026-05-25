@@ -39,6 +39,7 @@
     "type": "None",
     "name": "dark mushroom",
     "wareId": 3728,
-    "spriteHashHex": "9607730F94D1ED6EB1B6852173F355B5"
+    "spriteHashHex": "9607730F94D1ED6EB1B6852173F355B5",
+    "xmlIdRaw": "2792"
   }
 }

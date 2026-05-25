@@ -37,6 +37,7 @@
     "type": "None",
     "name": "morgaroth\u0027s heart",
     "wareId": 5943,
-    "spriteHashHex": "3BC096E100B0BFF791ECC7784E18FBE0"
+    "spriteHashHex": "3BC096E100B0BFF791ECC7784E18FBE0",
+    "xmlIdRaw": "5943"
   }
 }

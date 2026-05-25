@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bottle of bug milk",
     "wareId": 8758,
-    "spriteHashHex": "B928052D13C7B2BD1514992273F2B1AB"
+    "spriteHashHex": "B928052D13C7B2BD1514992273F2B1AB",
+    "xmlIdRaw": "9674"
   }
 }

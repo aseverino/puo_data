@@ -38,6 +38,7 @@
     "type": "None",
     "name": "metal spike",
     "wareId": 10298,
-    "spriteHashHex": "EE2897307983C01DF873C4BEA1718EF3"
+    "spriteHashHex": "EE2897307983C01DF873C4BEA1718EF3",
+    "xmlIdRaw": "11215"
   }
 }

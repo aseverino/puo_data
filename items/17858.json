@@ -57,6 +57,7 @@
     "name": "leech",
     "isAnimation": true,
     "wareId": 17858,
-    "spriteHashHex": "4FB700144387DCD6954C5255AA53F74E"
+    "spriteHashHex": "4FB700144387DCD6954C5255AA53F74E",
+    "xmlIdRaw": "20138"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dream warden claw",
     "wareId": 20275,
-    "spriteHashHex": "B9DA65CB94C811BCCB14EDC058D4E415"
+    "spriteHashHex": "B9DA65CB94C811BCCB14EDC058D4E415",
+    "xmlIdRaw": "22609"
   }
 }

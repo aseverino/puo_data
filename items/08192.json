@@ -38,6 +38,7 @@
     "type": "None",
     "name": "vampire lord token",
     "wareId": 8192,
-    "spriteHashHex": "6E2BEF5257596C3109E07E9676C0F607"
+    "spriteHashHex": "6E2BEF5257596C3109E07E9676C0F607",
+    "xmlIdRaw": "9020"
   }
 }

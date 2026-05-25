@@ -37,6 +37,7 @@
     "type": "None",
     "name": "rusty armor",
     "wareId": 8894,
-    "spriteHashHex": "98DCAC0D782E0EF4DCB3CED3957A543D"
+    "spriteHashHex": "98DCAC0D782E0EF4DCB3CED3957A543D",
+    "xmlIdRaw": "9808"
   }
 }

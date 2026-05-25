@@ -42,6 +42,7 @@
     "type": "None",
     "name": "demonbone",
     "wareId": 7431,
-    "spriteHashHex": "7D4BB192E90191DDD7FFD31F6D814C07"
+    "spriteHashHex": "7D4BB192E90191DDD7FFD31F6D814C07",
+    "xmlIdRaw": "7431"
   }
 }

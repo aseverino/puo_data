@@ -39,6 +39,7 @@
     "type": "None",
     "name": "white dress",
     "wareId": 3569,
-    "spriteHashHex": "EB80223D426413F2ED8711C0DC118110"
+    "spriteHashHex": "EB80223D426413F2ED8711C0DC118110",
+    "xmlIdRaw": "2658"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "mage hat",
     "wareId": 7992,
-    "spriteHashHex": "B3940F54A54D797A03017718EE2539CD"
+    "spriteHashHex": "B3940F54A54D797A03017718EE2539CD",
+    "xmlIdRaw": "8820"
   }
 }

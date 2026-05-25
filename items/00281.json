@@ -38,6 +38,7 @@
     "type": "None",
     "name": "giant shimmering pearl",
     "wareId": 281,
-    "spriteHashHex": "1DEA78D31A981F2B4F95821B7C776B0E"
+    "spriteHashHex": "1DEA78D31A981F2B4F95821B7C776B0E",
+    "xmlIdRaw": "7632"
   }
 }

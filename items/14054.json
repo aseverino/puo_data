@@ -40,6 +40,7 @@
     "type": "None",
     "name": "reagent flask",
     "wareId": 14054,
-    "spriteHashHex": "D7FFE27CACD729065E27C71823008B7A"
+    "spriteHashHex": "D7FFE27CACD729065E27C71823008B7A",
+    "xmlIdRaw": "15465"
   }
 }

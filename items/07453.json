@@ -42,6 +42,7 @@
     "type": "None",
     "name": "executioner",
     "wareId": 7453,
-    "spriteHashHex": "DABF1BF816B6C91A50B597658CAC39B8"
+    "spriteHashHex": "DABF1BF816B6C91A50B597658CAC39B8",
+    "xmlIdRaw": "7453"
   }
 }

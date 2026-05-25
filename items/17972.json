@@ -43,6 +43,7 @@
     "name": "canopy bed kit",
     "hasHeight": true,
     "wareId": 17972,
-    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4"
+    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4",
+    "xmlIdRaw": "20252"
   }
 }

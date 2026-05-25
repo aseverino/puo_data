@@ -39,6 +39,7 @@
     "type": "None",
     "name": "sacred coal",
     "wareId": 11334,
-    "spriteHashHex": "0D1328CCC263B9FDDD5046CDFBD0C7F9"
+    "spriteHashHex": "0D1328CCC263B9FDDD5046CDFBD0C7F9",
+    "xmlIdRaw": "12290"
   }
 }

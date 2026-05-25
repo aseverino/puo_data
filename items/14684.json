@@ -37,6 +37,7 @@
     "type": "None",
     "name": "artist\u0027s palette",
     "wareId": 14684,
-    "spriteHashHex": "DE825E4F2E73452D96823F7ACE2C2CBA"
+    "spriteHashHex": "DE825E4F2E73452D96823F7ACE2C2CBA",
+    "xmlIdRaw": "16017"
   }
 }

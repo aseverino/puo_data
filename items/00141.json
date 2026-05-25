@@ -37,6 +37,7 @@
     "type": "None",
     "name": "cigar",
     "wareId": 141,
-    "spriteHashHex": "4C416E9C7D67E52D3C1581B1849B294E"
+    "spriteHashHex": "4C416E9C7D67E52D3C1581B1849B294E",
+    "xmlIdRaw": "7499"
   }
 }

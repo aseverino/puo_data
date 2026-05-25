@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of scarab shell",
     "wareId": 9641,
-    "spriteHashHex": "92F8C37774B69AA5EDA88687C99976A0"
+    "spriteHashHex": "92F8C37774B69AA5EDA88687C99976A0",
+    "xmlIdRaw": "10558"
   }
 }

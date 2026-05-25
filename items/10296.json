@@ -38,6 +38,7 @@
     "type": "None",
     "name": "acorn",
     "wareId": 10296,
-    "spriteHashHex": "F1B2A1CA75E227C060595B5A8704E89B"
+    "spriteHashHex": "F1B2A1CA75E227C060595B5A8704E89B",
+    "xmlIdRaw": "11213"
   }
 }

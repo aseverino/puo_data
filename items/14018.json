@@ -39,6 +39,7 @@
     "type": "None",
     "name": "the Heart of the Sea",
     "wareId": 14018,
-    "spriteHashHex": "A9F7B85A050079611E4DA2345F8ED809"
+    "spriteHashHex": "A9F7B85A050079611E4DA2345F8ED809",
+    "xmlIdRaw": "15431"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "strange powder",
     "wareId": 4838,
-    "spriteHashHex": "79DEB193B7D60C020253F1DB07E4831D"
+    "spriteHashHex": "79DEB193B7D60C020253F1DB07E4831D",
+    "xmlIdRaw": "4849"
   }
 }

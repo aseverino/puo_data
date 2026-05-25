@@ -37,6 +37,7 @@
     "type": "None",
     "name": "piece of cactus",
     "wareId": 7245,
-    "spriteHashHex": "6638D7BFA87C76E2BAAF5B2AE4B28F4D"
+    "spriteHashHex": "6638D7BFA87C76E2BAAF5B2AE4B28F4D",
+    "xmlIdRaw": "7245"
   }
 }

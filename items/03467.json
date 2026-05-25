@@ -37,6 +37,7 @@
     "type": "None",
     "name": "fork",
     "wareId": 3467,
-    "spriteHashHex": "3F7517AFDA856A46441A70FE871D77EB"
+    "spriteHashHex": "3F7517AFDA856A46441A70FE871D77EB",
+    "xmlIdRaw": "2564"
   }
 }

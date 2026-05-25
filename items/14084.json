@@ -46,6 +46,7 @@
     "type": "None",
     "name": "larvae",
     "wareId": 14084,
-    "spriteHashHex": "2BCEEB9DF8EE4B26EF56226E7D3F9510"
+    "spriteHashHex": "2BCEEB9DF8EE4B26EF56226E7D3F9510",
+    "xmlIdRaw": "15487"
   }
 }

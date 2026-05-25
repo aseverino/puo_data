@@ -40,6 +40,7 @@
     "serverId": 23000,
     "type": "None",
     "name": "Max Revive",
-    "spriteHashHex": "946068654AE292AACB9AB88873045667"
+    "spriteHashHex": "946068654AE292AACB9AB88873045667",
+    "xmlIdRaw": "23000"
   }
 }

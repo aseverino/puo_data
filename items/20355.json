@@ -70,6 +70,7 @@
     "name": "melting horn",
     "isAnimation": true,
     "wareId": 20355,
-    "spriteHashHex": "C0BF9005FDABE76FB4EE8C76CB94C87D"
+    "spriteHashHex": "C0BF9005FDABE76FB4EE8C76CB94C87D",
+    "xmlIdRaw": "25000"
   }
 }

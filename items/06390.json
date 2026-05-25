@@ -42,6 +42,7 @@
     "type": "None",
     "name": "nightmare shield",
     "wareId": 6390,
-    "spriteHashHex": "C394E94DC41CB724DE02BD32D890AE43"
+    "spriteHashHex": "C394E94DC41CB724DE02BD32D890AE43",
+    "xmlIdRaw": "6391"
   }
 }

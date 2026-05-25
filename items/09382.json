@@ -39,6 +39,7 @@
     "type": "None",
     "name": "helmet of nature",
     "wareId": 9382,
-    "spriteHashHex": "5C3954A2BFCA62BEC9E64AB89B1359C7"
+    "spriteHashHex": "5C3954A2BFCA62BEC9E64AB89B1359C7",
+    "xmlIdRaw": "10299"
   }
 }

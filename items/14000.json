@@ -41,6 +41,7 @@
     "type": "None",
     "name": "ornate shield",
     "wareId": 14000,
-    "spriteHashHex": "924FD79104EE7110FC3B059DC1593F06"
+    "spriteHashHex": "924FD79104EE7110FC3B059DC1593F06",
+    "xmlIdRaw": "15413"
   }
 }

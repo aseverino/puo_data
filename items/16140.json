@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hideous chunk",
     "wareId": 16140,
-    "spriteHashHex": "EFE1822CBFFC28191749DF8883CA9566"
+    "spriteHashHex": "EFE1822CBFFC28191749DF8883CA9566",
+    "xmlIdRaw": "18434"
   }
 }

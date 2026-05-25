@@ -46,6 +46,7 @@
     "type": "Ground",
     "walkStack": true,
     "spriteHashHex": "849E3D2F4E6019B505B3114B5062DB32",
+    "xmlIdRaw": "294",
     "xmlAttributes": {
       "decayTo": "293",
       "duration": "300",

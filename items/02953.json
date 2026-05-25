@@ -38,6 +38,7 @@
     "type": "None",
     "name": "panpipes",
     "wareId": 2953,
-    "spriteHashHex": "DD89180AC9C9264A3D37F9BD5CDC5408"
+    "spriteHashHex": "DD89180AC9C9264A3D37F9BD5CDC5408",
+    "xmlIdRaw": "2074"
   }
 }

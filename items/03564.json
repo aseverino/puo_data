@@ -39,6 +39,7 @@
     "type": "None",
     "name": "red tunic",
     "wareId": 3564,
-    "spriteHashHex": "A1CD28C4F23F3D2C8DB6DBCBE75B4154"
+    "spriteHashHex": "A1CD28C4F23F3D2C8DB6DBCBE75B4154",
+    "xmlIdRaw": "2653"
   }
 }

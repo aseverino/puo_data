@@ -61,6 +61,7 @@
     "name": "ring of ending",
     "isAnimation": true,
     "wareId": 20182,
-    "spriteHashHex": "953A781505D1EB760D553C9BE9DB3B07"
+    "spriteHashHex": "953A781505D1EB760D553C9BE9DB3B07",
+    "xmlIdRaw": "22516"
   }
 }

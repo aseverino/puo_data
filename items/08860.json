@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "brocade backpack",
     "wareId": 8860,
-    "spriteHashHex": "7DA51D756956EAC1924ADF2DC8D409E3"
+    "spriteHashHex": "7DA51D756956EAC1924ADF2DC8D409E3",
+    "xmlIdRaw": "9774"
   }
 }

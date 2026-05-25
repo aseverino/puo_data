@@ -41,6 +41,7 @@
     "type": "None",
     "name": "crystal boots",
     "wareId": 10200,
-    "spriteHashHex": "3241057C10BB1C64B9F1D136BEE42CFF"
+    "spriteHashHex": "3241057C10BB1C64B9F1D136BEE42CFF",
+    "xmlIdRaw": "11117"
   }
 }

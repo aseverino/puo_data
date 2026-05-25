@@ -42,6 +42,7 @@
     "name": "minotaur statue kit",
     "hasHeight": true,
     "wareId": 2803,
-    "spriteHashHex": "5D36AE864F3512175F2906AB45F39FAE"
+    "spriteHashHex": "5D36AE864F3512175F2906AB45F39FAE",
+    "xmlIdRaw": "3929"
   }
 }

@@ -47,6 +47,7 @@
     "type": "None",
     "name": "coconut",
     "wareId": 3589,
-    "spriteHashHex": "2940CB0AA6870D5C4E721D2733B5EBBF"
+    "spriteHashHex": "2940CB0AA6870D5C4E721D2733B5EBBF",
+    "xmlIdRaw": "2678"
   }
 }

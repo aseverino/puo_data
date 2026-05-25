@@ -37,6 +37,7 @@
     "type": "None",
     "name": "red tome",
     "wareId": 2852,
-    "spriteHashHex": "828DDFC1ED7D793931EE06F30D9B6312"
+    "spriteHashHex": "828DDFC1ED7D793931EE06F30D9B6312",
+    "xmlIdRaw": "1986"
   }
 }

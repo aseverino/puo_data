@@ -38,6 +38,7 @@
     "type": "None",
     "name": "powder herb",
     "wareId": 3739,
-    "spriteHashHex": "BEDF7541186F659442475401532FE775"
+    "spriteHashHex": "BEDF7541186F659442475401532FE775",
+    "xmlIdRaw": "2803"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "valuable vase",
     "wareId": 7932,
-    "spriteHashHex": "EE921DBE8BD6CCB6DC963A54B9638F5F"
+    "spriteHashHex": "EE921DBE8BD6CCB6DC963A54B9638F5F",
+    "xmlIdRaw": "14343"
   }
 }

@@ -34,6 +34,7 @@
     "serverId": 22803,
     "type": "None",
     "name": "Leftovers",
-    "spriteHashHex": "52D264F7E1B0EB76942E442FF18A3D40"
+    "spriteHashHex": "52D264F7E1B0EB76942E442FF18A3D40",
+    "xmlIdRaw": "22803"
   }
 }

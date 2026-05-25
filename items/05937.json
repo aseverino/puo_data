@@ -37,6 +37,7 @@
     "type": "None",
     "name": "griffinclaw container",
     "wareId": 5937,
-    "spriteHashHex": "4455D1D69C7F3324605511D0A285192A"
+    "spriteHashHex": "4455D1D69C7F3324605511D0A285192A",
+    "xmlIdRaw": "5937"
   }
 }

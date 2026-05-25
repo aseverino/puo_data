@@ -80,6 +80,7 @@
     "name": "party trumpet",
     "isAnimation": true,
     "wareId": 6572,
-    "spriteHashHex": "9A9D74053AE8B5761AAB979B12DEFE10"
+    "spriteHashHex": "9A9D74053AE8B5761AAB979B12DEFE10",
+    "xmlIdRaw": "13578"
   }
 }

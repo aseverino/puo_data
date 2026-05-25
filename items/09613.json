@@ -37,6 +37,7 @@
     "type": "None",
     "name": "sea serpent trophy",
     "wareId": 9613,
-    "spriteHashHex": "AC4DC32DEE4020E0076CCE733DF9F95A"
+    "spriteHashHex": "AC4DC32DEE4020E0076CCE733DF9F95A",
+    "xmlIdRaw": "10529"
   }
 }

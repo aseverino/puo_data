@@ -37,6 +37,7 @@
     "type": "None",
     "name": "hydra egg",
     "wareId": 4839,
-    "spriteHashHex": "8BA091827E3A2E50952849038AD7D01D"
+    "spriteHashHex": "8BA091827E3A2E50952849038AD7D01D",
+    "xmlIdRaw": "4850"
   }
 }

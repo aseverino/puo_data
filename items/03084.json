@@ -41,6 +41,7 @@
     "name": "protection amulet",
     "wareId": 3084,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "C7808973BEE93945D6C87BE35A9E77B5"
+    "spriteHashHex": "C7808973BEE93945D6C87BE35A9E77B5",
+    "xmlIdRaw": "2200"
   }
 }

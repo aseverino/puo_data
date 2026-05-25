@@ -39,6 +39,7 @@
     "type": "None",
     "name": "gold ring",
     "wareId": 3063,
-    "spriteHashHex": "3E7741EEF82C1D5A34E9BDC2B4D1A852"
+    "spriteHashHex": "3E7741EEF82C1D5A34E9BDC2B4D1A852",
+    "xmlIdRaw": "2179"
   }
 }

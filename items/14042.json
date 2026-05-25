@@ -39,6 +39,7 @@
     "type": "None",
     "name": "warrior\u0027s shield",
     "wareId": 14042,
-    "spriteHashHex": "E809858D99E86C69AE8F58502A5A30B0"
+    "spriteHashHex": "E809858D99E86C69AE8F58502A5A30B0",
+    "xmlIdRaw": "15453"
   }
 }

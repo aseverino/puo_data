@@ -38,6 +38,7 @@
     "type": "None",
     "name": "gnomish voucher type MB ",
     "wareId": 16252,
-    "spriteHashHex": "011287058546927FD435D9197BDED57A"
+    "spriteHashHex": "011287058546927FD435D9197BDED57A",
+    "xmlIdRaw": "18517"
   }
 }

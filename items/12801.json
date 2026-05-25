@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golden can of oil",
     "wareId": 12801,
-    "spriteHashHex": "28FBE6DC5B1AD7CB2B101462FB236A90"
+    "spriteHashHex": "28FBE6DC5B1AD7CB2B101462FB236A90",
+    "xmlIdRaw": "13938"
   }
 }

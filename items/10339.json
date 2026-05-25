@@ -37,6 +37,7 @@
     "type": "None",
     "name": "snowman doll",
     "wareId": 10339,
-    "spriteHashHex": "8145FCA522EECCB7D28914F9CF03DD4E"
+    "spriteHashHex": "8145FCA522EECCB7D28914F9CF03DD4E",
+    "xmlIdRaw": "11256"
   }
 }

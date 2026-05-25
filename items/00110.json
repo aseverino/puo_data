@@ -36,10 +36,11 @@
     ]
   },
   "server": {
-    "serverId": 11396,
+    "serverId": 9078,
     "type": "None",
     "name": "special flask",
     "wareId": 110,
-    "spriteHashHex": "002B0C297AD2B679BC5C5963D27E71CF"
+    "spriteHashHex": "002B0C297AD2B679BC5C5963D27E71CF",
+    "xmlIdRaw": "9078"
   }
 }

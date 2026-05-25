@@ -38,6 +38,7 @@
     "type": "None",
     "name": "pot of blackjack",
     "wareId": 11586,
-    "spriteHashHex": "3BC187D1ACB8FB2E87987B1D33DFF0F5"
+    "spriteHashHex": "3BC187D1ACB8FB2E87987B1D33DFF0F5",
+    "xmlIdRaw": "12542"
   }
 }

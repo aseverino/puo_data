@@ -39,6 +39,7 @@
     "type": "None",
     "name": "mind stone",
     "wareId": 3062,
-    "spriteHashHex": "0BC89D0D9F7868CD8246B82E5224243F"
+    "spriteHashHex": "0BC89D0D9F7868CD8246B82E5224243F",
+    "xmlIdRaw": "2178"
   }
 }

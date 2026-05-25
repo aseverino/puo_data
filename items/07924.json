@@ -37,6 +37,7 @@
     "type": "None",
     "name": "the ring of the count",
     "wareId": 7924,
-    "spriteHashHex": "EB30BAEF62D7164AE711C4F503F0E419"
+    "spriteHashHex": "EB30BAEF62D7164AE711C4F503F0E419",
+    "xmlIdRaw": "8752"
   }
 }

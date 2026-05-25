@@ -42,6 +42,7 @@
     "type": "None",
     "name": "necromancer shield",
     "wareId": 6432,
-    "spriteHashHex": "ECF8D340EC7BD2EC45E7F431A018EF0F"
+    "spriteHashHex": "ECF8D340EC7BD2EC45E7F431A018EF0F",
+    "xmlIdRaw": "6433"
   }
 }

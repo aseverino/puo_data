@@ -37,6 +37,7 @@
     "type": "None",
     "name": "the head of a jester doll",
     "wareId": 8779,
-    "spriteHashHex": "430994D21602B9C484BE19E75E86C7A4"
+    "spriteHashHex": "430994D21602B9C484BE19E75E86C7A4",
+    "xmlIdRaw": "9694"
   }
 }

@@ -45,6 +45,7 @@
     "type": "None",
     "name": "orc tusk",
     "wareId": 7786,
-    "spriteHashHex": "060FFDB79A3368CCCC5EF7DE07C4C717"
+    "spriteHashHex": "060FFDB79A3368CCCC5EF7DE07C4C717",
+    "xmlIdRaw": "8614"
   }
 }

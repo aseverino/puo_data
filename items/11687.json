@@ -41,6 +41,7 @@
     "type": "None",
     "name": "royal scale robe",
     "wareId": 11687,
-    "spriteHashHex": "48B72A871DDB2C401A60A144F1DC3B61"
+    "spriteHashHex": "48B72A871DDB2C401A60A144F1DC3B61",
+    "xmlIdRaw": "12643"
   }
 }

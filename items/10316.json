@@ -38,6 +38,7 @@
     "type": "None",
     "name": "unholy bone",
     "wareId": 10316,
-    "spriteHashHex": "214AC1B9BA86AEC13583BF3CDACDD679"
+    "spriteHashHex": "214AC1B9BA86AEC13583BF3CDACDD679",
+    "xmlIdRaw": "11233"
   }
 }

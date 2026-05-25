@@ -42,6 +42,7 @@
     "name": "square table kit",
     "hasHeight": true,
     "wareId": 2784,
-    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4"
+    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4",
+    "xmlIdRaw": "14329"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dragon\u0027s tail",
     "wareId": 11457,
-    "spriteHashHex": "A1FDAF26823BBB23BD3B102A71825E35"
+    "spriteHashHex": "A1FDAF26823BBB23BD3B102A71825E35",
+    "xmlIdRaw": "12413"
   }
 }

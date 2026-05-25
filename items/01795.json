@@ -4,7 +4,7 @@
   "isOnBottom": true,
   "width": 2,
   "height": 2,
-  "exactSize": 62,
+  "exactSize": 32,
   "layers": [
     0
   ],
@@ -22,16 +22,26 @@
       ]
     },
     "spriteIds": [
-      141225,
-      141226,
-      141227,
-      0
+      0,
+      0,
+      0,
+      147788
     ]
   },
   "server": {
     "serverId": 1308,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "1942ADCC679E61B6A23039F2EA44A82B"
+    "spriteHashHex": "1942ADCC679E61B6A23039F2EA44A82B",
+    "xmlIdRaw": "1308",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

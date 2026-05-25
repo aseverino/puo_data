@@ -41,6 +41,7 @@
     "type": "None",
     "name": "signet ring",
     "wareId": 349,
-    "spriteHashHex": "7E788C53EDCF738179E046067AD497C8"
+    "spriteHashHex": "7E788C53EDCF738179E046067AD497C8",
+    "xmlIdRaw": "7697"
   }
 }

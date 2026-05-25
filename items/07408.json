@@ -42,6 +42,7 @@
     "type": "None",
     "name": "wyvern fang",
     "wareId": 7408,
-    "spriteHashHex": "FA970280A9BF11CEF36A07F1FAD4FE77"
+    "spriteHashHex": "FA970280A9BF11CEF36A07F1FAD4FE77",
+    "xmlIdRaw": "7408"
   }
 }

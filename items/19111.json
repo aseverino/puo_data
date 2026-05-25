@@ -38,6 +38,7 @@
     "type": "None",
     "name": "fir cone",
     "wareId": 19111,
-    "spriteHashHex": "95BA24509D4F75B1584F0AC8BEF1D88B"
+    "spriteHashHex": "95BA24509D4F75B1584F0AC8BEF1D88B",
+    "xmlIdRaw": "21428"
   }
 }

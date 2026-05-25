@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cavebear skull",
     "wareId": 12316,
-    "spriteHashHex": "08B2A61BFEC5F230A9C4033F8326E84D"
+    "spriteHashHex": "08B2A61BFEC5F230A9C4033F8326E84D",
+    "xmlIdRaw": "13303"
   }
 }

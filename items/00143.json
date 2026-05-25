@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bale of yellowed cloth",
     "wareId": 143,
-    "spriteHashHex": "4AE5CE76C7C5F469AD16502CEA3EBBB5"
+    "spriteHashHex": "4AE5CE76C7C5F469AD16502CEA3EBBB5",
+    "xmlIdRaw": "7501"
   }
 }

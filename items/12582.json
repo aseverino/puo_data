@@ -132,6 +132,7 @@
     "name": "Evilina",
     "isAnimation": true,
     "wareId": 12578,
-    "spriteHashHex": "9378D7C1EB7D1D7681A8A9ED14831D3D"
+    "spriteHashHex": "9378D7C1EB7D1D7681A8A9ED14831D3D",
+    "xmlIdRaw": "13571"
   }
 }

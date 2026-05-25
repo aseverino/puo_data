@@ -41,6 +41,7 @@
     "type": "None",
     "name": "dread doll",
     "wareId": 12904,
-    "spriteHashHex": "F6D39DC9CD06BF1BB608ED9CB2D846A5"
+    "spriteHashHex": "F6D39DC9CD06BF1BB608ED9CB2D846A5",
+    "xmlIdRaw": "13559"
   }
 }

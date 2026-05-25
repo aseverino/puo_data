@@ -40,6 +40,7 @@
     "type": "None",
     "name": "bunch of ripe rice",
     "wareId": 10328,
-    "spriteHashHex": "BCB0273204AD872AA4C0F9A1A622C133"
+    "spriteHashHex": "BCB0273204AD872AA4C0F9A1A622C133",
+    "xmlIdRaw": "11245"
   }
 }

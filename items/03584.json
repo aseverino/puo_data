@@ -47,6 +47,7 @@
     "type": "None",
     "name": "pear",
     "wareId": 3584,
-    "spriteHashHex": "702A47CC279D6B4CF1B3024D31A1701F"
+    "spriteHashHex": "702A47CC279D6B4CF1B3024D31A1701F",
+    "xmlIdRaw": "2673"
   }
 }

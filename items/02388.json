@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small red pillow",
     "wareId": 2388,
-    "spriteHashHex": "76EE623CF4958AAB77EB571F7B853306"
+    "spriteHashHex": "76EE623CF4958AAB77EB571F7B853306",
+    "xmlIdRaw": "1680"
   }
 }

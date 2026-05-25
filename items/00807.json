@@ -58,6 +58,7 @@
     "name": "energy crystal mace",
     "isAnimation": true,
     "wareId": 807,
-    "spriteHashHex": "5CDCF2708E54F42B6233E9CB496A19E8"
+    "spriteHashHex": "5CDCF2708E54F42B6233E9CB496A19E8",
+    "xmlIdRaw": "7880"
   }
 }

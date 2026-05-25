@@ -37,6 +37,7 @@
     "type": "None",
     "name": "invitation",
     "wareId": 7933,
-    "spriteHashHex": "E59D37218227484E4EE836E152C333BC"
+    "spriteHashHex": "E59D37218227484E4EE836E152C333BC",
+    "xmlIdRaw": "8761"
   }
 }

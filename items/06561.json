@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ceremonial ankh",
     "wareId": 6561,
-    "spriteHashHex": "7770780923CF6074025E0399E7191D2A"
+    "spriteHashHex": "7770780923CF6074025E0399E7191D2A",
+    "xmlIdRaw": "6561"
   }
 }

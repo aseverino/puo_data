@@ -37,6 +37,7 @@
     "type": "None",
     "name": "christmas present bag",
     "wareId": 6496,
-    "spriteHashHex": "6F799B8FAEA754F566F2ABACE62BCFBB"
+    "spriteHashHex": "6F799B8FAEA754F566F2ABACE62BCFBB",
+    "xmlIdRaw": "6497"
   }
 }

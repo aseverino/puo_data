@@ -38,6 +38,7 @@
     "type": "None",
     "name": "half-eaten brain",
     "wareId": 9659,
-    "spriteHashHex": "1F390F725E2F0961578948527EE1088C"
+    "spriteHashHex": "1F390F725E2F0961578948527EE1088C",
+    "xmlIdRaw": "10576"
   }
 }

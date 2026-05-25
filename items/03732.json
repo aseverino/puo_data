@@ -39,6 +39,7 @@
     "type": "None",
     "name": "green mushroom",
     "wareId": 3732,
-    "spriteHashHex": "66BDDD9C4A2F4AED54EC81029435FEF5"
+    "spriteHashHex": "66BDDD9C4A2F4AED54EC81029435FEF5",
+    "xmlIdRaw": "2796"
   }
 }

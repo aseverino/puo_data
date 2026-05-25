@@ -42,6 +42,7 @@
     "type": "None",
     "name": "skull candle",
     "wareId": 5813,
-    "spriteHashHex": "4CA114A9C11E1E98F195BAAFF020BA25"
+    "spriteHashHex": "4CA114A9C11E1E98F195BAAFF020BA25",
+    "xmlIdRaw": "5813"
   }
 }

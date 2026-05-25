@@ -38,6 +38,7 @@
     "type": "None",
     "name": "spitter nose",
     "wareId": 14078,
-    "spriteHashHex": "A2AAE0B69FB0BA6925FCA3B5BB8DA6DB"
+    "spriteHashHex": "A2AAE0B69FB0BA6925FCA3B5BB8DA6DB",
+    "xmlIdRaw": "15481"
   }
 }

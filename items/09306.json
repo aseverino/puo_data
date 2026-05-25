@@ -40,6 +40,7 @@
     "type": "None",
     "name": "mechanical fishing rod",
     "wareId": 9306,
-    "spriteHashHex": "C02F9A42F83CCEC32A77B3024DC19D86"
+    "spriteHashHex": "C02F9A42F83CCEC32A77B3024DC19D86",
+    "xmlIdRaw": "10223"
   }
 }

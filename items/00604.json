@@ -5,13 +5,15 @@
   "groundSpeed": 150,
   "blockPathFind": true,
   "isTranslucent": true,
+  "hasOffset": true,
+  "offsetY": 3,
   "miniMap": true,
   "miniMapColor": 210,
   "isFullGround": true,
   "hasDefaultAction": true,
   "defaultAction": 4,
-  "width": 1,
-  "height": 1,
+  "width": 2,
+  "height": 2,
   "exactSize": 32,
   "layers": [
     0
@@ -30,13 +32,26 @@
       ]
     },
     "spriteIds": [
-      2022
+      147644,
+      147645,
+      147646,
+      147647
     ]
   },
   "server": {
     "serverId": 479,
     "type": "Ground",
     "walkStack": true,
-    "spriteHashHex": "80F0144B9CFEF45CFEABC3BE8DE107D3"
+    "spriteHashHex": "80F0144B9CFEF45CFEABC3BE8DE107D3",
+    "xmlIdRaw": "479",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

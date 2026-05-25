@@ -137,6 +137,7 @@
     "name": "small diamond",
     "isAnimation": true,
     "wareId": 3028,
-    "spriteHashHex": "F6E87C0DE6126ECB8ED2864765C187A2"
+    "spriteHashHex": "F6E87C0DE6126ECB8ED2864765C187A2",
+    "xmlIdRaw": "2145"
   }
 }

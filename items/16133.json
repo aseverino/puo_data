@@ -38,6 +38,7 @@
     "type": "None",
     "name": "pulverized ore",
     "wareId": 16133,
-    "spriteHashHex": "D775DF93C0C0D13DDDA4174C736FD3E9"
+    "spriteHashHex": "D775DF93C0C0D13DDDA4174C736FD3E9",
+    "xmlIdRaw": "18427"
   }
 }

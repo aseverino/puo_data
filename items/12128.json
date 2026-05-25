@@ -40,6 +40,7 @@
     "type": "None",
     "name": "emergency kit",
     "wareId": 12128,
-    "spriteHashHex": "AC93C0E4C55D5B13816E829DF71225E5"
+    "spriteHashHex": "AC93C0E4C55D5B13816E829DF71225E5",
+    "xmlIdRaw": "13115"
   }
 }

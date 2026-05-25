@@ -42,6 +42,7 @@
     "type": "None",
     "name": "demonrage sword",
     "wareId": 7382,
-    "spriteHashHex": "20412D590D664708BA505C0FCD0B8ECA"
+    "spriteHashHex": "20412D590D664708BA505C0FCD0B8ECA",
+    "xmlIdRaw": "7382"
   }
 }

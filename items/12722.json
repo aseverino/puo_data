@@ -80,6 +80,7 @@
     "name": "bucket of bog water",
     "isAnimation": true,
     "wareId": 12819,
-    "spriteHashHex": "50145728591F9024C72876417D51527C"
+    "spriteHashHex": "50145728591F9024C72876417D51527C",
+    "xmlIdRaw": "13864"
   }
 }

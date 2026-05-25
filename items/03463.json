@@ -39,6 +39,7 @@
     "type": "None",
     "name": "mirror",
     "wareId": 3463,
-    "spriteHashHex": "2CF45CD911189E0B980C277651648C17"
+    "spriteHashHex": "2CF45CD911189E0B980C277651648C17",
+    "xmlIdRaw": "2560"
   }
 }

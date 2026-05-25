@@ -101,6 +101,7 @@
     "name": "cuckoo clock",
     "isAnimation": true,
     "wareId": 2668,
-    "spriteHashHex": "F89AD9D740E3AF17831878F529C0C0E8"
+    "spriteHashHex": "F89AD9D740E3AF17831878F529C0C0E8",
+    "xmlIdRaw": "1881"
   }
 }

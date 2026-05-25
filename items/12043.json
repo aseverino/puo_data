@@ -49,6 +49,7 @@
     "name": "draken doll",
     "isAnimation": true,
     "wareId": 12043,
-    "spriteHashHex": "28ABD430C6F01E188EE3C8CD724F712D"
+    "spriteHashHex": "28ABD430C6F01E188EE3C8CD724F712D",
+    "xmlIdRaw": "13030"
   }
 }

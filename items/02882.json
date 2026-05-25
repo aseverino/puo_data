@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "jug",
     "wareId": 2882,
-    "spriteHashHex": "409A9171A5E9D6E046A3144976E5CEFE"
+    "spriteHashHex": "409A9171A5E9D6E046A3144976E5CEFE",
+    "xmlIdRaw": "2014"
   }
 }

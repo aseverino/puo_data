@@ -37,6 +37,7 @@
     "type": "None",
     "name": "poem scroll",
     "wareId": 6119,
-    "spriteHashHex": "1B8571673452ED6A2DD8392D1157BD2F"
+    "spriteHashHex": "1B8571673452ED6A2DD8392D1157BD2F",
+    "xmlIdRaw": "8189"
   }
 }

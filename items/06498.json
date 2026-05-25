@@ -49,6 +49,7 @@
     "type": "None",
     "name": "certificate",
     "wareId": 6498,
-    "spriteHashHex": "37EF371B77EF0BEA4196D65804620563"
+    "spriteHashHex": "37EF371B77EF0BEA4196D65804620563",
+    "xmlIdRaw": "6499"
   }
 }

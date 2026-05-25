@@ -49,6 +49,7 @@
     "type": "None",
     "name": "green tapestry",
     "wareId": 2647,
-    "spriteHashHex": "40C5683046F70B5502A225834907A5CB"
+    "spriteHashHex": "40C5683046F70B5502A225834907A5CB",
+    "xmlIdRaw": "1860"
   }
 }

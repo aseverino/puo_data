@@ -40,6 +40,7 @@
     "type": "None",
     "name": "crude umbral bow",
     "wareId": 20082,
-    "spriteHashHex": "3CA737C60DCE6B30AA78BEC1B8D628FD"
+    "spriteHashHex": "3CA737C60DCE6B30AA78BEC1B8D628FD",
+    "xmlIdRaw": "22416"
   }
 }

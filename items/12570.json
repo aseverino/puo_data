@@ -40,6 +40,7 @@
     "type": "None",
     "name": "fan doll of Queen Eloise",
     "wareId": 12570,
-    "spriteHashHex": "88E3E37B38BB15A1341F0276CF9AF03D"
+    "spriteHashHex": "88E3E37B38BB15A1341F0276CF9AF03D",
+    "xmlIdRaw": "13560"
   }
 }

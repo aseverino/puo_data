@@ -37,6 +37,7 @@
     "type": "None",
     "name": "crate",
     "wareId": 118,
-    "spriteHashHex": "67D7BDB733506B8C46878FD06340473E"
+    "spriteHashHex": "67D7BDB733506B8C46878FD06340473E",
+    "xmlIdRaw": "7483"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bone",
     "wareId": 3115,
-    "spriteHashHex": "92E9BD667CA092B852661B201ABC7CD5"
+    "spriteHashHex": "92E9BD667CA092B852661B201ABC7CD5",
+    "xmlIdRaw": "2231"
   }
 }

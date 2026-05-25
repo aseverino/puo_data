@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lute",
     "wareId": 2950,
-    "spriteHashHex": "9950659C14F8A979EBEB5E0B02BB9121"
+    "spriteHashHex": "9950659C14F8A979EBEB5E0B02BB9121",
+    "xmlIdRaw": "2072"
   }
 }

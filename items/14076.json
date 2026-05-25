@@ -38,6 +38,7 @@
     "type": "None",
     "name": "swarmer antenna",
     "wareId": 14076,
-    "spriteHashHex": "A8A0D66589EFAB5D84FA321346CB1843"
+    "spriteHashHex": "A8A0D66589EFAB5D84FA321346CB1843",
+    "xmlIdRaw": "15479"
   }
 }

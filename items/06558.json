@@ -38,6 +38,7 @@
     "type": "None",
     "name": "concentrated demonic blood",
     "wareId": 6558,
-    "spriteHashHex": "4DFDF72834F8B174A81948CB673C380E"
+    "spriteHashHex": "4DFDF72834F8B174A81948CB673C380E",
+    "xmlIdRaw": "6558"
   }
 }

@@ -46,6 +46,7 @@
     "type": "None",
     "name": "beetroot",
     "wareId": 8017,
-    "spriteHashHex": "5EF53F37E9AA82871CF3D665FD8F9EBE"
+    "spriteHashHex": "5EF53F37E9AA82871CF3D665FD8F9EBE",
+    "xmlIdRaw": "8845"
   }
 }

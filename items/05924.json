@@ -37,6 +37,7 @@
     "type": "None",
     "name": "damaged steel helmet",
     "wareId": 5924,
-    "spriteHashHex": "B411257EE7251231A36DE3E84350FD27"
+    "spriteHashHex": "B411257EE7251231A36DE3E84350FD27",
+    "xmlIdRaw": "11422"
   }
 }

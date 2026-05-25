@@ -45,6 +45,7 @@
     "type": "None",
     "name": "lump of chocolate dough",
     "wareId": 8018,
-    "spriteHashHex": "274D4F835FA86CDC1F3C9D38777F87F3"
+    "spriteHashHex": "274D4F835FA86CDC1F3C9D38777F87F3",
+    "xmlIdRaw": "8846"
   }
 }

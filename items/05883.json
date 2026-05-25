@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ape fur",
     "wareId": 5883,
-    "spriteHashHex": "2C4900D5AC007545CCB98919BEB43100"
+    "spriteHashHex": "2C4900D5AC007545CCB98919BEB43100",
+    "xmlIdRaw": "5883"
   }
 }

@@ -43,6 +43,7 @@
     "type": "None",
     "name": "paralyse rune",
     "wareId": 3165,
-    "spriteHashHex": "855BB111E527794BBD36897741A86689"
+    "spriteHashHex": "855BB111E527794BBD36897741A86689",
+    "xmlIdRaw": "2278"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "memory stone",
     "wareId": 4841,
-    "spriteHashHex": "0BC89D0D9F7868CD8246B82E5224243F"
+    "spriteHashHex": "0BC89D0D9F7868CD8246B82E5224243F",
+    "xmlIdRaw": "4852"
   }
 }

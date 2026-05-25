@@ -37,6 +37,7 @@
     "type": "None",
     "name": "medicine pouch",
     "wareId": 12517,
-    "spriteHashHex": "0A7BAEB73C5FC72B659F5FAA87A1E2BB"
+    "spriteHashHex": "0A7BAEB73C5FC72B659F5FAA87A1E2BB",
+    "xmlIdRaw": "13506"
   }
 }

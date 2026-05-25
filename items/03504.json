@@ -43,6 +43,7 @@
     "name": "stamped parcel",
     "hasHeight": true,
     "wareId": 3504,
-    "spriteHashHex": "80A067A8F3C9BE26BDEEBDA0D7A433A3"
+    "spriteHashHex": "80A067A8F3C9BE26BDEEBDA0D7A433A3",
+    "xmlIdRaw": "2596"
   }
 }

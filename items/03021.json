@@ -39,6 +39,7 @@
     "type": "None",
     "name": "sapphire amulet",
     "wareId": 3021,
-    "spriteHashHex": "0A6ABC524BC272FB0C61FF5AC29FF9B5"
+    "spriteHashHex": "0A6ABC524BC272FB0C61FF5AC29FF9B5",
+    "xmlIdRaw": "2138"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "universal tool",
     "wareId": 10027,
-    "spriteHashHex": "335EBE5F2D5A6ACF115D4E1091507B34"
+    "spriteHashHex": "335EBE5F2D5A6ACF115D4E1091507B34",
+    "xmlIdRaw": "10944"
   }
 }

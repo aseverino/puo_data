@@ -47,6 +47,7 @@
     "type": "Fluid",
     "name": "vial",
     "wareId": 2874,
-    "spriteHashHex": "002B0C297AD2B679BC5C5963D27E71CF"
+    "spriteHashHex": "002B0C297AD2B679BC5C5963D27E71CF",
+    "xmlIdRaw": "2006"
   }
 }

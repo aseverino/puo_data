@@ -45,6 +45,7 @@
     "type": "None",
     "name": "small pitchfork",
     "wareId": 11513,
-    "spriteHashHex": "F8C81E5EC8FDA1EF776996DD6ED3DD05"
+    "spriteHashHex": "F8C81E5EC8FDA1EF776996DD6ED3DD05",
+    "xmlIdRaw": "12469"
   }
 }

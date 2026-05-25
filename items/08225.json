@@ -63,6 +63,7 @@
     "name": "blood crystal",
     "isAnimation": true,
     "wareId": 8453,
-    "spriteHashHex": "177C8ADF3747A2B66216CED534163692"
+    "spriteHashHex": "177C8ADF3747A2B66216CED534163692",
+    "xmlIdRaw": "9141"
   }
 }

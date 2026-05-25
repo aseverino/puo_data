@@ -114,6 +114,7 @@
     "name": "old radio",
     "isAnimation": true,
     "wareId": 12813,
-    "spriteHashHex": "6A78B4E5F847DC94453DEE46789360E9"
+    "spriteHashHex": "6A78B4E5F847DC94453DEE46789360E9",
+    "xmlIdRaw": "13951"
   }
 }

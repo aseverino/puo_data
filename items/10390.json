@@ -42,6 +42,7 @@
     "type": "None",
     "name": "Zaoan sword",
     "wareId": 10390,
-    "spriteHashHex": "63CD5AC20947F2D3B62A4BDA03DC2214"
+    "spriteHashHex": "63CD5AC20947F2D3B62A4BDA03DC2214",
+    "xmlIdRaw": "11307"
   }
 }

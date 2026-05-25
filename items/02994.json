@@ -38,6 +38,7 @@
     "type": "None",
     "name": "model ship",
     "wareId": 2994,
-    "spriteHashHex": "F7A9F6559B7C33F7561B186CFA284D6D"
+    "spriteHashHex": "F7A9F6559B7C33F7561B186CFA284D6D",
+    "xmlIdRaw": "2113"
   }
 }

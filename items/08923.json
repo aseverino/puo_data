@@ -49,6 +49,7 @@
     "type": "None",
     "name": "velvet tapestry",
     "wareId": 8923,
-    "spriteHashHex": "7BDA57060B0DA65B70D909C158FA3134"
+    "spriteHashHex": "7BDA57060B0DA65B70D909C158FA3134",
+    "xmlIdRaw": "9837"
   }
 }

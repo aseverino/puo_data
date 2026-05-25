@@ -37,6 +37,7 @@
     "serverId": 22804,
     "type": "None",
     "name": "Rare Candy Artwork",
-    "spriteHashHex": "FE61A852DB7E592EAB775443A89DDAF3"
+    "spriteHashHex": "FE61A852DB7E592EAB775443A89DDAF3",
+    "xmlIdRaw": "22804"
   }
 }

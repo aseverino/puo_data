@@ -37,6 +37,7 @@
     "type": "None",
     "name": "flask of cough syrup",
     "wareId": 4828,
-    "spriteHashHex": "D67DA20D683F02EFE65E63196C96F32E"
+    "spriteHashHex": "D67DA20D683F02EFE65E63196C96F32E",
+    "xmlIdRaw": "4839"
   }
 }

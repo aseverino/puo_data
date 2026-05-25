@@ -69,6 +69,7 @@
     "name": "yalahari mask",
     "isAnimation": true,
     "wareId": 8864,
-    "spriteHashHex": "9449184D5DCA676384DC10E95760BAA2"
+    "spriteHashHex": "9449184D5DCA676384DC10E95760BAA2",
+    "xmlIdRaw": "9778"
   }
 }

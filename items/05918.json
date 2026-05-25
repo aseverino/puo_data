@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pirate knee breeches",
     "wareId": 5918,
-    "spriteHashHex": "2BA8D5A653736A5B2AC65C1855C429C3"
+    "spriteHashHex": "2BA8D5A653736A5B2AC65C1855C429C3",
+    "xmlIdRaw": "5918"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken helmet",
     "wareId": 11453,
-    "spriteHashHex": "57FEADF3496716592DE70B6BE6EDA845"
+    "spriteHashHex": "57FEADF3496716592DE70B6BE6EDA845",
+    "xmlIdRaw": "12409"
   }
 }

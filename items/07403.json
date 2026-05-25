@@ -42,6 +42,7 @@
     "type": "None",
     "name": "berserker",
     "wareId": 7403,
-    "spriteHashHex": "1E72AC778BDE88E098EF13A3D210A894"
+    "spriteHashHex": "1E72AC778BDE88E098EF13A3D210A894",
+    "xmlIdRaw": "7403"
   }
 }

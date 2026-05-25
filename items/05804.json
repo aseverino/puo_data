@@ -37,6 +37,7 @@
     "type": "None",
     "name": "nose ring",
     "wareId": 5804,
-    "spriteHashHex": "28F4434D9A060B3A697E7391D0855613"
+    "spriteHashHex": "28F4434D9A060B3A697E7391D0855613",
+    "xmlIdRaw": "5804"
   }
 }

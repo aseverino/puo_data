@@ -39,6 +39,7 @@
     "type": "None",
     "name": "wedding ring",
     "wareId": 3004,
-    "spriteHashHex": "48EC66BF98E8437931EB1220C987B43B"
+    "spriteHashHex": "48EC66BF98E8437931EB1220C987B43B",
+    "xmlIdRaw": "2121"
   }
 }

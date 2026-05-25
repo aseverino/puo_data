@@ -38,6 +38,7 @@
     "type": "None",
     "name": "pig foot",
     "wareId": 9693,
-    "spriteHashHex": "56FCF76D6973493F4CF3FDC256B8746E"
+    "spriteHashHex": "56FCF76D6973493F4CF3FDC256B8746E",
+    "xmlIdRaw": "10610"
   }
 }

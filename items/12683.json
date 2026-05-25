@@ -41,6 +41,7 @@
     "type": "None",
     "name": "heavy trident",
     "wareId": 12683,
-    "spriteHashHex": "C7F7218454EF1A1FBCBB0EE6D7012874"
+    "spriteHashHex": "C7F7218454EF1A1FBCBB0EE6D7012874",
+    "xmlIdRaw": "13838"
   }
 }

@@ -58,6 +58,7 @@
     "name": "energy soil",
     "isAnimation": true,
     "wareId": 945,
-    "spriteHashHex": "FF41596DCF3187210F79C97B9CA29FAE"
+    "spriteHashHex": "FF41596DCF3187210F79C97B9CA29FAE",
+    "xmlIdRaw": "8301"
   }
 }

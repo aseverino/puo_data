@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "purple bag",
     "wareId": 2860,
-    "spriteHashHex": "8E8C4527E88BC0B1845740C4D7E599EF"
+    "spriteHashHex": "8E8C4527E88BC0B1845740C4D7E599EF",
+    "xmlIdRaw": "1994"
   }
 }

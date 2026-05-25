@@ -38,6 +38,7 @@
     "type": "None",
     "name": "battle stone",
     "wareId": 11447,
-    "spriteHashHex": "919BA6F7FDBE2C69B749CC7E265A136A"
+    "spriteHashHex": "919BA6F7FDBE2C69B749CC7E265A136A",
+    "xmlIdRaw": "12403"
   }
 }

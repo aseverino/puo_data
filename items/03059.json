@@ -41,6 +41,7 @@
     "type": "None",
     "name": "spellbook",
     "wareId": 3059,
-    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2"
+    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2",
+    "xmlIdRaw": "2175"
   }
 }

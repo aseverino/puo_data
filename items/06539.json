@@ -37,6 +37,7 @@
     "type": "None",
     "name": "the Handmaiden\u0027s protector",
     "wareId": 6539,
-    "spriteHashHex": "0F5EFFA07F218DF383ACAC38596992A1"
+    "spriteHashHex": "0F5EFFA07F218DF383ACAC38596992A1",
+    "xmlIdRaw": "6539"
   }
 }

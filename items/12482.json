@@ -49,6 +49,7 @@
     "type": "None",
     "name": "hieroglyph banner",
     "wareId": 12482,
-    "spriteHashHex": "F2C6BE2DE0E12AC1F55D50F214F8F9C0"
+    "spriteHashHex": "F2C6BE2DE0E12AC1F55D50F214F8F9C0",
+    "xmlIdRaw": "13739"
   }
 }

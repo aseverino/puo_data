@@ -37,6 +37,7 @@
     "type": "None",
     "name": "formula for a memory potion",
     "wareId": 9188,
-    "spriteHashHex": "F90AEEB8A22ADD4D70CED5D20A604449"
+    "spriteHashHex": "F90AEEB8A22ADD4D70CED5D20A604449",
+    "xmlIdRaw": "14351"
   }
 }

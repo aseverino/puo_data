@@ -46,6 +46,7 @@
     "type": "None",
     "name": "minor crystalline token",
     "wareId": 16128,
-    "spriteHashHex": "E4A4CDF269DE54095C36DC46B03B3B6E"
+    "spriteHashHex": "E4A4CDF269DE54095C36DC46B03B3B6E",
+    "xmlIdRaw": "18422"
   }
 }

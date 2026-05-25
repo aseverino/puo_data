@@ -38,6 +38,7 @@
     "type": "None",
     "name": "quara tentacle",
     "wareId": 11487,
-    "spriteHashHex": "929AC18187F34BA01AD41B7EFDCD29DE"
+    "spriteHashHex": "929AC18187F34BA01AD41B7EFDCD29DE",
+    "xmlIdRaw": "12443"
   }
 }

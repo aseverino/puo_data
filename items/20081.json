@@ -42,6 +42,7 @@
     "type": "None",
     "name": "umbral master hammer",
     "wareId": 20081,
-    "spriteHashHex": "B7310BB688FA1AFD5FC23CE601D79023"
+    "spriteHashHex": "B7310BB688FA1AFD5FC23CE601D79023",
+    "xmlIdRaw": "22415"
   }
 }

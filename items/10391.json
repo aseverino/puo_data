@@ -42,6 +42,7 @@
     "type": "None",
     "name": "drachaku",
     "wareId": 10391,
-    "spriteHashHex": "1D0B6116B157553AF31E24C475B13021"
+    "spriteHashHex": "1D0B6116B157553AF31E24C475B13021",
+    "xmlIdRaw": "11308"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "mammoth fur shorts",
     "wareId": 7464,
-    "spriteHashHex": "1A9B030E19B90283D7C572E2309DBFBB"
+    "spriteHashHex": "1A9B030E19B90283D7C572E2309DBFBB",
+    "xmlIdRaw": "7464"
   }
 }

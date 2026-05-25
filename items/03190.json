@@ -43,6 +43,7 @@
     "type": "None",
     "name": "fire wall rune",
     "wareId": 3190,
-    "spriteHashHex": "4101EA5FF55F3E0D10426023CB9AD034"
+    "spriteHashHex": "4101EA5FF55F3E0D10426023CB9AD034",
+    "xmlIdRaw": "2303"
   }
 }

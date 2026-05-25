@@ -38,6 +38,7 @@
     "type": "None",
     "name": "rope belt",
     "wareId": 11492,
-    "spriteHashHex": "8BEB6375003FF04A58014A85386E23C9"
+    "spriteHashHex": "8BEB6375003FF04A58014A85386E23C9",
+    "xmlIdRaw": "12448"
   }
 }

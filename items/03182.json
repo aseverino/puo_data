@@ -43,6 +43,7 @@
     "type": "None",
     "name": "holy missile rune",
     "wareId": 3182,
-    "spriteHashHex": "251DCF07AC2F19C48E7A32EE680FC400"
+    "spriteHashHex": "251DCF07AC2F19C48E7A32EE680FC400",
+    "xmlIdRaw": "2295"
   }
 }

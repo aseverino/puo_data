@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bejeweled ship\u0027s telescope",
     "wareId": 9616,
-    "spriteHashHex": "9BDB51C6D7A887DC7E311B676A27C385"
+    "spriteHashHex": "9BDB51C6D7A887DC7E311B676A27C385",
+    "xmlIdRaw": "10532"
   }
 }

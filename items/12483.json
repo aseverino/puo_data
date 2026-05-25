@@ -49,6 +49,7 @@
     "type": "None",
     "name": "pharaoh banner",
     "wareId": 12483,
-    "spriteHashHex": "1631C4CE173B0C8DF88887A40ACE12E7"
+    "spriteHashHex": "1631C4CE173B0C8DF88887A40ACE12E7",
+    "xmlIdRaw": "13472"
   }
 }

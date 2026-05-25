@@ -56,6 +56,7 @@
     "name": "golden newspaper",
     "isAnimation": true,
     "wareId": 8153,
-    "spriteHashHex": "33FED27340669750209A03F3994C7D68"
+    "spriteHashHex": "33FED27340669750209A03F3994C7D68",
+    "xmlIdRaw": "8981"
   }
 }

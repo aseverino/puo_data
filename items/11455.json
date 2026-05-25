@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cultish symbol",
     "wareId": 11455,
-    "spriteHashHex": "040F3DAFD25AEA2D2C7EBF6BF669660B"
+    "spriteHashHex": "040F3DAFD25AEA2D2C7EBF6BF669660B",
+    "xmlIdRaw": "12411"
   }
 }

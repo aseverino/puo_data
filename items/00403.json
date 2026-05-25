@@ -37,6 +37,7 @@
     "type": "None",
     "name": "File AH-X17L89",
     "wareId": 403,
-    "spriteHashHex": "7DFCCA2446382EABEE3F20E2C4290F2C"
+    "spriteHashHex": "7DFCCA2446382EABEE3F20E2C4290F2C",
+    "xmlIdRaw": "7705"
   }
 }

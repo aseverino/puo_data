@@ -50,6 +50,7 @@
     "type": "None",
     "name": "modified crossbow",
     "wareId": 8021,
-    "spriteHashHex": "8004C86F513D08667126CCC556232DAD"
+    "spriteHashHex": "8004C86F513D08667126CCC556232DAD",
+    "xmlIdRaw": "8849"
   }
 }

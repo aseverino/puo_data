@@ -38,6 +38,7 @@
     "type": "None",
     "name": "purple powder",
     "wareId": 6548,
-    "spriteHashHex": "F1FEB8BD924CAF889CC82262E58E6120"
+    "spriteHashHex": "F1FEB8BD924CAF889CC82262E58E6120",
+    "xmlIdRaw": "6548"
   }
 }

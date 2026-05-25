@@ -38,6 +38,7 @@
     "type": "None",
     "name": "magic sulphur",
     "wareId": 5904,
-    "spriteHashHex": "29AF93F47493D7F599EE239574EDEE76"
+    "spriteHashHex": "29AF93F47493D7F599EE239574EDEE76",
+    "xmlIdRaw": "5904"
   }
 }

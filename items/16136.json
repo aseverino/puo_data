@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Deathstrike\u0027s snippet",
     "wareId": 16136,
-    "spriteHashHex": "6E97EB4D443F18A790AF3B0B26011C89"
+    "spriteHashHex": "6E97EB4D443F18A790AF3B0B26011C89",
+    "xmlIdRaw": "18430"
   }
 }

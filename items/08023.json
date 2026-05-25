@@ -50,6 +50,7 @@
     "type": "None",
     "name": "royal crossbow",
     "wareId": 8023,
-    "spriteHashHex": "0549FFB537111768ED127F0DF4600122"
+    "spriteHashHex": "0549FFB537111768ED127F0DF4600122",
+    "xmlIdRaw": "8851"
   }
 }

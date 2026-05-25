@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "pirate backpack",
     "wareId": 5926,
-    "spriteHashHex": "3613748925FA0EBEC6AA3B425FE3F6A8"
+    "spriteHashHex": "3613748925FA0EBEC6AA3B425FE3F6A8",
+    "xmlIdRaw": "5926"
   }
 }

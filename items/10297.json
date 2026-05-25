@@ -38,6 +38,7 @@
     "type": "None",
     "name": "antlers",
     "wareId": 10297,
-    "spriteHashHex": "F234CD4CDCE6B4CF85368C638F5FB8AE"
+    "spriteHashHex": "F234CD4CDCE6B4CF85368C638F5FB8AE",
+    "xmlIdRaw": "11214"
   }
 }

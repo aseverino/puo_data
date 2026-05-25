@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "crystal backpack",
     "wareId": 16100,
-    "spriteHashHex": "6B7AB01139EB655F96E22BBE1A09A23F"
+    "spriteHashHex": "6B7AB01139EB655F96E22BBE1A09A23F",
+    "xmlIdRaw": "18394"
   }
 }

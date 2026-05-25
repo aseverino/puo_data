@@ -54,6 +54,7 @@
     "name": "strong sinew",
     "isAnimation": true,
     "wareId": 11548,
-    "spriteHashHex": "8A0B51CD992C683E78119666E0B7E43E"
+    "spriteHashHex": "8A0B51CD992C683E78119666E0B7E43E",
+    "xmlIdRaw": "12504"
   }
 }

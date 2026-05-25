@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of royal steel",
     "wareId": 5887,
-    "spriteHashHex": "60470737AA30E89C69DF62DDD0213A09"
+    "spriteHashHex": "60470737AA30E89C69DF62DDD0213A09",
+    "xmlIdRaw": "5887"
   }
 }

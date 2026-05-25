@@ -39,6 +39,7 @@
     "type": "None",
     "name": "beetle necklace",
     "wareId": 10457,
-    "spriteHashHex": "6B3F627A541DC919E2776E688FC1897E"
+    "spriteHashHex": "6B3F627A541DC919E2776E688FC1897E",
+    "xmlIdRaw": "11374"
   }
 }

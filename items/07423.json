@@ -42,6 +42,7 @@
     "type": "None",
     "name": "skullcrusher",
     "wareId": 7423,
-    "spriteHashHex": "92EE5C5B27E3CEADEFB73A8737264729"
+    "spriteHashHex": "92EE5C5B27E3CEADEFB73A8737264729",
+    "xmlIdRaw": "7423"
   }
 }

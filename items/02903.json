@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "golden mug",
     "wareId": 2903,
-    "spriteHashHex": "44840E55BBD1766ABF5604715D060C2D"
+    "spriteHashHex": "44840E55BBD1766ABF5604715D060C2D",
+    "xmlIdRaw": "2033"
   }
 }

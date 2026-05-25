@@ -43,6 +43,7 @@
     "type": "None",
     "name": "explosion rune",
     "wareId": 3200,
-    "spriteHashHex": "9E702FAD3760A70F1B6A04F918DFC354"
+    "spriteHashHex": "9E702FAD3760A70F1B6A04F918DFC354",
+    "xmlIdRaw": "2313"
   }
 }

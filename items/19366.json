@@ -40,6 +40,7 @@
     "type": "None",
     "name": "icy culotte",
     "wareId": 19366,
-    "spriteHashHex": "31FBACCA7F5A2C68B68EC26B53248923"
+    "spriteHashHex": "31FBACCA7F5A2C68B68EC26B53248923",
+    "xmlIdRaw": "21700"
   }
 }

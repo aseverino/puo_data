@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Gnomevil\u0027s hat",
     "wareId": 16205,
-    "spriteHashHex": "6B7C1416E306952D62FABACAD6DF5DD1"
+    "spriteHashHex": "6B7C1416E306952D62FABACAD6DF5DD1",
+    "xmlIdRaw": "18495"
   }
 }

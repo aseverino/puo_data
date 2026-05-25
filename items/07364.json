@@ -48,6 +48,7 @@
     "type": "None",
     "name": "sniper arrow",
     "wareId": 7364,
-    "spriteHashHex": "5982891164615C7CDE36C0B01A65DCA1"
+    "spriteHashHex": "5982891164615C7CDE36C0B01A65DCA1",
+    "xmlIdRaw": "7364"
   }
 }

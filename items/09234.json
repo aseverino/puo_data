@@ -39,6 +39,7 @@
     "type": "None",
     "name": "worm punisher",
     "wareId": 9234,
-    "spriteHashHex": "A653E63B3CD91E3D0E63195CBA9987B7"
+    "spriteHashHex": "A653E63B3CD91E3D0E63195CBA9987B7",
+    "xmlIdRaw": "10152"
   }
 }

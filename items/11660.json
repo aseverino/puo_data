@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken draken mail",
     "wareId": 11660,
-    "spriteHashHex": "99D5176CC8182580FCF006C12AD70E81"
+    "spriteHashHex": "99D5176CC8182580FCF006C12AD70E81",
+    "xmlIdRaw": "12616"
   }
 }

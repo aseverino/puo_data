@@ -41,6 +41,7 @@
     "type": "None",
     "name": "taurus mace",
     "wareId": 7425,
-    "spriteHashHex": "B109BCF39E9BA7AEE708ED607D420A05"
+    "spriteHashHex": "B109BCF39E9BA7AEE708ED607D420A05",
+    "xmlIdRaw": "7425"
   }
 }

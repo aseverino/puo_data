@@ -44,6 +44,7 @@
     "name": "chest",
     "hasHeight": true,
     "wareId": 2472,
-    "spriteHashHex": "79FB26077DABBD9C778080FC19CB01C7"
+    "spriteHashHex": "79FB26077DABBD9C778080FC19CB01C7",
+    "xmlIdRaw": "1749"
   }
 }

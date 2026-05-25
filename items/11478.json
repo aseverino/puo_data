@@ -38,6 +38,7 @@
     "type": "None",
     "name": "shamanic hood",
     "wareId": 11478,
-    "spriteHashHex": "D6146CF26ACA14081667438FFD74DA1A"
+    "spriteHashHex": "D6146CF26ACA14081667438FFD74DA1A",
+    "xmlIdRaw": "12434"
   }
 }

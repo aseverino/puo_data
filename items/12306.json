@@ -39,6 +39,7 @@
     "type": "None",
     "name": "leather whip",
     "wareId": 12306,
-    "spriteHashHex": "D8C0F3C82EC8B16D5AFBEE68D673046C"
+    "spriteHashHex": "D8C0F3C82EC8B16D5AFBEE68D673046C",
+    "xmlIdRaw": "13293"
   }
 }

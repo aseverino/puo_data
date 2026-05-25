@@ -42,6 +42,7 @@
     "type": "None",
     "name": "glorious axe",
     "wareId": 7454,
-    "spriteHashHex": "4B267506073B7A52073CD233405E2F38"
+    "spriteHashHex": "4B267506073B7A52073CD233405E2F38",
+    "xmlIdRaw": "7454"
   }
 }

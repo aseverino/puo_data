@@ -38,6 +38,7 @@
     "type": "None",
     "name": "demonic finger",
     "wareId": 12541,
-    "spriteHashHex": "81F38EBD94D86FC034B2C683D554A88F"
+    "spriteHashHex": "81F38EBD94D86FC034B2C683D554A88F",
+    "xmlIdRaw": "13530"
   }
 }

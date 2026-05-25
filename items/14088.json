@@ -39,6 +39,7 @@
     "type": "None",
     "name": "carapace shield",
     "wareId": 14088,
-    "spriteHashHex": "5911BE33CE2482313ACA942497BBC123"
+    "spriteHashHex": "5911BE33CE2482313ACA942497BBC123",
+    "xmlIdRaw": "15491"
   }
 }

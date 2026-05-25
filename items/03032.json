@@ -47,6 +47,7 @@
     "type": "None",
     "name": "small emerald",
     "wareId": 3032,
-    "spriteHashHex": "C3412BBBB923120B2071FFDD8D20BC78"
+    "spriteHashHex": "C3412BBBB923120B2071FFDD8D20BC78",
+    "xmlIdRaw": "2149"
   }
 }

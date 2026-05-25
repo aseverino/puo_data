@@ -43,6 +43,7 @@
     "type": "None",
     "name": "ferumbras doll",
     "wareId": 10798,
-    "spriteHashHex": "00A418996DFB39932EEA30F5CB4DB66C"
+    "spriteHashHex": "00A418996DFB39932EEA30F5CB4DB66C",
+    "xmlIdRaw": "11755"
   }
 }

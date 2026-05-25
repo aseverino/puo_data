@@ -46,6 +46,7 @@
     "type": "None",
     "name": "onion",
     "wareId": 8015,
-    "spriteHashHex": "1386E68565C7A3416A9EF57FF46279B7"
+    "spriteHashHex": "1386E68565C7A3416A9EF57FF46279B7",
+    "xmlIdRaw": "8843"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ancient stone",
     "wareId": 9632,
-    "spriteHashHex": "2165A3D7C5F6CAA22C1DB4A4353CE185"
+    "spriteHashHex": "2165A3D7C5F6CAA22C1DB4A4353CE185",
+    "xmlIdRaw": "10549"
   }
 }

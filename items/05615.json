@@ -49,6 +49,7 @@
     "type": "None",
     "name": "pirate tapestry",
     "wareId": 5615,
-    "spriteHashHex": "DFA2CAAFB5F51EDE8A6E32CDEA3350F7"
+    "spriteHashHex": "DFA2CAAFB5F51EDE8A6E32CDEA3350F7",
+    "xmlIdRaw": "5616"
   }
 }

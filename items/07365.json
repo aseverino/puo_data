@@ -48,6 +48,7 @@
     "type": "None",
     "name": "onyx arrow",
     "wareId": 7365,
-    "spriteHashHex": "6A6F6CBEB137506C5310FD37F5D0F855"
+    "spriteHashHex": "6A6F6CBEB137506C5310FD37F5D0F855",
+    "xmlIdRaw": "7365"
   }
 }

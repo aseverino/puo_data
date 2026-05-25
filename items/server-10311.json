@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 9394,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 10311,
+    "type": "None",
+    "name": "claw of \u0027The Noxious Spawn\u0027",
+    "wareId": 9394,
+    "spriteHashHex": "2A9BB9105B10E3BC85EC2AF52E0D820E"
+  }
+}

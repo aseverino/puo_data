@@ -48,6 +48,7 @@
     "type": "None",
     "name": "prismatic bolt",
     "wareId": 16141,
-    "spriteHashHex": "F23B0A8214A049C98D8D3E71C7A0DCA0"
+    "spriteHashHex": "F23B0A8214A049C98D8D3E71C7A0DCA0",
+    "xmlIdRaw": "18435"
   }
 }

@@ -56,6 +56,7 @@
     "name": "candle made of human tallow",
     "isAnimation": true,
     "wareId": 18931,
-    "spriteHashHex": "7DC9B28FCE8DFB6E1DFC92D59A18783F"
+    "spriteHashHex": "7DC9B28FCE8DFB6E1DFC92D59A18783F",
+    "xmlIdRaw": "21248"
   }
 }

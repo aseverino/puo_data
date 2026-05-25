@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golden scorpion pendant",
     "wareId": 12542,
-    "spriteHashHex": "B0EAEC3C0CEA5660DE5B57DEA1F86D4D"
+    "spriteHashHex": "B0EAEC3C0CEA5660DE5B57DEA1F86D4D",
+    "xmlIdRaw": "13531"
   }
 }

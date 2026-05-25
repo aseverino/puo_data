@@ -58,6 +58,7 @@
     "name": "energy cranial basher",
     "isAnimation": true,
     "wareId": 808,
-    "spriteHashHex": "2F03CECCECEDADB5492F5DD1C932EDC4"
+    "spriteHashHex": "2F03CECCECEDADB5492F5DD1C932EDC4",
+    "xmlIdRaw": "7881"
   }
 }

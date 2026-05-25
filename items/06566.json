@@ -37,6 +37,7 @@
     "type": "None",
     "name": "stuffed dragon",
     "wareId": 5791,
-    "spriteHashHex": "D30392B53461E562F99FDC2A6A6A7725"
+    "spriteHashHex": "D30392B53461E562F99FDC2A6A6A7725",
+    "xmlIdRaw": "6566"
   }
 }

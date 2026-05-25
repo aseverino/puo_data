@@ -38,6 +38,7 @@
     "type": "None",
     "name": "old radio",
     "wareId": 12813,
-    "spriteHashHex": "F3C0A8BACD484FCC6AE4772A7AF9266C"
+    "spriteHashHex": "F3C0A8BACD484FCC6AE4772A7AF9266C",
+    "xmlIdRaw": "13950"
   }
 }

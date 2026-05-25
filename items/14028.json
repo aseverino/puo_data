@@ -49,6 +49,7 @@
     "type": "None",
     "name": "party wall snake",
     "wareId": 14028,
-    "spriteHashHex": "D980E80BD5044191572423B22755E9EC"
+    "spriteHashHex": "D980E80BD5044191572423B22755E9EC",
+    "xmlIdRaw": "15440"
   }
 }

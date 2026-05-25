@@ -42,6 +42,7 @@
     "type": "None",
     "name": "furry club",
     "wareId": 7432,
-    "spriteHashHex": "382E2624E91581FC40D2DE382139D249"
+    "spriteHashHex": "382E2624E91581FC40D2DE382139D249",
+    "xmlIdRaw": "7432"
   }
 }

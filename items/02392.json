@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small white pillow",
     "wareId": 2392,
-    "spriteHashHex": "99DCFD02EB5EABBD140A80B4B6E2F6FD"
+    "spriteHashHex": "99DCFD02EB5EABBD140A80B4B6E2F6FD",
+    "xmlIdRaw": "1684"
   }
 }

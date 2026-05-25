@@ -38,6 +38,7 @@
     "type": "None",
     "name": "marsh stalker beak",
     "wareId": 17461,
-    "spriteHashHex": "4242E0D412EE05CDBC0C746E0280A893"
+    "spriteHashHex": "4242E0D412EE05CDBC0C746E0280A893",
+    "xmlIdRaw": "19741"
   }
 }

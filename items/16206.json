@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Abyssador\u0027s lash",
     "wareId": 16206,
-    "spriteHashHex": "2CC187A4593BF7D968DC339505F60BC9"
+    "spriteHashHex": "2CC187A4593BF7D968DC339505F60BC9",
+    "xmlIdRaw": "18496"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken crossbow",
     "wareId": 11451,
-    "spriteHashHex": "1E47EBA5A3DF728CB74A37ADA5BC6008"
+    "spriteHashHex": "1E47EBA5A3DF728CB74A37ADA5BC6008",
+    "xmlIdRaw": "12407"
   }
 }

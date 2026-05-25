@@ -42,6 +42,7 @@
     "type": "None",
     "name": "glass of goo",
     "wareId": 19371,
-    "spriteHashHex": "1061D1F0CFFA3CD3EC30DDC9D90AB936"
+    "spriteHashHex": "1061D1F0CFFA3CD3EC30DDC9D90AB936",
+    "xmlIdRaw": "21705"
   }
 }

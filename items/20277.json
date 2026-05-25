@@ -100,6 +100,7 @@
     "name": "psychedelic tapestry",
     "isAnimation": true,
     "wareId": 20277,
-    "spriteHashHex": "2BF2BCE3ADED867B3B43CC678AE4108E"
+    "spriteHashHex": "2BF2BCE3ADED867B3B43CC678AE4108E",
+    "xmlIdRaw": "22611"
   }
 }

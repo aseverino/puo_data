@@ -42,6 +42,7 @@
     "type": "None",
     "name": "headchopper",
     "wareId": 7380,
-    "spriteHashHex": "DD872FD898EA25E6466E8953DB177F46"
+    "spriteHashHex": "DD872FD898EA25E6466E8953DB177F46",
+    "xmlIdRaw": "7380"
   }
 }

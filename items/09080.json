@@ -40,6 +40,7 @@
     "type": "None",
     "name": "hydra tongue salad",
     "wareId": 9080,
-    "spriteHashHex": "5C70ECED7AA02F639BCBE4697D904C64"
+    "spriteHashHex": "5C70ECED7AA02F639BCBE4697D904C64",
+    "xmlIdRaw": "9993"
   }
 }

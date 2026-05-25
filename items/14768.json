@@ -40,6 +40,7 @@
     "type": "None",
     "name": "thorn spitter",
     "wareId": 14768,
-    "spriteHashHex": "9548A30ECDFD4A4E13D8FD1CD28F78F8"
+    "spriteHashHex": "9548A30ECDFD4A4E13D8FD1CD28F78F8",
+    "xmlIdRaw": "16111"
   }
 }

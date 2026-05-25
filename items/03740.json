@@ -38,6 +38,7 @@
     "type": "None",
     "name": "shadow herb",
     "wareId": 3740,
-    "spriteHashHex": "8C60CF52D7237F36CB72C697BE750FFE"
+    "spriteHashHex": "8C60CF52D7237F36CB72C697BE750FFE",
+    "xmlIdRaw": "2804"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "mystic blade",
     "wareId": 7384,
-    "spriteHashHex": "47D4EA60DA69E341769A0ABEBBD0F56F"
+    "spriteHashHex": "47D4EA60DA69E341769A0ABEBBD0F56F",
+    "xmlIdRaw": "7384"
   }
 }

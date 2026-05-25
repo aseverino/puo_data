@@ -39,6 +39,7 @@
     "type": "None",
     "name": "slug drug",
     "wareId": 12519,
-    "spriteHashHex": "7AD44A586BA48BC420EA5FB452675F32"
+    "spriteHashHex": "7AD44A586BA48BC420EA5FB452675F32",
+    "xmlIdRaw": "13508"
   }
 }

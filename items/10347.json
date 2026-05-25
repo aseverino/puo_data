@@ -49,6 +49,7 @@
     "type": "None",
     "name": "dragon tapestry",
     "wareId": 10347,
-    "spriteHashHex": "8F603FE1022AC83D192DE388A0E8EFED"
+    "spriteHashHex": "8F603FE1022AC83D192DE388A0E8EFED",
+    "xmlIdRaw": "11264"
   }
 }

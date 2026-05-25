@@ -38,6 +38,7 @@
     "type": "None",
     "name": "quara bone",
     "wareId": 11491,
-    "spriteHashHex": "3F8CBB07324C5F9390ECF32B4D020408"
+    "spriteHashHex": "3F8CBB07324C5F9390ECF32B4D020408",
+    "xmlIdRaw": "12447"
   }
 }

@@ -50,6 +50,7 @@
     "name": "pot",
     "hasHeight": true,
     "wareId": 3465,
-    "spriteHashHex": "A9CC98C05A374FAF9D04A73003247C85"
+    "spriteHashHex": "A9CC98C05A374FAF9D04A73003247C85",
+    "xmlIdRaw": "2562"
   }
 }

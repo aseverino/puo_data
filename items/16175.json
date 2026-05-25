@@ -45,6 +45,7 @@
     "type": "None",
     "name": "shiny blade",
     "wareId": 16175,
-    "spriteHashHex": "AC8B2762DEDE76DAE8F31E78CEA124C1"
+    "spriteHashHex": "AC8B2762DEDE76DAE8F31E78CEA124C1",
+    "xmlIdRaw": "18465"
   }
 }

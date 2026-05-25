@@ -39,6 +39,7 @@
     "type": "None",
     "name": "vampire silk slippers",
     "wareId": 19374,
-    "spriteHashHex": "D3BF04E4E6BADD13423B2922D8415259"
+    "spriteHashHex": "D3BF04E4E6BADD13423B2922D8415259",
+    "xmlIdRaw": "21708"
   }
 }

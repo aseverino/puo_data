@@ -40,6 +40,7 @@
     "type": "None",
     "name": "flask of embalming fluid",
     "wareId": 11466,
-    "spriteHashHex": "22E08E5C6EBE8FAFCE55DFCAAA03DFF8"
+    "spriteHashHex": "22E08E5C6EBE8FAFCE55DFCAAA03DFF8",
+    "xmlIdRaw": "12422"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "intense healing rune",
     "wareId": 3152,
-    "spriteHashHex": "30A48A646D85314B35A08C193C522911"
+    "spriteHashHex": "30A48A646D85314B35A08C193C522911",
+    "xmlIdRaw": "2265"
   }
 }

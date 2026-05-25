@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ghoul snack",
     "wareId": 11467,
-    "spriteHashHex": "E7DCFC19D3B4E144DC5510FF373A87A9"
+    "spriteHashHex": "E7DCFC19D3B4E144DC5510FF373A87A9",
+    "xmlIdRaw": "12423"
   }
 }

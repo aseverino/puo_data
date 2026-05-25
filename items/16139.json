@@ -38,6 +38,7 @@
     "type": "None",
     "name": "humongous chunk",
     "wareId": 16139,
-    "spriteHashHex": "B73360900EFA0B4A06D6C27768D816C0"
+    "spriteHashHex": "B73360900EFA0B4A06D6C27768D816C0",
+    "xmlIdRaw": "18433"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "thorn",
     "wareId": 9643,
-    "spriteHashHex": "D5393BF82854957A35DD2A1C426E92F3"
+    "spriteHashHex": "D5393BF82854957A35DD2A1C426E92F3",
+    "xmlIdRaw": "10560"
   }
 }

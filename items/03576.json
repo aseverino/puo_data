@@ -40,6 +40,7 @@
     "type": "None",
     "name": "post officer\u0027s hat",
     "wareId": 3576,
-    "spriteHashHex": "85EDD1EE3A84BB71F97CBA6E7A357AF0"
+    "spriteHashHex": "85EDD1EE3A84BB71F97CBA6E7A357AF0",
+    "xmlIdRaw": "2665"
   }
 }

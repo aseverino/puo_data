@@ -40,6 +40,7 @@
     "type": "None",
     "name": "empty flower pot",
     "wareId": 306,
-    "spriteHashHex": "EBE522FE5A7687E90C866F32D79F96DF"
+    "spriteHashHex": "EBE522FE5A7687E90C866F32D79F96DF",
+    "xmlIdRaw": "7655"
   }
 }

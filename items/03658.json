@@ -37,6 +37,7 @@
     "type": "None",
     "name": "red rose",
     "wareId": 3658,
-    "spriteHashHex": "4AB15974E0F4DEB8E6AB50C3F4CEB050"
+    "spriteHashHex": "4AB15974E0F4DEB8E6AB50C3F4CEB050",
+    "xmlIdRaw": "2744"
   }
 }

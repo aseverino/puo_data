@@ -49,6 +49,7 @@
     "type": "None",
     "name": "red tapestry",
     "wareId": 2656,
-    "spriteHashHex": "2C784BDD5F935FD8259281CB15EFBCDA"
+    "spriteHashHex": "2C784BDD5F935FD8259281CB15EFBCDA",
+    "xmlIdRaw": "1869"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "blue pillow",
     "wareId": 2394,
-    "spriteHashHex": "D5500372A767F0835AC19CF0432EDCEC"
+    "spriteHashHex": "D5500372A767F0835AC19CF0432EDCEC",
+    "xmlIdRaw": "1686"
   }
 }

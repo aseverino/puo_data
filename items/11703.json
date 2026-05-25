@@ -38,6 +38,7 @@
     "type": "None",
     "name": "brimstone shell",
     "wareId": 11703,
-    "spriteHashHex": "46FC74FE08478DDCC37444795ED0B9FC"
+    "spriteHashHex": "46FC74FE08478DDCC37444795ED0B9FC",
+    "xmlIdRaw": "12659"
   }
 }

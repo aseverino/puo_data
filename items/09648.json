@@ -38,6 +38,7 @@
     "type": "None",
     "name": "frosty ear of a troll",
     "wareId": 9648,
-    "spriteHashHex": "EBE7ACEF37608F107F4200A07424CBBC"
+    "spriteHashHex": "EBE7ACEF37608F107F4200A07424CBBC",
+    "xmlIdRaw": "10565"
   }
 }

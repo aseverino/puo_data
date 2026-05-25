@@ -38,6 +38,7 @@
     "type": "None",
     "name": "shaggy tail",
     "wareId": 10407,
-    "spriteHashHex": "08A530B77DCC7FE55C53FD5C61B6BC65"
+    "spriteHashHex": "08A530B77DCC7FE55C53FD5C61B6BC65",
+    "xmlIdRaw": "11324"
   }
 }

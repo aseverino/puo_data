@@ -38,6 +38,7 @@
     "type": "None",
     "name": "deepling ridge",
     "wareId": 14041,
-    "spriteHashHex": "68DF3BA0CB363CEB60CA87294A209193"
+    "spriteHashHex": "68DF3BA0CB363CEB60CA87294A209193",
+    "xmlIdRaw": "15452"
   }
 }

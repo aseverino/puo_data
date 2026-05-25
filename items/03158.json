@@ -43,6 +43,7 @@
     "type": "None",
     "name": "icicle rune",
     "wareId": 3158,
-    "spriteHashHex": "5DB30E84A922F7DADBA362E1A36E4B1A"
+    "spriteHashHex": "5DB30E84A922F7DADBA362E1A36E4B1A",
+    "xmlIdRaw": "2271"
   }
 }

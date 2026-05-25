@@ -41,6 +41,7 @@
     "name": "seeds",
     "wareId": 647,
     "spriteHashHex": "B41DEA5F41E32F191BB6DD143E538F1A",
+    "xmlIdRaw": "24633",
     "xmlAttributes": {
       "maxStack": "300"
     }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "elven scouting glass",
     "wareId": 11464,
-    "spriteHashHex": "A60BF2A3EEEC998F970738977E484E4A"
+    "spriteHashHex": "A60BF2A3EEEC998F970738977E484E4A",
+    "xmlIdRaw": "12420"
   }
 }

@@ -43,6 +43,7 @@
     "type": "None",
     "name": "memory crystal",
     "wareId": 7281,
-    "spriteHashHex": "7835B7EBB4642322BC1C9F5A55FED38D"
+    "spriteHashHex": "7835B7EBB4642322BC1C9F5A55FED38D",
+    "xmlIdRaw": "7281"
   }
 }

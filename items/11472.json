@@ -38,6 +38,7 @@
     "type": "None",
     "name": "minotaur horn",
     "wareId": 11472,
-    "spriteHashHex": "07C621056BBF076B80C3C6121A495D3C"
+    "spriteHashHex": "07C621056BBF076B80C3C6121A495D3C",
+    "xmlIdRaw": "12428"
   }
 }

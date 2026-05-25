@@ -39,6 +39,7 @@
     "type": "None",
     "name": "sandfish",
     "wareId": 13992,
-    "spriteHashHex": "A72DA148A0D2FBE48D9967671F610117"
+    "spriteHashHex": "A72DA148A0D2FBE48D9967671F610117",
+    "xmlIdRaw": "15405"
   }
 }

@@ -49,6 +49,7 @@
     "type": "None",
     "name": "minotaur trophy",
     "wareId": 7401,
-    "spriteHashHex": "6AC7D1FF983C032E0A9906242A05D2E7"
+    "spriteHashHex": "6AC7D1FF983C032E0A9906242A05D2E7",
+    "xmlIdRaw": "7401"
   }
 }

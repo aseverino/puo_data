@@ -36,10 +36,11 @@
     ]
   },
   "server": {
-    "serverId": 10311,
+    "serverId": 10312,
     "type": "None",
     "name": "claw of \u0027The Noxious Spawn\u0027",
     "wareId": 9394,
-    "spriteHashHex": "2A9BB9105B10E3BC85EC2AF52E0D820E"
+    "spriteHashHex": "2A9BB9105B10E3BC85EC2AF52E0D820E",
+    "xmlIdRaw": "10312"
   }
 }

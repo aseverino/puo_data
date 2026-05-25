@@ -44,6 +44,7 @@
     "type": "None",
     "name": "elite draken mail",
     "wareId": 11651,
-    "spriteHashHex": "80B91EC186993E7969C5DCAC433192BC"
+    "spriteHashHex": "80B91EC186993E7969C5DCAC433192BC",
+    "xmlIdRaw": "12607"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "haunted mirror piece",
     "wareId": 19373,
-    "spriteHashHex": "4CF7CD15DD2BA1AC476054030D846B45"
+    "spriteHashHex": "4CF7CD15DD2BA1AC476054030D846B45",
+    "xmlIdRaw": "21707"
   }
 }

@@ -42,6 +42,7 @@
     "name": "carrying device",
     "hasHeight": true,
     "wareId": 9698,
-    "spriteHashHex": "B954232346E396294469A5A068916E25"
+    "spriteHashHex": "B954232346E396294469A5A068916E25",
+    "xmlIdRaw": "10615"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "mammoth fur cape",
     "wareId": 7463,
-    "spriteHashHex": "7DF36E3DC924241444B6E06A237B55E3"
+    "spriteHashHex": "7DF36E3DC924241444B6E06A237B55E3",
+    "xmlIdRaw": "7463"
   }
 }

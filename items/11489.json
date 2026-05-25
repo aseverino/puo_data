@@ -38,6 +38,7 @@
     "type": "None",
     "name": "mantassin tail",
     "wareId": 11489,
-    "spriteHashHex": "D55F8B44EC4BF9E5BEC524EEB83B1116"
+    "spriteHashHex": "D55F8B44EC4BF9E5BEC524EEB83B1116",
+    "xmlIdRaw": "12445"
   }
 }

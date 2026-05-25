@@ -38,6 +38,7 @@
     "type": "None",
     "name": "belongings of a deceased",
     "wareId": 12413,
-    "spriteHashHex": "139AF101C3525AF2E682E462A78A998D"
+    "spriteHashHex": "139AF101C3525AF2E682E462A78A998D",
+    "xmlIdRaw": "13670"
   }
 }

@@ -42,6 +42,7 @@
     "name": "wooden chair kit",
     "hasHeight": true,
     "wareId": 2777,
-    "spriteHashHex": "A18180051CD2CB417FF554DF0FAB1558"
+    "spriteHashHex": "A18180051CD2CB417FF554DF0FAB1558",
+    "xmlIdRaw": "3903"
   }
 }

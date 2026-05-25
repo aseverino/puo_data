@@ -38,6 +38,7 @@
     "type": "None",
     "name": "small golden anchor",
     "wareId": 14019,
-    "spriteHashHex": "8947D785E81B6C95527688FE6F21B8A6"
+    "spriteHashHex": "8947D785E81B6C95527688FE6F21B8A6",
+    "xmlIdRaw": "15432"
   }
 }

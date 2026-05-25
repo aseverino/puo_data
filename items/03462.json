@@ -39,6 +39,7 @@
     "type": "None",
     "name": "small axe",
     "wareId": 3462,
-    "spriteHashHex": "56618032FBCF97E28CD28B51E78E590B"
+    "spriteHashHex": "56618032FBCF97E28CD28B51E78E590B",
+    "xmlIdRaw": "2559"
   }
 }

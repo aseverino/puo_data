@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wooden whistle",
     "wareId": 5786,
-    "spriteHashHex": "2F6DC7206191DF78F493F6A45AC9496A"
+    "spriteHashHex": "2F6DC7206191DF78F493F6A45AC9496A",
+    "xmlIdRaw": "5786"
   }
 }

@@ -44,6 +44,7 @@
     "type": "Container",
     "name": "moon backpack",
     "wareId": 9604,
-    "spriteHashHex": "A9E0BDD9E24B9B6F4CD5C096741F4F51"
+    "spriteHashHex": "A9E0BDD9E24B9B6F4CD5C096741F4F51",
+    "xmlIdRaw": "10521"
   }
 }

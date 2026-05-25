@@ -42,6 +42,7 @@
     "type": "None",
     "name": "umbral chopper",
     "wareId": 20074,
-    "spriteHashHex": "C0065E24D35A1CF440B5B36747BC71E0"
+    "spriteHashHex": "C0065E24D35A1CF440B5B36747BC71E0",
+    "xmlIdRaw": "22408"
   }
 }

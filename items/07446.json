@@ -37,6 +37,7 @@
     "type": "None",
     "name": "ice mammoth",
     "wareId": 7446,
-    "spriteHashHex": "2033B8DF173BEE78E5AD9C979F4896B3"
+    "spriteHashHex": "2033B8DF173BEE78E5AD9C979F4896B3",
+    "xmlIdRaw": "7446"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "watering can",
     "wareId": 650,
-    "spriteHashHex": "5655DCC591D816F1558EF131DB2E17BE"
+    "spriteHashHex": "5655DCC591D816F1558EF131DB2E17BE",
+    "xmlIdRaw": "7734"
   }
 }

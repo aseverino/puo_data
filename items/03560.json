@@ -39,6 +39,7 @@
     "type": "None",
     "name": "bast skirt",
     "wareId": 3560,
-    "spriteHashHex": "CB3C956DCE41C390691BF3FC5E2460D6"
+    "spriteHashHex": "CB3C956DCE41C390691BF3FC5E2460D6",
+    "xmlIdRaw": "3983"
   }
 }

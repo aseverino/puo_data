@@ -40,6 +40,7 @@
     "type": "None",
     "name": "foxtail",
     "wareId": 14142,
-    "spriteHashHex": "4A1FD3D74AD00DAA0AE3291726FD2492"
+    "spriteHashHex": "4A1FD3D74AD00DAA0AE3291726FD2492",
+    "xmlIdRaw": "15545"
   }
 }

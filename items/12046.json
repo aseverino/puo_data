@@ -117,6 +117,7 @@
     "name": "music box",
     "isAnimation": true,
     "wareId": 12045,
-    "spriteHashHex": "5965CEB1979D30854A83885FDC40DD80"
+    "spriteHashHex": "5965CEB1979D30854A83885FDC40DD80",
+    "xmlIdRaw": "13033"
   }
 }

@@ -48,6 +48,7 @@
     "name": "Epaminondas doll",
     "isAnimation": true,
     "wareId": 9144,
-    "spriteHashHex": "9A64FFFB4775506A37B92C4B75459B84"
+    "spriteHashHex": "9A64FFFB4775506A37B92C4B75459B84",
+    "xmlIdRaw": "10064"
   }
 }

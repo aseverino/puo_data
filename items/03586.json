@@ -47,6 +47,7 @@
     "type": "None",
     "name": "orange",
     "wareId": 3586,
-    "spriteHashHex": "016F9F10C1CC36EEC3D33F73B7DBA5EB"
+    "spriteHashHex": "016F9F10C1CC36EEC3D33F73B7DBA5EB",
+    "xmlIdRaw": "2675"
   }
 }

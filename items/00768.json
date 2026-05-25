@@ -38,6 +38,7 @@
     "type": "None",
     "name": "document of the follower",
     "wareId": 768,
-    "spriteHashHex": "3EFA0EC4F286E017CEF186871C1CACD5"
+    "spriteHashHex": "3EFA0EC4F286E017CEF186871C1CACD5",
+    "xmlIdRaw": "7844"
   }
 }

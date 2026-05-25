@@ -43,6 +43,7 @@
     "type": "None",
     "name": "umbral master axe",
     "wareId": 20072,
-    "spriteHashHex": "E74DFADC05E9A516766306AABC69F995"
+    "spriteHashHex": "E74DFADC05E9A516766306AABC69F995",
+    "xmlIdRaw": "22406"
   }
 }

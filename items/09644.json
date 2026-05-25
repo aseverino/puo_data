@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wyvern talisman",
     "wareId": 9644,
-    "spriteHashHex": "DD6CAA84BD586E3E84293CDCA3A9DD8F"
+    "spriteHashHex": "DD6CAA84BD586E3E84293CDCA3A9DD8F",
+    "xmlIdRaw": "10561"
   }
 }

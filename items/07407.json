@@ -42,6 +42,7 @@
     "type": "None",
     "name": "haunted blade",
     "wareId": 7407,
-    "spriteHashHex": "1F28D1F25E279EE3514F3171C612A0F5"
+    "spriteHashHex": "1F28D1F25E279EE3514F3171C612A0F5",
+    "xmlIdRaw": "7407"
   }
 }

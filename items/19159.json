@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "pannier backpack",
     "wareId": 19159,
-    "spriteHashHex": "E5A9454F21E4DFC660AFF8F4BB64B96F"
+    "spriteHashHex": "E5A9454F21E4DFC660AFF8F4BB64B96F",
+    "xmlIdRaw": "21475"
   }
 }

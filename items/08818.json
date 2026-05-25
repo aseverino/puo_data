@@ -40,6 +40,7 @@
     "type": "None",
     "name": "the alchemists\u0027 formulas",
     "wareId": 8818,
-    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F"
+    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F",
+    "xmlIdRaw": "9733"
   }
 }

@@ -45,6 +45,7 @@
     "type": "None",
     "name": "white pearl",
     "wareId": 3026,
-    "spriteHashHex": "21876A82B28F8C4451A28E4190497B76"
+    "spriteHashHex": "21876A82B28F8C4451A28E4190497B76",
+    "xmlIdRaw": "2143"
   }
 }

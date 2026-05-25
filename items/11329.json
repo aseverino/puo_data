@@ -41,6 +41,7 @@
     "type": "None",
     "name": "lump of clay",
     "wareId": 11329,
-    "spriteHashHex": "C3BB0177A09D1736CEF830851FEFA297"
+    "spriteHashHex": "C3BB0177A09D1736CEF830851FEFA297",
+    "xmlIdRaw": "12285"
   }
 }

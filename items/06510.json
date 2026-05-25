@@ -39,6 +39,7 @@
     "type": "None",
     "name": "christmas present",
     "wareId": 6510,
-    "spriteHashHex": "8ADA716C8679D135D4BBC4F46371510E"
+    "spriteHashHex": "8ADA716C8679D135D4BBC4F46371510E",
+    "xmlIdRaw": "6511"
   }
 }

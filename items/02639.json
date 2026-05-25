@@ -49,6 +49,7 @@
     "type": "None",
     "name": "picture",
     "wareId": 2639,
-    "spriteHashHex": "26FAA063F9D5037329CA44F439C82E88"
+    "spriteHashHex": "26FAA063F9D5037329CA44F439C82E88",
+    "xmlIdRaw": "1852"
   }
 }

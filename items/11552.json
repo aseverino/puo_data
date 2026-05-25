@@ -69,6 +69,7 @@
     "name": "eviolite crystal",
     "isAnimation": true,
     "wareId": 11552,
-    "spriteHashHex": "D974DBF00ACCC578E313DF32A5AC216B"
+    "spriteHashHex": "D974DBF00ACCC578E313DF32A5AC216B",
+    "xmlIdRaw": "12508"
   }
 }

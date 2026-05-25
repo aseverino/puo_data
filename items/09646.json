@@ -38,6 +38,7 @@
     "type": "None",
     "name": "book of prayers",
     "wareId": 9646,
-    "spriteHashHex": "10BED0A5A2514C7221FC0D0168170DC7"
+    "spriteHashHex": "10BED0A5A2514C7221FC0D0168170DC7",
+    "xmlIdRaw": "10563"
   }
 }

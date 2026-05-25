@@ -42,6 +42,7 @@
     "type": "None",
     "name": "magical measurement device",
     "wareId": 4049,
-    "spriteHashHex": "5C19B2CE8EF60185912F6B2BBE6FFD47"
+    "spriteHashHex": "5C19B2CE8EF60185912F6B2BBE6FFD47",
+    "xmlIdRaw": "12670"
   }
 }

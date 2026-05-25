@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "elven vase",
     "wareId": 2879,
-    "spriteHashHex": "EE921DBE8BD6CCB6DC963A54B9638F5F"
+    "spriteHashHex": "EE921DBE8BD6CCB6DC963A54B9638F5F",
+    "xmlIdRaw": "2011"
   }
 }

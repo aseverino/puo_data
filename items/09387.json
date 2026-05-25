@@ -39,6 +39,7 @@
     "type": "None",
     "name": "poet\u0027s fencing quill",
     "wareId": 9387,
-    "spriteHashHex": "EC6A2BEFA286DA14D4EA6621567A9773"
+    "spriteHashHex": "EC6A2BEFA286DA14D4EA6621567A9773",
+    "xmlIdRaw": "10304"
   }
 }

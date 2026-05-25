@@ -37,6 +37,7 @@
     "type": "None",
     "name": "tulip",
     "wareId": 3668,
-    "spriteHashHex": "D23EA5E5C41EA1848FAB59A9E4E142DD"
+    "spriteHashHex": "D23EA5E5C41EA1848FAB59A9E4E142DD",
+    "xmlIdRaw": "2754"
   }
 }

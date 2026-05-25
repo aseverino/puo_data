@@ -39,6 +39,7 @@
     "type": "None",
     "name": "bronze necklace",
     "wareId": 3009,
-    "spriteHashHex": "FEA3AFA53BACCBC2CC34126D18F54287"
+    "spriteHashHex": "FEA3AFA53BACCBC2CC34126D18F54287",
+    "xmlIdRaw": "2126"
   }
 }

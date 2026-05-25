@@ -39,6 +39,7 @@
     "type": "None",
     "name": "whacking driller of fate",
     "wareId": 9598,
-    "spriteHashHex": "6B80841BA6DA3C344959E26DEE6F58AD"
+    "spriteHashHex": "6B80841BA6DA3C344959E26DEE6F58AD",
+    "xmlIdRaw": "10516"
   }
 }

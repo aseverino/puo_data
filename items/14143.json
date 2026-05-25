@@ -40,6 +40,7 @@
     "type": "None",
     "name": "four-leaf clover",
     "wareId": 14143,
-    "spriteHashHex": "2B0A94FE011D9D1EFA060CE341F650B3"
+    "spriteHashHex": "2B0A94FE011D9D1EFA060CE341F650B3",
+    "xmlIdRaw": "15546"
   }
 }

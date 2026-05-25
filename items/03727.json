@@ -39,6 +39,7 @@
     "type": "None",
     "name": "wood mushroom",
     "wareId": 3727,
-    "spriteHashHex": "44D8AA4F78DB075389B82BC18A85297E"
+    "spriteHashHex": "44D8AA4F78DB075389B82BC18A85297E",
+    "xmlIdRaw": "2791"
   }
 }

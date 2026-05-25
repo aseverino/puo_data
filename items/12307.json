@@ -39,6 +39,7 @@
     "type": "None",
     "name": "harness",
     "wareId": 12307,
-    "spriteHashHex": "92C5D4282C3C8EFFF4CE91E1A70D2866"
+    "spriteHashHex": "92C5D4282C3C8EFFF4CE91E1A70D2866",
+    "xmlIdRaw": "13294"
   }
 }

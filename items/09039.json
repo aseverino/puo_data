@@ -59,6 +59,7 @@
     "name": "dracoyle statue",
     "isAnimation": true,
     "wareId": 9035,
-    "spriteHashHex": "F801145121945AB5ADF5CBA89243EC0C"
+    "spriteHashHex": "F801145121945AB5ADF5CBA89243EC0C",
+    "xmlIdRaw": "9953"
   }
 }

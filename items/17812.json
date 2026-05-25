@@ -42,6 +42,7 @@
     "type": "None",
     "name": "ratana",
     "wareId": 17812,
-    "spriteHashHex": "CE5FEDCBFE1EF97BB7D98E04FE438890"
+    "spriteHashHex": "CE5FEDCBFE1EF97BB7D98E04FE438890",
+    "xmlIdRaw": "20092"
   }
 }

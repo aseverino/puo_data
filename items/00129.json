@@ -37,6 +37,7 @@
     "type": "None",
     "name": "contract",
     "wareId": 129,
-    "spriteHashHex": "308206C48A18CFAFCA177AB31EE6DCBF"
+    "spriteHashHex": "308206C48A18CFAFCA177AB31EE6DCBF",
+    "xmlIdRaw": "7492"
   }
 }

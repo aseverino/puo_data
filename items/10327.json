@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "minotaur backpack",
     "wareId": 10327,
-    "spriteHashHex": "700C7063E103E71CB8A49E1044A23E09"
+    "spriteHashHex": "700C7063E103E71CB8A49E1044A23E09",
+    "xmlIdRaw": "11244"
   }
 }

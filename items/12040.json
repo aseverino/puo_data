@@ -38,6 +38,7 @@
     "type": "None",
     "name": "panther paw",
     "wareId": 12040,
-    "spriteHashHex": "37219EC3443B98535CEE9DC9FF4C6BA5"
+    "spriteHashHex": "37219EC3443B98535CEE9DC9FF4C6BA5",
+    "xmlIdRaw": "13027"
   }
 }

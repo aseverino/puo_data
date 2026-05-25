@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken key ring",
     "wareId": 11652,
-    "spriteHashHex": "D8CB8A0C0ECF8865BB1B54A07EF4C9D7"
+    "spriteHashHex": "D8CB8A0C0ECF8865BB1B54A07EF4C9D7",
+    "xmlIdRaw": "12608"
   }
 }

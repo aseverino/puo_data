@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ice cube",
     "wareId": 7444,
-    "spriteHashHex": "7A0A5A0AADBF81BF701AFB2B84800EE7"
+    "spriteHashHex": "7A0A5A0AADBF81BF701AFB2B84800EE7",
+    "xmlIdRaw": "7444"
   }
 }

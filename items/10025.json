@@ -37,6 +37,7 @@
     "type": "None",
     "name": "almanac of magic",
     "wareId": 10025,
-    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2"
+    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2",
+    "xmlIdRaw": "10942"
   }
 }

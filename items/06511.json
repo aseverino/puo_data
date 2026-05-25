@@ -38,6 +38,7 @@
     "type": "None",
     "name": "santa doll",
     "wareId": 6511,
-    "spriteHashHex": "B71DD810BAD91F8E1CC78B0187280B8C"
+    "spriteHashHex": "B71DD810BAD91F8E1CC78B0187280B8C",
+    "xmlIdRaw": "6512"
   }
 }

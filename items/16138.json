@@ -38,6 +38,7 @@
     "type": "None",
     "name": "crystalline spikes",
     "wareId": 16138,
-    "spriteHashHex": "A8D0FD5EC499E7B02D44814E487A4B08"
+    "spriteHashHex": "A8D0FD5EC499E7B02D44814E487A4B08",
+    "xmlIdRaw": "18432"
   }
 }

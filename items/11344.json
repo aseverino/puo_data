@@ -60,6 +60,7 @@
     "name": "lump of sacred clay",
     "isAnimation": true,
     "wareId": 11344,
-    "spriteHashHex": "F36265582CE157F4597532F13AEED5D5"
+    "spriteHashHex": "F36265582CE157F4597532F13AEED5D5",
+    "xmlIdRaw": "12300"
   }
 }

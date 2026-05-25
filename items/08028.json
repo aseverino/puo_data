@@ -48,6 +48,7 @@
     "type": "None",
     "name": "Yol\u0027s bow",
     "wareId": 8028,
-    "spriteHashHex": "FFF79A508442D6D409F5654229B6BC7B"
+    "spriteHashHex": "FFF79A508442D6D409F5654229B6BC7B",
+    "xmlIdRaw": "8856"
   }
 }

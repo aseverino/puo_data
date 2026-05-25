@@ -37,6 +37,7 @@
     "type": "None",
     "name": "golem head",
     "wareId": 9255,
-    "spriteHashHex": "82E8D5F691F9BBE5493181D7CE24F544"
+    "spriteHashHex": "82E8D5F691F9BBE5493181D7CE24F544",
+    "xmlIdRaw": "10173"
   }
 }

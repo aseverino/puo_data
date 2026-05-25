@@ -39,6 +39,7 @@
     "type": "None",
     "name": "net",
     "wareId": 12186,
-    "spriteHashHex": "EA98766A486BEA7118EA1EEF9FC8089F"
+    "spriteHashHex": "EA98766A486BEA7118EA1EEF9FC8089F",
+    "xmlIdRaw": "13173"
   }
 }

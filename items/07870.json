@@ -37,6 +37,7 @@
     "type": "None",
     "name": "stolen golden goblet",
     "wareId": 7870,
-    "spriteHashHex": "0FDB2296343191D925414E086159D650"
+    "spriteHashHex": "0FDB2296343191D925414E086159D650",
+    "xmlIdRaw": "14342"
   }
 }

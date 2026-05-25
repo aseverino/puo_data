@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cluster of solace",
     "wareId": 20062,
-    "spriteHashHex": "B834793717E9E2401D95F0F1DF742767"
+    "spriteHashHex": "B834793717E9E2401D95F0F1DF742767",
+    "xmlIdRaw": "22396"
   }
 }

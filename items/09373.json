@@ -39,6 +39,7 @@
     "type": "None",
     "name": "glutton\u0027s mace",
     "wareId": 9373,
-    "spriteHashHex": "2342C21C060ECDF00725A731139E801B"
+    "spriteHashHex": "2342C21C060ECDF00725A731139E801B",
+    "xmlIdRaw": "10290"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "sai",
     "wareId": 10389,
-    "spriteHashHex": "02E4CFF6AAA1042D3B07AD6EA7DE182D"
+    "spriteHashHex": "02E4CFF6AAA1042D3B07AD6EA7DE182D",
+    "xmlIdRaw": "11306"
   }
 }

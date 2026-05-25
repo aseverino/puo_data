@@ -38,6 +38,7 @@
     "type": "None",
     "name": "fish fin",
     "wareId": 5895,
-    "spriteHashHex": "446A8D90999A037938D899F5F761C3BA"
+    "spriteHashHex": "446A8D90999A037938D899F5F761C3BA",
+    "xmlIdRaw": "5895"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "crawler head plating",
     "wareId": 14079,
-    "spriteHashHex": "3064184F0C463A3108938A68714DC485"
+    "spriteHashHex": "3064184F0C463A3108938A68714DC485",
+    "xmlIdRaw": "15482"
   }
 }

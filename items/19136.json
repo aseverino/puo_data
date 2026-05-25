@@ -39,6 +39,7 @@
     "type": "None",
     "name": "nail case",
     "wareId": 19136,
-    "spriteHashHex": "A9591A0C61F8687DD3ECA44DA5949899"
+    "spriteHashHex": "A9591A0C61F8687DD3ECA44DA5949899",
+    "xmlIdRaw": "21452"
   }
 }

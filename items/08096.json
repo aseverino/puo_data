@@ -39,6 +39,7 @@
     "type": "None",
     "name": "T",
     "wareId": 8096,
-    "spriteHashHex": "E429ECBDB614B8CCB9A671BF0D74EBD5"
+    "spriteHashHex": "E429ECBDB614B8CCB9A671BF0D74EBD5",
+    "xmlIdRaw": "8924"
   }
 }

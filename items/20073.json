@@ -42,6 +42,7 @@
     "type": "None",
     "name": "crude umbral chopper",
     "wareId": 20073,
-    "spriteHashHex": "782ABB2B115DBA096195AE8998392946"
+    "spriteHashHex": "782ABB2B115DBA096195AE8998392946",
+    "xmlIdRaw": "22407"
   }
 }

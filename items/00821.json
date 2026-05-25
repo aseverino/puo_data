@@ -59,6 +59,7 @@
     "name": "magma legs",
     "isAnimation": true,
     "wareId": 821,
-    "spriteHashHex": "FD5FAEFDB9693D52D779C859A659BAE3"
+    "spriteHashHex": "FD5FAEFDB9693D52D779C859A659BAE3",
+    "xmlIdRaw": "7894"
   }
 }

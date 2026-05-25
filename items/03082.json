@@ -41,6 +41,7 @@
     "name": "elven amulet",
     "wareId": 3082,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "3C97ABBEF00F4A6A3A99BD94ACA3FD96"
+    "spriteHashHex": "3C97ABBEF00F4A6A3A99BD94ACA3FD96",
+    "xmlIdRaw": "2198"
   }
 }

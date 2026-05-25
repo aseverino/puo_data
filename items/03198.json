@@ -43,6 +43,7 @@
     "type": "None",
     "name": "heavy magic missile rune",
     "wareId": 3198,
-    "spriteHashHex": "1F73C58A849D3996CC59B37994E232E6"
+    "spriteHashHex": "1F73C58A849D3996CC59B37994E232E6",
+    "xmlIdRaw": "2311"
   }
 }

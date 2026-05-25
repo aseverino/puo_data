@@ -52,6 +52,7 @@
     "type": "None",
     "name": "majestic shield",
     "wareId": 14766,
-    "spriteHashHex": "B5FDF5F33E37E30067CC38A45A74E120"
+    "spriteHashHex": "B5FDF5F33E37E30067CC38A45A74E120",
+    "xmlIdRaw": "16110"
   }
 }

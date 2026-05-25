@@ -38,6 +38,7 @@
     "type": "None",
     "name": "heaven blossom",
     "wareId": 5921,
-    "spriteHashHex": "6D3265C7BA19ED756FEABC7C6AECEFEA"
+    "spriteHashHex": "6D3265C7BA19ED756FEABC7C6AECEFEA",
+    "xmlIdRaw": "5921"
   }
 }

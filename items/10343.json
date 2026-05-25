@@ -42,6 +42,7 @@
     "type": "None",
     "name": "spiritual charm",
     "wareId": 10343,
-    "spriteHashHex": "AC14B400EAF521DD5DABF6260BC52F9C"
+    "spriteHashHex": "AC14B400EAF521DD5DABF6260BC52F9C",
+    "xmlIdRaw": "11260"
   }
 }

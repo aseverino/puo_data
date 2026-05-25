@@ -38,6 +38,7 @@
     "type": "None",
     "name": "striped fur",
     "wareId": 10293,
-    "spriteHashHex": "7597EAB1B2F13B2E46059785B7B17713"
+    "spriteHashHex": "7597EAB1B2F13B2E46059785B7B17713",
+    "xmlIdRaw": "11210"
   }
 }

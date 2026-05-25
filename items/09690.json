@@ -76,6 +76,7 @@
     "name": "ghostly tissue",
     "isAnimation": true,
     "wareId": 9690,
-    "spriteHashHex": "268DBCFB530E85555A0AD1E63843048C"
+    "spriteHashHex": "268DBCFB530E85555A0AD1E63843048C",
+    "xmlIdRaw": "10607"
   }
 }

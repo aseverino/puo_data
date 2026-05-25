@@ -40,6 +40,7 @@
     "type": "None",
     "name": "head of Deathstrike",
     "wareId": 16235,
-    "spriteHashHex": "CBFCCA80C6E8B027717E8263DDF11196"
+    "spriteHashHex": "CBFCCA80C6E8B027717E8263DDF11196",
+    "xmlIdRaw": "18503"
   }
 }

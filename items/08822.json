@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ghost charm",
     "wareId": 8822,
-    "spriteHashHex": "59A60EEA1017173B894990282A31A553"
+    "spriteHashHex": "59A60EEA1017173B894990282A31A553",
+    "xmlIdRaw": "9737"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "toxic tulip seed",
     "wareId": 12233,
-    "spriteHashHex": "3DABDE83F2C7C0D7B84DAFBAA157E8CE"
+    "spriteHashHex": "3DABDE83F2C7C0D7B84DAFBAA157E8CE",
+    "xmlIdRaw": "13220"
   }
 }

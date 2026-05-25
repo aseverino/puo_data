@@ -60,6 +60,7 @@
     "name": "the dust of Lersatio",
     "isAnimation": true,
     "wareId": 8718,
-    "spriteHashHex": "EBFD52AA69F54851E1DAC3664B607F6B"
+    "spriteHashHex": "EBFD52AA69F54851E1DAC3664B607F6B",
+    "xmlIdRaw": "9634"
   }
 }

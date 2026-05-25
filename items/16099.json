@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "mushroom backpack",
     "wareId": 16099,
-    "spriteHashHex": "965BB2E5C13242F6F099405106A6722A"
+    "spriteHashHex": "965BB2E5C13242F6F099405106A6722A",
+    "xmlIdRaw": "18393"
   }
 }

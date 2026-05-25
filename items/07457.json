@@ -39,6 +39,7 @@
     "type": "None",
     "name": "fur boots",
     "wareId": 7457,
-    "spriteHashHex": "FC27A9EEAA172BE8317A1C282B807474"
+    "spriteHashHex": "FC27A9EEAA172BE8317A1C282B807474",
+    "xmlIdRaw": "7457"
   }
 }

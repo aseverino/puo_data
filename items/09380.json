@@ -39,6 +39,7 @@
     "type": "None",
     "name": "shield of care",
     "wareId": 9380,
-    "spriteHashHex": "21D29025611430F145F36F7CCF67190A"
+    "spriteHashHex": "21D29025611430F145F36F7CCF67190A",
+    "xmlIdRaw": "10297"
   }
 }

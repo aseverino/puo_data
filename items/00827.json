@@ -40,6 +40,7 @@
     "type": "None",
     "name": "magma monocle",
     "wareId": 827,
-    "spriteHashHex": "53130422DB304EE8805DFA17D7FC9FD8"
+    "spriteHashHex": "53130422DB304EE8805DFA17D7FC9FD8",
+    "xmlIdRaw": "7900"
   }
 }

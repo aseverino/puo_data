@@ -37,6 +37,7 @@
     "type": "None",
     "name": "fan doll of King Tibianus",
     "wareId": 9389,
-    "spriteHashHex": "36257B3B831B846C391C39721D903BEE"
+    "spriteHashHex": "36257B3B831B846C391C39721D903BEE",
+    "xmlIdRaw": "10306"
   }
 }

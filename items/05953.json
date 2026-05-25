@@ -38,6 +38,7 @@
     "type": "None",
     "name": "raven herb",
     "wareId": 5953,
-    "spriteHashHex": "F2829E71199CDE9BADA65C915395DDD8"
+    "spriteHashHex": "F2829E71199CDE9BADA65C915395DDD8",
+    "xmlIdRaw": "5953"
   }
 }

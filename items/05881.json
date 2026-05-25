@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lizard scale",
     "wareId": 5881,
-    "spriteHashHex": "3B7FB40CB3B11CCEC188D7D56D42613C"
+    "spriteHashHex": "3B7FB40CB3B11CCEC188D7D56D42613C",
+    "xmlIdRaw": "5881"
   }
 }

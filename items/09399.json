@@ -80,6 +80,7 @@
     "name": "mighty helm of green sparks",
     "isAnimation": true,
     "wareId": 9399,
-    "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07"
+    "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07",
+    "xmlIdRaw": "10316"
   }
 }

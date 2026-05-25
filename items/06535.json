@@ -55,6 +55,7 @@
     "name": "the Plasmother\u0027s remains",
     "isAnimation": true,
     "wareId": 6535,
-    "spriteHashHex": "B532C4CF4F5479A782B95B3DDA2906B2"
+    "spriteHashHex": "B532C4CF4F5479A782B95B3DDA2906B2",
+    "xmlIdRaw": "6535"
   }
 }

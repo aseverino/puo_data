@@ -37,6 +37,7 @@
     "type": "None",
     "name": "hand puppets",
     "wareId": 9189,
-    "spriteHashHex": "B7EB11B99B8FA664D4FD70628779987A"
+    "spriteHashHex": "B7EB11B99B8FA664D4FD70628779987A",
+    "xmlIdRaw": "10108"
   }
 }

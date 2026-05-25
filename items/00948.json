@@ -40,6 +40,7 @@
     "type": "None",
     "name": "pure energy",
     "wareId": 948,
-    "spriteHashHex": "5BDA23CA7F23C904778718E86ED43EFA"
+    "spriteHashHex": "5BDA23CA7F23C904778718E86ED43EFA",
+    "xmlIdRaw": "8306"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "spider silk",
     "wareId": 5879,
-    "spriteHashHex": "66267443D8B83D49A72BBDBC3123A794"
+    "spriteHashHex": "66267443D8B83D49A72BBDBC3123A794",
+    "xmlIdRaw": "5879"
   }
 }

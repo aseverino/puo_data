@@ -37,6 +37,7 @@
     "type": "None",
     "name": "coloured egg",
     "wareId": 6542,
-    "spriteHashHex": "1A1E32678163E2921102E24AE70B1E98"
+    "spriteHashHex": "1A1E32678163E2921102E24AE70B1E98",
+    "xmlIdRaw": "6542"
   }
 }

@@ -42,6 +42,7 @@
     "name": "Zaoan chess box",
     "hasHeight": true,
     "wareId": 18339,
-    "spriteHashHex": "EAB43488EE42CECBF19F979983BD0276"
+    "spriteHashHex": "EAB43488EE42CECBF19F979983BD0276",
+    "xmlIdRaw": "20620"
   }
 }

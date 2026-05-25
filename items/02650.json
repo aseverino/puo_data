@@ -49,6 +49,7 @@
     "type": "None",
     "name": "yellow tapestry",
     "wareId": 2650,
-    "spriteHashHex": "C6EA5C79D747B2623A28D01ECB42F6FB"
+    "spriteHashHex": "C6EA5C79D747B2623A28D01ECB42F6FB",
+    "xmlIdRaw": "1863"
   }
 }

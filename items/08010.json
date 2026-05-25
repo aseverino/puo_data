@@ -39,6 +39,7 @@
     "type": "None",
     "name": "potato",
     "wareId": 8010,
-    "spriteHashHex": "D342E2146DC218029CDA639D68CC376C"
+    "spriteHashHex": "D342E2146DC218029CDA639D68CC376C",
+    "xmlIdRaw": "8838"
   }
 }

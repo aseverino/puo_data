@@ -38,6 +38,7 @@
     "type": "None",
     "name": "emerald bangle",
     "wareId": 3010,
-    "spriteHashHex": "6FC0308E96B30E8C5056C5DCA953FE7F"
+    "spriteHashHex": "6FC0308E96B30E8C5056C5DCA953FE7F",
+    "xmlIdRaw": "2127"
   }
 }

@@ -52,6 +52,7 @@
     "name": "blessed wooden stake",
     "isAnimation": true,
     "wareId": 5942,
-    "spriteHashHex": "96ADBFB5302ADA21E47C0BCC3D7E678F"
+    "spriteHashHex": "96ADBFB5302ADA21E47C0BCC3D7E678F",
+    "xmlIdRaw": "5942"
   }
 }

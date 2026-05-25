@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of dead brain",
     "wareId": 9663,
-    "spriteHashHex": "01BF8E314DDFF2928C88DA20E2537EAD"
+    "spriteHashHex": "01BF8E314DDFF2928C88DA20E2537EAD",
+    "xmlIdRaw": "10580"
   }
 }

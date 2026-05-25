@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bag of oriental spices",
     "wareId": 10817,
-    "spriteHashHex": "2078BAD823EA0651B4C860CD81B44775"
+    "spriteHashHex": "2078BAD823EA0651B4C860CD81B44775",
+    "xmlIdRaw": "11774"
   }
 }

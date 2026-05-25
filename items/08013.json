@@ -46,6 +46,7 @@
     "type": "None",
     "name": "lemon",
     "wareId": 8013,
-    "spriteHashHex": "C8CC5DAB38370050EB6C904B3B2FC603"
+    "spriteHashHex": "C8CC5DAB38370050EB6C904B3B2FC603",
+    "xmlIdRaw": "8841"
   }
 }

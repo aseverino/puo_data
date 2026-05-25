@@ -39,6 +39,7 @@
     "type": "None",
     "name": "trousers of the ancients",
     "wareId": 9383,
-    "spriteHashHex": "21487A041472CBB412C9F86879F8AA0F"
+    "spriteHashHex": "21487A041472CBB412C9F86879F8AA0F",
+    "xmlIdRaw": "10300"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "didgeridoo",
     "wareId": 2965,
-    "spriteHashHex": "AB066BB01E4F5F664E401CF9FF5174FE"
+    "spriteHashHex": "AB066BB01E4F5F664E401CF9FF5174FE",
+    "xmlIdRaw": "3952"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "the famous Mina Losa painting",
     "wareId": 7871,
-    "spriteHashHex": "1E2653F1E2B427B5AA7ADB3734B9ABB5"
+    "spriteHashHex": "1E2653F1E2B427B5AA7ADB3734B9ABB5",
+    "xmlIdRaw": "8699"
   }
 }

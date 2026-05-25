@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bone shoulderplate",
     "wareId": 10404,
-    "spriteHashHex": "386CB0370043E37516F6A372D71BB734"
+    "spriteHashHex": "386CB0370043E37516F6A372D71BB734",
+    "xmlIdRaw": "11321"
   }
 }

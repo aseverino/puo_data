@@ -38,6 +38,7 @@
     "type": "None",
     "name": "zaogun shoulderplates",
     "wareId": 10414,
-    "spriteHashHex": "EA5C7080BF25F88C96A3F474E9FAF34A"
+    "spriteHashHex": "EA5C7080BF25F88C96A3F474E9FAF34A",
+    "xmlIdRaw": "11331"
   }
 }

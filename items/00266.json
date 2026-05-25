@@ -40,6 +40,7 @@
     "type": "None",
     "name": "health potion",
     "wareId": 266,
-    "spriteHashHex": "21F449D28F7ED00BB71B00CF53148C8D"
+    "spriteHashHex": "21F449D28F7ED00BB71B00CF53148C8D",
+    "xmlIdRaw": "7618"
   }
 }

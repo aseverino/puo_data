@@ -41,6 +41,7 @@
     "type": "None",
     "name": "wooden sword",
     "wareId": 12673,
-    "spriteHashHex": "58D7B3FFA2416A59D4C7432E054745CA"
+    "spriteHashHex": "58D7B3FFA2416A59D4C7432E054745CA",
+    "xmlIdRaw": "13829"
   }
 }

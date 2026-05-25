@@ -1,8 +1,12 @@
 {
   "category": "item",
   "clientId": 4009,
-  "width": 1,
-  "height": 1,
+  "isOnBottom": true,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 12,
+  "width": 2,
+  "height": 2,
   "exactSize": 32,
   "layers": [
     0
@@ -21,12 +25,16 @@
       ]
     },
     "spriteIds": [
-      0
+      148432,
+      148433,
+      148434,
+      148435
     ]
   },
   "server": {
     "serverId": 2828,
     "type": "None",
+    "alwaysOnTopOrder": 2,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
   }
 }

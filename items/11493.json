@@ -38,6 +38,7 @@
     "type": "None",
     "name": "safety pin",
     "wareId": 11493,
-    "spriteHashHex": "DFBEC872F4FBF802F6FF3CD650C171DC"
+    "spriteHashHex": "DFBEC872F4FBF802F6FF3CD650C171DC",
+    "xmlIdRaw": "12449"
   }
 }

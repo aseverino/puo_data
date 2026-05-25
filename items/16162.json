@@ -42,6 +42,7 @@
     "type": "None",
     "name": "mycological mace",
     "wareId": 16162,
-    "spriteHashHex": "1AB0D4E37B26DFAC94FDA3EE26E32E08"
+    "spriteHashHex": "1AB0D4E37B26DFAC94FDA3EE26E32E08",
+    "xmlIdRaw": "18452"
   }
 }

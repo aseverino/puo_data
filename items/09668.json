@@ -38,6 +38,7 @@
     "type": "None",
     "name": "mutated rat tail",
     "wareId": 9668,
-    "spriteHashHex": "3720C3F7B08D33850D66C490F76F83A1"
+    "spriteHashHex": "3720C3F7B08D33850D66C490F76F83A1",
+    "xmlIdRaw": "10585"
   }
 }

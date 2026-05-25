@@ -42,6 +42,7 @@
     "type": "None",
     "name": "lucky clover amulet",
     "wareId": 10476,
-    "spriteHashHex": "49BFB0D1F9471A66764E775F69B7B26B"
+    "spriteHashHex": "49BFB0D1F9471A66764E775F69B7B26B",
+    "xmlIdRaw": "11393"
   }
 }

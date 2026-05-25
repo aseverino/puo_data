@@ -3,7 +3,6 @@
   "clientId": 8156,
   "maxTextLength": 100,
   "writableOnce": true,
-  "isMoveable": true,
   "isPickupable": true,
   "width": 1,
   "height": 1,

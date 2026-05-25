@@ -42,6 +42,7 @@
     "type": "None",
     "name": "seashell book",
     "wareId": 14173,
-    "spriteHashHex": "1908EB20AFD9E0B1430B8AD47780B16E"
+    "spriteHashHex": "1908EB20AFD9E0B1430B8AD47780B16E",
+    "xmlIdRaw": "15573"
   }
 }

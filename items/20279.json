@@ -84,6 +84,7 @@
     "name": "eye pod",
     "isAnimation": true,
     "wareId": 20279,
-    "spriteHashHex": "3A9D4113CE5B88F496E828E247A77CCE"
+    "spriteHashHex": "3A9D4113CE5B88F496E828E247A77CCE",
+    "xmlIdRaw": "22613"
   }
 }

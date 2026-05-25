@@ -42,6 +42,7 @@
     "type": "None",
     "name": "northern star",
     "wareId": 7409,
-    "spriteHashHex": "C16939301048C3CF5AA7A7711A949987"
+    "spriteHashHex": "C16939301048C3CF5AA7A7711A949987",
+    "xmlIdRaw": "7409"
   }
 }

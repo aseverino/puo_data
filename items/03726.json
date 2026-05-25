@@ -39,6 +39,7 @@
     "type": "None",
     "name": "orange mushroom",
     "wareId": 3726,
-    "spriteHashHex": "C0CF0C7A56BE28F681D5453DAA3EA4A1"
+    "spriteHashHex": "C0CF0C7A56BE28F681D5453DAA3EA4A1",
+    "xmlIdRaw": "2790"
   }
 }

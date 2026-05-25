@@ -244,6 +244,7 @@
     "name": "demonic tapestry",
     "isAnimation": true,
     "wareId": 20278,
-    "spriteHashHex": "FCE0953001EE1E1AECF8A6E0F4A003D0"
+    "spriteHashHex": "FCE0953001EE1E1AECF8A6E0F4A003D0",
+    "xmlIdRaw": "22612"
   }
 }

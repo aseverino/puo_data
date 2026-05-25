@@ -37,6 +37,7 @@
     "serverId": 8919,
     "type": "None",
     "name": "O",
-    "spriteHashHex": "228EC1AC9EA2AB57AF2285D77FDD6CF4"
+    "spriteHashHex": "228EC1AC9EA2AB57AF2285D77FDD6CF4",
+    "xmlIdRaw": "8919"
   }
 }

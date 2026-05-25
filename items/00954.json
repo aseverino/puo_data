@@ -40,6 +40,7 @@
     "type": "None",
     "name": "neutral matter",
     "wareId": 954,
-    "spriteHashHex": "DB9B8ED3B06F017CCF9303E06D9E2AD6"
+    "spriteHashHex": "DB9B8ED3B06F017CCF9303E06D9E2AD6",
+    "xmlIdRaw": "8310"
   }
 }

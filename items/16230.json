@@ -40,6 +40,7 @@
     "type": "None",
     "name": "torso of Abyssador",
     "wareId": 16230,
-    "spriteHashHex": "A7EC559575A6F8CCABF5E30B5BCC6AFB"
+    "spriteHashHex": "A7EC559575A6F8CCABF5E30B5BCC6AFB",
+    "xmlIdRaw": "18498"
   }
 }

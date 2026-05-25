@@ -37,6 +37,7 @@
     "type": "None",
     "name": "huge chunk of crude iron",
     "wareId": 5892,
-    "spriteHashHex": "7BE7FFC186CF0967BBE15CBB39F7741F"
+    "spriteHashHex": "7BE7FFC186CF0967BBE15CBB39F7741F",
+    "xmlIdRaw": "5892"
   }
 }

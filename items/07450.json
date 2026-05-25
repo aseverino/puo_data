@@ -50,6 +50,7 @@
     "name": "hammer of prophecy",
     "isAnimation": true,
     "wareId": 7450,
-    "spriteHashHex": "EA360001C214156DA080D2AB41CA31D5"
+    "spriteHashHex": "EA360001C214156DA080D2AB41CA31D5",
+    "xmlIdRaw": "7450"
   }
 }

@@ -45,6 +45,7 @@
     "type": "None",
     "name": "blue crystal shard",
     "wareId": 16119,
-    "spriteHashHex": "6797F4CF8495050322558E32D35BA5F5"
+    "spriteHashHex": "6797F4CF8495050322558E32D35BA5F5",
+    "xmlIdRaw": "18413"
   }
 }

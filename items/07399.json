@@ -49,6 +49,7 @@
     "type": "None",
     "name": "dragon lord trophy",
     "wareId": 7399,
-    "spriteHashHex": "0E4630CFC450AC3628284233C1F6BC4E"
+    "spriteHashHex": "0E4630CFC450AC3628284233C1F6BC4E",
+    "xmlIdRaw": "7399"
   }
 }

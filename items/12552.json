@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dubious piece of cloth",
     "wareId": 12552,
-    "spriteHashHex": "E85A1940F6BEBEFA1A39881BB31339C3"
+    "spriteHashHex": "E85A1940F6BEBEFA1A39881BB31339C3",
+    "xmlIdRaw": "13541"
   }
 }

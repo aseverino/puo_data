@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "crown backpack",
     "wareId": 9605,
-    "spriteHashHex": "0541CEB7358AB21EA9F01F83DF6069BB"
+    "spriteHashHex": "0541CEB7358AB21EA9F01F83DF6069BB",
+    "xmlIdRaw": "10522"
   }
 }

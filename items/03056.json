@@ -39,6 +39,7 @@
     "type": "None",
     "name": "bronze amulet",
     "wareId": 3056,
-    "spriteHashHex": "D3FC9AD1A9CC89E1ABBD0BA160A3C650"
+    "spriteHashHex": "D3FC9AD1A9CC89E1ABBD0BA160A3C650",
+    "xmlIdRaw": "2172"
   }
 }

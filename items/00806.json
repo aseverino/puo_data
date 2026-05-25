@@ -58,6 +58,7 @@
     "name": "energy clerical mace",
     "isAnimation": true,
     "wareId": 806,
-    "spriteHashHex": "BECFB8B496216BD7AB54BBA7771227C3"
+    "spriteHashHex": "BECFB8B496216BD7AB54BBA7771227C3",
+    "xmlIdRaw": "7879"
   }
 }

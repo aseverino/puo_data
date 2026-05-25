@@ -47,6 +47,7 @@
     "type": "None",
     "name": "carrot cake",
     "wareId": 9087,
-    "spriteHashHex": "22F100E7028613C41AE19AA432D22D06"
+    "spriteHashHex": "22F100E7028613C41AE19AA432D22D06",
+    "xmlIdRaw": "10000"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "rope",
     "wareId": 3003,
-    "spriteHashHex": "2C7338672398ED1F847468AB8BE6F6D4"
+    "spriteHashHex": "2C7338672398ED1F847468AB8BE6F6D4",
+    "xmlIdRaw": "2120"
   }
 }

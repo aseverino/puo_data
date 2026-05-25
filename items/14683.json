@@ -39,6 +39,7 @@
     "type": "None",
     "name": "artist\u0027s brush",
     "wareId": 14683,
-    "spriteHashHex": "6C948EF457879D677028F87C46B974AF"
+    "spriteHashHex": "6C948EF457879D677028F87C46B974AF",
+    "xmlIdRaw": "16016"
   }
 }

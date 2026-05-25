@@ -39,6 +39,7 @@
     "type": "None",
     "name": "old cape",
     "wareId": 11701,
-    "spriteHashHex": "46C0B3721B3CDA5422FB14A03CE67ACA"
+    "spriteHashHex": "46C0B3721B3CDA5422FB14A03CE67ACA",
+    "xmlIdRaw": "12657"
   }
 }

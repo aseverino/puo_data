@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wooden flute",
     "wareId": 2948,
-    "spriteHashHex": "67D19858FBCE6ED660D613AC3CF6DF13"
+    "spriteHashHex": "67D19858FBCE6ED660D613AC3CF6DF13",
+    "xmlIdRaw": "2070"
   }
 }

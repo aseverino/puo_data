@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "cake backpack",
     "wareId": 20347,
-    "spriteHashHex": "A15503AA6E57FDCAF7D10A5DF1B9FBD5"
+    "spriteHashHex": "A15503AA6E57FDCAF7D10A5DF1B9FBD5",
+    "xmlIdRaw": "22696"
   }
 }

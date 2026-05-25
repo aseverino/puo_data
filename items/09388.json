@@ -48,6 +48,7 @@
     "name": "holy icon",
     "isAnimation": true,
     "wareId": 9388,
-    "spriteHashHex": "65A5484C82FAFB4F1D0CE8F3D85705E7"
+    "spriteHashHex": "65A5484C82FAFB4F1D0CE8F3D85705E7",
+    "xmlIdRaw": "10305"
   }
 }

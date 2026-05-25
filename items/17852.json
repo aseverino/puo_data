@@ -39,6 +39,7 @@
     "type": "None",
     "name": "helmet of the lost",
     "wareId": 17852,
-    "spriteHashHex": "EE078554C4C956211BCC4133628C16ED"
+    "spriteHashHex": "EE078554C4C956211BCC4133628C16ED",
+    "xmlIdRaw": "20132"
   }
 }

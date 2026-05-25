@@ -54,6 +54,7 @@
     "name": "lightning pendant",
     "isAnimation": true,
     "wareId": 816,
-    "spriteHashHex": "569F3589E683E477D8155012513BABA8"
+    "spriteHashHex": "569F3589E683E477D8155012513BABA8",
+    "xmlIdRaw": "7889"
   }
 }

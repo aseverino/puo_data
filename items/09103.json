@@ -79,6 +79,7 @@
     "name": "batwing hat",
     "isAnimation": true,
     "wareId": 9103,
-    "spriteHashHex": "A52ECA509F05FBAA41A676C4950F6311"
+    "spriteHashHex": "A52ECA509F05FBAA41A676C4950F6311",
+    "xmlIdRaw": "10016"
   }
 }

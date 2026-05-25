@@ -37,6 +37,7 @@
     "type": "None",
     "name": "explorer brooch",
     "wareId": 4871,
-    "spriteHashHex": "5E9AD82A8951A1C1E7A6062E1839FD6F"
+    "spriteHashHex": "5E9AD82A8951A1C1E7A6062E1839FD6F",
+    "xmlIdRaw": "4873"
   }
 }

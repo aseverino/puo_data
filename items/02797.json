@@ -42,6 +42,7 @@
     "name": "globe kit",
     "hasHeight": true,
     "wareId": 2797,
-    "spriteHashHex": "02559845BC704C0615945BD6912F1CCD"
+    "spriteHashHex": "02559845BC704C0615945BD6912F1CCD",
+    "xmlIdRaw": "3923"
   }
 }

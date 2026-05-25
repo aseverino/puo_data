@@ -41,6 +41,7 @@
     "type": "None",
     "name": "jade hat",
     "wareId": 10451,
-    "spriteHashHex": "950DDB32A5D00308A555A71341DA2DA9"
+    "spriteHashHex": "950DDB32A5D00308A555A71341DA2DA9",
+    "xmlIdRaw": "11368"
   }
 }

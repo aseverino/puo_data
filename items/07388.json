@@ -42,6 +42,7 @@
     "type": "None",
     "name": "vile axe",
     "wareId": 7388,
-    "spriteHashHex": "1E57748069AB46F5059001231816498D"
+    "spriteHashHex": "1E57748069AB46F5059001231816498D",
+    "xmlIdRaw": "7388"
   }
 }

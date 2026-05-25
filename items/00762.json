@@ -48,6 +48,7 @@
     "type": "None",
     "name": "shiver arrow",
     "wareId": 762,
-    "spriteHashHex": "1C810BA92B984F3183E7933EF460BAE4"
+    "spriteHashHex": "1C810BA92B984F3183E7933EF460BAE4",
+    "xmlIdRaw": "7839"
   }
 }

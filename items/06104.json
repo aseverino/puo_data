@@ -39,6 +39,7 @@
     "type": "Container",
     "name": "jewel case",
     "wareId": 6104,
-    "spriteHashHex": "5322F2625DEC72FE9A33E4D37ACB3637"
+    "spriteHashHex": "5322F2625DEC72FE9A33E4D37ACB3637",
+    "xmlIdRaw": "6104"
   }
 }

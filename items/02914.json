@@ -44,6 +44,7 @@
     "type": "None",
     "name": "lamp",
     "wareId": 2914,
-    "spriteHashHex": "19BF8BF20B9269CAFF47D2C02C2FA8DF"
+    "spriteHashHex": "19BF8BF20B9269CAFF47D2C02C2FA8DF",
+    "xmlIdRaw": "2044"
   }
 }

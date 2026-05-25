@@ -51,6 +51,7 @@
     "name": "mutated flesh",
     "isAnimation": true,
     "wareId": 10308,
-    "spriteHashHex": "25DC05ACE6C33D59165305E4BFFF53DD"
+    "spriteHashHex": "25DC05ACE6C33D59165305E4BFFF53DD",
+    "xmlIdRaw": "11225"
   }
 }

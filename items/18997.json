@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hatched rorc egg",
     "wareId": 18997,
-    "spriteHashHex": "7F4A25E925AB85E3F01E17CD04591944"
+    "spriteHashHex": "7F4A25E925AB85E3F01E17CD04591944",
+    "xmlIdRaw": "21314"
   }
 }

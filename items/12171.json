@@ -40,6 +40,7 @@
     "type": "None",
     "name": "handcrafted ribbon",
     "wareId": 12171,
-    "spriteHashHex": "C7F00ABDA110B2D5D2DB89FF33934D03"
+    "spriteHashHex": "C7F00ABDA110B2D5D2DB89FF33934D03",
+    "xmlIdRaw": "13158"
   }
 }

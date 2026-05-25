@@ -37,6 +37,7 @@
     "type": "None",
     "name": "baking tray",
     "wareId": 3464,
-    "spriteHashHex": "154BE1C8107B5E8D132448921214A30C"
+    "spriteHashHex": "154BE1C8107B5E8D132448921214A30C",
+    "xmlIdRaw": "2561"
   }
 }

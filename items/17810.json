@@ -39,6 +39,7 @@
     "type": "None",
     "name": "spike shield",
     "wareId": 17810,
-    "spriteHashHex": "B6439F9D623E94E46DBF1236A34A7C6B"
+    "spriteHashHex": "B6439F9D623E94E46DBF1236A34A7C6B",
+    "xmlIdRaw": "20090"
   }
 }

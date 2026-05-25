@@ -43,6 +43,7 @@
     "type": "None",
     "name": "frozen starlight",
     "wareId": 3249,
-    "spriteHashHex": "4C8A6E37FA5F2E93B9B51ED738A31CE8"
+    "spriteHashHex": "4C8A6E37FA5F2E93B9B51ED738A31CE8",
+    "xmlIdRaw": "2361"
   }
 }

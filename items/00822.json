@@ -41,6 +41,7 @@
     "type": "None",
     "name": "lightning legs",
     "wareId": 822,
-    "spriteHashHex": "DDE1C3A7A021CB58DB9865FB3BE13F9A"
+    "spriteHashHex": "DDE1C3A7A021CB58DB9865FB3BE13F9A",
+    "xmlIdRaw": "7895"
   }
 }

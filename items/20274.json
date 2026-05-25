@@ -39,6 +39,7 @@
     "type": "None",
     "name": "nightmare horn",
     "wareId": 20274,
-    "spriteHashHex": "87E37420ACFC2117247061D63D0D8399"
+    "spriteHashHex": "87E37420ACFC2117247061D63D0D8399",
+    "xmlIdRaw": "22608"
   }
 }

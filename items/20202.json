@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dead weight",
     "wareId": 20202,
-    "spriteHashHex": "DB2E3CE3EFBE0BA0CF50C87B7B327F00"
+    "spriteHashHex": "DB2E3CE3EFBE0BA0CF50C87B7B327F00",
+    "xmlIdRaw": "22536"
   }
 }

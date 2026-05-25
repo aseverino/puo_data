@@ -39,6 +39,7 @@
     "type": "None",
     "name": "oil lamp",
     "wareId": 2932,
-    "spriteHashHex": "5E4431F68D6E4B5F11E21CDC7F0A93B0"
+    "spriteHashHex": "5E4431F68D6E4B5F11E21CDC7F0A93B0",
+    "xmlIdRaw": "2062"
   }
 }

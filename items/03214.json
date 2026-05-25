@@ -39,6 +39,7 @@
     "type": "None",
     "name": "blessed ankh",
     "wareId": 3214,
-    "spriteHashHex": "279F596E21841B3DAB4064857FE14692"
+    "spriteHashHex": "279F596E21841B3DAB4064857FE14692",
+    "xmlIdRaw": "2327"
   }
 }

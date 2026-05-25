@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bear paw",
     "wareId": 5896,
-    "spriteHashHex": "F4965969647F28CD1055BE1CAD34423C"
+    "spriteHashHex": "F4965969647F28CD1055BE1CAD34423C",
+    "xmlIdRaw": "5896"
   }
 }

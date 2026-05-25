@@ -116,6 +116,7 @@
     "name": "yielocks",
     "isAnimation": true,
     "wareId": 12805,
-    "spriteHashHex": "A3963CF70EBEC2C30C6E744C779864A5"
+    "spriteHashHex": "A3963CF70EBEC2C30C6E744C779864A5",
+    "xmlIdRaw": "13942"
   }
 }

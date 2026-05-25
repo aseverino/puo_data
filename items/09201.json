@@ -52,6 +52,7 @@
     "name": "heated worm punisher",
     "isAnimation": true,
     "wareId": 9234,
-    "spriteHashHex": "5EBA62900B7F857C136C4D003D298812"
+    "spriteHashHex": "5EBA62900B7F857C136C4D003D298812",
+    "xmlIdRaw": "10119"
   }
 }

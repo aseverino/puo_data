@@ -43,6 +43,7 @@
     "type": "None",
     "name": "fire field rune",
     "wareId": 3188,
-    "spriteHashHex": "73B3891AD0BD9487955C8C5A7BE641D6"
+    "spriteHashHex": "73B3891AD0BD9487955C8C5A7BE641D6",
+    "xmlIdRaw": "2301"
   }
 }

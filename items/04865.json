@@ -37,6 +37,7 @@
     "type": "None",
     "name": "butterfly conservation kit",
     "wareId": 4863,
-    "spriteHashHex": "1A973C930BE0689F221B945D94EB9033"
+    "spriteHashHex": "1A973C930BE0689F221B945D94EB9033",
+    "xmlIdRaw": "4867"
   }
 }

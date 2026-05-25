@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "cup",
     "wareId": 2884,
-    "spriteHashHex": "D37657C1CD0AFD5EC56D321C5C4E6C11"
+    "spriteHashHex": "D37657C1CD0AFD5EC56D321C5C4E6C11",
+    "xmlIdRaw": "3942"
   }
 }

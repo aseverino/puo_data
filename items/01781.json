@@ -1,25 +1,21 @@
 {
   "category": "item",
   "clientId": 1781,
-  "isStackable": true,
-  "isPickupable": true,
-  "cloth": true,
-  "clothSlot": 6,
-  "isMarketItem": true,
-  "market": {
-    "category": 19,
-    "tradeAs": 1781,
-    "showAs": 1781,
-    "name": "small stone"
-  },
-  "width": 1,
-  "height": 1,
+  "isOnBottom": true,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 86,
+  "footprintWidth": 2,
+  "footprintHeight": 2,
+  "footprintMask": "1100",
+  "width": 2,
+  "height": 2,
   "exactSize": 32,
   "layers": [
     0
   ],
-  "patternX": 4,
-  "patternY": 2,
+  "patternX": 1,
+  "patternY": 1,
   "patternZ": 1,
   "walking": {
     "frames": 1,
@@ -32,14 +28,10 @@
       ]
     },
     "spriteIds": [
-      1745,
-      1746,
-      1747,
-      1748,
-      1749,
-      1750,
-      1750,
-      1750
+      147719,
+      147720,
+      147721,
+      147722
     ]
   },
   "server": {
@@ -47,6 +39,20 @@
     "type": "None",
     "name": "small stone",
     "wareId": 1781,
-    "spriteHashHex": "D60E421D1D0EA0518084DE650FDF55EC"
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "D60E421D1D0EA0518084DE650FDF55EC",
+    "xmlIdRaw": "1294",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "footprintheight": "2",
+      "footprintmask": "11",
+      "footprintwidth": "2",
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

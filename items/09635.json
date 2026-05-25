@@ -38,6 +38,7 @@
     "type": "None",
     "name": "elvish talisman",
     "wareId": 9635,
-    "spriteHashHex": "110E2BCFD69B0EA3FDEBD1C6F31CEBD4"
+    "spriteHashHex": "110E2BCFD69B0EA3FDEBD1C6F31CEBD4",
+    "xmlIdRaw": "10552"
   }
 }

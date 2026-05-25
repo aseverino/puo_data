@@ -46,6 +46,7 @@
     "type": "None",
     "name": "peas",
     "wareId": 11683,
-    "spriteHashHex": "5B5F6292D153E9C8AA81787BAC122096"
+    "spriteHashHex": "5B5F6292D153E9C8AA81787BAC122096",
+    "xmlIdRaw": "12639"
   }
 }

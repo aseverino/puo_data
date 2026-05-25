@@ -40,6 +40,7 @@
     "type": "None",
     "name": "fake rabbit\u0027s foot",
     "wareId": 12174,
-    "spriteHashHex": "2C567D223F146276AA9F7ACAEEC23BB4"
+    "spriteHashHex": "2C567D223F146276AA9F7ACAEEC23BB4",
+    "xmlIdRaw": "13161"
   }
 }

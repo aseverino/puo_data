@@ -40,6 +40,7 @@
     "type": "None",
     "name": "glacier amulet",
     "wareId": 815,
-    "spriteHashHex": "82E0F06DCACD06D08B54CABB3714CC4D"
+    "spriteHashHex": "82E0F06DCACD06D08B54CABB3714CC4D",
+    "xmlIdRaw": "7888"
   }
 }

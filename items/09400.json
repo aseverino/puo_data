@@ -40,6 +40,7 @@
     "type": "None",
     "name": "the rain coat",
     "wareId": 9400,
-    "spriteHashHex": "A8056C75DBB1F9A71E1776F3768F0ECE"
+    "spriteHashHex": "A8056C75DBB1F9A71E1776F3768F0ECE",
+    "xmlIdRaw": "10317"
   }
 }

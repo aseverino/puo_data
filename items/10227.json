@@ -37,6 +37,7 @@
     "type": "None",
     "name": "nightmare doll",
     "wareId": 10227,
-    "spriteHashHex": "4C9D2F64FAAA585ED70E64EB965CDC5A"
+    "spriteHashHex": "4C9D2F64FAAA585ED70E64EB965CDC5A",
+    "xmlIdRaw": "11144"
   }
 }

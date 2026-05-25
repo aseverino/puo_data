@@ -40,6 +40,7 @@
     "type": "None",
     "name": "mouldy cheese",
     "wareId": 3120,
-    "spriteHashHex": "B299CAFA4046066FBFEA13EBAF8A3C9F"
+    "spriteHashHex": "B299CAFA4046066FBFEA13EBAF8A3C9F",
+    "xmlIdRaw": "2235"
   }
 }

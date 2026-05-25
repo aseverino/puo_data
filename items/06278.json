@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cake",
     "wareId": 6278,
-    "spriteHashHex": "7966E27922A8F96F794A21F97618C412"
+    "spriteHashHex": "7966E27922A8F96F794A21F97618C412",
+    "xmlIdRaw": "6279"
   }
 }

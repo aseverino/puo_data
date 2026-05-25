@@ -47,6 +47,7 @@
     "name": "boots of haste",
     "wareId": 3079,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "61798D7E7ADA9FF4B12DBDD750BF7638"
+    "spriteHashHex": "61798D7E7ADA9FF4B12DBDD750BF7638",
+    "xmlIdRaw": "2195"
   }
 }

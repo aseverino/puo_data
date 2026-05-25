@@ -41,6 +41,7 @@
     "name": "barrel of beer",
     "hasHeight": true,
     "wareId": 404,
-    "spriteHashHex": "F99F118A8B669D9F5F181A35ACEE3D3D"
+    "spriteHashHex": "F99F118A8B669D9F5F181A35ACEE3D3D",
+    "xmlIdRaw": "7706"
   }
 }

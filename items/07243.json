@@ -35,10 +35,11 @@
     ]
   },
   "server": {
-    "serverId": 11398,
+    "serverId": 7243,
     "type": "None",
     "name": "empty jug",
     "wareId": 7243,
-    "spriteHashHex": "409A9171A5E9D6E046A3144976E5CEFE"
+    "spriteHashHex": "409A9171A5E9D6E046A3144976E5CEFE",
+    "xmlIdRaw": "7243"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "abacus",
     "wareId": 19151,
-    "spriteHashHex": "244A7DB94ECD8FED0836FD6650666259"
+    "spriteHashHex": "244A7DB94ECD8FED0836FD6650666259",
+    "xmlIdRaw": "21467"
   }
 }

@@ -81,6 +81,7 @@
     "name": "frozen heart",
     "isAnimation": true,
     "wareId": 19156,
-    "spriteHashHex": "E2ADC39A00E8B5CEC22AB0E0427350E6"
+    "spriteHashHex": "E2ADC39A00E8B5CEC22AB0E0427350E6",
+    "xmlIdRaw": "21472"
   }
 }

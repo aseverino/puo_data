@@ -51,6 +51,7 @@
     "name": "lit small lamp",
     "isAnimation": true,
     "wareId": 9059,
-    "spriteHashHex": "4229F27C12ABC06514B0553ECA02959C"
+    "spriteHashHex": "4229F27C12ABC06514B0553ECA02959C",
+    "xmlIdRaw": "9973"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "boggy dreads",
     "wareId": 9667,
-    "spriteHashHex": "85C7AAD1F0D4BD5197B5E65171FFEB73"
+    "spriteHashHex": "85C7AAD1F0D4BD5197B5E65171FFEB73",
+    "xmlIdRaw": "10584"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "norseman doll",
     "wareId": 19150,
-    "spriteHashHex": "7297F6427C67AE9334892E199933CCC7"
+    "spriteHashHex": "7297F6427C67AE9334892E199933CCC7",
+    "xmlIdRaw": "21466"
   }
 }

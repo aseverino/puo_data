@@ -37,6 +37,7 @@
     "type": "None",
     "name": "serpent crest",
     "wareId": 10199,
-    "spriteHashHex": "590657D54F5357D800E6A8EC903F0269"
+    "spriteHashHex": "590657D54F5357D800E6A8EC903F0269",
+    "xmlIdRaw": "11116"
   }
 }

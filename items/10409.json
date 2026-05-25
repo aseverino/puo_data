@@ -38,6 +38,7 @@
     "type": "None",
     "name": "corrupted flag",
     "wareId": 10409,
-    "spriteHashHex": "DEA947D05740355CEA10A27E5C66CE84"
+    "spriteHashHex": "DEA947D05740355CEA10A27E5C66CE84",
+    "xmlIdRaw": "11326"
   }
 }

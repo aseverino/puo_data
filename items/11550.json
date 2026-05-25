@@ -54,6 +54,7 @@
     "name": "flexible dragon scale",
     "isAnimation": true,
     "wareId": 11550,
-    "spriteHashHex": "06452B6825E2486B7359C5484B0E3234"
+    "spriteHashHex": "06452B6825E2486B7359C5484B0E3234",
+    "xmlIdRaw": "12506"
   }
 }

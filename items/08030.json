@@ -40,6 +40,7 @@
     "type": "None",
     "name": "Elethriel\u0027s elemental bow",
     "wareId": 8030,
-    "spriteHashHex": "B634A4CA46861CC3ACF6214F70160CEC"
+    "spriteHashHex": "B634A4CA46861CC3ACF6214F70160CEC",
+    "xmlIdRaw": "8858"
   }
 }

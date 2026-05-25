@@ -37,6 +37,7 @@
     "type": "None",
     "name": "precious necklace",
     "wareId": 7939,
-    "spriteHashHex": "CE43E5702F4ACFCCCF56FA4CF209AC8F"
+    "spriteHashHex": "CE43E5702F4ACFCCCF56FA4CF209AC8F",
+    "xmlIdRaw": "8767"
   }
 }

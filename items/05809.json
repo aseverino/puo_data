@@ -37,6 +37,7 @@
     "type": "None",
     "name": "soul stone",
     "wareId": 5809,
-    "spriteHashHex": "2B67B505F6B56B35DD3DE05F884B1C3A"
+    "spriteHashHex": "2B67B505F6B56B35DD3DE05F884B1C3A",
+    "xmlIdRaw": "5809"
   }
 }

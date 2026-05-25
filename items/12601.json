@@ -38,6 +38,7 @@
     "type": "None",
     "name": "slime mould",
     "wareId": 12601,
-    "spriteHashHex": "6AF04DC5FB347A720BADC1EC24D868EC"
+    "spriteHashHex": "6AF04DC5FB347A720BADC1EC24D868EC",
+    "xmlIdRaw": "13758"
   }
 }

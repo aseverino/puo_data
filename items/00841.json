@@ -39,6 +39,7 @@
     "type": "None",
     "name": "peanut",
     "wareId": 841,
-    "spriteHashHex": "E244A7955B2D737F24A1FAF14C9D1678"
+    "spriteHashHex": "E244A7955B2D737F24A1FAF14C9D1678",
+    "xmlIdRaw": "7910"
   }
 }

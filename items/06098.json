@@ -38,6 +38,7 @@
     "type": "None",
     "name": "eye patch",
     "wareId": 6098,
-    "spriteHashHex": "A36C6A7F9C0328F0FAF27E01F5717A32"
+    "spriteHashHex": "A36C6A7F9C0328F0FAF27E01F5717A32",
+    "xmlIdRaw": "6098"
   }
 }

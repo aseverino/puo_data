@@ -42,6 +42,7 @@
     "type": "None",
     "name": "sapphire hammer",
     "wareId": 7437,
-    "spriteHashHex": "6C7F6DCCAB57A8F226CDE396D723E099"
+    "spriteHashHex": "6C7F6DCCAB57A8F226CDE396D723E099",
+    "xmlIdRaw": "7437"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "maxilla maximus",
     "wareId": 12304,
-    "spriteHashHex": "1364D7728C0673430E1C371494A635E9"
+    "spriteHashHex": "1364D7728C0673430E1C371494A635E9",
+    "xmlIdRaw": "13291"
   }
 }

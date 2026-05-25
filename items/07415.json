@@ -42,6 +42,7 @@
     "type": "None",
     "name": "cranial basher",
     "wareId": 7415,
-    "spriteHashHex": "F8B33A3CD02CBC74019B133294B5F880"
+    "spriteHashHex": "F8B33A3CD02CBC74019B133294B5F880",
+    "xmlIdRaw": "7415"
   }
 }

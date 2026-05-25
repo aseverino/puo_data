@@ -42,6 +42,7 @@
     "type": "None",
     "name": "solitude charm",
     "wareId": 10345,
-    "spriteHashHex": "18622C31746FDC8D5BD1114200A282C5"
+    "spriteHashHex": "18622C31746FDC8D5BD1114200A282C5",
+    "xmlIdRaw": "11262"
   }
 }

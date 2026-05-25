@@ -39,6 +39,7 @@
     "type": "None",
     "name": "gooey mass",
     "wareId": 14172,
-    "spriteHashHex": "84140C4A781575271FE3922DF90EA0D7"
+    "spriteHashHex": "84140C4A781575271FE3922DF90EA0D7",
+    "xmlIdRaw": "15572"
   }
 }

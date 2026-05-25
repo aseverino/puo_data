@@ -42,6 +42,7 @@
     "type": "None",
     "name": "shimmer glower",
     "wareId": 12735,
-    "spriteHashHex": "0F77735083BC5221AF7075D04713685E"
+    "spriteHashHex": "0F77735083BC5221AF7075D04713685E",
+    "xmlIdRaw": "13875"
   }
 }

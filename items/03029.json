@@ -47,6 +47,7 @@
     "type": "None",
     "name": "small sapphire",
     "wareId": 3029,
-    "spriteHashHex": "227A90E668190FEF3B64F6A703A9FA72"
+    "spriteHashHex": "227A90E668190FEF3B64F6A703A9FA72",
+    "xmlIdRaw": "2146"
   }
 }

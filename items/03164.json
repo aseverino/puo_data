@@ -43,6 +43,7 @@
     "type": "None",
     "name": "energy field rune",
     "wareId": 3164,
-    "spriteHashHex": "3E7497C1BB751B3A27C3A5F9C8F70D6F"
+    "spriteHashHex": "3E7497C1BB751B3A27C3A5F9C8F70D6F",
+    "xmlIdRaw": "2277"
   }
 }

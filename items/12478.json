@@ -43,6 +43,7 @@
     "type": "Fluid",
     "name": "delicate vase",
     "wareId": 12478,
-    "spriteHashHex": "D7F2BC75021EECBF09B4A9038CEFFC48"
+    "spriteHashHex": "D7F2BC75021EECBF09B4A9038CEFFC48",
+    "xmlIdRaw": "13735"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cheese cutter",
     "wareId": 17817,
-    "spriteHashHex": "B94E6644906AE54A8DC587F52A3C2776"
+    "spriteHashHex": "B94E6644906AE54A8DC587F52A3C2776",
+    "xmlIdRaw": "20097"
   }
 }

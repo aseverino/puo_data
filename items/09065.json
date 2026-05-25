@@ -44,6 +44,7 @@
     "name": "crystal pedestal",
     "hasHeight": true,
     "wareId": 9066,
-    "spriteHashHex": "8A296C2A95C4C1D42BF593EBF2D3C380"
+    "spriteHashHex": "8A296C2A95C4C1D42BF593EBF2D3C380",
+    "xmlIdRaw": "9978"
   }
 }

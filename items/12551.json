@@ -38,6 +38,7 @@
     "type": "None",
     "name": "ominous piece of cloth",
     "wareId": 12551,
-    "spriteHashHex": "4EC284364F5AB24534950A9BE4CB94C1"
+    "spriteHashHex": "4EC284364F5AB24534950A9BE4CB94C1",
+    "xmlIdRaw": "13540"
   }
 }

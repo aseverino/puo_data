@@ -38,6 +38,7 @@
     "type": "None",
     "name": "elvish bow",
     "wareId": 7438,
-    "spriteHashHex": "398116A9CAC12D186462BBE7A0901CD9"
+    "spriteHashHex": "398116A9CAC12D186462BBE7A0901CD9",
+    "xmlIdRaw": "7438"
   }
 }

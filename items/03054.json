@@ -39,6 +39,7 @@
     "type": "None",
     "name": "silver amulet",
     "wareId": 3054,
-    "spriteHashHex": "CE43E5702F4ACFCCCF56FA4CF209AC8F"
+    "spriteHashHex": "CE43E5702F4ACFCCCF56FA4CF209AC8F",
+    "xmlIdRaw": "2170"
   }
 }

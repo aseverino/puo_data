@@ -40,6 +40,7 @@
     "type": "None",
     "name": "tail of Abyssador",
     "wareId": 16229,
-    "spriteHashHex": "6C56D554E475615F7B89334D66AEA0E2"
+    "spriteHashHex": "6C56D554E475615F7B89334D66AEA0E2",
+    "xmlIdRaw": "18497"
   }
 }

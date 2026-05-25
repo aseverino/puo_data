@@ -39,6 +39,7 @@
     "type": "None",
     "name": "meaty vortex",
     "wareId": 12230,
-    "spriteHashHex": "96644D0D83906D34E10009D9A8885ED3"
+    "spriteHashHex": "96644D0D83906D34E10009D9A8885ED3",
+    "xmlIdRaw": "13217"
   }
 }

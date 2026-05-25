@@ -42,6 +42,7 @@
     "type": "None",
     "name": "noble axe",
     "wareId": 7456,
-    "spriteHashHex": "09100BDE45CD8D6FFEEBD729A0588ACE"
+    "spriteHashHex": "09100BDE45CD8D6FFEEBD729A0588ACE",
+    "xmlIdRaw": "7456"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "rotten heart of a tree",
     "wareId": 652,
-    "spriteHashHex": "934859D3B98B53324CC2502C74C328B5"
+    "spriteHashHex": "934859D3B98B53324CC2502C74C328B5",
+    "xmlIdRaw": "7736"
   }
 }

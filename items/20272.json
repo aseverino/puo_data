@@ -39,6 +39,7 @@
     "type": "None",
     "name": "bronze prison key",
     "wareId": 20272,
-    "spriteHashHex": "B3FBB8005B8D4A5E0C92BBC667EA49E5"
+    "spriteHashHex": "B3FBB8005B8D4A5E0C92BBC667EA49E5",
+    "xmlIdRaw": "22606"
   }
 }

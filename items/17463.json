@@ -38,6 +38,7 @@
     "type": "None",
     "name": "damselfly eye",
     "wareId": 17463,
-    "spriteHashHex": "2B38AD927DFC2B49D6CBE3F0F4FCBC8D"
+    "spriteHashHex": "2B38AD927DFC2B49D6CBE3F0F4FCBC8D",
+    "xmlIdRaw": "19743"
   }
 }

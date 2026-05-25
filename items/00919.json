@@ -67,6 +67,7 @@
     "name": "hallowed axe",
     "isAnimation": true,
     "wareId": 3274,
-    "spriteHashHex": "57759834D76BB72A4E22945436E938FE"
+    "spriteHashHex": "57759834D76BB72A4E22945436E938FE",
+    "xmlIdRaw": "8293"
   }
 }

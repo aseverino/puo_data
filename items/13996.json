@@ -41,6 +41,7 @@
     "type": "None",
     "name": "depth ocrea",
     "wareId": 13996,
-    "spriteHashHex": "337B5901E6F369EBA2DBD2B32A6E15A9"
+    "spriteHashHex": "337B5901E6F369EBA2DBD2B32A6E15A9",
+    "xmlIdRaw": "15409"
   }
 }

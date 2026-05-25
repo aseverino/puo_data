@@ -40,6 +40,7 @@
     "type": "None",
     "name": "stalagmite rune",
     "wareId": 3179,
-    "spriteHashHex": "F4B0D26CE974662954D886ED410DD466"
+    "spriteHashHex": "F4B0D26CE974662954D886ED410DD466",
+    "xmlIdRaw": "2292"
   }
 }

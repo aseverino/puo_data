@@ -40,6 +40,7 @@
     "type": "None",
     "name": "blessed steak",
     "wareId": 9086,
-    "spriteHashHex": "6C8667226603515D5E73FF7D1F2F3538"
+    "spriteHashHex": "6C8667226603515D5E73FF7D1F2F3538",
+    "xmlIdRaw": "9999"
   }
 }

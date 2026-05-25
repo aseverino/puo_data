@@ -40,6 +40,7 @@
     "type": "None",
     "name": "piece of marble rock",
     "wareId": 10426,
-    "spriteHashHex": "F0E4784987C8019B6AA608DDF4E9A083"
+    "spriteHashHex": "F0E4784987C8019B6AA608DDF4E9A083",
+    "xmlIdRaw": "11343"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "djinn\u0027s lamp",
     "wareId": 3247,
-    "spriteHashHex": "F40C31D07A550B6076F224A1E49A21CC"
+    "spriteHashHex": "F40C31D07A550B6076F224A1E49A21CC",
+    "xmlIdRaw": "2359"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "yalahari figurine",
     "wareId": 9068,
-    "spriteHashHex": "6B93CF8B5C7B4ECB8170B445492AF7AE"
+    "spriteHashHex": "6B93CF8B5C7B4ECB8170B445492AF7AE",
+    "xmlIdRaw": "9981"
   }
 }

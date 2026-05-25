@@ -38,6 +38,7 @@
     "type": "None",
     "name": "eye of a deepling",
     "wareId": 12730,
-    "spriteHashHex": "AA928A6408C70AA72639F152A9EA7AC5"
+    "spriteHashHex": "AA928A6408C70AA72639F152A9EA7AC5",
+    "xmlIdRaw": "13870"
   }
 }

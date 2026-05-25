@@ -53,6 +53,7 @@
     "name": "firewalker boots",
     "isAnimation": true,
     "wareId": 9019,
-    "spriteHashHex": "CEBE87535B190385F8451E7F34E2C0B1"
+    "spriteHashHex": "CEBE87535B190385F8451E7F34E2C0B1",
+    "xmlIdRaw": "9933"
   }
 }

@@ -45,6 +45,7 @@
     "type": "None",
     "name": "centipede leg",
     "wareId": 10301,
-    "spriteHashHex": "EAAE10949FA795E11B901FC261E0DCE7"
+    "spriteHashHex": "EAAE10949FA795E11B901FC261E0DCE7",
+    "xmlIdRaw": "11218"
   }
 }

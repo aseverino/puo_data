@@ -43,6 +43,7 @@
     "type": "None",
     "name": "composite hornbow",
     "wareId": 8027,
-    "spriteHashHex": "4C3031C4473ABAF45F97872262BE19B2"
+    "spriteHashHex": "4C3031C4473ABAF45F97872262BE19B2",
+    "xmlIdRaw": "8855"
   }
 }

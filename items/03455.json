@@ -39,6 +39,7 @@
     "type": "None",
     "name": "hoe",
     "wareId": 3455,
-    "spriteHashHex": "15E650BA0052C4ADE37A5E869F0BAAE2"
+    "spriteHashHex": "15E650BA0052C4ADE37A5E869F0BAAE2",
+    "xmlIdRaw": "2552"
   }
 }

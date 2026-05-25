@@ -38,6 +38,7 @@
     "type": "None",
     "name": "horoscope",
     "wareId": 18926,
-    "spriteHashHex": "15544AF0AC260753F342600625FBDAC9"
+    "spriteHashHex": "15544AF0AC260753F342600625FBDAC9",
+    "xmlIdRaw": "21243"
   }
 }

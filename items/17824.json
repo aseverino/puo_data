@@ -41,6 +41,7 @@
     "type": "None",
     "name": "swampling club",
     "wareId": 17824,
-    "spriteHashHex": "AF6B40813CC7BE31B8C360D35EFAB232"
+    "spriteHashHex": "AF6B40813CC7BE31B8C360D35EFAB232",
+    "xmlIdRaw": "20104"
   }
 }

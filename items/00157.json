@@ -2,6 +2,7 @@
   "category": "item",
   "clientId": 157,
   "isGroundBorder": true,
+  "isCarpet": true,
   "width": 1,
   "height": 1,
   "exactSize": 32,
@@ -30,6 +31,16 @@
     "type": "None",
     "isAnimation": true,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "D089FC9DBADA58A707063369F93D6C89"
+    "spriteHashHex": "D089FC9DBADA58A707063369F93D6C89",
+    "xmlIdRaw": "7515",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

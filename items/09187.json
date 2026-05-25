@@ -48,6 +48,7 @@
     "name": "Xodet\u0027s first wand",
     "isAnimation": true,
     "wareId": 9187,
-    "spriteHashHex": "CF278C8243DC7D43E0A8D172937257CC"
+    "spriteHashHex": "CF278C8243DC7D43E0A8D172937257CC",
+    "xmlIdRaw": "10105"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "giant shrimp",
     "wareId": 12318,
-    "spriteHashHex": "C84BF9A09EF84A72340A7B2EDF7B0AE1"
+    "spriteHashHex": "C84BF9A09EF84A72340A7B2EDF7B0AE1",
+    "xmlIdRaw": "13305"
   }
 }

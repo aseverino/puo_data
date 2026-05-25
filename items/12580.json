@@ -60,6 +60,7 @@
     "name": "Meandi",
     "isAnimation": true,
     "wareId": 12576,
-    "spriteHashHex": "CCCD66A009AD9EEF9233EE227C5895F3"
+    "spriteHashHex": "CCCD66A009AD9EEF9233EE227C5895F3",
+    "xmlIdRaw": "13569"
   }
 }

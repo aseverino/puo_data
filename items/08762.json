@@ -37,6 +37,7 @@
     "type": "None",
     "name": "piece of royal satin",
     "wareId": 8762,
-    "spriteHashHex": "130BDE910967969CBA19448C7242E003"
+    "spriteHashHex": "130BDE910967969CBA19448C7242E003",
+    "xmlIdRaw": "9678"
   }
 }

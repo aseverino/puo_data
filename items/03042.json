@@ -45,6 +45,7 @@
     "type": "None",
     "name": "scarab coin",
     "wareId": 3042,
-    "spriteHashHex": "03501B7B2DED4629191080331C60CDDB"
+    "spriteHashHex": "03501B7B2DED4629191080331C60CDDB",
+    "xmlIdRaw": "2159"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "empty potion flask",
     "wareId": 284,
-    "spriteHashHex": "F58C1FA4452AA42056B870659B40A4B0"
+    "spriteHashHex": "F58C1FA4452AA42056B870659B40A4B0",
+    "xmlIdRaw": "7635"
   }
 }

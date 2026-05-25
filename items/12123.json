@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ghost duster",
     "wareId": 12123,
-    "spriteHashHex": "BD86049227BFDD1AE63DB7429BAD6D39"
+    "spriteHashHex": "BD86049227BFDD1AE63DB7429BAD6D39",
+    "xmlIdRaw": "13110"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "rat cheese",
     "wareId": 17821,
-    "spriteHashHex": "D7051D9D9D65F6D61B845F57F9BC1DB3"
+    "spriteHashHex": "D7051D9D9D65F6D61B845F57F9BC1DB3",
+    "xmlIdRaw": "20101"
   }
 }

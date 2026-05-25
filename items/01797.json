@@ -2,9 +2,6 @@
   "category": "item",
   "clientId": 1797,
   "isOnBottom": true,
-  "isUnpassable": true,
-  "miniMap": true,
-  "miniMapColor": 86,
   "width": 1,
   "height": 1,
   "exactSize": 32,
@@ -25,13 +22,24 @@
       ]
     },
     "spriteIds": [
-      141232
+      147790
     ]
   },
   "server": {
     "serverId": 1310,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "28A6339DF840DD092A9444780C913AAA"
+    "spriteHashHex": "28A6339DF840DD092A9444780C913AAA",
+    "xmlIdRaw": "1310",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "footprintmask": "01",
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

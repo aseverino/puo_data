@@ -47,6 +47,7 @@
     "type": "None",
     "name": "small topaz",
     "wareId": 9057,
-    "spriteHashHex": "AB0A6CAC3D881ECAD0946168E64BB557"
+    "spriteHashHex": "AB0A6CAC3D881ECAD0946168E64BB557",
+    "xmlIdRaw": "9970"
   }
 }

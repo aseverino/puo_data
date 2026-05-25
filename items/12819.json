@@ -56,6 +56,7 @@
     "name": "prepared bucket",
     "isAnimation": true,
     "wareId": 12819,
-    "spriteHashHex": "1D40D099BE31BC7FCBD5389C9C730849"
+    "spriteHashHex": "1D40D099BE31BC7FCBD5389C9C730849",
+    "xmlIdRaw": "13954"
   }
 }

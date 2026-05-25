@@ -40,6 +40,7 @@
     "type": "None",
     "name": "ruby necklace",
     "wareId": 3016,
-    "spriteHashHex": "6FE7AEB752BB4EF2F6E104818AC38396"
+    "spriteHashHex": "6FE7AEB752BB4EF2F6E104818AC38396",
+    "xmlIdRaw": "2133"
   }
 }

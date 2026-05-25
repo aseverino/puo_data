@@ -37,6 +37,7 @@
     "type": "None",
     "name": "tortoise egg",
     "wareId": 5678,
-    "spriteHashHex": "C750AAD47D4A9A978F5C0F49DB25EA8B"
+    "spriteHashHex": "C750AAD47D4A9A978F5C0F49DB25EA8B",
+    "xmlIdRaw": "5678"
   }
 }

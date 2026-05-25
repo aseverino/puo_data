@@ -42,6 +42,7 @@
     "type": "None",
     "name": "heroic axe",
     "wareId": 7389,
-    "spriteHashHex": "E3C513E8AA9B9D2B75E094535D4716B8"
+    "spriteHashHex": "E3C513E8AA9B9D2B75E094535D4716B8",
+    "xmlIdRaw": "7389"
   }
 }

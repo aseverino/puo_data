@@ -42,6 +42,7 @@
     "type": "None",
     "name": "blood goblet",
     "wareId": 8531,
-    "spriteHashHex": "494370EE28E60B344CF9B4F781888FAA"
+    "spriteHashHex": "494370EE28E60B344CF9B4F781888FAA",
+    "xmlIdRaw": "9447"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken throwing axe",
     "wareId": 17851,
-    "spriteHashHex": "82F596DF9388E82D19133690EE673A3E"
+    "spriteHashHex": "82F596DF9388E82D19133690EE673A3E",
+    "xmlIdRaw": "20131"
   }
 }

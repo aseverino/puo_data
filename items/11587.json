@@ -39,6 +39,7 @@
     "type": "None",
     "name": "demonic candy ball",
     "wareId": 11587,
-    "spriteHashHex": "86C481E4B5DB5EE6718DD79C6269CD10"
+    "spriteHashHex": "86C481E4B5DB5EE6718DD79C6269CD10",
+    "xmlIdRaw": "12543"
   }
 }

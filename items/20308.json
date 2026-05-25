@@ -38,6 +38,7 @@
     "type": "None",
     "name": "frazzlemaw santa",
     "wareId": 20308,
-    "spriteHashHex": "42192199C0E0E7D85032966E0C0C89F8"
+    "spriteHashHex": "42192199C0E0E7D85032966E0C0C89F8",
+    "xmlIdRaw": "22642"
   }
 }

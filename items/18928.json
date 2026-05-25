@@ -40,6 +40,7 @@
     "type": "None",
     "name": "blood tincture in a vial",
     "wareId": 18928,
-    "spriteHashHex": "A6F436A21E001E442DD7B62AC4EA9485"
+    "spriteHashHex": "A6F436A21E001E442DD7B62AC4EA9485",
+    "xmlIdRaw": "21245"
   }
 }

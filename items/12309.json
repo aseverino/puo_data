@@ -38,6 +38,7 @@
     "type": "None",
     "name": "draptor scales",
     "wareId": 12309,
-    "spriteHashHex": "E259E979FFF7C82A90459F69B2CE3D75"
+    "spriteHashHex": "E259E979FFF7C82A90459F69B2CE3D75",
+    "xmlIdRaw": "13296"
   }
 }

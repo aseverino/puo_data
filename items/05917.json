@@ -39,6 +39,7 @@
     "type": "None",
     "name": "bandana",
     "wareId": 5917,
-    "spriteHashHex": "C0796D8E764A7BEE33DE64C97494FDCA"
+    "spriteHashHex": "C0796D8E764A7BEE33DE64C97494FDCA",
+    "xmlIdRaw": "5917"
   }
 }

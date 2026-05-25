@@ -42,6 +42,7 @@
     "name": "wedding outfit box",
     "hasHeight": true,
     "wareId": 9586,
-    "spriteHashHex": "8B591DB085081B24C38378D7F518AA9A"
+    "spriteHashHex": "8B591DB085081B24C38378D7F518AA9A",
+    "xmlIdRaw": "10503"
   }
 }

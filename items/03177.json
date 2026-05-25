@@ -40,6 +40,7 @@
     "type": "None",
     "name": "convince creature rune",
     "wareId": 3177,
-    "spriteHashHex": "11CE20733035F8C18BA00A858D51D8C9"
+    "spriteHashHex": "11CE20733035F8C18BA00A858D51D8C9",
+    "xmlIdRaw": "2290"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "angelic axe",
     "wareId": 7436,
-    "spriteHashHex": "407BF1A15A7E563EBA3BA2803EF4711B"
+    "spriteHashHex": "407BF1A15A7E563EBA3BA2803EF4711B",
+    "xmlIdRaw": "7436"
   }
 }

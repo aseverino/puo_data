@@ -43,6 +43,7 @@
     "type": "None",
     "name": "wild growth rune",
     "wareId": 3156,
-    "spriteHashHex": "D104311465F2F3B09CC0062FB8099A3B"
+    "spriteHashHex": "D104311465F2F3B09CC0062FB8099A3B",
+    "xmlIdRaw": "2269"
   }
 }

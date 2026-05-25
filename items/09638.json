@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cultish mask",
     "wareId": 9638,
-    "spriteHashHex": "E4D63A411DDADD053DE60F1DD409063D"
+    "spriteHashHex": "E4D63A411DDADD053DE60F1DD409063D",
+    "xmlIdRaw": "10555"
   }
 }

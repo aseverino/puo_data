@@ -39,6 +39,7 @@
     "type": "None",
     "name": "Ferumbras\u0027 hat",
     "wareId": 5903,
-    "spriteHashHex": "405D151E4557FB889C4308D3144E9867"
+    "spriteHashHex": "405D151E4557FB889C4308D3144E9867",
+    "xmlIdRaw": "5903"
   }
 }

@@ -62,6 +62,7 @@
     "name": "sweet smelling bait",
     "isAnimation": true,
     "wareId": 12320,
-    "spriteHashHex": "EC25B9EC4396D9D510AED93FC5AF9CA9"
+    "spriteHashHex": "EC25B9EC4396D9D510AED93FC5AF9CA9",
+    "xmlIdRaw": "13307"
   }
 }

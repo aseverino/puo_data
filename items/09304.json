@@ -58,6 +58,7 @@
     "name": "shockwave amulet",
     "isAnimation": true,
     "wareId": 9304,
-    "spriteHashHex": "94FF89EE538F5A752F6BDE4D64CCE26D"
+    "spriteHashHex": "94FF89EE538F5A752F6BDE4D64CCE26D",
+    "xmlIdRaw": "10221"
   }
 }

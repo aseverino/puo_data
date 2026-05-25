@@ -39,6 +39,7 @@
     "type": "None",
     "name": "horn",
     "wareId": 19359,
-    "spriteHashHex": "9F825347D85F8EC37651A6ED0FFB614E"
+    "spriteHashHex": "9F825347D85F8EC37651A6ED0FFB614E",
+    "xmlIdRaw": "21693"
   }
 }

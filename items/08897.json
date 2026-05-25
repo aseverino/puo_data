@@ -37,6 +37,7 @@
     "type": "None",
     "name": "rusty legs",
     "wareId": 8897,
-    "spriteHashHex": "C5D7E2B972ED0D48612FE2E6DB545A65"
+    "spriteHashHex": "C5D7E2B972ED0D48612FE2E6DB545A65",
+    "xmlIdRaw": "9811"
   }
 }

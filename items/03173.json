@@ -40,6 +40,7 @@
     "type": "None",
     "name": "poison bomb rune",
     "wareId": 3173,
-    "spriteHashHex": "ACF5D2BF5F8B2D47006C765CD3B5AF60"
+    "spriteHashHex": "ACF5D2BF5F8B2D47006C765CD3B5AF60",
+    "xmlIdRaw": "2286"
   }
 }

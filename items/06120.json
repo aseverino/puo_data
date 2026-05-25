@@ -37,6 +37,7 @@
     "type": "None",
     "name": "Dragha\u0027s spellbook",
     "wareId": 6120,
-    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2"
+    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2",
+    "xmlIdRaw": "6120"
   }
 }

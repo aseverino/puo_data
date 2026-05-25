@@ -25,17 +25,27 @@
       0,
       0,
       0,
-      141206,
+      147634,
       0,
       0,
       0,
-      141207
+      147635
     ]
   },
   "server": {
     "serverId": 3201,
     "type": "None",
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "AC2810E5EED01E9A734ED2FE15147A4D"
+    "spriteHashHex": "AC2810E5EED01E9A734ED2FE15147A4D",
+    "xmlIdRaw": "3201",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

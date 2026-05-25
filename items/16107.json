@@ -42,6 +42,7 @@
     "type": "None",
     "name": "spellbook of vigilance",
     "wareId": 16107,
-    "spriteHashHex": "0FA8DB69B3E0FEFBBD78D867FCE0C803"
+    "spriteHashHex": "0FA8DB69B3E0FEFBBD78D867FCE0C803",
+    "xmlIdRaw": "18401"
   }
 }

@@ -47,6 +47,7 @@
     "type": "None",
     "name": "roll",
     "wareId": 3601,
-    "spriteHashHex": "E53ACFB7481C42F4F1422CF70EE057AC"
+    "spriteHashHex": "E53ACFB7481C42F4F1422CF70EE057AC",
+    "xmlIdRaw": "2690"
   }
 }

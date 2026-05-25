@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lump of earth",
     "wareId": 10305,
-    "spriteHashHex": "68C9259F95707E3C7C859A97729C5F0D"
+    "spriteHashHex": "68C9259F95707E3C7C859A97729C5F0D",
+    "xmlIdRaw": "11222"
   }
 }

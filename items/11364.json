@@ -39,6 +39,7 @@
     "type": "None",
     "name": "flask of plant poison",
     "wareId": 11364,
-    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C"
+    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C",
+    "xmlIdRaw": "12320"
   }
 }

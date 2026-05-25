@@ -37,6 +37,7 @@
     "type": "None",
     "name": "vampire doll",
     "wareId": 8191,
-    "spriteHashHex": "39FC8BA5E40A9D6B403A7CFACC664130"
+    "spriteHashHex": "39FC8BA5E40A9D6B403A7CFACC664130",
+    "xmlIdRaw": "9019"
   }
 }

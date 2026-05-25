@@ -63,6 +63,7 @@
     "name": "flaming arrow",
     "isAnimation": true,
     "wareId": 763,
-    "spriteHashHex": "4C74FD180FC5AD94B1E87844993EDDAB"
+    "spriteHashHex": "4C74FD180FC5AD94B1E87844993EDDAB",
+    "xmlIdRaw": "7840"
   }
 }

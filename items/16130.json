@@ -38,6 +38,7 @@
     "type": "None",
     "name": "magma clump",
     "wareId": 16130,
-    "spriteHashHex": "ED0025E14AEA12BBE2246EBAF5B01198"
+    "spriteHashHex": "ED0025E14AEA12BBE2246EBAF5B01198",
+    "xmlIdRaw": "18424"
   }
 }

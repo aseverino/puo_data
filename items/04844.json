@@ -37,6 +37,7 @@
     "type": "None",
     "name": "elven poetry book",
     "wareId": 4844,
-    "spriteHashHex": "E7603FB255251DFDA2446F2F174AB2D5"
+    "spriteHashHex": "E7603FB255251DFDA2446F2F174AB2D5",
+    "xmlIdRaw": "4855"
   }
 }

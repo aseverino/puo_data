@@ -38,6 +38,7 @@
     "type": "None",
     "name": "sabretooth",
     "wareId": 10311,
-    "spriteHashHex": "4EA37A54C2E5CE609994F9F96B321393"
+    "spriteHashHex": "4EA37A54C2E5CE609994F9F96B321393",
+    "xmlIdRaw": "11228"
   }
 }

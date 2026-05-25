@@ -54,6 +54,7 @@
     "name": "old iron",
     "isAnimation": true,
     "wareId": 11549,
-    "spriteHashHex": "94AB17A5E4D3C6D756156907715DCDE7"
+    "spriteHashHex": "94AB17A5E4D3C6D756156907715DCDE7",
+    "xmlIdRaw": "12505"
   }
 }

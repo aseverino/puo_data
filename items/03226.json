@@ -40,6 +40,7 @@
     "type": "None",
     "name": "damaged helmet",
     "wareId": 3226,
-    "spriteHashHex": "06F07DA1F85F2CE9795D8DF450DBE18B"
+    "spriteHashHex": "06F07DA1F85F2CE9795D8DF450DBE18B",
+    "xmlIdRaw": "2339"
   }
 }

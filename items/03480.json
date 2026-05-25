@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "ewer",
     "wareId": 3480,
-    "spriteHashHex": "981F1872E88193D113B7F0269D4290D4"
+    "spriteHashHex": "981F1872E88193D113B7F0269D4290D4",
+    "xmlIdRaw": "2577"
   }
 }

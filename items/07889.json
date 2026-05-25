@@ -40,6 +40,7 @@
     "type": "None",
     "name": "lock pick",
     "wareId": 7889,
-    "spriteHashHex": "17297D22DB88BBEFE2D5C948BD94D5E6"
+    "spriteHashHex": "17297D22DB88BBEFE2D5C948BD94D5E6",
+    "xmlIdRaw": "8717"
   }
 }

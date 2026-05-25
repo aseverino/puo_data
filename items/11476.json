@@ -38,6 +38,7 @@
     "type": "None",
     "name": "nettle spit",
     "wareId": 11476,
-    "spriteHashHex": "40F15783179492D78A65149B4EDDB193"
+    "spriteHashHex": "40F15783179492D78A65149B4EDDB193",
+    "xmlIdRaw": "12432"
   }
 }

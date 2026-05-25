@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "dragon backpack",
     "wareId": 10326,
-    "spriteHashHex": "05D5493062E7E0DE31494E978ADF673D"
+    "spriteHashHex": "05D5493062E7E0DE31494E978ADF673D",
+    "xmlIdRaw": "11243"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "the shield Nevermourn",
     "wareId": 9401,
-    "spriteHashHex": "801FF2C628BD20DBBC8E2DA03A3DC770"
+    "spriteHashHex": "801FF2C628BD20DBBC8E2DA03A3DC770",
+    "xmlIdRaw": "10364"
   }
 }

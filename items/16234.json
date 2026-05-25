@@ -40,6 +40,7 @@
     "type": "None",
     "name": "the torso of Deathstrike",
     "wareId": 16234,
-    "spriteHashHex": "F009F45099204C2C7B800C91423F92CB"
+    "spriteHashHex": "F009F45099204C2C7B800C91423F92CB",
+    "xmlIdRaw": "18502"
   }
 }

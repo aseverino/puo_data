@@ -39,6 +39,7 @@
     "type": "None",
     "name": "flask with beaver bait",
     "wareId": 9843,
-    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C"
+    "spriteHashHex": "CAE8D3833D175AF59C5D78EE3E8A836C",
+    "xmlIdRaw": "11100"
   }
 }

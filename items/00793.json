@@ -42,6 +42,7 @@
     "isAnimation": true,
     "wareId": 793,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "581601DDE8191E46E291BAA5679AA3ED"
+    "spriteHashHex": "581601DDE8191E46E291BAA5679AA3ED",
+    "xmlIdRaw": "7868"
   }
 }

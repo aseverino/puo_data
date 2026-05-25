@@ -42,6 +42,7 @@
     "type": "None",
     "name": "ruthless axe",
     "wareId": 6553,
-    "spriteHashHex": "17667D863EDFEF29256FD6F84E5B9181"
+    "spriteHashHex": "17667D863EDFEF29256FD6F84E5B9181",
+    "xmlIdRaw": "6553"
   }
 }

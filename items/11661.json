@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken slicer",
     "wareId": 11661,
-    "spriteHashHex": "229D8F592CAFF5E83F35963F7779AE02"
+    "spriteHashHex": "229D8F592CAFF5E83F35963F7779AE02",
+    "xmlIdRaw": "12617"
   }
 }

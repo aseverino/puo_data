@@ -57,6 +57,7 @@
     "name": "eternal flames",
     "isAnimation": true,
     "wareId": 946,
-    "spriteHashHex": "0A010EEED2573994E220E448B50828BD"
+    "spriteHashHex": "0A010EEED2573994E220E448B50828BD",
+    "xmlIdRaw": "8304"
   }
 }

@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "camouflage bag",
     "wareId": 2864,
-    "spriteHashHex": "FA69EF83803410C0C2E50EA4EE0B13A9"
+    "spriteHashHex": "FA69EF83803410C0C2E50EA4EE0B13A9",
+    "xmlIdRaw": "3939"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "spiked squelcher",
     "wareId": 7452,
-    "spriteHashHex": "287F5F32391391B9FBB18CC7FE1D6640"
+    "spriteHashHex": "287F5F32391391B9FBB18CC7FE1D6640",
+    "xmlIdRaw": "7452"
   }
 }

@@ -43,6 +43,7 @@
     "type": "None",
     "name": "thunderstorm rune",
     "wareId": 3202,
-    "spriteHashHex": "7D370F0ABAB43E06609E3AF0905F4E7F"
+    "spriteHashHex": "7D370F0ABAB43E06609E3AF0905F4E7F",
+    "xmlIdRaw": "2315"
   }
 }

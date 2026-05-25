@@ -42,6 +42,7 @@
     "type": "None",
     "name": "umbral spellbook",
     "wareId": 20089,
-    "spriteHashHex": "1AF453477BE5539144276B45A004C895"
+    "spriteHashHex": "1AF453477BE5539144276B45A004C895",
+    "xmlIdRaw": "22423"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small green pillow",
     "wareId": 2387,
-    "spriteHashHex": "F64E0532D07A81A66954BD528B63B296"
+    "spriteHashHex": "F64E0532D07A81A66954BD528B63B296",
+    "xmlIdRaw": "1679"
   }
 }

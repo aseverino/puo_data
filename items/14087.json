@@ -40,6 +40,7 @@
     "type": "None",
     "name": "grasshopper legs",
     "wareId": 14087,
-    "spriteHashHex": "0F458A9EEB63E101EE4D43C49E9620E6"
+    "spriteHashHex": "0F458A9EEB63E101EE4D43C49E9620E6",
+    "xmlIdRaw": "15490"
   }
 }

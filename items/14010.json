@@ -38,6 +38,7 @@
     "type": "None",
     "name": "deepling guard belt buckle",
     "wareId": 14010,
-    "spriteHashHex": "EE5484C00D1076510960F1F00E1E7977"
+    "spriteHashHex": "EE5484C00D1076510960F1F00E1E7977",
+    "xmlIdRaw": "15423"
   }
 }

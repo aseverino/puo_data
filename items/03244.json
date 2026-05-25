@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "old and used backpack",
     "wareId": 3244,
-    "spriteHashHex": "9764D4EF4E1866E05698F7F4D51D4B0E"
+    "spriteHashHex": "9764D4EF4E1866E05698F7F4D51D4B0E",
+    "xmlIdRaw": "3960"
   }
 }

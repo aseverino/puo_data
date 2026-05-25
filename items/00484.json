@@ -37,6 +37,7 @@
     "serverId": 3137,
     "type": "Ground",
     "spriteHashHex": "8CE10142105B986B60F5E837035F073D",
+    "xmlIdRaw": "3137",
     "xmlAttributes": {
       "floorchange": "down"
     }

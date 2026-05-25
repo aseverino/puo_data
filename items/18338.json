@@ -45,6 +45,7 @@
     "name": "obsidian Zaoan pawn",
     "hasHeight": true,
     "wareId": 18338,
-    "spriteHashHex": "846FDAE64F3258BE6F786684D313B966"
+    "spriteHashHex": "846FDAE64F3258BE6F786684D313B966",
+    "xmlIdRaw": "20619"
   }
 }

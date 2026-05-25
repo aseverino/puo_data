@@ -37,6 +37,7 @@
     "serverId": 22999,
     "type": "None",
     "name": "Revive",
-    "spriteHashHex": "BC1A0410107F5F2C202F36EF215D973D"
+    "spriteHashHex": "BC1A0410107F5F2C202F36EF215D973D",
+    "xmlIdRaw": "22999"
   }
 }

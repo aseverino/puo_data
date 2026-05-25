@@ -63,6 +63,7 @@
     "name": "flash arrow",
     "isAnimation": true,
     "wareId": 761,
-    "spriteHashHex": "A3454D3D7E4072A46713E667E532C2E9"
+    "spriteHashHex": "A3454D3D7E4072A46713E667E532C2E9",
+    "xmlIdRaw": "7838"
   }
 }

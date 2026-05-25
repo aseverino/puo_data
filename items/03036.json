@@ -38,6 +38,7 @@
     "type": "None",
     "name": "violet gem",
     "wareId": 3036,
-    "spriteHashHex": "C5B360312F38BF3ADAF3FD66F784D2BA"
+    "spriteHashHex": "C5B360312F38BF3ADAF3FD66F784D2BA",
+    "xmlIdRaw": "2153"
   }
 }

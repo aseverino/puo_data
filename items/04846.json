@@ -37,6 +37,7 @@
     "type": "None",
     "name": "wrinkled parchment",
     "wareId": 4846,
-    "spriteHashHex": "A8F0DC7FF2223DAE980C1CE97110B8E0"
+    "spriteHashHex": "A8F0DC7FF2223DAE980C1CE97110B8E0",
+    "xmlIdRaw": "14336"
   }
 }

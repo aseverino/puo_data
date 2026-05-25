@@ -38,6 +38,7 @@
     "type": "None",
     "name": "frazzle tongue",
     "wareId": 20198,
-    "spriteHashHex": "01068662D216B74435B2D55F9520EC2B"
+    "spriteHashHex": "01068662D216B74435B2D55F9520EC2B",
+    "xmlIdRaw": "22532"
   }
 }

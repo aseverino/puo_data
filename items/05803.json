@@ -40,6 +40,7 @@
     "type": "None",
     "name": "arbalest",
     "wareId": 5803,
-    "spriteHashHex": "B12259FD1F8051149AEE3C0D48EA8A60"
+    "spriteHashHex": "B12259FD1F8051149AEE3C0D48EA8A60",
+    "xmlIdRaw": "5803"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "rotten piece of cloth",
     "wareId": 10291,
-    "spriteHashHex": "65D25CBD64B6D89ADCD0796E330E8FEC"
+    "spriteHashHex": "65D25CBD64B6D89ADCD0796E330E8FEC",
+    "xmlIdRaw": "11208"
   }
 }

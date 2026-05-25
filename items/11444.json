@@ -38,6 +38,7 @@
     "type": "None",
     "name": "protective charm",
     "wareId": 11444,
-    "spriteHashHex": "4DFE7ADA8E6817E055613F679EBFA0B0"
+    "spriteHashHex": "4DFE7ADA8E6817E055613F679EBFA0B0",
+    "xmlIdRaw": "12400"
   }
 }

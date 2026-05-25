@@ -39,6 +39,7 @@
     "type": "None",
     "name": "spectral dress",
     "wareId": 4836,
-    "spriteHashHex": "185B6C0EF678DD53806BA0435191C5A0"
+    "spriteHashHex": "185B6C0EF678DD53806BA0435191C5A0",
+    "xmlIdRaw": "4847"
   }
 }

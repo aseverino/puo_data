@@ -38,6 +38,7 @@
     "type": "None",
     "name": "tooth file",
     "wareId": 18924,
-    "spriteHashHex": "955D35899CFB01B6ECDF35EBCCA01B9E"
+    "spriteHashHex": "955D35899CFB01B6ECDF35EBCCA01B9E",
+    "xmlIdRaw": "21241"
   }
 }

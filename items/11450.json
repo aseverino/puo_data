@@ -38,6 +38,7 @@
     "type": "None",
     "name": "small notebook",
     "wareId": 11450,
-    "spriteHashHex": "B38BE08B25EF812942FF2909AFB8C4AD"
+    "spriteHashHex": "B38BE08B25EF812942FF2909AFB8C4AD",
+    "xmlIdRaw": "12406"
   }
 }

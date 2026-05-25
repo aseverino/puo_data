@@ -36,10 +36,11 @@
     ]
   },
   "server": {
-    "serverId": 11397,
+    "serverId": 9079,
     "type": "None",
     "name": "empty beer bottle",
     "wareId": 138,
-    "spriteHashHex": "524AE25462F862B8F20C389582BAFBB5"
+    "spriteHashHex": "524AE25462F862B8F20C389582BAFBB5",
+    "xmlIdRaw": "9079"
   }
 }

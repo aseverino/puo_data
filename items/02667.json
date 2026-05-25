@@ -49,6 +49,7 @@
     "type": "None",
     "name": "white tapestry",
     "wareId": 2667,
-    "spriteHashHex": "F94793EA7031DC9E731A476CBE312C85"
+    "spriteHashHex": "F94793EA7031DC9E731A476CBE312C85",
+    "xmlIdRaw": "1880"
   }
 }

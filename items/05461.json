@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pirate boots",
     "wareId": 5461,
-    "spriteHashHex": "3A6B001AE49B2E18A6301FCE0CDC7A2F"
+    "spriteHashHex": "3A6B001AE49B2E18A6301FCE0CDC7A2F",
+    "xmlIdRaw": "5462"
   }
 }

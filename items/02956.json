@@ -38,6 +38,7 @@
     "type": "None",
     "name": "royal fanfare",
     "wareId": 2956,
-    "spriteHashHex": "84A8CB258F30A163DE8058D640EFFC37"
+    "spriteHashHex": "84A8CB258F30A163DE8058D640EFFC37",
+    "xmlIdRaw": "2077"
   }
 }

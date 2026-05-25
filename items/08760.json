@@ -37,6 +37,7 @@
     "type": "None",
     "name": "sample of sand wasp honey",
     "wareId": 8760,
-    "spriteHashHex": "84CE486FFB30F602905904E2489B52D0"
+    "spriteHashHex": "84CE486FFB30F602905904E2489B52D0",
+    "xmlIdRaw": "9676"
   }
 }

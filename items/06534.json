@@ -38,6 +38,7 @@
     "type": "None",
     "name": "the Imperor\u0027s trident",
     "wareId": 6534,
-    "spriteHashHex": "92E7D9AD64732960B7A386020EEB8AA8"
+    "spriteHashHex": "92E7D9AD64732960B7A386020EEB8AA8",
+    "xmlIdRaw": "6534"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "white deer skin",
     "wareId": 12545,
-    "spriteHashHex": "4E6D87F778FE2DD9307021432589B9C2"
+    "spriteHashHex": "4E6D87F778FE2DD9307021432589B9C2",
+    "xmlIdRaw": "13534"
   }
 }

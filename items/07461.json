@@ -39,6 +39,7 @@
     "type": "None",
     "name": "krimhorn helmet",
     "wareId": 7461,
-    "spriteHashHex": "D28FBCF4147E5C1DC414CD768910E30C"
+    "spriteHashHex": "D28FBCF4147E5C1DC414CD768910E30C",
+    "xmlIdRaw": "7461"
   }
 }

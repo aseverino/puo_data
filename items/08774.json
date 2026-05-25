@@ -37,6 +37,7 @@
     "type": "None",
     "name": "cask of brown ale",
     "wareId": 8774,
-    "spriteHashHex": "434B1F5F4EB28614414A57ED7169F219"
+    "spriteHashHex": "434B1F5F4EB28614414A57ED7169F219",
+    "xmlIdRaw": "9689"
   }
 }

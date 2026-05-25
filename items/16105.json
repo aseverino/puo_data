@@ -41,6 +41,7 @@
     "type": "None",
     "name": "gill coat",
     "wareId": 16105,
-    "spriteHashHex": "E175DC75D145EF28E363C86B9F6E49D0"
+    "spriteHashHex": "E175DC75D145EF28E363C86B9F6E49D0",
+    "xmlIdRaw": "18399"
   }
 }

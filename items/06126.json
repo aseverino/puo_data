@@ -38,6 +38,7 @@
     "type": "None",
     "name": "peg leg",
     "wareId": 6126,
-    "spriteHashHex": "E8DF8493776BBFD747C89485F5E7EBB1"
+    "spriteHashHex": "E8DF8493776BBFD747C89485F5E7EBB1",
+    "xmlIdRaw": "6126"
   }
 }

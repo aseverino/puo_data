@@ -40,6 +40,7 @@
     "type": "None",
     "name": "umbral master bow",
     "wareId": 20084,
-    "spriteHashHex": "7F7DB5ACD88D12C41987CEEB9C8071FA"
+    "spriteHashHex": "7F7DB5ACD88D12C41987CEEB9C8071FA",
+    "xmlIdRaw": "22418"
   }
 }

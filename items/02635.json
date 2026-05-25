@@ -50,6 +50,7 @@
     "type": "None",
     "name": "wall mirror",
     "wareId": 2635,
-    "spriteHashHex": "7F9B2F3A88034407862D594113451947"
+    "spriteHashHex": "7F9B2F3A88034407862D594113451947",
+    "xmlIdRaw": "1848"
   }
 }

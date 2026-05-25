@@ -41,6 +41,7 @@
     "type": "None",
     "name": "crystal lamp",
     "wareId": 16094,
-    "spriteHashHex": "B562D626DA6229B063F94A8026E4E7D9"
+    "spriteHashHex": "B562D626DA6229B063F94A8026E4E7D9",
+    "xmlIdRaw": "18388"
   }
 }

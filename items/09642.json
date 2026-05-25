@@ -38,6 +38,7 @@
     "type": "None",
     "name": "spooky blue eye",
     "wareId": 9642,
-    "spriteHashHex": "F8B3ACBB3F929CCE9554711DCE5AB8B0"
+    "spriteHashHex": "F8B3ACBB3F929CCE9554711DCE5AB8B0",
+    "xmlIdRaw": "10559"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "shimmer swimmer",
     "wareId": 12557,
-    "spriteHashHex": "632BB0732E515AC2AE819AF17D4B5273"
+    "spriteHashHex": "632BB0732E515AC2AE819AF17D4B5273",
+    "xmlIdRaw": "13546"
   }
 }

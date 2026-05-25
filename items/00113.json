@@ -37,6 +37,7 @@
     "type": "None",
     "name": "the dwarven emperor\u0027s beard",
     "wareId": 113,
-    "spriteHashHex": "BA4760FA3E1BB0FBE04E960482216163"
+    "spriteHashHex": "BA4760FA3E1BB0FBE04E960482216163",
+    "xmlIdRaw": "7479"
   }
 }

@@ -120,6 +120,7 @@
     "name": "umbral master spellbook",
     "isAnimation": true,
     "wareId": 20090,
-    "spriteHashHex": "17E54DE95F618B2A87F7C342A1B80F19"
+    "spriteHashHex": "17E54DE95F618B2A87F7C342A1B80F19",
+    "xmlIdRaw": "22424"
   }
 }

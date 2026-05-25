@@ -42,6 +42,7 @@
     "name": "piano kit",
     "hasHeight": true,
     "wareId": 2807,
-    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4"
+    "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4",
+    "xmlIdRaw": "3933"
   }
 }

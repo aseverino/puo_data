@@ -45,6 +45,7 @@
     "type": "None",
     "name": "talon",
     "wareId": 3034,
-    "spriteHashHex": "83D01D21276494D4346F4E5A080372C5"
+    "spriteHashHex": "83D01D21276494D4346F4E5A080372C5",
+    "xmlIdRaw": "2151"
   }
 }

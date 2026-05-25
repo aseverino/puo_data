@@ -46,6 +46,7 @@
     "name": "blazing bone",
     "isAnimation": true,
     "wareId": 16131,
-    "spriteHashHex": "F91817BCC7586DC7DF66559E0DB61424"
+    "spriteHashHex": "F91817BCC7586DC7DF66559E0DB61424",
+    "xmlIdRaw": "18425"
   }
 }

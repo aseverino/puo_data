@@ -38,6 +38,7 @@
     "type": "None",
     "name": "vein of ore",
     "wareId": 16135,
-    "spriteHashHex": "E4F5FBC675955B3429AC0CF04C09C0F4"
+    "spriteHashHex": "E4F5FBC675955B3429AC0CF04C09C0F4",
+    "xmlIdRaw": "18429"
   }
 }

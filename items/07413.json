@@ -42,6 +42,7 @@
     "type": "None",
     "name": "titan axe",
     "wareId": 7413,
-    "spriteHashHex": "97615C09EF9C91091FC423248E81C73B"
+    "spriteHashHex": "97615C09EF9C91091FC423248E81C73B",
+    "xmlIdRaw": "7413"
   }
 }

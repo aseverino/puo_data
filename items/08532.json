@@ -42,6 +42,7 @@
     "type": "None",
     "name": "blood skull",
     "wareId": 8532,
-    "spriteHashHex": "87F93B891C38460406710D992EE466B8"
+    "spriteHashHex": "87F93B891C38460406710D992EE466B8",
+    "xmlIdRaw": "9448"
   }
 }

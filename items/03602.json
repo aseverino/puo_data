@@ -47,6 +47,7 @@
     "type": "None",
     "name": "brown bread",
     "wareId": 3602,
-    "spriteHashHex": "612783C487F0D5947F3CB1433374B47A"
+    "spriteHashHex": "612783C487F0D5947F3CB1433374B47A",
+    "xmlIdRaw": "2691"
   }
 }

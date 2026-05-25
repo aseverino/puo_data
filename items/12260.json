@@ -39,6 +39,7 @@
     "type": "None",
     "name": "hunting horn",
     "wareId": 12260,
-    "spriteHashHex": "C269A6AC95FD06EEF3710B8F99662E36"
+    "spriteHashHex": "C269A6AC95FD06EEF3710B8F99662E36",
+    "xmlIdRaw": "13247"
   }
 }

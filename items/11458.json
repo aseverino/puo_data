@@ -38,6 +38,7 @@
     "type": "None",
     "name": "geomancer\u0027s robe",
     "wareId": 11458,
-    "spriteHashHex": "29542341E4C21A032C236DB25D29FE88"
+    "spriteHashHex": "29542341E4C21A032C236DB25D29FE88",
+    "xmlIdRaw": "12414"
   }
 }

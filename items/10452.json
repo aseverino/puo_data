@@ -38,6 +38,7 @@
     "type": "None",
     "name": "terramite shell",
     "wareId": 10452,
-    "spriteHashHex": "67F25346D5726AFA70FA4A207F7D267B"
+    "spriteHashHex": "67F25346D5726AFA70FA4A207F7D267B",
+    "xmlIdRaw": "11369"
   }
 }

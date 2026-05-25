@@ -39,6 +39,7 @@
     "type": "None",
     "name": "mead horn",
     "wareId": 7140,
-    "spriteHashHex": "E4E840E7913417C8CA385FF526D57062"
+    "spriteHashHex": "E4E840E7913417C8CA385FF526D57062",
+    "xmlIdRaw": "7141"
   }
 }

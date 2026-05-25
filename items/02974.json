@@ -41,6 +41,7 @@
     "type": "None",
     "name": "water pipe",
     "wareId": 2974,
-    "spriteHashHex": "A1FDCFA30D8D116408964DAC37DC9113"
+    "spriteHashHex": "A1FDCFA30D8D116408964DAC37DC9113",
+    "xmlIdRaw": "2093"
   }
 }

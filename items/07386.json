@@ -42,6 +42,7 @@
     "type": "None",
     "name": "mercenary sword",
     "wareId": 7386,
-    "spriteHashHex": "9E4D96556539F36BFD57E0EA5E67F79A"
+    "spriteHashHex": "9E4D96556539F36BFD57E0EA5E67F79A",
+    "xmlIdRaw": "7386"
   }
 }

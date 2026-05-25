@@ -40,6 +40,7 @@
     "type": "None",
     "name": "witch hat",
     "wareId": 9653,
-    "spriteHashHex": "49F1C65F2FD1D2C1946BBD44D0725DDB"
+    "spriteHashHex": "49F1C65F2FD1D2C1946BBD44D0725DDB",
+    "xmlIdRaw": "10570"
   }
 }

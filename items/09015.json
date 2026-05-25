@@ -39,6 +39,7 @@
     "type": "None",
     "name": "flower dress",
     "wareId": 9015,
-    "spriteHashHex": "D0AF774637051F7BBC678B77FB249514"
+    "spriteHashHex": "D0AF774637051F7BBC678B77FB249514",
+    "xmlIdRaw": "9929"
   }
 }

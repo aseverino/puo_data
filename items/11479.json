@@ -38,6 +38,7 @@
     "type": "None",
     "name": "orc leather",
     "wareId": 11479,
-    "spriteHashHex": "FBC87F86A648AB460EDBAA9F3FE68DEB"
+    "spriteHashHex": "FBC87F86A648AB460EDBAA9F3FE68DEB",
+    "xmlIdRaw": "12435"
   }
 }

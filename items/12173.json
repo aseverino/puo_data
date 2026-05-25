@@ -40,6 +40,7 @@
     "type": "None",
     "name": "rabbit\u0027s foot lucky charm",
     "wareId": 12173,
-    "spriteHashHex": "2C567D223F146276AA9F7ACAEEC23BB4"
+    "spriteHashHex": "2C567D223F146276AA9F7ACAEEC23BB4",
+    "xmlIdRaw": "13160"
   }
 }

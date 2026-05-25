@@ -43,6 +43,7 @@
     "type": "None",
     "name": "lit crystal lamp",
     "wareId": 16094,
-    "spriteHashHex": "910A3BB15D152344475A2F9695C7199E"
+    "spriteHashHex": "910A3BB15D152344475A2F9695C7199E",
+    "xmlIdRaw": "18389"
   }
 }

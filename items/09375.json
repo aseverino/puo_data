@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pointed rabbitslayer",
     "wareId": 9375,
-    "spriteHashHex": "61E33CBB7B7616EBAF0DDCADB58169E6"
+    "spriteHashHex": "61E33CBB7B7616EBAF0DDCADB58169E6",
+    "xmlIdRaw": "10292"
   }
 }

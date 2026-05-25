@@ -45,6 +45,7 @@
     "type": "None",
     "name": "sandcrawler shell",
     "wareId": 10456,
-    "spriteHashHex": "C117D74B7180C58E8E17F80156FC6E5A"
+    "spriteHashHex": "C117D74B7180C58E8E17F80156FC6E5A",
+    "xmlIdRaw": "11373"
   }
 }

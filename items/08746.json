@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ghost\u0027s tear",
     "wareId": 8746,
-    "spriteHashHex": "81ECF40EBECFD795845ADDA3AF778926"
+    "spriteHashHex": "81ECF40EBECFD795845ADDA3AF778926",
+    "xmlIdRaw": "9662"
   }
 }

@@ -45,6 +45,7 @@
     "type": "None",
     "name": "statue of Devovorga",
     "wareId": 4065,
-    "spriteHashHex": "8B30B30E0B85AC95BC18A9006D7182FA"
+    "spriteHashHex": "8B30B30E0B85AC95BC18A9006D7182FA",
+    "xmlIdRaw": "12663"
   }
 }

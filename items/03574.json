@@ -49,6 +49,7 @@
     "type": "None",
     "name": "mystic turban",
     "wareId": 3574,
-    "spriteHashHex": "FC172B7EB275991579F1C7DDC5921223"
+    "spriteHashHex": "FC172B7EB275991579F1C7DDC5921223",
+    "xmlIdRaw": "2663"
   }
 }

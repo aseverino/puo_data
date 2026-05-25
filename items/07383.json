@@ -42,6 +42,7 @@
     "type": "None",
     "name": "relic sword",
     "wareId": 7383,
-    "spriteHashHex": "612B1C922749A116DEE3549880B701A9"
+    "spriteHashHex": "612B1C922749A116DEE3549880B701A9",
+    "xmlIdRaw": "7383"
   }
 }

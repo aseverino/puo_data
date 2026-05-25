@@ -60,6 +60,7 @@
     "name": "soul net",
     "isAnimation": true,
     "wareId": 14020,
-    "spriteHashHex": "AF478C530A5D86416ED22B196A0E2C9F"
+    "spriteHashHex": "AF478C530A5D86416ED22B196A0E2C9F",
+    "xmlIdRaw": "15433"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "dog collar",
     "wareId": 14156,
-    "spriteHashHex": "8313000233802220E781A0017AB3EA9E"
+    "spriteHashHex": "8313000233802220E781A0017AB3EA9E",
+    "xmlIdRaw": "15559"
   }
 }

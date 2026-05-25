@@ -40,6 +40,7 @@
     "type": "None",
     "name": "Zaoan helmet",
     "wareId": 10385,
-    "spriteHashHex": "9AC4E0118E39A2AF27FA5B30613E8CA8"
+    "spriteHashHex": "9AC4E0118E39A2AF27FA5B30613E8CA8",
+    "xmlIdRaw": "11302"
   }
 }

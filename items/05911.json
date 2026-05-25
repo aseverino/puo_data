@@ -38,6 +38,7 @@
     "type": "None",
     "name": "red piece of cloth",
     "wareId": 5911,
-    "spriteHashHex": "4F2D41807E3F173CE61C3443139FD3C6"
+    "spriteHashHex": "4F2D41807E3F173CE61C3443139FD3C6",
+    "xmlIdRaw": "5911"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "orange star",
     "wareId": 3673,
-    "spriteHashHex": "D0EEB2F783FDC51C3F512E7D4A5D5F0C"
+    "spriteHashHex": "D0EEB2F783FDC51C3F512E7D4A5D5F0C",
+    "xmlIdRaw": "2759"
   }
 }

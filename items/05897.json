@@ -38,6 +38,7 @@
     "type": "None",
     "name": "wolf paw",
     "wareId": 5897,
-    "spriteHashHex": "0606CF31908FA7547471C21436662A85"
+    "spriteHashHex": "0606CF31908FA7547471C21436662A85",
+    "xmlIdRaw": "5897"
   }
 }

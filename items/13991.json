@@ -42,6 +42,7 @@
     "type": "None",
     "name": "deepling axe",
     "wareId": 13991,
-    "spriteHashHex": "82E8A55F5A23C9A42CAB5CFE520B0787"
+    "spriteHashHex": "82E8A55F5A23C9A42CAB5CFE520B0787",
+    "xmlIdRaw": "15404"
   }
 }

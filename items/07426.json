@@ -41,6 +41,7 @@
     "type": "None",
     "name": "amber staff",
     "wareId": 7426,
-    "spriteHashHex": "F45D88C37D09A044407EBCFB505DD292"
+    "spriteHashHex": "F45D88C37D09A044407EBCFB505DD292",
+    "xmlIdRaw": "7426"
   }
 }

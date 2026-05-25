@@ -37,6 +37,7 @@
     "type": "None",
     "name": "sample of venorean spice",
     "wareId": 8759,
-    "spriteHashHex": "62A0ED1A07153417A821AE53087F86D7"
+    "spriteHashHex": "62A0ED1A07153417A821AE53087F86D7",
+    "xmlIdRaw": "9675"
   }
 }

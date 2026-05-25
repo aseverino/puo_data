@@ -38,6 +38,7 @@
     "type": "None",
     "name": "polar bear paw",
     "wareId": 9650,
-    "spriteHashHex": "3E127B9655DC8E32D3828F40F6D9D1A4"
+    "spriteHashHex": "3E127B9655DC8E32D3828F40F6D9D1A4",
+    "xmlIdRaw": "10567"
   }
 }

@@ -46,6 +46,7 @@
     "type": "None",
     "name": "bulb of garlic",
     "wareId": 8197,
-    "spriteHashHex": "F36AF8E62F742687ECEA0E9B381A3390"
+    "spriteHashHex": "F36AF8E62F742687ECEA0E9B381A3390",
+    "xmlIdRaw": "9114"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "piece of swampling wood",
     "wareId": 17823,
-    "spriteHashHex": "D5140D3252E070B001772183CD3D44DD"
+    "spriteHashHex": "D5140D3252E070B001772183CD3D44DD",
+    "xmlIdRaw": "20103"
   }
 }

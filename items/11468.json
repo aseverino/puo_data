@@ -40,6 +40,7 @@
     "type": "None",
     "name": "ornamented brooch",
     "wareId": 11468,
-    "spriteHashHex": "5D6FE69B9E94EB88F6914C61D4C3BE6F"
+    "spriteHashHex": "5D6FE69B9E94EB88F6914C61D4C3BE6F",
+    "xmlIdRaw": "12424"
   }
 }

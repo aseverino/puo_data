@@ -37,6 +37,7 @@
     "type": "None",
     "name": "mandrake",
     "wareId": 5014,
-    "spriteHashHex": "E18D01A1965A856C36411A86473E620E"
+    "spriteHashHex": "E18D01A1965A856C36411A86473E620E",
+    "xmlIdRaw": "5015"
   }
 }

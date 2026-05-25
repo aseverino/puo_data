@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lizard leather",
     "wareId": 5876,
-    "spriteHashHex": "0F93CF2FC733B8AB11D6A78747471350"
+    "spriteHashHex": "0F93CF2FC733B8AB11D6A78747471350",
+    "xmlIdRaw": "5876"
   }
 }

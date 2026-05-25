@@ -41,6 +41,7 @@
     "hasHeight": true,
     "alwaysOnTopOrder": 2,
     "spriteHashHex": "3681BEB25704F3DF3EE9F2426B194F07",
+    "xmlIdRaw": "22458",
     "xmlAttributes": {
       "floorchange": "south"
     }

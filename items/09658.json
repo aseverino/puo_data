@@ -38,6 +38,7 @@
     "type": "None",
     "name": "frost giant pelt",
     "wareId": 9658,
-    "spriteHashHex": "1913ABF16ADA71B12AFD96C88AD7EE4E"
+    "spriteHashHex": "1913ABF16ADA71B12AFD96C88AD7EE4E",
+    "xmlIdRaw": "10575"
   }
 }

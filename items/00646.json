@@ -40,6 +40,7 @@
     "type": "None",
     "name": "elvenhair rope",
     "wareId": 646,
-    "spriteHashHex": "AF2666B99BC83F77083D9DCAF54A2BD0"
+    "spriteHashHex": "AF2666B99BC83F77083D9DCAF54A2BD0",
+    "xmlIdRaw": "7731"
   }
 }

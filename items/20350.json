@@ -49,6 +49,7 @@
     "type": "None",
     "name": "cake tapestry",
     "wareId": 20350,
-    "spriteHashHex": "F585CA429C14F6B731408E0C6F2308B3"
+    "spriteHashHex": "F585CA429C14F6B731408E0C6F2308B3",
+    "xmlIdRaw": "22699"
   }
 }

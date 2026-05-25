@@ -39,6 +39,7 @@
     "type": "None",
     "name": "wooden hammer",
     "wareId": 3459,
-    "spriteHashHex": "0546300B6AAF4E0DEE5FC863B3F64EC5"
+    "spriteHashHex": "0546300B6AAF4E0DEE5FC863B3F64EC5",
+    "xmlIdRaw": "2556"
   }
 }

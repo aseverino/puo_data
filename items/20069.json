@@ -42,6 +42,7 @@
     "type": "None",
     "name": "umbral master slayer",
     "wareId": 20069,
-    "spriteHashHex": "403645FB538F4B43003E311AB6463B09"
+    "spriteHashHex": "403645FB538F4B43003E311AB6463B09",
+    "xmlIdRaw": "22403"
   }
 }

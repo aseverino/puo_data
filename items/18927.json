@@ -38,6 +38,7 @@
     "type": "None",
     "name": "vampire\u0027s cape chain",
     "wareId": 18927,
-    "spriteHashHex": "69807C78115AD332746820818F7A9106"
+    "spriteHashHex": "69807C78115AD332746820818F7A9106",
+    "xmlIdRaw": "21244"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "bricklayers\u0027 kit",
     "wareId": 7785,
-    "spriteHashHex": "AC93C0E4C55D5B13816E829DF71225E5"
+    "spriteHashHex": "AC93C0E4C55D5B13816E829DF71225E5",
+    "xmlIdRaw": "8613"
   }
 }

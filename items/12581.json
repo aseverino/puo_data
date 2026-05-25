@@ -90,6 +90,7 @@
     "name": "Impward",
     "isAnimation": true,
     "wareId": 12577,
-    "spriteHashHex": "F66BEFA269C2DB6B14FFFBAFE9130DF9"
+    "spriteHashHex": "F66BEFA269C2DB6B14FFFBAFE9130DF9",
+    "xmlIdRaw": "13582"
   }
 }

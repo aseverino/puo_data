@@ -40,6 +40,7 @@
     "type": "None",
     "name": "jester hat",
     "wareId": 894,
-    "spriteHashHex": "0959D8DFFBB959193019910886E7FBAD"
+    "spriteHashHex": "0959D8DFFBB959193019910886E7FBAD",
+    "xmlIdRaw": "7957"
   }
 }

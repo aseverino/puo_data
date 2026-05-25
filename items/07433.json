@@ -42,6 +42,7 @@
     "type": "None",
     "name": "ravenwing",
     "wareId": 7433,
-    "spriteHashHex": "6E1A798DF80F7077BA5F198F8577855D"
+    "spriteHashHex": "6E1A798DF80F7077BA5F198F8577855D",
+    "xmlIdRaw": "7433"
   }
 }

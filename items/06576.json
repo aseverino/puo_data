@@ -38,6 +38,7 @@
     "type": "None",
     "name": "fireworks rocket",
     "wareId": 6576,
-    "spriteHashHex": "76B8EA5F40C363F804C61DCB635C810C"
+    "spriteHashHex": "76B8EA5F40C363F804C61DCB635C810C",
+    "xmlIdRaw": "6576"
   }
 }

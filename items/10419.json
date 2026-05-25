@@ -37,6 +37,7 @@
     "type": "None",
     "name": "lizard trophy",
     "wareId": 10419,
-    "spriteHashHex": "6B046F9BFD09795FF00EB2F64AFE101E"
+    "spriteHashHex": "6B046F9BFD09795FF00EB2F64AFE101E",
+    "xmlIdRaw": "11336"
   }
 }

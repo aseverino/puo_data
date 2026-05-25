@@ -39,6 +39,7 @@
     "type": "None",
     "name": "amulet of loss",
     "wareId": 3057,
-    "spriteHashHex": "CCB452D94799BC8C0640A3D988249E48"
+    "spriteHashHex": "CCB452D94799BC8C0640A3D988249E48",
+    "xmlIdRaw": "2173"
   }
 }

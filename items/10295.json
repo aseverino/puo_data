@@ -38,6 +38,7 @@
     "type": "None",
     "name": "winter wolf fur",
     "wareId": 10295,
-    "spriteHashHex": "73EFA9EA1126279C95C2D92F66D60488"
+    "spriteHashHex": "73EFA9EA1126279C95C2D92F66D60488",
+    "xmlIdRaw": "11212"
   }
 }

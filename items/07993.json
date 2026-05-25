@@ -40,6 +40,7 @@
     "type": "None",
     "name": "witchhunter\u0027s coat",
     "wareId": 7993,
-    "spriteHashHex": "30AEE28BA3A8DC4EA7465922A24648C2"
+    "spriteHashHex": "30AEE28BA3A8DC4EA7465922A24648C2",
+    "xmlIdRaw": "8821"
   }
 }

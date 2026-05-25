@@ -38,6 +38,7 @@
     "type": "None",
     "name": "scorpion tail",
     "wareId": 9651,
-    "spriteHashHex": "81F4E06315BB82511ED1EEB090293BFC"
+    "spriteHashHex": "81F4E06315BB82511ED1EEB090293BFC",
+    "xmlIdRaw": "10568"
   }
 }

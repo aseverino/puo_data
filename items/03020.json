@@ -37,6 +37,7 @@
     "type": "None",
     "name": "some golden fruits",
     "wareId": 3020,
-    "spriteHashHex": "E249D4756EB8AB9341C90CC42471050D"
+    "spriteHashHex": "E249D4756EB8AB9341C90CC42471050D",
+    "xmlIdRaw": "2137"
   }
 }

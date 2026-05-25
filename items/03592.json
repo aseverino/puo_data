@@ -40,6 +40,7 @@
     "type": "None",
     "name": "grapes",
     "wareId": 3592,
-    "spriteHashHex": "CD66F2C6A4A1AD5174CC6B74F5FAA02B"
+    "spriteHashHex": "CD66F2C6A4A1AD5174CC6B74F5FAA02B",
+    "xmlIdRaw": "2681"
   }
 }

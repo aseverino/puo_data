@@ -38,6 +38,7 @@
     "type": "None",
     "name": "skull belt",
     "wareId": 11480,
-    "spriteHashHex": "C746D8F8ADB9A7BD4F64B8898EC3AD8F"
+    "spriteHashHex": "C746D8F8ADB9A7BD4F64B8898EC3AD8F",
+    "xmlIdRaw": "12436"
   }
 }

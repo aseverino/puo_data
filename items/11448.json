@@ -38,6 +38,7 @@
     "type": "None",
     "name": "black wool",
     "wareId": 11448,
-    "spriteHashHex": "C904C15FB05F202147500255CB952AC0"
+    "spriteHashHex": "C904C15FB05F202147500255CB952AC0",
+    "xmlIdRaw": "12404"
   }
 }

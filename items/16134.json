@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cliff strider claw",
     "wareId": 16134,
-    "spriteHashHex": "200B14FD8925425CD10C323F66616A29"
+    "spriteHashHex": "200B14FD8925425CD10C323F66616A29",
+    "xmlIdRaw": "18428"
   }
 }

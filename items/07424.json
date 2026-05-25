@@ -59,6 +59,7 @@
     "name": "lunar staff",
     "isAnimation": true,
     "wareId": 7424,
-    "spriteHashHex": "B71D2BA12E14924417F4E97E89D74C9E"
+    "spriteHashHex": "B71D2BA12E14924417F4E97E89D74C9E",
+    "xmlIdRaw": "7424"
   }
 }

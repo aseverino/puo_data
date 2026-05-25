@@ -48,6 +48,7 @@
     "type": "None",
     "name": "piercing bolt",
     "wareId": 7363,
-    "spriteHashHex": "8EDEBDB1FAA0195D5FEA3621BE9FB0B6"
+    "spriteHashHex": "8EDEBDB1FAA0195D5FEA3621BE9FB0B6",
+    "xmlIdRaw": "7363"
   }
 }

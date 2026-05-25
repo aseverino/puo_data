@@ -38,6 +38,7 @@
     "type": "None",
     "name": "magical watch",
     "wareId": 112,
-    "spriteHashHex": "D7FEC273D8D00B10FAEFFF286575E175"
+    "spriteHashHex": "D7FEC273D8D00B10FAEFFF286575E175",
+    "xmlIdRaw": "8187"
   }
 }

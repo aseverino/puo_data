@@ -38,6 +38,7 @@
     "type": "None",
     "name": "stampor horn",
     "wareId": 12312,
-    "spriteHashHex": "BF120E53EED388EFBF787AD2383C1876"
+    "spriteHashHex": "BF120E53EED388EFBF787AD2383C1876",
+    "xmlIdRaw": "13299"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bloodkiss flower",
     "wareId": 9241,
-    "spriteHashHex": "8D8526117FF2390DB0EEA74971261C7E"
+    "spriteHashHex": "8D8526117FF2390DB0EEA74971261C7E",
+    "xmlIdRaw": "10159"
   }
 }

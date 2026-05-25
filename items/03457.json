@@ -39,6 +39,7 @@
     "type": "None",
     "name": "shovel",
     "wareId": 3457,
-    "spriteHashHex": "ED59E5367E617CD236B3DE976DE988C8"
+    "spriteHashHex": "ED59E5367E617CD236B3DE976DE988C8",
+    "xmlIdRaw": "2554"
   }
 }

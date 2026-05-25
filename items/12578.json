@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Evilina",
     "wareId": 12578,
-    "spriteHashHex": "C988717A814729E539EA826081CC9EAB"
+    "spriteHashHex": "C988717A814729E539EA826081CC9EAB",
+    "xmlIdRaw": "13567"
   }
 }

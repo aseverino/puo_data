@@ -38,6 +38,7 @@
     "type": "None",
     "name": "small flask of eyedrops",
     "wareId": 11512,
-    "spriteHashHex": "39A037197FD166AF6DBA5FC3EB2A9A98"
+    "spriteHashHex": "39A037197FD166AF6DBA5FC3EB2A9A98",
+    "xmlIdRaw": "12468"
   }
 }

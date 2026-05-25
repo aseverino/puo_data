@@ -40,6 +40,7 @@
     "type": "None",
     "name": "corncob",
     "wareId": 3597,
-    "spriteHashHex": "01C4156F22F0A7F42514515E4F3A5CB9"
+    "spriteHashHex": "01C4156F22F0A7F42514515E4F3A5CB9",
+    "xmlIdRaw": "2686"
   }
 }

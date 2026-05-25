@@ -41,6 +41,7 @@
     "type": "None",
     "name": "glacier kilt",
     "wareId": 823,
-    "spriteHashHex": "8BF418B52A66BD76B9340110F89BA48B"
+    "spriteHashHex": "8BF418B52A66BD76B9340110F89BA48B",
+    "xmlIdRaw": "7896"
   }
 }

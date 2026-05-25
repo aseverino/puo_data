@@ -98,6 +98,7 @@
     "name": "Imortus",
     "isAnimation": true,
     "wareId": 12811,
-    "spriteHashHex": "876DBB1B19F04F7C13626E9877A4960A"
+    "spriteHashHex": "876DBB1B19F04F7C13626E9877A4960A",
+    "xmlIdRaw": "13949"
   }
 }

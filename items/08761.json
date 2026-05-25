@@ -37,6 +37,7 @@
     "type": "None",
     "name": "jug of embalming fluid",
     "wareId": 8761,
-    "spriteHashHex": "1DC363A84DBC216C4F75D20F7211AFF8"
+    "spriteHashHex": "1DC363A84DBC216C4F75D20F7211AFF8",
+    "xmlIdRaw": "9677"
   }
 }

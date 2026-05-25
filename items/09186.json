@@ -37,6 +37,7 @@
     "type": "None",
     "name": "old encrypted text",
     "wareId": 9186,
-    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F"
+    "spriteHashHex": "1FF82DBC7E2B00D44D941ED88C407C3F",
+    "xmlIdRaw": "10104"
   }
 }

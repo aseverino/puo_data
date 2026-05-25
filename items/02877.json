@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "green flask",
     "wareId": 2877,
-    "spriteHashHex": "F072F293FE272472BF4D49BB0A02B270"
+    "spriteHashHex": "F072F293FE272472BF4D49BB0A02B270",
+    "xmlIdRaw": "2009"
   }
 }

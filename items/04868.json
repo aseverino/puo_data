@@ -37,6 +37,7 @@
     "type": "None",
     "name": "botanist\u0027s container",
     "wareId": 4867,
-    "spriteHashHex": "4455D1D69C7F3324605511D0A285192A"
+    "spriteHashHex": "4455D1D69C7F3324605511D0A285192A",
+    "xmlIdRaw": "4870"
   }
 }

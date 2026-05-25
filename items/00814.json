@@ -40,6 +40,7 @@
     "type": "None",
     "name": "terra amulet",
     "wareId": 814,
-    "spriteHashHex": "97E5E20A5710EB442306BA3905FA4E3F"
+    "spriteHashHex": "97E5E20A5710EB442306BA3905FA4E3F",
+    "xmlIdRaw": "7887"
   }
 }

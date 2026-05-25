@@ -37,6 +37,7 @@
     "type": "None",
     "name": "Whinona",
     "wareId": 12575,
-    "spriteHashHex": "47ED2C22765DA36F090D8CBD9ED1EB6C"
+    "spriteHashHex": "47ED2C22765DA36F090D8CBD9ED1EB6C",
+    "xmlIdRaw": "13568"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "spoon with a ribbon",
     "wareId": 12175,
-    "spriteHashHex": "5B7C7BAF82DB80E6838464805C92BA13"
+    "spriteHashHex": "5B7C7BAF82DB80E6838464805C92BA13",
+    "xmlIdRaw": "13162"
   }
 }

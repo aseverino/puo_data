@@ -40,6 +40,7 @@
     "type": "None",
     "name": "gingerbreadman",
     "wareId": 6500,
-    "spriteHashHex": "773327C9DCE7C326B88302786088F890"
+    "spriteHashHex": "773327C9DCE7C326B88302786088F890",
+    "xmlIdRaw": "6501"
   }
 }

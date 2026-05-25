@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bottle of whisper beer",
     "wareId": 6106,
-    "spriteHashHex": "F072F293FE272472BF4D49BB0A02B270"
+    "spriteHashHex": "F072F293FE272472BF4D49BB0A02B270",
+    "xmlIdRaw": "6106"
   }
 }

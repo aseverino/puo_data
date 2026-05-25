@@ -41,6 +41,7 @@
     "type": "None",
     "name": "gill legs",
     "wareId": 16106,
-    "spriteHashHex": "4CC0A2A2593192CD9CD27D0C937AD5DF"
+    "spriteHashHex": "4CC0A2A2593192CD9CD27D0C937AD5DF",
+    "xmlIdRaw": "18400"
   }
 }

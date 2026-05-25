@@ -49,6 +49,7 @@
     "type": "None",
     "name": "royal tapestry",
     "wareId": 9045,
-    "spriteHashHex": "1492768A8D93E87FFC6D3D2873D5C78B"
+    "spriteHashHex": "1492768A8D93E87FFC6D3D2873D5C78B",
+    "xmlIdRaw": "9958"
   }
 }

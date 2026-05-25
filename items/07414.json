@@ -55,6 +55,7 @@
     "name": "abyss hammer",
     "isAnimation": true,
     "wareId": 7414,
-    "spriteHashHex": "CE974FE798040000E1E501A26F9AA71E"
+    "spriteHashHex": "CE974FE798040000E1E501A26F9AA71E",
+    "xmlIdRaw": "7414"
   }
 }

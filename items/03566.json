@@ -39,6 +39,7 @@
     "type": "None",
     "name": "red robe",
     "wareId": 3566,
-    "spriteHashHex": "73CF2F3ECDD0F224E2F25316CE8F7B9F"
+    "spriteHashHex": "73CF2F3ECDD0F224E2F25316CE8F7B9F",
+    "xmlIdRaw": "2655"
   }
 }

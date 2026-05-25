@@ -58,6 +58,7 @@
     "name": "energy headchopper",
     "isAnimation": true,
     "wareId": 804,
-    "spriteHashHex": "BA82D220402BECE078E35FEEE882134A"
+    "spriteHashHex": "BA82D220402BECE078E35FEEE882134A",
+    "xmlIdRaw": "7877"
   }
 }

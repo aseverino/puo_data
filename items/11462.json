@@ -39,6 +39,7 @@
     "type": "None",
     "name": "cauliflower",
     "wareId": 11462,
-    "spriteHashHex": "B98B45468EEB371F2164CE195DFD88CA"
+    "spriteHashHex": "B98B45468EEB371F2164CE195DFD88CA",
+    "xmlIdRaw": "12418"
   }
 }

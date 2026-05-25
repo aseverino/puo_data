@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dwarven beard",
     "wareId": 5900,
-    "spriteHashHex": "BA4760FA3E1BB0FBE04E960482216163"
+    "spriteHashHex": "BA4760FA3E1BB0FBE04E960482216163",
+    "xmlIdRaw": "5900"
   }
 }

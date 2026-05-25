@@ -39,6 +39,7 @@
     "type": "None",
     "name": "Eclesius\u0027 sandals",
     "wareId": 9131,
-    "spriteHashHex": "6F8C741BC9C4CF8672BF4188099F8B19"
+    "spriteHashHex": "6F8C741BC9C4CF8672BF4188099F8B19",
+    "xmlIdRaw": "10050"
   }
 }

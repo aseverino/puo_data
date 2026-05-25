@@ -47,6 +47,7 @@
     "type": "Fluid",
     "name": "bucket",
     "wareId": 2873,
-    "spriteHashHex": "3EE6F33B4981C9A4892B6E3D1DB10AC1"
+    "spriteHashHex": "3EE6F33B4981C9A4892B6E3D1DB10AC1",
+    "xmlIdRaw": "2005"
   }
 }

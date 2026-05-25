@@ -41,6 +41,7 @@
     "type": "None",
     "name": "chaos mace",
     "wareId": 7427,
-    "spriteHashHex": "F5C44856D84574556E552002EC915C8E"
+    "spriteHashHex": "F5C44856D84574556E552002EC915C8E",
+    "xmlIdRaw": "7427"
   }
 }

@@ -36,6 +36,7 @@
     "type": "None",
     "name": "grave flower",
     "wareId": 3661,
-    "spriteHashHex": "A4A586FCEF3305E2F55E30690DC8A664"
+    "spriteHashHex": "A4A586FCEF3305E2F55E30690DC8A664",
+    "xmlIdRaw": "2747"
   }
 }

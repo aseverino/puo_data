@@ -39,6 +39,7 @@
     "type": "None",
     "name": "worn soft boots",
     "wareId": 6530,
-    "spriteHashHex": "BE46E032FF7C2EFA741B8651F8529AEC"
+    "spriteHashHex": "BE46E032FF7C2EFA741B8651F8529AEC",
+    "xmlIdRaw": "10021"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "prismatic legs",
     "wareId": 16111,
-    "spriteHashHex": "2FF71C425E196571D8C61945F1CC6146"
+    "spriteHashHex": "2FF71C425E196571D8C61945F1CC6146",
+    "xmlIdRaw": "18405"
   }
 }

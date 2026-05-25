@@ -42,6 +42,7 @@
     "type": "None",
     "name": "the justice seeker",
     "wareId": 7390,
-    "spriteHashHex": "02A193927CE984B560016561EA45FBF6"
+    "spriteHashHex": "02A193927CE984B560016561EA45FBF6",
+    "xmlIdRaw": "7390"
   }
 }

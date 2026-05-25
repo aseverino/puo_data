@@ -38,6 +38,7 @@
     "type": "None",
     "name": "elemental crystal",
     "wareId": 9251,
-    "spriteHashHex": "51C3B3453DF695A4AA88EC98F9DAE681"
+    "spriteHashHex": "51C3B3453DF695A4AA88EC98F9DAE681",
+    "xmlIdRaw": "10169"
   }
 }

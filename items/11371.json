@@ -37,6 +37,7 @@
     "type": "None",
     "name": "snake sceptre",
     "wareId": 11371,
-    "spriteHashHex": "598FBAD42E6DC5DCFA46AA40FB4ED309"
+    "spriteHashHex": "598FBAD42E6DC5DCFA46AA40FB4ED309",
+    "xmlIdRaw": "12327"
   }
 }

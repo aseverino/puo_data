@@ -37,6 +37,7 @@
     "type": "None",
     "name": "cleaver",
     "wareId": 3471,
-    "spriteHashHex": "EDBACDC6048103A7EC19B29FBBCCE58C"
+    "spriteHashHex": "EDBACDC6048103A7EC19B29FBBCCE58C",
+    "xmlIdRaw": "2568"
   }
 }

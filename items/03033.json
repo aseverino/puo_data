@@ -47,6 +47,7 @@
     "type": "None",
     "name": "small amethyst",
     "wareId": 3033,
-    "spriteHashHex": "02904663A02F6E95D87F6AC9947A02B7"
+    "spriteHashHex": "02904663A02F6E95D87F6AC9947A02B7",
+    "xmlIdRaw": "2150"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "poisonous slime",
     "wareId": 9640,
-    "spriteHashHex": "AADB1439B936E5E5DAA8FC2E8D8F3F6E"
+    "spriteHashHex": "AADB1439B936E5E5DAA8FC2E8D8F3F6E",
+    "xmlIdRaw": "10557"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "geomancer\u0027s staff",
     "wareId": 11463,
-    "spriteHashHex": "A390B23F4BA90C74C8B7F8BADB1EE80A"
+    "spriteHashHex": "A390B23F4BA90C74C8B7F8BADB1EE80A",
+    "xmlIdRaw": "12419"
   }
 }

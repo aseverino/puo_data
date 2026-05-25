@@ -37,6 +37,7 @@
     "type": "None",
     "name": "holy scarab",
     "wareId": 3023,
-    "spriteHashHex": "F62E2BC8063DF515044B9B33E96F0964"
+    "spriteHashHex": "F62E2BC8063DF515044B9B33E96F0964",
+    "xmlIdRaw": "2140"
   }
 }

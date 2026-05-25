@@ -41,6 +41,7 @@
     "type": "None",
     "name": "orcish maul",
     "wareId": 7392,
-    "spriteHashHex": "C83AB975B7557A6A886C45810D363AD8"
+    "spriteHashHex": "C83AB975B7557A6A886C45810D363AD8",
+    "xmlIdRaw": "7392"
   }
 }

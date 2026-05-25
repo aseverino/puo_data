@@ -38,6 +38,7 @@
     "type": "None",
     "name": "closed trap",
     "wareId": 3481,
-    "spriteHashHex": "F0503011DAA07E6EB0EB0F2338DBBAB1"
+    "spriteHashHex": "F0503011DAA07E6EB0EB0F2338DBBAB1",
+    "xmlIdRaw": "2578"
   }
 }

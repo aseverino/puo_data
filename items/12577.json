@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Impward",
     "wareId": 12577,
-    "spriteHashHex": "47ED2C22765DA36F090D8CBD9ED1EB6C"
+    "spriteHashHex": "47ED2C22765DA36F090D8CBD9ED1EB6C",
+    "xmlIdRaw": "13566"
   }
 }

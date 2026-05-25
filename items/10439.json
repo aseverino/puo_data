@@ -41,6 +41,7 @@
     "type": "None",
     "name": "Zaoan robe",
     "wareId": 10439,
-    "spriteHashHex": "FEFFEDFE3B8D524E3DC5517CE78E917C"
+    "spriteHashHex": "FEFFEDFE3B8D524E3DC5517CE78E917C",
+    "xmlIdRaw": "11356"
   }
 }

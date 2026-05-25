@@ -38,6 +38,7 @@
     "type": "None",
     "name": "panther head",
     "wareId": 12039,
-    "spriteHashHex": "FF8745555F05A1BA5B86EBC30AB1E882"
+    "spriteHashHex": "FF8745555F05A1BA5B86EBC30AB1E882",
+    "xmlIdRaw": "13026"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "soul orb",
     "wareId": 5944,
-    "spriteHashHex": "718867101494D88AE903929D383B5CDE"
+    "spriteHashHex": "718867101494D88AE903929D383B5CDE",
+    "xmlIdRaw": "5944"
   }
 }

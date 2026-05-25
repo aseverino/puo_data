@@ -37,6 +37,7 @@
     "type": "None",
     "name": "fish tail",
     "wareId": 5951,
-    "spriteHashHex": "A1D160F8151ACA6E45D6293E0D857464"
+    "spriteHashHex": "A1D160F8151ACA6E45D6293E0D857464",
+    "xmlIdRaw": "5951"
   }
 }

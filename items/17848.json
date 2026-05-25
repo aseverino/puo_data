@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lost husher\u0027s staff",
     "wareId": 17848,
-    "spriteHashHex": "C97E67B975FCCBE847C346DF9CE0CC2D"
+    "spriteHashHex": "C97E67B975FCCBE847C346DF9CE0CC2D",
+    "xmlIdRaw": "20128"
   }
 }

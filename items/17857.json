@@ -38,6 +38,7 @@
     "type": "None",
     "name": "basalt figurine",
     "wareId": 17857,
-    "spriteHashHex": "2CE6C68C2128E6A70EDDC31EF2F87CE4"
+    "spriteHashHex": "2CE6C68C2128E6A70EDDC31EF2F87CE4",
+    "xmlIdRaw": "20137"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "torso of Gnomevil",
     "wareId": 16238,
-    "spriteHashHex": "FF3BF24006FCB08060D027EC24C79C0D"
+    "spriteHashHex": "FF3BF24006FCB08060D027EC24C79C0D",
+    "xmlIdRaw": "18506"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "life crystal",
     "wareId": 3061,
-    "spriteHashHex": "BA755E4D61297C96A99C0ED99F0082D0"
+    "spriteHashHex": "BA755E4D61297C96A99C0ED99F0082D0",
+    "xmlIdRaw": "2177"
   }
 }

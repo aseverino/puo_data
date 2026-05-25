@@ -42,6 +42,7 @@
     "type": "None",
     "name": "wailing widow\u0027s necklace",
     "wareId": 10412,
-    "spriteHashHex": "1FF35E7D02FFD62BDB848B04706F6AE6"
+    "spriteHashHex": "1FF35E7D02FFD62BDB848B04706F6AE6",
+    "xmlIdRaw": "11329"
   }
 }

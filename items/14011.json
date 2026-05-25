@@ -45,6 +45,7 @@
     "type": "None",
     "name": "deepling breaktime snack",
     "wareId": 14011,
-    "spriteHashHex": "B2D110018AC48518E9FF5DFF3E538CCE"
+    "spriteHashHex": "B2D110018AC48518E9FF5DFF3E538CCE",
+    "xmlIdRaw": "15424"
   }
 }

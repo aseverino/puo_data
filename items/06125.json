@@ -37,6 +37,7 @@
     "type": "None",
     "name": "tortoise egg from Nargor",
     "wareId": 6125,
-    "spriteHashHex": "F0A503198A2BB0962F01DD7DF5210FA3"
+    "spriteHashHex": "F0A503198A2BB0962F01DD7DF5210FA3",
+    "xmlIdRaw": "6125"
   }
 }

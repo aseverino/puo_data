@@ -38,6 +38,7 @@
     "type": "None",
     "name": "behemoth claw",
     "wareId": 5930,
-    "spriteHashHex": "8E20320821A5B160E95EA7EAC3217368"
+    "spriteHashHex": "8E20320821A5B160E95EA7EAC3217368",
+    "xmlIdRaw": "5930"
   }
 }

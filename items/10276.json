@@ -38,6 +38,7 @@
     "type": "None",
     "name": "elder bonelord tentacle",
     "wareId": 10276,
-    "spriteHashHex": "D8D49E063CF3113F8A2335F9D79A31ED"
+    "spriteHashHex": "D8D49E063CF3113F8A2335F9D79A31ED",
+    "xmlIdRaw": "11193"
   }
 }

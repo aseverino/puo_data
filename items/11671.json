@@ -38,6 +38,7 @@
     "type": "None",
     "name": "eye of corruption",
     "wareId": 11671,
-    "spriteHashHex": "616918A52EB5549FB4E5A1A9172E2028"
+    "spriteHashHex": "616918A52EB5549FB4E5A1A9172E2028",
+    "xmlIdRaw": "12627"
   }
 }

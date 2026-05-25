@@ -47,6 +47,7 @@
     "type": "None",
     "name": "tomato",
     "wareId": 3596,
-    "spriteHashHex": "D37C8A415580C3D3ACBF13CEBFA844D3"
+    "spriteHashHex": "D37C8A415580C3D3ACBF13CEBFA844D3",
+    "xmlIdRaw": "2685"
   }
 }

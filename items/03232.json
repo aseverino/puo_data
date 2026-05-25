@@ -37,6 +37,7 @@
     "type": "None",
     "name": "spyreport",
     "wareId": 3232,
-    "spriteHashHex": "583EB9112FA93DDE9983812A99D1787D"
+    "spriteHashHex": "583EB9112FA93DDE9983812A99D1787D",
+    "xmlIdRaw": "2345"
   }
 }

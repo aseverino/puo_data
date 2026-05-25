@@ -38,6 +38,7 @@
     "type": "None",
     "name": "pirates surprise",
     "wareId": 14751,
-    "spriteHashHex": "D33E7DE993C61619D4058A7CCD80D7BB"
+    "spriteHashHex": "D33E7DE993C61619D4058A7CCD80D7BB",
+    "xmlIdRaw": "16094"
   }
 }

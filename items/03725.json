@@ -39,6 +39,7 @@
     "type": "None",
     "name": "brown mushroom",
     "wareId": 3725,
-    "spriteHashHex": "76ACFE74C7E37EBBBC160B1FB60E8938"
+    "spriteHashHex": "76ACFE74C7E37EBBBC160B1FB60E8938",
+    "xmlIdRaw": "2789"
   }
 }

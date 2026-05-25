@@ -42,6 +42,7 @@
     "type": "None",
     "name": "twiceslicer",
     "wareId": 11657,
-    "spriteHashHex": "75E35112CD31ECDF39AC2F3C0FF254FB"
+    "spriteHashHex": "75E35112CD31ECDF39AC2F3C0FF254FB",
+    "xmlIdRaw": "12613"
   }
 }

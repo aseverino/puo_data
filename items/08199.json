@@ -46,6 +46,7 @@
     "type": "None",
     "name": "garlic cookie",
     "wareId": 8199,
-    "spriteHashHex": "7406C4404AE6DFA31D5E66EB885E8C30"
+    "spriteHashHex": "7406C4404AE6DFA31D5E66EB885E8C30",
+    "xmlIdRaw": "9116"
   }
 }

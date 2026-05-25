@@ -39,6 +39,7 @@
     "type": "None",
     "name": "goo shell",
     "wareId": 19372,
-    "spriteHashHex": "D4F004D04AA9DF25B648559B8B79CBF9"
+    "spriteHashHex": "D4F004D04AA9DF25B648559B8B79CBF9",
+    "xmlIdRaw": "21706"
   }
 }

@@ -43,6 +43,7 @@
     "type": "None",
     "name": "rotworm stew",
     "wareId": 9079,
-    "spriteHashHex": "8FD340CE045CE9654C56ED53B3153ACB"
+    "spriteHashHex": "8FD340CE045CE9654C56ED53B3153ACB",
+    "xmlIdRaw": "9992"
   }
 }

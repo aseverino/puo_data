@@ -42,6 +42,7 @@
     "type": "None",
     "name": "crude umbral spellbook",
     "wareId": 20088,
-    "spriteHashHex": "E8829194A8C32A3CEAADD9DD98605148"
+    "spriteHashHex": "E8829194A8C32A3CEAADD9DD98605148",
+    "xmlIdRaw": "22422"
   }
 }

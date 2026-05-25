@@ -37,6 +37,7 @@
     "type": "None",
     "name": "elven brooch",
     "wareId": 3005,
-    "spriteHashHex": "5E9AD82A8951A1C1E7A6062E1839FD6F"
+    "spriteHashHex": "5E9AD82A8951A1C1E7A6062E1839FD6F",
+    "xmlIdRaw": "2122"
   }
 }

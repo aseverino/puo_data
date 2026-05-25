@@ -38,6 +38,7 @@
     "type": "None",
     "name": "chicken feather",
     "wareId": 5890,
-    "spriteHashHex": "67157B2AF28A0E5DBA7CDE03C37F7FA0"
+    "spriteHashHex": "67157B2AF28A0E5DBA7CDE03C37F7FA0",
+    "xmlIdRaw": "5890"
   }
 }

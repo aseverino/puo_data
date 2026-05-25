@@ -40,6 +40,7 @@
     "type": "None",
     "name": "cure poison rune",
     "wareId": 3153,
-    "spriteHashHex": "228EC1AC9EA2AB57AF2285D77FDD6CF4"
+    "spriteHashHex": "228EC1AC9EA2AB57AF2285D77FDD6CF4",
+    "xmlIdRaw": "2266"
   }
 }

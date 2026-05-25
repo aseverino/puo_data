@@ -39,6 +39,7 @@
     "type": "None",
     "name": "wooden stake",
     "wareId": 5941,
-    "spriteHashHex": "0A30ACBF44FC4F802E9642A78499A616"
+    "spriteHashHex": "0A30ACBF44FC4F802E9642A78499A616",
+    "xmlIdRaw": "5941"
   }
 }

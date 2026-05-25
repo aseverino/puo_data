@@ -38,6 +38,7 @@
     "type": "None",
     "name": "golden raid token",
     "wareId": 19082,
-    "spriteHashHex": "C122DCD782D53C9F93B42952309293BA"
+    "spriteHashHex": "C122DCD782D53C9F93B42952309293BA",
+    "xmlIdRaw": "21399"
   }
 }

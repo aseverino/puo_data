@@ -46,6 +46,7 @@
     "type": "None",
     "name": "aubergine",
     "wareId": 11460,
-    "spriteHashHex": "212C6778E925C52640B06D52640C28B8"
+    "spriteHashHex": "212C6778E925C52640B06D52640C28B8",
+    "xmlIdRaw": "12416"
   }
 }

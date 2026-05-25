@@ -37,6 +37,7 @@
     "type": "None",
     "name": "oven spatula",
     "wareId": 3472,
-    "spriteHashHex": "0F7689C8D7A37ED1BB56B5AB5895C455"
+    "spriteHashHex": "0F7689C8D7A37ED1BB56B5AB5895C455",
+    "xmlIdRaw": "2569"
   }
 }

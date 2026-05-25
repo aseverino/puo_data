@@ -42,6 +42,7 @@
     "type": "None",
     "name": "onyx flail",
     "wareId": 7421,
-    "spriteHashHex": "7D641480189A931121717AFBDF60C906"
+    "spriteHashHex": "7D641480189A931121717AFBDF60C906",
+    "xmlIdRaw": "7421"
   }
 }

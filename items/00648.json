@@ -37,6 +37,7 @@
     "type": "None",
     "name": "nature magic spellbook",
     "wareId": 648,
-    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2"
+    "spriteHashHex": "F2D44ACEFC4393FFA4BCFAAD338A6AD2",
+    "xmlIdRaw": "8190"
   }
 }

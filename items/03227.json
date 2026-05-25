@@ -38,6 +38,7 @@
     "type": "None",
     "name": "helmet piece",
     "wareId": 3227,
-    "spriteHashHex": "ABC1A738F4D92BE796B94CCE714EC48C"
+    "spriteHashHex": "ABC1A738F4D92BE796B94CCE714EC48C",
+    "xmlIdRaw": "2340"
   }
 }

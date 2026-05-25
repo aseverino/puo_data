@@ -38,6 +38,7 @@
     "type": "None",
     "name": "skull of a caveman",
     "wareId": 10159,
-    "spriteHashHex": "BA2CABCD557F71C8D8CD5ACE751D9682"
+    "spriteHashHex": "BA2CABCD557F71C8D8CD5ACE751D9682",
+    "xmlIdRaw": "11076"
   }
 }

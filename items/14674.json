@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "anniversary backpack",
     "wareId": 14674,
-    "spriteHashHex": "64CD521D9FE114958CB528AC6A7689C7"
+    "spriteHashHex": "64CD521D9FE114958CB528AC6A7689C7",
+    "xmlIdRaw": "16007"
   }
 }

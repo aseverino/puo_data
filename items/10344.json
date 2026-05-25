@@ -42,6 +42,7 @@
     "type": "None",
     "name": "twin sun charm",
     "wareId": 10344,
-    "spriteHashHex": "FFF1B380EA1AABDCEA58AF3377DFD12D"
+    "spriteHashHex": "FFF1B380EA1AABDCEA58AF3377DFD12D",
+    "xmlIdRaw": "11261"
   }
 }

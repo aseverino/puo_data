@@ -37,6 +37,7 @@
     "type": "None",
     "name": "shimmer ball",
     "wareId": 12807,
-    "spriteHashHex": "07E426C440D640016E263BFD60FD0C53"
+    "spriteHashHex": "07E426C440D640016E263BFD60FD0C53",
+    "xmlIdRaw": "13944"
   }
 }

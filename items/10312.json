@@ -38,6 +38,7 @@
     "type": "None",
     "name": "scythe leg",
     "wareId": 10312,
-    "spriteHashHex": "D3EB744DA485B74E05E71C1358C56029"
+    "spriteHashHex": "D3EB744DA485B74E05E71C1358C56029",
+    "xmlIdRaw": "11229"
   }
 }

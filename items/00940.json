@@ -40,6 +40,7 @@
     "type": "None",
     "name": "natural soil",
     "wareId": 940,
-    "spriteHashHex": "90CEA22C4E526951F4720535E69F7708"
+    "spriteHashHex": "90CEA22C4E526951F4720535E69F7708",
+    "xmlIdRaw": "8298"
   }
 }

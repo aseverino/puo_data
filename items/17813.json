@@ -42,6 +42,7 @@
     "type": "None",
     "name": "life preserver",
     "wareId": 17813,
-    "spriteHashHex": "1CCFAACAE9B6197F0197E7CF9D8719D7"
+    "spriteHashHex": "1CCFAACAE9B6197F0197E7CF9D8719D7",
+    "xmlIdRaw": "20093"
   }
 }

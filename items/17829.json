@@ -39,6 +39,7 @@
     "type": "None",
     "name": "buckle",
     "wareId": 17829,
-    "spriteHashHex": "3963A308BCE265F37AA961D4E64A1199"
+    "spriteHashHex": "3963A308BCE265F37AA961D4E64A1199",
+    "xmlIdRaw": "20109"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "rake",
     "wareId": 3452,
-    "spriteHashHex": "2A8401CE80B44FCE8324BACBD2880829"
+    "spriteHashHex": "2A8401CE80B44FCE8324BACBD2880829",
+    "xmlIdRaw": "2549"
   }
 }

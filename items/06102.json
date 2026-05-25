@@ -37,6 +37,7 @@
     "type": "None",
     "name": "Deadeye Devious\u0027 eye patch",
     "wareId": 6102,
-    "spriteHashHex": "7E6A5292975D037C00B66AC52C1B1B46"
+    "spriteHashHex": "7E6A5292975D037C00B66AC52C1B1B46",
+    "xmlIdRaw": "6102"
   }
 }

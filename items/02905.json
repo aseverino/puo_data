@@ -37,6 +37,7 @@
     "type": "None",
     "name": "plate",
     "wareId": 2905,
-    "spriteHashHex": "24F7DED0D0481114F67DF9EE2396ED66"
+    "spriteHashHex": "24F7DED0D0481114F67DF9EE2396ED66",
+    "xmlIdRaw": "2035"
   }
 }

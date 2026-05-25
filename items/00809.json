@@ -57,6 +57,7 @@
     "name": "energy orcish maul",
     "isAnimation": true,
     "wareId": 809,
-    "spriteHashHex": "6E841086F8E4C9F291CB009828B7A2D4"
+    "spriteHashHex": "6E841086F8E4C9F291CB009828B7A2D4",
+    "xmlIdRaw": "7882"
   }
 }

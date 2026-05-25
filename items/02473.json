@@ -43,6 +43,7 @@
     "name": "box",
     "hasHeight": true,
     "wareId": 2473,
-    "spriteHashHex": "961BD0B3302B7FAC9562BCC4CC15BA7D"
+    "spriteHashHex": "961BD0B3302B7FAC9562BCC4CC15BA7D",
+    "xmlIdRaw": "1741"
   }
 }

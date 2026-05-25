@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small orange pillow",
     "wareId": 2390,
-    "spriteHashHex": "1910A6D564AAA20444B040915FDAB74A"
+    "spriteHashHex": "1910A6D564AAA20444B040915FDAB74A",
+    "xmlIdRaw": "1682"
   }
 }

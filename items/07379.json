@@ -41,6 +41,7 @@
     "type": "None",
     "name": "brutetamer\u0027s staff",
     "wareId": 7379,
-    "spriteHashHex": "1B0E5E2034A19C5E06529E25305C0991"
+    "spriteHashHex": "1B0E5E2034A19C5E06529E25305C0991",
+    "xmlIdRaw": "7379"
   }
 }

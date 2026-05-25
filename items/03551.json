@@ -39,6 +39,7 @@
     "type": "None",
     "name": "sandals",
     "wareId": 3551,
-    "spriteHashHex": "6F8C741BC9C4CF8672BF4188099F8B19"
+    "spriteHashHex": "6F8C741BC9C4CF8672BF4188099F8B19",
+    "xmlIdRaw": "2642"
   }
 }

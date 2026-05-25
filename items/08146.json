@@ -41,6 +41,7 @@
     "type": "None",
     "name": "oracle figurine",
     "wareId": 8146,
-    "spriteHashHex": "0CBC8BF15804B5D7764551497BC92C71"
+    "spriteHashHex": "0CBC8BF15804B5D7764551497BC92C71",
+    "xmlIdRaw": "8974"
   }
 }

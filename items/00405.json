@@ -37,6 +37,7 @@
     "type": "None",
     "name": "weapons crate",
     "wareId": 405,
-    "spriteHashHex": "485CA545D0823AA1803E769AF5A5BD19"
+    "spriteHashHex": "485CA545D0823AA1803E769AF5A5BD19",
+    "xmlIdRaw": "7707"
   }
 }

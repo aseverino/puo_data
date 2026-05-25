@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken shamanic staff",
     "wareId": 11452,
-    "spriteHashHex": "34F27DD8310476318627855E925EA02B"
+    "spriteHashHex": "34F27DD8310476318627855E925EA02B",
+    "xmlIdRaw": "12408"
   }
 }

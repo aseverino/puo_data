@@ -38,6 +38,7 @@
     "type": "None",
     "name": "blood preservation",
     "wareId": 11449,
-    "spriteHashHex": "4358D979BF0A8813B8E913C0EB195CD9"
+    "spriteHashHex": "4358D979BF0A8813B8E913C0EB195CD9",
+    "xmlIdRaw": "12405"
   }
 }

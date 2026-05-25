@@ -42,6 +42,7 @@
     "type": "None",
     "name": "ornamented axe",
     "wareId": 7411,
-    "spriteHashHex": "E82B50089182EE9952528A6D85D9D02C"
+    "spriteHashHex": "E82B50089182EE9952528A6D85D9D02C",
+    "xmlIdRaw": "7411"
   }
 }

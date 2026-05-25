@@ -39,6 +39,7 @@
     "type": "None",
     "name": "wooden spoon",
     "wareId": 3470,
-    "spriteHashHex": "BCE0A5986D91CBBDBC940F65CFB9C5DB"
+    "spriteHashHex": "BCE0A5986D91CBBDBC940F65CFB9C5DB",
+    "xmlIdRaw": "2567"
   }
 }

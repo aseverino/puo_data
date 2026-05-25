@@ -38,6 +38,7 @@
     "type": "None",
     "name": "gear crystal",
     "wareId": 9655,
-    "spriteHashHex": "1D879A16E8244A8EA076458A104796DB"
+    "spriteHashHex": "1D879A16E8244A8EA076458A104796DB",
+    "xmlIdRaw": "10572"
   }
 }

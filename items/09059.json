@@ -41,6 +41,7 @@
     "type": "None",
     "name": "small lamp",
     "wareId": 9059,
-    "spriteHashHex": "EA423CDDC0DA24A8599ADCFD7B76AF0C"
+    "spriteHashHex": "EA423CDDC0DA24A8599ADCFD7B76AF0C",
+    "xmlIdRaw": "9972"
   }
 }

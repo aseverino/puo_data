@@ -71,6 +71,7 @@
     "name": "earth war axe",
     "isAnimation": true,
     "wareId": 788,
-    "spriteHashHex": "238747B7349FB3F0C1D78B6BE9083637"
+    "spriteHashHex": "238747B7349FB3F0C1D78B6BE9083637",
+    "xmlIdRaw": "7863"
   }
 }

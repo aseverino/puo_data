@@ -29,10 +29,10 @@
       ]
     },
     "spriteIds": [
-      141146,
-      141147,
-      141148,
-      141149
+      147574,
+      147575,
+      147576,
+      147577
     ]
   },
   "server": {
@@ -41,6 +41,7 @@
     "hasHeight": true,
     "alwaysOnTopOrder": 2,
     "spriteHashHex": "42F09F12CA6170F93F6066E58F3BCD44",
+    "xmlIdRaw": "3186",
     "xmlAttributes": {
       "floorchange": "south"
     }

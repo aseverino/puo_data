@@ -43,6 +43,7 @@
     "type": "None",
     "name": "umbral mace",
     "wareId": 20077,
-    "spriteHashHex": "BCE7AE2DA72A21DAB8063FCF342BA4BD"
+    "spriteHashHex": "BCE7AE2DA72A21DAB8063FCF342BA4BD",
+    "xmlIdRaw": "22411"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "voluminous piece of cloth",
     "wareId": 12553,
-    "spriteHashHex": "8E69FA372EDDF2F7A2E36D67026CB153"
+    "spriteHashHex": "8E69FA372EDDF2F7A2E36D67026CB153",
+    "xmlIdRaw": "13542"
   }
 }

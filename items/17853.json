@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lost bracers",
     "wareId": 17853,
-    "spriteHashHex": "FBAA5081AC749D08C07F833332B9F63A"
+    "spriteHashHex": "FBAA5081AC749D08C07F833332B9F63A",
+    "xmlIdRaw": "20133"
   }
 }

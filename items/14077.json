@@ -38,6 +38,7 @@
     "type": "None",
     "name": "kollos shell",
     "wareId": 14077,
-    "spriteHashHex": "74371D4635E5BEDCA601D7D7735C98C3"
+    "spriteHashHex": "74371D4635E5BEDCA601D7D7735C98C3",
+    "xmlIdRaw": "15480"
   }
 }

@@ -55,6 +55,7 @@
     "name": "queen\u0027s sceptre",
     "isAnimation": true,
     "wareId": 7410,
-    "spriteHashHex": "D7376E998181A2C07183EC02C1A13331"
+    "spriteHashHex": "D7376E998181A2C07183EC02C1A13331",
+    "xmlIdRaw": "7410"
   }
 }

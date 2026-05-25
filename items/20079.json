@@ -42,6 +42,7 @@
     "type": "None",
     "name": "crude umbral hammer",
     "wareId": 20079,
-    "spriteHashHex": "EF80A3D49B145952BACA1B162B6B4A29"
+    "spriteHashHex": "EF80A3D49B145952BACA1B162B6B4A29",
+    "xmlIdRaw": "22413"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "royal spear",
     "wareId": 7378,
-    "spriteHashHex": "005B66A0C45AC14D429DD8989441239A"
+    "spriteHashHex": "005B66A0C45AC14D429DD8989441239A",
+    "xmlIdRaw": "7378"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "draken boots",
     "wareId": 4033,
-    "spriteHashHex": "4388F8F3E50120632D17719F200FB51E"
+    "spriteHashHex": "4388F8F3E50120632D17719F200FB51E",
+    "xmlIdRaw": "12646"
   }
 }

@@ -42,6 +42,7 @@
     "type": "None",
     "name": "mythril axe",
     "wareId": 7455,
-    "spriteHashHex": "D0CD00876669ED825C5450F1CA64623F"
+    "spriteHashHex": "D0CD00876669ED825C5450F1CA64623F",
+    "xmlIdRaw": "7455"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "sling herb",
     "wareId": 3738,
-    "spriteHashHex": "26CB45906B7C89F69BDB7277F057EA28"
+    "spriteHashHex": "26CB45906B7C89F69BDB7277F057EA28",
+    "xmlIdRaw": "2802"
   }
 }

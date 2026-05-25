@@ -134,6 +134,7 @@
     "name": "engraved wedding ring",
     "isAnimation": true,
     "wareId": 9585,
-    "spriteHashHex": "CB02F6678022519D0251DDA321DB6B21"
+    "spriteHashHex": "CB02F6678022519D0251DDA321DB6B21",
+    "xmlIdRaw": "10502"
   }
 }

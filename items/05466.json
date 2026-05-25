@@ -41,6 +41,7 @@
     "name": "bunch of sugar cane",
     "hasHeight": true,
     "wareId": 5466,
-    "spriteHashHex": "BFC1004EFBB6711352CC1EAE331E18B0"
+    "spriteHashHex": "BFC1004EFBB6711352CC1EAE331E18B0",
+    "xmlIdRaw": "5467"
   }
 }

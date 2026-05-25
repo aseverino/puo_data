@@ -40,6 +40,7 @@
     "type": "None",
     "name": "bar of chocolate",
     "wareId": 6574,
-    "spriteHashHex": "9E09306AD29AD543E57EC00B821F5C1D"
+    "spriteHashHex": "9E09306AD29AD543E57EC00B821F5C1D",
+    "xmlIdRaw": "6574"
   }
 }

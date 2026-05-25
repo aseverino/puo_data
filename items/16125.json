@@ -45,6 +45,7 @@
     "type": "None",
     "name": "cyan crystal fragment",
     "wareId": 16125,
-    "spriteHashHex": "9C65A882872DE59366114C53A45992FC"
+    "spriteHashHex": "9C65A882872DE59366114C53A45992FC",
+    "xmlIdRaw": "18419"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "message in a bottle",
     "wareId": 5802,
-    "spriteHashHex": "8C171B25D68038AB37AF81F753BD715A"
+    "spriteHashHex": "8C171B25D68038AB37AF81F753BD715A",
+    "xmlIdRaw": "5802"
   }
 }

@@ -47,6 +47,7 @@
     "type": "None",
     "name": "chocolate cake",
     "wareId": 8019,
-    "spriteHashHex": "1DF86EC9D0D165F4CC7515782C4009D5"
+    "spriteHashHex": "1DF86EC9D0D165F4CC7515782C4009D5",
+    "xmlIdRaw": "8847"
   }
 }

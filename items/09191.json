@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bundle of rags",
     "wareId": 9191,
-    "spriteHashHex": "75249FF05EE63C03D2761B942C6541E8"
+    "spriteHashHex": "75249FF05EE63C03D2761B942C6541E8",
+    "xmlIdRaw": "10109"
   }
 }

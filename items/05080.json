@@ -38,6 +38,7 @@
     "type": "None",
     "name": "panda teddy",
     "wareId": 5080,
-    "spriteHashHex": "CE3D71ADD2402738BB5A73F4EC32EF84"
+    "spriteHashHex": "CE3D71ADD2402738BB5A73F4EC32EF84",
+    "xmlIdRaw": "5080"
   }
 }

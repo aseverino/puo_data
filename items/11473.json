@@ -38,6 +38,7 @@
     "type": "None",
     "name": "purple robe",
     "wareId": 11473,
-    "spriteHashHex": "2C48B2C216FBB5CF81D37A7507DD4599"
+    "spriteHashHex": "2C48B2C216FBB5CF81D37A7507DD4599",
+    "xmlIdRaw": "12429"
   }
 }

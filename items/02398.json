@@ -37,6 +37,7 @@
     "type": "None",
     "name": "round blue pillow",
     "wareId": 2398,
-    "spriteHashHex": "4DC3D15B3A8795D1E9DEA9DBC46F70C3"
+    "spriteHashHex": "4DC3D15B3A8795D1E9DEA9DBC46F70C3",
+    "xmlIdRaw": "1690"
   }
 }

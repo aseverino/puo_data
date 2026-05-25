@@ -49,6 +49,7 @@
     "type": "None",
     "name": "silky tapestry",
     "wareId": 9046,
-    "spriteHashHex": "814CD7D91B80EC155A1FAE5BF497BB7A"
+    "spriteHashHex": "814CD7D91B80EC155A1FAE5BF497BB7A",
+    "xmlIdRaw": "9959"
   }
 }

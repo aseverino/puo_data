@@ -41,6 +41,7 @@
     "type": "None",
     "name": "elite draken helmet",
     "wareId": 11689,
-    "spriteHashHex": "241E797BE70F55B40FF2D414C276A82D"
+    "spriteHashHex": "241E797BE70F55B40FF2D414C276A82D",
+    "xmlIdRaw": "12645"
   }
 }

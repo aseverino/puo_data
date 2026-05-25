@@ -55,6 +55,7 @@
     "name": "fishnapped goldfish",
     "isAnimation": true,
     "wareId": 7936,
-    "spriteHashHex": "4D8B70DAB219F4887FE3F0DA73182B1B"
+    "spriteHashHex": "4D8B70DAB219F4887FE3F0DA73182B1B",
+    "xmlIdRaw": "8766"
   }
 }

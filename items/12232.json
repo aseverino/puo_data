@@ -39,6 +39,7 @@
     "type": "None",
     "name": "rotten witches\u0027 cauldron seed",
     "wareId": 12232,
-    "spriteHashHex": "D6891D1D6BDE19E7F2723749C89D317C"
+    "spriteHashHex": "D6891D1D6BDE19E7F2723749C89D317C",
+    "xmlIdRaw": "13219"
   }
 }

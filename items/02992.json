@@ -48,6 +48,7 @@
     "type": "None",
     "name": "snowball",
     "wareId": 2992,
-    "spriteHashHex": "FCEF61C2670F6BA10863D78B95A3D48E"
+    "spriteHashHex": "FCEF61C2670F6BA10863D78B95A3D48E",
+    "xmlIdRaw": "2111"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "exotic flowers",
     "wareId": 2988,
-    "spriteHashHex": "C01273DD4E3CB677D82D79248D6285B5"
+    "spriteHashHex": "C01273DD4E3CB677D82D79248D6285B5",
+    "xmlIdRaw": "2107"
   }
 }

@@ -45,6 +45,7 @@
     "type": "None",
     "name": "green crystal shard",
     "wareId": 16121,
-    "spriteHashHex": "AA73DE583E2A047D8541D35E3CBF4D36"
+    "spriteHashHex": "AA73DE583E2A047D8541D35E3CBF4D36",
+    "xmlIdRaw": "18415"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "white mushroom",
     "wareId": 3723,
-    "spriteHashHex": "5F2D07C9497E3AEC32733E712DA7A1AE"
+    "spriteHashHex": "5F2D07C9497E3AEC32733E712DA7A1AE",
+    "xmlIdRaw": "2787"
   }
 }

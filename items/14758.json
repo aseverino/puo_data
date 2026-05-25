@@ -71,6 +71,7 @@
     "name": "premium scroll",
     "isAnimation": true,
     "wareId": 14758,
-    "spriteHashHex": "E6996907F9FD5C43FD2154DA496FA77A"
+    "spriteHashHex": "E6996907F9FD5C43FD2154DA496FA77A",
+    "xmlIdRaw": "16101"
   }
 }

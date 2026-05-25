@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golden amulet",
     "wareId": 3013,
-    "spriteHashHex": "A9EF29B1D469794B30BCE86D89FBB324"
+    "spriteHashHex": "A9EF29B1D469794B30BCE86D89FBB324",
+    "xmlIdRaw": "2130"
   }
 }

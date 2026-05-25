@@ -39,6 +39,7 @@
     "type": "None",
     "name": "screaming cherry",
     "wareId": 12229,
-    "spriteHashHex": "AEC578AE2115B8A930BD38860BA11128"
+    "spriteHashHex": "AEC578AE2115B8A930BD38860BA11128",
+    "xmlIdRaw": "13216"
   }
 }

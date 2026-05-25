@@ -38,6 +38,7 @@
     "type": "None",
     "name": "hemp rope",
     "wareId": 20206,
-    "spriteHashHex": "78FDAC8FA555412103C01164C3B6FAA7"
+    "spriteHashHex": "78FDAC8FA555412103C01164C3B6FAA7",
+    "xmlIdRaw": "22540"
   }
 }

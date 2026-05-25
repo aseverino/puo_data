@@ -47,6 +47,7 @@
     "type": "None",
     "name": "dark lord\u0027s cape",
     "wareId": 8037,
-    "spriteHashHex": "B57ADBA9066868305D941ED51C5DEF3C"
+    "spriteHashHex": "B57ADBA9066868305D941ED51C5DEF3C",
+    "xmlIdRaw": "8865"
   }
 }

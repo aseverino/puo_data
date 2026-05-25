@@ -107,6 +107,7 @@
     "name": "wand of defiance",
     "isAnimation": true,
     "wareId": 16096,
-    "spriteHashHex": "007C6E583A10F9FBEDF866DDE35343F2"
+    "spriteHashHex": "007C6E583A10F9FBEDF866DDE35343F2",
+    "xmlIdRaw": "18390"
   }
 }

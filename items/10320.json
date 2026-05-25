@@ -38,6 +38,7 @@
     "type": "None",
     "name": "book of necromantic rituals",
     "wareId": 10320,
-    "spriteHashHex": "785731C36A81E506AD2D9D5E78C101B5"
+    "spriteHashHex": "785731C36A81E506AD2D9D5E78C101B5",
+    "xmlIdRaw": "11237"
   }
 }

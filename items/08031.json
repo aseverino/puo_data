@@ -40,6 +40,7 @@
     "type": "None",
     "name": "spider fangs",
     "wareId": 8031,
-    "spriteHashHex": "A97DFA292BF7135004049843D4C7AF91"
+    "spriteHashHex": "A97DFA292BF7135004049843D4C7AF91",
+    "xmlIdRaw": "8859"
   }
 }

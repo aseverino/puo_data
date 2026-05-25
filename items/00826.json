@@ -59,6 +59,7 @@
     "name": "magma coat",
     "isAnimation": true,
     "wareId": 826,
-    "spriteHashHex": "F551122EDFDB06740773D5E4E3658FE5"
+    "spriteHashHex": "F551122EDFDB06740773D5E4E3658FE5",
+    "xmlIdRaw": "7899"
   }
 }

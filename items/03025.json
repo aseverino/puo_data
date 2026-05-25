@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ancient amulet",
     "wareId": 3025,
-    "spriteHashHex": "AFFB79615198D49D7E2CFF8DC89B5F91"
+    "spriteHashHex": "AFFB79615198D49D7E2CFF8DC89B5F91",
+    "xmlIdRaw": "2142"
   }
 }

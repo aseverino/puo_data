@@ -68,6 +68,7 @@
     "name": "smoking coal",
     "isAnimation": true,
     "wareId": 19251,
-    "spriteHashHex": "929506EEB56B7ED9D6628E4FA7276774"
+    "spriteHashHex": "929506EEB56B7ED9D6628E4FA7276774",
+    "xmlIdRaw": "21585"
   }
 }

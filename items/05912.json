@@ -38,6 +38,7 @@
     "type": "None",
     "name": "blue piece of cloth",
     "wareId": 5912,
-    "spriteHashHex": "CD5E3AA57FF3FDD88E6345709BA345D8"
+    "spriteHashHex": "CD5E3AA57FF3FDD88E6345709BA345D8",
+    "xmlIdRaw": "5912"
   }
 }

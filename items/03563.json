@@ -39,6 +39,7 @@
     "type": "None",
     "name": "green tunic",
     "wareId": 3563,
-    "spriteHashHex": "9D94B0D8CC162682D2A4F86958F9B43A"
+    "spriteHashHex": "9D94B0D8CC162682D2A4F86958F9B43A",
+    "xmlIdRaw": "2652"
   }
 }

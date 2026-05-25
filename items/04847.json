@@ -37,6 +37,7 @@
     "type": "None",
     "name": "funeral urn",
     "wareId": 4847,
-    "spriteHashHex": "CC0F2F429DB103217F42A8DB02D80785"
+    "spriteHashHex": "CC0F2F429DB103217F42A8DB02D80785",
+    "xmlIdRaw": "4858"
   }
 }

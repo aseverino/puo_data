@@ -39,6 +39,7 @@
     "type": "None",
     "name": "war horn",
     "wareId": 2958,
-    "spriteHashHex": "D69D87EF6ABB59830684EE9BE912A990"
+    "spriteHashHex": "D69D87EF6ABB59830684EE9BE912A990",
+    "xmlIdRaw": "2079"
   }
 }

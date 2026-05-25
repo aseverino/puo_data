@@ -42,6 +42,7 @@
     "type": "None",
     "name": "eye of the storm",
     "wareId": 19369,
-    "spriteHashHex": "F65DA6240330FCE6F34C102B23572A46"
+    "spriteHashHex": "F65DA6240330FCE6F34C102B23572A46",
+    "xmlIdRaw": "21703"
   }
 }

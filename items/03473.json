@@ -37,6 +37,7 @@
     "type": "None",
     "name": "rolling pin",
     "wareId": 3473,
-    "spriteHashHex": "1CDAD96CAE1A811E5568C62A8571C4C0"
+    "spriteHashHex": "1CDAD96CAE1A811E5568C62A8571C4C0",
+    "xmlIdRaw": "2570"
   }
 }

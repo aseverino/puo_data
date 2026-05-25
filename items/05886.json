@@ -38,6 +38,7 @@
     "type": "None",
     "name": "spool of yarn",
     "wareId": 5886,
-    "spriteHashHex": "F7C0C28D1448468512D621345B1B1A12"
+    "spriteHashHex": "F7C0C28D1448468512D621345B1B1A12",
+    "xmlIdRaw": "5886"
   }
 }

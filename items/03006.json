@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ring of the sky",
     "wareId": 3006,
-    "spriteHashHex": "75B99419D8B4945D123811438A077848"
+    "spriteHashHex": "75B99419D8B4945D123811438A077848",
+    "xmlIdRaw": "2123"
   }
 }

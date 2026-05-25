@@ -37,6 +37,7 @@
     "type": "None",
     "name": "jester staff",
     "wareId": 895,
-    "spriteHashHex": "7AD04263B8640F50136CCAA4805D104F"
+    "spriteHashHex": "7AD04263B8640F50136CCAA4805D104F",
+    "xmlIdRaw": "7958"
   }
 }

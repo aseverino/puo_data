@@ -39,6 +39,7 @@
     "type": "None",
     "name": "pair of soft boots",
     "wareId": 6529,
-    "spriteHashHex": "CA50964F20FBE211E4ECA1794932BFF3"
+    "spriteHashHex": "CA50964F20FBE211E4ECA1794932BFF3",
+    "xmlIdRaw": "6132"
   }
 }

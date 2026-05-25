@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bloody dwarven beard",
     "wareId": 17827,
-    "spriteHashHex": "043E47671A9D70F9B119ACEC62565E3F"
+    "spriteHashHex": "043E47671A9D70F9B119ACEC62565E3F",
+    "xmlIdRaw": "20107"
   }
 }

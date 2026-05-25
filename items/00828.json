@@ -40,6 +40,7 @@
     "type": "None",
     "name": "lightning headband",
     "wareId": 828,
-    "spriteHashHex": "2DF4AC8BC4FE1D0C42FE48E8CAC95704"
+    "spriteHashHex": "2DF4AC8BC4FE1D0C42FE48E8CAC95704",
+    "xmlIdRaw": "7901"
   }
 }

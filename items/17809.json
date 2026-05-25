@@ -38,6 +38,7 @@
     "type": "None",
     "name": "bola",
     "wareId": 17809,
-    "spriteHashHex": "D320AD2C97F0E3F787A0EA3E1503CC49"
+    "spriteHashHex": "D320AD2C97F0E3F787A0EA3E1503CC49",
+    "xmlIdRaw": "20089"
   }
 }

@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "brocade bag",
     "wareId": 8861,
-    "spriteHashHex": "5F7C32ACB9354E375AB0B6CC9AF9DBCA"
+    "spriteHashHex": "5F7C32ACB9354E375AB0B6CC9AF9DBCA",
+    "xmlIdRaw": "9775"
   }
 }

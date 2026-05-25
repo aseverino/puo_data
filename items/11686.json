@@ -41,6 +41,7 @@
     "type": "None",
     "name": "royal draken mail",
     "wareId": 11686,
-    "spriteHashHex": "7CE861FAE1F63A0B383EE7B75B67346E"
+    "spriteHashHex": "7CE861FAE1F63A0B383EE7B75B67346E",
+    "xmlIdRaw": "12642"
   }
 }

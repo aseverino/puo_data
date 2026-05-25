@@ -38,6 +38,7 @@
     "type": "None",
     "name": "star herb",
     "wareId": 3736,
-    "spriteHashHex": "E774112003217A1B8FD7962DFBABE584"
+    "spriteHashHex": "E774112003217A1B8FD7962DFBABE584",
+    "xmlIdRaw": "2800"
   }
 }

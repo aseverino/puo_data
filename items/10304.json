@@ -45,6 +45,7 @@
     "type": "None",
     "name": "hellspawn tail",
     "wareId": 10304,
-    "spriteHashHex": "E2AF30DA5B0278C75D04A57B2F7AB45A"
+    "spriteHashHex": "E2AF30DA5B0278C75D04A57B2F7AB45A",
+    "xmlIdRaw": "11221"
   }
 }

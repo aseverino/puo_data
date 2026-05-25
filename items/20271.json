@@ -39,6 +39,7 @@
     "type": "None",
     "name": "copper prison key",
     "wareId": 20271,
-    "spriteHashHex": "F71DE5A8810F12F95F8F57F74DA1EB70"
+    "spriteHashHex": "F71DE5A8810F12F95F8F57F74DA1EB70",
+    "xmlIdRaw": "22605"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "destroy field rune",
     "wareId": 3148,
-    "spriteHashHex": "9A5A312E4C0A4F954425D22147DA0429"
+    "spriteHashHex": "9A5A312E4C0A4F954425D22147DA0429",
+    "xmlIdRaw": "2261"
   }
 }

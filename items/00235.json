@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bag",
     "wareId": 235,
-    "spriteHashHex": "D33E7DE993C61619D4058A7CCD80D7BB"
+    "spriteHashHex": "D33E7DE993C61619D4058A7CCD80D7BB",
+    "xmlIdRaw": "7587"
   }
 }

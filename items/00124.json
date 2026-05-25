@@ -37,6 +37,7 @@
     "type": "None",
     "name": "easily inflammable sulphur",
     "wareId": 124,
-    "spriteHashHex": "29AF93F47493D7F599EE239574EDEE76"
+    "spriteHashHex": "29AF93F47493D7F599EE239574EDEE76",
+    "xmlIdRaw": "8204"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "death ring",
     "wareId": 6299,
-    "spriteHashHex": "EB30BAEF62D7164AE711C4F503F0E419"
+    "spriteHashHex": "EB30BAEF62D7164AE711C4F503F0E419",
+    "xmlIdRaw": "6300"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "dirty turban",
     "wareId": 11456,
-    "spriteHashHex": "F955566B9DA034016345A64762F1ED43"
+    "spriteHashHex": "F955566B9DA034016345A64762F1ED43",
+    "xmlIdRaw": "12412"
   }
 }

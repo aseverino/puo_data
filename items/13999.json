@@ -41,6 +41,7 @@
     "type": "None",
     "name": "ornate legs",
     "wareId": 13999,
-    "spriteHashHex": "644FBC8A4213A01B80F29FC49CFB8680"
+    "spriteHashHex": "644FBC8A4213A01B80F29FC49CFB8680",
+    "xmlIdRaw": "15412"
   }
 }

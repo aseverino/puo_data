@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "deepling backpack",
     "wareId": 14248,
-    "spriteHashHex": "787CEEFA33367748A802097F94D562AC"
+    "spriteHashHex": "787CEEFA33367748A802097F94D562AC",
+    "xmlIdRaw": "15645"
   }
 }

@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "yellow backpack",
     "wareId": 2866,
-    "spriteHashHex": "309C725E6DCE50D20A6B1E8DF4C02E91"
+    "spriteHashHex": "309C725E6DCE50D20A6B1E8DF4C02E91",
+    "xmlIdRaw": "1999"
   }
 }

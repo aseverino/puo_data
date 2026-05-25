@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "backpack",
     "wareId": 2854,
-    "spriteHashHex": "0F7C2A777AF41B8133150EDD80606902"
+    "spriteHashHex": "0F7C2A777AF41B8133150EDD80606902",
+    "xmlIdRaw": "1988"
   }
 }

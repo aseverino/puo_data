@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "camouflage backpack",
     "wareId": 2872,
-    "spriteHashHex": "0EFFAA0F34A2E371AE23E950C8A816A2"
+    "spriteHashHex": "0EFFAA0F34A2E371AE23E950C8A816A2",
+    "xmlIdRaw": "3940"
   }
 }

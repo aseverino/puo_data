@@ -37,6 +37,7 @@
     "type": "None",
     "name": "comb",
     "wareId": 5946,
-    "spriteHashHex": "7821FEDFDFE00E92A5660C98BD60CC47"
+    "spriteHashHex": "7821FEDFDFE00E92A5660C98BD60CC47",
+    "xmlIdRaw": "5946"
   }
 }

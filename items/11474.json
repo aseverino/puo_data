@@ -116,6 +116,7 @@
     "name": "miraculum",
     "isAnimation": true,
     "wareId": 11474,
-    "spriteHashHex": "977291D202E85336BA32DC32F90416BE"
+    "spriteHashHex": "977291D202E85336BA32DC32F90416BE",
+    "xmlIdRaw": "12430"
   }
 }

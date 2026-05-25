@@ -40,6 +40,7 @@
     "type": "None",
     "name": "glimmering soil",
     "wareId": 941,
-    "spriteHashHex": "49D739AD42A2B23845E96F99B85D1B31"
+    "spriteHashHex": "49D739AD42A2B23845E96F99B85D1B31",
+    "xmlIdRaw": "8299"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "tropical fried terrorbird",
     "wareId": 9082,
-    "spriteHashHex": "26130C6FDE38D067DE4D8BC4AC229DD1"
+    "spriteHashHex": "26130C6FDE38D067DE4D8BC4AC229DD1",
+    "xmlIdRaw": "9995"
   }
 }

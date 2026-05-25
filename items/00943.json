@@ -40,6 +40,7 @@
     "type": "None",
     "name": "holy soil",
     "wareId": 943,
-    "spriteHashHex": "22243F80E04349B4288D4408E09F110F"
+    "spriteHashHex": "22243F80E04349B4288D4408E09F110F",
+    "xmlIdRaw": "8303"
   }
 }

@@ -29,24 +29,34 @@
       0,
       0,
       0,
-      141108,
+      147535,
       0,
       0,
       0,
-      141109,
+      147536,
+      0,
+      0,
+      147537,
+      147538,
       0,
       0,
       0,
-      141110,
-      0,
-      0,
-      0,
-      141111
+      147539
     ]
   },
   "server": {
     "serverId": 3175,
     "type": "Ground",
-    "spriteHashHex": "713BF1E6D2654AD2A6FBEDF86BA318C8"
+    "spriteHashHex": "713BF1E6D2654AD2A6FBEDF86BA318C8",
+    "xmlIdRaw": "3175",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

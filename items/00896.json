@@ -84,6 +84,7 @@
     "name": "Firlefanz",
     "isAnimation": true,
     "wareId": 896,
-    "spriteHashHex": "7DBD0124993157C0F29F90415413B72C"
+    "spriteHashHex": "7DBD0124993157C0F29F90415413B72C",
+    "xmlIdRaw": "7959"
   }
 }

@@ -46,6 +46,7 @@
     "type": "None",
     "name": "rice ball",
     "wareId": 10329,
-    "spriteHashHex": "15EE3A7E18CA81AF718DEBD44250D48A"
+    "spriteHashHex": "15EE3A7E18CA81AF718DEBD44250D48A",
+    "xmlIdRaw": "11246"
   }
 }

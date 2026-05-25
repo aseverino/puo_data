@@ -46,6 +46,7 @@
     "type": "None",
     "name": "cheese cookie",
     "wareId": 11685,
-    "spriteHashHex": "869021DDC717519668688856326E88CF"
+    "spriteHashHex": "869021DDC717519668688856326E88CF",
+    "xmlIdRaw": "12641"
   }
 }

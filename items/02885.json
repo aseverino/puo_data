@@ -40,6 +40,7 @@
     "type": "Fluid",
     "name": "brown flask",
     "wareId": 2885,
-    "spriteHashHex": "D67DA20D683F02EFE65E63196C96F32E"
+    "spriteHashHex": "D67DA20D683F02EFE65E63196C96F32E",
+    "xmlIdRaw": "2015"
   }
 }

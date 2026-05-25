@@ -41,6 +41,7 @@
     "type": "None",
     "name": "violet crystal shard",
     "wareId": 16120,
-    "spriteHashHex": "57CCBFA260764344124F79F36104CE14"
+    "spriteHashHex": "57CCBFA260764344124F79F36104CE14",
+    "xmlIdRaw": "18414"
   }
 }

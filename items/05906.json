@@ -38,6 +38,7 @@
     "type": "None",
     "name": "demon dust",
     "wareId": 5906,
-    "spriteHashHex": "3469D9B04CBD8D8723BF30AA07D6955B"
+    "spriteHashHex": "3469D9B04CBD8D8723BF30AA07D6955B",
+    "xmlIdRaw": "5906"
   }
 }

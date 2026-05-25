@@ -42,6 +42,7 @@
     "type": "None",
     "name": "havoc blade",
     "wareId": 7405,
-    "spriteHashHex": "EA9E4589C95C9765066B80C2EBA19685"
+    "spriteHashHex": "EA9E4589C95C9765066B80C2EBA19685",
+    "xmlIdRaw": "7405"
   }
 }

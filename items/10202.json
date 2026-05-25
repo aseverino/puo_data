@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "heart backpack",
     "wareId": 10202,
-    "spriteHashHex": "D256C51E77172DA7F222EFB9724CF220"
+    "spriteHashHex": "D256C51E77172DA7F222EFB9724CF220",
+    "xmlIdRaw": "11119"
   }
 }

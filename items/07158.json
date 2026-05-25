@@ -39,6 +39,7 @@
     "type": "None",
     "name": "rainbow trout",
     "wareId": 7158,
-    "spriteHashHex": "D14491C4BEA59124DA81EC45A7A4024B"
+    "spriteHashHex": "D14491C4BEA59124DA81EC45A7A4024B",
+    "xmlIdRaw": "7158"
   }
 }

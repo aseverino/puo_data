@@ -37,6 +37,7 @@
     "type": "None",
     "name": "dream warden mask",
     "wareId": 20276,
-    "spriteHashHex": "D562C6A31E057BEBA97A2C77C87B77F8"
+    "spriteHashHex": "D562C6A31E057BEBA97A2C77C87B77F8",
+    "xmlIdRaw": "22610"
   }
 }

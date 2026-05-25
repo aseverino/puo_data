@@ -38,6 +38,7 @@
     "type": "None",
     "name": "red lantern",
     "wareId": 10289,
-    "spriteHashHex": "3BFFA0D4557BBF3AF86DB7F7AE7DDD63"
+    "spriteHashHex": "3BFFA0D4557BBF3AF86DB7F7AE7DDD63",
+    "xmlIdRaw": "11206"
   }
 }

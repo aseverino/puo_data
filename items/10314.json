@@ -38,6 +38,7 @@
     "type": "None",
     "name": "nettle blossom",
     "wareId": 10314,
-    "spriteHashHex": "96E6A5F42ECEEA17B2CD964AFC0266C2"
+    "spriteHashHex": "96E6A5F42ECEEA17B2CD964AFC0266C2",
+    "xmlIdRaw": "11231"
   }
 }

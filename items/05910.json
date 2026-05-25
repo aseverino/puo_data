@@ -38,6 +38,7 @@
     "type": "None",
     "name": "green piece of cloth",
     "wareId": 5910,
-    "spriteHashHex": "866DA31126A7E25EDED431EC1E455AFD"
+    "spriteHashHex": "866DA31126A7E25EDED431EC1E455AFD",
+    "xmlIdRaw": "5910"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "Morik\u0027s helmet",
     "wareId": 8820,
-    "spriteHashHex": "40F839FDAE1589D62D95C9D480E395D5"
+    "spriteHashHex": "40F839FDAE1589D62D95C9D480E395D5",
+    "xmlIdRaw": "9735"
   }
 }

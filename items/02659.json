@@ -49,6 +49,7 @@
     "type": "None",
     "name": "blue tapestry",
     "wareId": 2659,
-    "spriteHashHex": "A034BCE4A3CA1961A426CB5FE2947D52"
+    "spriteHashHex": "A034BCE4A3CA1961A426CB5FE2947D52",
+    "xmlIdRaw": "1872"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "egg",
     "wareId": 3606,
-    "spriteHashHex": "B76A030727A10D7FCC1218544356F7FB"
+    "spriteHashHex": "B76A030727A10D7FCC1218544356F7FB",
+    "xmlIdRaw": "2328"
   }
 }

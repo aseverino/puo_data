@@ -37,6 +37,7 @@
     "type": "None",
     "name": "small turquoise pillow",
     "wareId": 2391,
-    "spriteHashHex": "8CAF5942C7A421FA548A230C530B16F2"
+    "spriteHashHex": "8CAF5942C7A421FA548A230C530B16F2",
+    "xmlIdRaw": "1683"
   }
 }

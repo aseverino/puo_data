@@ -37,6 +37,7 @@
     "type": "None",
     "name": "gem holder",
     "wareId": 3223,
-    "spriteHashHex": "3FCE7D22D5E7C785FD19FB8261FCADA2"
+    "spriteHashHex": "3FCE7D22D5E7C785FD19FB8261FCADA2",
+    "xmlIdRaw": "2336"
   }
 }

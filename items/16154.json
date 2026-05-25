@@ -57,6 +57,7 @@
     "name": "glow wine",
     "isAnimation": true,
     "wareId": 16154,
-    "spriteHashHex": "9C9FF73B825AB56545ABD118A0F0E9C3"
+    "spriteHashHex": "9C9FF73B825AB56545ABD118A0F0E9C3",
+    "xmlIdRaw": "18448"
   }
 }

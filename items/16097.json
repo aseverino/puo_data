@@ -41,6 +41,7 @@
     "type": "None",
     "name": "glowing mushroom",
     "wareId": 16097,
-    "spriteHashHex": "95ACF1D3555D8EDB59EE369AEF7C100E"
+    "spriteHashHex": "95ACF1D3555D8EDB59EE369AEF7C100E",
+    "xmlIdRaw": "18391"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "golden rune emblem",
     "wareId": 11646,
-    "spriteHashHex": "B7D5987045FB3C606C3BD9BB66D09272"
+    "spriteHashHex": "B7D5987045FB3C606C3BD9BB66D09272",
+    "xmlIdRaw": "12602"
   }
 }

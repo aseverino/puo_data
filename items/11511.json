@@ -38,6 +38,7 @@
     "type": "None",
     "name": "banana sash",
     "wareId": 11511,
-    "spriteHashHex": "2E16BF3F3598AB1592C3870F32E16361"
+    "spriteHashHex": "2E16BF3F3598AB1592C3870F32E16361",
+    "xmlIdRaw": "12467"
   }
 }

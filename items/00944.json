@@ -40,6 +40,7 @@
     "type": "None",
     "name": "iced soil",
     "wareId": 944,
-    "spriteHashHex": "23CB98A08BF9AE00B459B30BD8ACA72D"
+    "spriteHashHex": "23CB98A08BF9AE00B459B30BD8ACA72D",
+    "xmlIdRaw": "8302"
   }
 }

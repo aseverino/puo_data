@@ -41,6 +41,7 @@
     "type": "None",
     "name": "depth scutum",
     "wareId": 13998,
-    "spriteHashHex": "E45B0B2365D97118F8C8C924AA168A9E"
+    "spriteHashHex": "E45B0B2365D97118F8C8C924AA168A9E",
+    "xmlIdRaw": "15411"
   }
 }

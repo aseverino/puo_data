@@ -39,6 +39,7 @@
     "type": "None",
     "name": "rare crystal",
     "wareId": 9697,
-    "spriteHashHex": "F82896A816C9CF78848DDCC59EB251A3"
+    "spriteHashHex": "F82896A816C9CF78848DDCC59EB251A3",
+    "xmlIdRaw": "10614"
   }
 }

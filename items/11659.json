@@ -38,6 +38,7 @@
     "type": "None",
     "name": "draken wristbands",
     "wareId": 11659,
-    "spriteHashHex": "BCAD61DF3EC1BF3548F36F47384266D7"
+    "spriteHashHex": "BCAD61DF3EC1BF3548F36F47384266D7",
+    "xmlIdRaw": "12615"
   }
 }

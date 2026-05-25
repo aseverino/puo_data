@@ -38,6 +38,7 @@
     "type": "None",
     "name": "swampling moss",
     "wareId": 17822,
-    "spriteHashHex": "1EF46EC517A8A702925D9D2D5AE12314"
+    "spriteHashHex": "1EF46EC517A8A702925D9D2D5AE12314",
+    "xmlIdRaw": "20102"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "drakinata",
     "wareId": 10388,
-    "spriteHashHex": "CEE10EF1AFB51998B099ECE2BF777022"
+    "spriteHashHex": "CEE10EF1AFB51998B099ECE2BF777022",
+    "xmlIdRaw": "11305"
   }
 }

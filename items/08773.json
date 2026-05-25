@@ -40,6 +40,7 @@
     "name": "Iriana\u0027s chest",
     "hasHeight": true,
     "wareId": 8773,
-    "spriteHashHex": "7F2E68F28B063B0B363058BC8D2F5508"
+    "spriteHashHex": "7F2E68F28B063B0B363058BC8D2F5508",
+    "xmlIdRaw": "9688"
   }
 }

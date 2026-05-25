@@ -39,6 +39,7 @@
     "type": "None",
     "name": "leather harness",
     "wareId": 17846,
-    "spriteHashHex": "C1C0DF76219A735A0CB2FDD94E1D59E2"
+    "spriteHashHex": "C1C0DF76219A735A0CB2FDD94E1D59E2",
+    "xmlIdRaw": "20126"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "ectoplasm container",
     "wareId": 4852,
-    "spriteHashHex": "F7CC7097030DF724ADA9D4E93C9C9BEF"
+    "spriteHashHex": "F7CC7097030DF724ADA9D4E93C9C9BEF",
+    "xmlIdRaw": "4863"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "scale of corruption",
     "wareId": 11673,
-    "spriteHashHex": "B8C98640F22C6018BE08872C5E872CFE"
+    "spriteHashHex": "B8C98640F22C6018BE08872C5E872CFE",
+    "xmlIdRaw": "12629"
   }
 }

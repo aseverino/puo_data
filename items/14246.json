@@ -40,6 +40,7 @@
     "type": "None",
     "name": "hive bow",
     "wareId": 14246,
-    "spriteHashHex": "F9ACE48D2E8C116B26DCE590345444AA"
+    "spriteHashHex": "F9ACE48D2E8C116B26DCE590345444AA",
+    "xmlIdRaw": "15643"
   }
 }

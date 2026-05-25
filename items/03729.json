@@ -39,6 +39,7 @@
     "type": "None",
     "name": "some mushrooms",
     "wareId": 3729,
-    "spriteHashHex": "95F22665E651FE871097497402E6A604"
+    "spriteHashHex": "95F22665E651FE871097497402E6A604",
+    "xmlIdRaw": "2793"
   }
 }

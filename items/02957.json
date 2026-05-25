@@ -38,6 +38,7 @@
     "type": "None",
     "name": "post horn",
     "wareId": 2957,
-    "spriteHashHex": "B5DD6946D3B468842403D89133AD0208"
+    "spriteHashHex": "B5DD6946D3B468842403D89133AD0208",
+    "xmlIdRaw": "14332"
   }
 }

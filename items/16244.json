@@ -39,6 +39,7 @@
     "type": "None",
     "name": "music box",
     "wareId": 16244,
-    "spriteHashHex": "E9E86D6FC3E0058C17B8F6F1B961A9B0"
+    "spriteHashHex": "E9E86D6FC3E0058C17B8F6F1B961A9B0",
+    "xmlIdRaw": "18511"
   }
 }

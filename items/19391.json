@@ -57,6 +57,7 @@
     "name": "furious frock",
     "isAnimation": true,
     "wareId": 19391,
-    "spriteHashHex": "AEB4D81550C70CEA0835FEBAB2020D04"
+    "spriteHashHex": "AEB4D81550C70CEA0835FEBAB2020D04",
+    "xmlIdRaw": "21725"
   }
 }

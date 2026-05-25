@@ -40,6 +40,7 @@
     "type": "None",
     "name": "head of Gnomevil",
     "wareId": 16239,
-    "spriteHashHex": "89B077D09F973B0F90D99DF899DCAB5B"
+    "spriteHashHex": "89B077D09F973B0F90D99DF899DCAB5B",
+    "xmlIdRaw": "18507"
   }
 }

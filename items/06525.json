@@ -49,6 +49,7 @@
     "type": "None",
     "name": "skeleton decoration",
     "wareId": 6525,
-    "spriteHashHex": "E9FF4C6DA29E10E570DA25756E3F2458"
+    "spriteHashHex": "E9FF4C6DA29E10E570DA25756E3F2458",
+    "xmlIdRaw": "6526"
   }
 }

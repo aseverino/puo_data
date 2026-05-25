@@ -37,6 +37,7 @@
     "type": "None",
     "name": "bear doll",
     "wareId": 3001,
-    "spriteHashHex": "7A3E82F6DCFE6961C5807FDF9C11541A"
+    "spriteHashHex": "7A3E82F6DCFE6961C5807FDF9C11541A",
+    "xmlIdRaw": "3954"
   }
 }

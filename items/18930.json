@@ -40,6 +40,7 @@
     "type": "None",
     "name": "pieces of magic chalk",
     "wareId": 18930,
-    "spriteHashHex": "61FE2BB063ABBC28E0AAF332B209D350"
+    "spriteHashHex": "61FE2BB063ABBC28E0AAF332B209D350",
+    "xmlIdRaw": "21247"
   }
 }

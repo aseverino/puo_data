@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golden fir cone",
     "wareId": 12550,
-    "spriteHashHex": "E457C52D08C1FAEBC1FB736AE5C8C69F"
+    "spriteHashHex": "E457C52D08C1FAEBC1FB736AE5C8C69F",
+    "xmlIdRaw": "13539"
   }
 }

@@ -41,6 +41,7 @@
     "type": "None",
     "name": "prismatic helmet",
     "wareId": 16109,
-    "spriteHashHex": "90771CF319C1FD87B35EEC7F30553D78"
+    "spriteHashHex": "90771CF319C1FD87B35EEC7F30553D78",
+    "xmlIdRaw": "18403"
   }
 }

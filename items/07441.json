@@ -41,6 +41,7 @@
     "name": "ice cube",
     "hasHeight": true,
     "wareId": 7441,
-    "spriteHashHex": "1822E064AA141FF73B71F5DDD7189E74"
+    "spriteHashHex": "1822E064AA141FF73B71F5DDD7189E74",
+    "xmlIdRaw": "7441"
   }
 }

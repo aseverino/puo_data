@@ -46,6 +46,7 @@
     "name": "fiery heart",
     "isAnimation": true,
     "wareId": 9636,
-    "spriteHashHex": "01FC39F4293C4A4B52F45B1251260C61"
+    "spriteHashHex": "01FC39F4293C4A4B52F45B1251260C61",
+    "xmlIdRaw": "10553"
   }
 }

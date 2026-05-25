@@ -38,6 +38,7 @@
     "type": "None",
     "name": "lost basher\u0027s spike",
     "wareId": 17826,
-    "spriteHashHex": "DC280FCA64FD3BA7603007ECB5AC8AB9"
+    "spriteHashHex": "DC280FCA64FD3BA7603007ECB5AC8AB9",
+    "xmlIdRaw": "20106"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "high guard flag",
     "wareId": 10415,
-    "spriteHashHex": "D7DCC12C85391F479A5DCAB6D8FBA4A9"
+    "spriteHashHex": "D7DCC12C85391F479A5DCAB6D8FBA4A9",
+    "xmlIdRaw": "11332"
   }
 }

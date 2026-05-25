@@ -38,6 +38,7 @@
     "type": "None",
     "name": "compass",
     "wareId": 10302,
-    "spriteHashHex": "BA2D102C4AE44532304A2F743A23BC3F"
+    "spriteHashHex": "BA2D102C4AE44532304A2F743A23BC3F",
+    "xmlIdRaw": "11219"
   }
 }

@@ -60,6 +60,7 @@
     "name": "Rerun\u0027s ring",
     "isAnimation": true,
     "wareId": 8777,
-    "spriteHashHex": "6AA2C40CC5AA8A6EF97F706300F6B5C9"
+    "spriteHashHex": "6AA2C40CC5AA8A6EF97F706300F6B5C9",
+    "xmlIdRaw": "14348"
   }
 }

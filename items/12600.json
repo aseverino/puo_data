@@ -47,6 +47,7 @@
     "type": "None",
     "name": "coal",
     "wareId": 12600,
-    "spriteHashHex": "C1735555B2CA32C9952FE0E9B08FF472"
+    "spriteHashHex": "C1735555B2CA32C9952FE0E9B08FF472",
+    "xmlIdRaw": "13757"
   }
 }

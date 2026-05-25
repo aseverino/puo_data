@@ -37,6 +37,7 @@
     "type": "None",
     "name": "moon flower",
     "wareId": 3655,
-    "spriteHashHex": "A496DF3183B8859B32031E3CE6A70BC2"
+    "spriteHashHex": "A496DF3183B8859B32031E3CE6A70BC2",
+    "xmlIdRaw": "2741"
   }
 }

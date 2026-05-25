@@ -42,6 +42,7 @@
     "type": "None",
     "name": "black skull",
     "wareId": 9056,
-    "spriteHashHex": "319B87939B6F0F54CB49D55EB77EB13E"
+    "spriteHashHex": "319B87939B6F0F54CB49D55EB77EB13E",
+    "xmlIdRaw": "9969"
   }
 }

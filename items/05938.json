@@ -39,6 +39,7 @@
     "type": "None",
     "name": "Ceiron\u0027s waterskin",
     "wareId": 5938,
-    "spriteHashHex": "0EBAD9E68EA7778EDC58AFC55A82964D"
+    "spriteHashHex": "0EBAD9E68EA7778EDC58AFC55A82964D",
+    "xmlIdRaw": "11399"
   }
 }

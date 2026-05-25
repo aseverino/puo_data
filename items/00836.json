@@ -39,6 +39,7 @@
     "type": "None",
     "name": "walnut",
     "wareId": 836,
-    "spriteHashHex": "F3F080E11F7B6FFA4D54BB442B11C189"
+    "spriteHashHex": "F3F080E11F7B6FFA4D54BB442B11C189",
+    "xmlIdRaw": "7909"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "coconut shoes",
     "wareId": 9017,
-    "spriteHashHex": "67E024538767DC6B0DA64F828DE29924"
+    "spriteHashHex": "67E024538767DC6B0DA64F828DE29924",
+    "xmlIdRaw": "9931"
   }
 }

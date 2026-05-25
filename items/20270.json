@@ -39,6 +39,7 @@
     "type": "None",
     "name": "silver prison key",
     "wareId": 20270,
-    "spriteHashHex": "B6FAF6A591D4DB2A6FF4178715BBE760"
+    "spriteHashHex": "B6FAF6A591D4DB2A6FF4178715BBE760",
+    "xmlIdRaw": "22604"
   }
 }

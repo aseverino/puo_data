@@ -38,6 +38,7 @@
     "type": "None",
     "name": "spellsinger\u0027s seal",
     "wareId": 14008,
-    "spriteHashHex": "B58AFE2831A7C62587A1DBE2968FE440"
+    "spriteHashHex": "B58AFE2831A7C62587A1DBE2968FE440",
+    "xmlIdRaw": "15421"
   }
 }

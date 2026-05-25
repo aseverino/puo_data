@@ -41,6 +41,7 @@
     "type": "None",
     "name": "shield of corruption",
     "wareId": 11688,
-    "spriteHashHex": "27FCB1AA3E55620CB715887E8E888E0E"
+    "spriteHashHex": "27FCB1AA3E55620CB715887E8E888E0E",
+    "xmlIdRaw": "12644"
   }
 }

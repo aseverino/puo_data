@@ -43,6 +43,7 @@
     "type": "None",
     "name": "magic wall rune",
     "wareId": 3180,
-    "spriteHashHex": "B92FF05219013117788282376B5FFBBD"
+    "spriteHashHex": "B92FF05219013117788282376B5FFBBD",
+    "xmlIdRaw": "2293"
   }
 }

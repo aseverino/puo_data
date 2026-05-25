@@ -45,6 +45,7 @@
     "name": "jade Zaoan pawn",
     "hasHeight": true,
     "wareId": 18332,
-    "spriteHashHex": "86795F81629DAA56015CFF7763D34D79"
+    "spriteHashHex": "86795F81629DAA56015CFF7763D34D79",
+    "xmlIdRaw": "20613"
   }
 }

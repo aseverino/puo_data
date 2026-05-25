@@ -58,6 +58,7 @@
     "name": "energy war hammer",
     "isAnimation": true,
     "wareId": 810,
-    "spriteHashHex": "54566E30C862393ABEF393B5ABB63524"
+    "spriteHashHex": "54566E30C862393ABEF393B5ABB63524",
+    "xmlIdRaw": "7883"
   }
 }

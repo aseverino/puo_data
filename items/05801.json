@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "jewelled backpack",
     "wareId": 5801,
-    "spriteHashHex": "753A0F7C63D5CF5B7AF9691C841C7310"
+    "spriteHashHex": "753A0F7C63D5CF5B7AF9691C841C7310",
+    "xmlIdRaw": "5801"
   }
 }

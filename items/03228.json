@@ -38,6 +38,7 @@
     "type": "None",
     "name": "helmet adornment",
     "wareId": 3228,
-    "spriteHashHex": "B1B16147C015FDFF69D2B3D2FA8D00BC"
+    "spriteHashHex": "B1B16147C015FDFF69D2B3D2FA8D00BC",
+    "xmlIdRaw": "2341"
   }
 }

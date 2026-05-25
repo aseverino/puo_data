@@ -46,6 +46,7 @@
     "type": "None",
     "name": "garlic bread",
     "wareId": 8194,
-    "spriteHashHex": "D37ED967E1F2DBC5F8AA1BB27AAA9973"
+    "spriteHashHex": "D37ED967E1F2DBC5F8AA1BB27AAA9973",
+    "xmlIdRaw": "9111"
   }
 }

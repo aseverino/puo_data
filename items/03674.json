@@ -76,6 +76,7 @@
     "name": "goat grass",
     "isAnimation": true,
     "wareId": 3674,
-    "spriteHashHex": "ABC9F56B1A746B9145A153353D66B5C8"
+    "spriteHashHex": "ABC9F56B1A746B9145A153353D66B5C8",
+    "xmlIdRaw": "2760"
   }
 }

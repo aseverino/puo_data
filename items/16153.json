@@ -39,6 +39,7 @@
     "type": "None",
     "name": "iron loadstone",
     "wareId": 16153,
-    "spriteHashHex": "C1969297D9849C97DF7189CF7C2B3C74"
+    "spriteHashHex": "C1969297D9849C97DF7189CF7C2B3C74",
+    "xmlIdRaw": "18447"
   }
 }

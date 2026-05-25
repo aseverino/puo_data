@@ -46,6 +46,7 @@
     "name": "hellhound slobber",
     "isAnimation": true,
     "wareId": 9637,
-    "spriteHashHex": "801E2AD0D263741779466D8E58C2AE76"
+    "spriteHashHex": "801E2AD0D263741779466D8E58C2AE76",
+    "xmlIdRaw": "10554"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "blue robe",
     "wareId": 3567,
-    "spriteHashHex": "7FA9E947891D950551DE329347276794"
+    "spriteHashHex": "7FA9E947891D950551DE329347276794",
+    "xmlIdRaw": "2656"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "prismatic ring",
     "wareId": 16114,
-    "spriteHashHex": "60F83AC5ABC9D06C1127ABB29871F691"
+    "spriteHashHex": "60F83AC5ABC9D06C1127ABB29871F691",
+    "xmlIdRaw": "18408"
   }
 }

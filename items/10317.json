@@ -38,6 +38,7 @@
     "type": "None",
     "name": "werewolf fur",
     "wareId": 10317,
-    "spriteHashHex": "D96B7CD41FA4C923F24CB10662BF29CE"
+    "spriteHashHex": "D96B7CD41FA4C923F24CB10662BF29CE",
+    "xmlIdRaw": "11234"
   }
 }

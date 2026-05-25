@@ -38,6 +38,7 @@
     "type": "None",
     "name": "the Vampire Count\u0027s medal",
     "wareId": 18936,
-    "spriteHashHex": "7D21C2AAE107F104DBA07E6F6B2C683D"
+    "spriteHashHex": "7D21C2AAE107F104DBA07E6F6B2C683D",
+    "xmlIdRaw": "21253"
   }
 }

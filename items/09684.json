@@ -38,6 +38,7 @@
     "type": "None",
     "name": "tattered piece of robe",
     "wareId": 9684,
-    "spriteHashHex": "42AACAADD5F2B6E23725A856800AFFBF"
+    "spriteHashHex": "42AACAADD5F2B6E23725A856800AFFBF",
+    "xmlIdRaw": "10601"
   }
 }

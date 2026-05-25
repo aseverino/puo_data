@@ -38,6 +38,7 @@
     "type": "None",
     "name": "cobra tongue",
     "wareId": 9634,
-    "spriteHashHex": "FAD43AD357D376D52D6F404A17E0FC99"
+    "spriteHashHex": "FAD43AD357D376D52D6F404A17E0FC99",
+    "xmlIdRaw": "10551"
   }
 }

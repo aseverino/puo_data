@@ -38,6 +38,7 @@
     "type": "None",
     "name": "Tibiora\u0027s box",
     "wareId": 3997,
-    "spriteHashHex": "73C42823C8EF210BE3780ED0592FEAFD"
+    "spriteHashHex": "73C42823C8EF210BE3780ED0592FEAFD",
+    "xmlIdRaw": "11401"
   }
 }

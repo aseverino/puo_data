@@ -38,6 +38,7 @@
     "type": "None",
     "name": "broken halberd",
     "wareId": 10418,
-    "spriteHashHex": "B4A4F94120691184BDCABACE5B874D15"
+    "spriteHashHex": "B4A4F94120691184BDCABACE5B874D15",
+    "xmlIdRaw": "11335"
   }
 }

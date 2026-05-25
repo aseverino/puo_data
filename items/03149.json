@@ -40,6 +40,7 @@
     "type": "None",
     "name": "energy bomb rune",
     "wareId": 3149,
-    "spriteHashHex": "FD5F5BD82F616C6816C94EB3439B4C9B"
+    "spriteHashHex": "FD5F5BD82F616C6816C94EB3439B4C9B",
+    "xmlIdRaw": "2262"
   }
 }

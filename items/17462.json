@@ -38,6 +38,7 @@
     "type": "None",
     "name": "marsh stalker feather",
     "wareId": 17462,
-    "spriteHashHex": "C245A935F0BCD4790BF2FFE70C545AE3"
+    "spriteHashHex": "C245A935F0BCD4790BF2FFE70C545AE3",
+    "xmlIdRaw": "19742"
   }
 }

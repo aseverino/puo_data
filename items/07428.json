@@ -42,6 +42,7 @@
     "type": "None",
     "name": "bonebreaker",
     "wareId": 7428,
-    "spriteHashHex": "2452FF974A501121E40BEE77EE4BA028"
+    "spriteHashHex": "2452FF974A501121E40BEE77EE4BA028",
+    "xmlIdRaw": "7428"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "toy spider",
     "wareId": 8178,
-    "spriteHashHex": "D5F9C18D33C3DD049D8FB95E42E75FE4"
+    "spriteHashHex": "D5F9C18D33C3DD049D8FB95E42E75FE4",
+    "xmlIdRaw": "9006"
   }
 }

@@ -39,6 +39,7 @@
     "type": "None",
     "name": "blue legs",
     "wareId": 645,
-    "spriteHashHex": "39DB152EDCC701A3C3D6F7EE27762A84"
+    "spriteHashHex": "39DB152EDCC701A3C3D6F7EE27762A84",
+    "xmlIdRaw": "7730"
   }
 }

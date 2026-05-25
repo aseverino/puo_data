@@ -39,6 +39,7 @@
     "type": "None",
     "name": "magical cage key",
     "wareId": 9113,
-    "spriteHashHex": "7989D42DB205F77EE997FBC3F9C04346"
+    "spriteHashHex": "7989D42DB205F77EE997FBC3F9C04346",
+    "xmlIdRaw": "14349"
   }
 }

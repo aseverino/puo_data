@@ -37,6 +37,7 @@
     "type": "None",
     "name": "round red pillow",
     "wareId": 2399,
-    "spriteHashHex": "37F92AAC8C094DB979E6592DE4B00227"
+    "spriteHashHex": "37F92AAC8C094DB979E6592DE4B00227",
+    "xmlIdRaw": "1691"
   }
 }

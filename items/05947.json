@@ -37,6 +37,7 @@
     "type": "None",
     "name": "Elane\u0027s crossbow",
     "wareId": 5947,
-    "spriteHashHex": "CBAECE447697614C2E5184D297C44ECA"
+    "spriteHashHex": "CBAECE447697614C2E5184D297C44ECA",
+    "xmlIdRaw": "5947"
   }
 }

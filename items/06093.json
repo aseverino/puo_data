@@ -37,6 +37,7 @@
     "type": "None",
     "name": "crystal ring",
     "wareId": 6093,
-    "spriteHashHex": "4649B61061F0EB94AAE266BCC7B43D7C"
+    "spriteHashHex": "4649B61061F0EB94AAE266BCC7B43D7C",
+    "xmlIdRaw": "6093"
   }
 }

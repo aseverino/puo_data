@@ -39,6 +39,7 @@
     "type": "None",
     "name": "Zaoan legs",
     "wareId": 10387,
-    "spriteHashHex": "EE6672E0DCA163F50161458600FEAF22"
+    "spriteHashHex": "EE6672E0DCA163F50161458600FEAF22",
+    "xmlIdRaw": "11304"
   }
 }

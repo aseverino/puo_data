@@ -46,6 +46,7 @@
     "name": "party cake",
     "isAnimation": true,
     "wareId": 6279,
-    "spriteHashHex": "EA9397B012F8AF2A23658E3B3D104E8C"
+    "spriteHashHex": "EA9397B012F8AF2A23658E3B3D104E8C",
+    "xmlIdRaw": "6280"
   }
 }

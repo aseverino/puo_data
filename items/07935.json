@@ -37,6 +37,7 @@
     "type": "None",
     "name": "compromising letter",
     "wareId": 7935,
-    "spriteHashHex": "FF4B1F1938F15505EB69514868B2094C"
+    "spriteHashHex": "FF4B1F1938F15505EB69514868B2094C",
+    "xmlIdRaw": "8763"
   }
 }

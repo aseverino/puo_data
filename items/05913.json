@@ -38,6 +38,7 @@
     "type": "None",
     "name": "brown piece of cloth",
     "wareId": 5913,
-    "spriteHashHex": "5D0D229043AF86FB9BA583B7D4C9FC23"
+    "spriteHashHex": "5D0D229043AF86FB9BA583B7D4C9FC23",
+    "xmlIdRaw": "5913"
   }
 }

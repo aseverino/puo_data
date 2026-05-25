@@ -38,6 +38,7 @@
     "type": "None",
     "name": "orcish gear",
     "wareId": 11477,
-    "spriteHashHex": "83728E97F200A860805A28186180E8EC"
+    "spriteHashHex": "83728E97F200A860805A28186180E8EC",
+    "xmlIdRaw": "12433"
   }
 }

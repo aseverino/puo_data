@@ -42,6 +42,7 @@
     "type": "None",
     "name": "deepling squelcher",
     "wareId": 14250,
-    "spriteHashHex": "BA7E4BF6EB0632896557497C546F7F04"
+    "spriteHashHex": "BA7E4BF6EB0632896557497C546F7F04",
+    "xmlIdRaw": "15647"
   }
 }

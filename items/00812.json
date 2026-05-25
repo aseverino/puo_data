@@ -41,6 +41,7 @@
     "type": "None",
     "name": "terra legs",
     "wareId": 812,
-    "spriteHashHex": "5266AD829D4FB8A1050A1A3EE1FBC1F9"
+    "spriteHashHex": "5266AD829D4FB8A1050A1A3EE1FBC1F9",
+    "xmlIdRaw": "7885"
   }
 }

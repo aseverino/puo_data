@@ -5,6 +5,9 @@
   "isUnpassable": true,
   "miniMap": true,
   "miniMapColor": 86,
+  "footprintWidth": 2,
+  "footprintHeight": 2,
+  "footprintMask": "1111",
   "width": 2,
   "height": 2,
   "exactSize": 57,
@@ -25,16 +28,29 @@
       ]
     },
     "spriteIds": [
-      548,
-      547,
-      546,
-      545
+      147962,
+      147963,
+      147964,
+      147965
     ]
   },
   "server": {
     "serverId": 1355,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "A299C07B8E5AE0741831DD5A4A911FC7"
+    "spriteHashHex": "A299C07B8E5AE0741831DD5A4A911FC7",
+    "xmlIdRaw": "1355",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "footprintheight": "2",
+      "footprintmask": "1111",
+      "footprintwidth": "2",
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

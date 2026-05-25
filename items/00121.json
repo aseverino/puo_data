@@ -39,6 +39,7 @@
     "type": "None",
     "name": "whoopee cushion",
     "wareId": 121,
-    "spriteHashHex": "76EE623CF4958AAB77EB571F7B853306"
+    "spriteHashHex": "76EE623CF4958AAB77EB571F7B853306",
+    "xmlIdRaw": "7485"
   }
 }

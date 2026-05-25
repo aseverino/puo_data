@@ -37,6 +37,7 @@
     "type": "None",
     "name": "toy mouse",
     "wareId": 123,
-    "spriteHashHex": "1B81D8F8B2C7C71B0D13B0557975A3AA"
+    "spriteHashHex": "1B81D8F8B2C7C71B0D13B0557975A3AA",
+    "xmlIdRaw": "7487"
   }
 }

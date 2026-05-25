@@ -38,6 +38,7 @@
     "type": "None",
     "name": "red dragon scale",
     "wareId": 5882,
-    "spriteHashHex": "AF9A898D2A32E183AC0CAF55C070FE03"
+    "spriteHashHex": "AF9A898D2A32E183AC0CAF55C070FE03",
+    "xmlIdRaw": "5882"
   }
 }

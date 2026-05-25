@@ -40,6 +40,7 @@
     "type": "None",
     "name": "mage\u0027s cap",
     "wareId": 12599,
-    "spriteHashHex": "8953727DEE4F3FFCA723A222B44E52C2"
+    "spriteHashHex": "8953727DEE4F3FFCA723A222B44E52C2",
+    "xmlIdRaw": "13756"
   }
 }

@@ -38,6 +38,7 @@
     "type": "None",
     "name": "decorative ribbon",
     "wareId": 16155,
-    "spriteHashHex": "7423CDBB90FBED8C0A5874E383B66066"
+    "spriteHashHex": "7423CDBB90FBED8C0A5874E383B66066",
+    "xmlIdRaw": "18449"
   }
 }

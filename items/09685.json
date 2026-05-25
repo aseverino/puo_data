@@ -38,6 +38,7 @@
     "type": "None",
     "name": "vampire teeth",
     "wareId": 9685,
-    "spriteHashHex": "8D7D4EFE44AFFAA033620DDD21401286"
+    "spriteHashHex": "8D7D4EFE44AFFAA033620DDD21401286",
+    "xmlIdRaw": "10602"
   }
 }

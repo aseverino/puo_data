@@ -39,6 +39,7 @@
     "type": "None",
     "name": "light shovel",
     "wareId": 5710,
-    "spriteHashHex": "F5B598E48604B017C720418CE25AC047"
+    "spriteHashHex": "F5B598E48604B017C720418CE25AC047",
+    "xmlIdRaw": "5710"
   }
 }

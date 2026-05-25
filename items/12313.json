@@ -38,6 +38,7 @@
     "type": "None",
     "name": "stampor talons",
     "wareId": 12313,
-    "spriteHashHex": "7D9930A246C71057280B3150601A41FC"
+    "spriteHashHex": "7D9930A246C71057280B3150601A41FC",
+    "xmlIdRaw": "13300"
   }
 }

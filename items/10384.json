@@ -41,6 +41,7 @@
     "type": "None",
     "name": "Zaoan armor",
     "wareId": 10384,
-    "spriteHashHex": "8F2D97CE843220ABE9030A2AAD5DA660"
+    "spriteHashHex": "8F2D97CE843220ABE9030A2AAD5DA660",
+    "xmlIdRaw": "11301"
   }
 }

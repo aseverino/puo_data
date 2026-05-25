@@ -49,6 +49,7 @@
     "type": "None",
     "name": "deer trophy",
     "wareId": 7397,
-    "spriteHashHex": "027386D54255A231EA3FBA130FAB88B8"
+    "spriteHashHex": "027386D54255A231EA3FBA130FAB88B8",
+    "xmlIdRaw": "7397"
   }
 }

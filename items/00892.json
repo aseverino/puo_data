@@ -41,6 +41,7 @@
     "name": "package of potions",
     "hasHeight": true,
     "wareId": 892,
-    "spriteHashHex": "5DDB03EDA538A296AADC784190564416"
+    "spriteHashHex": "5DDB03EDA538A296AADC784190564416",
+    "xmlIdRaw": "7498"
   }
 }

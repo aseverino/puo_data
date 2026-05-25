@@ -41,6 +41,7 @@
     "type": "Container",
     "name": "green bag",
     "wareId": 2857,
-    "spriteHashHex": "B90DAFAC6AED0C812B93C18DA2124250"
+    "spriteHashHex": "B90DAFAC6AED0C812B93C18DA2124250",
+    "xmlIdRaw": "1991"
   }
 }

@@ -37,6 +37,7 @@
     "type": "None",
     "name": "flower bouquet",
     "wareId": 649,
-    "spriteHashHex": "1A6FE41EC8971AB10E35F45518400C0E"
+    "spriteHashHex": "1A6FE41EC8971AB10E35F45518400C0E",
+    "xmlIdRaw": "7733"
   }
 }

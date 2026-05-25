@@ -42,6 +42,7 @@
     "type": "None",
     "name": "pair of iron fists",
     "wareId": 17828,
-    "spriteHashHex": "A5488DBB8114165353A87D89145052DF"
+    "spriteHashHex": "A5488DBB8114165353A87D89145052DF",
+    "xmlIdRaw": "20108"
   }
 }

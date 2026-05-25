@@ -40,6 +40,7 @@
     "type": "None",
     "name": "party hat",
     "wareId": 6578,
-    "spriteHashHex": "0F67315E77B4609F0A50FE145EF3DE7F"
+    "spriteHashHex": "0F67315E77B4609F0A50FE145EF3DE7F",
+    "xmlIdRaw": "6578"
   }
 }

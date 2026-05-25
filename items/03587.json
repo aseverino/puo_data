@@ -40,6 +40,7 @@
     "type": "None",
     "name": "banana",
     "wareId": 3587,
-    "spriteHashHex": "9187D5834E5DA425E1B3ACB9F443808F"
+    "spriteHashHex": "9187D5834E5DA425E1B3ACB9F443808F",
+    "xmlIdRaw": "2676"
   }
 }

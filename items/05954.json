@@ -38,6 +38,7 @@
     "type": "None",
     "name": "demon horn",
     "wareId": 5954,
-    "spriteHashHex": "2562246CBE5D203E4BCCB7B9FDF33DB3"
+    "spriteHashHex": "2562246CBE5D203E4BCCB7B9FDF33DB3",
+    "xmlIdRaw": "5954"
   }
 }

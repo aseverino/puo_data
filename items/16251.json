@@ -39,6 +39,7 @@
     "type": "None",
     "name": "golem wrench",
     "wareId": 16251,
-    "spriteHashHex": "C03EF100AA847B1A2F11D01B3E57159E"
+    "spriteHashHex": "C03EF100AA847B1A2F11D01B3E57159E",
+    "xmlIdRaw": "18516"
   }
 }

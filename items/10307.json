@@ -38,6 +38,7 @@
     "type": "None",
     "name": "thick fur",
     "wareId": 10307,
-    "spriteHashHex": "3D752B44842029A66E454FC6B7AA38ED"
+    "spriteHashHex": "3D752B44842029A66E454FC6B7AA38ED",
+    "xmlIdRaw": "11224"
   }
 }

@@ -50,6 +50,7 @@
     "name": "mining helmet",
     "isAnimation": true,
     "wareId": 139,
-    "spriteHashHex": "351C6AA7C68BB1B33D805E1A77E93059"
+    "spriteHashHex": "351C6AA7C68BB1B33D805E1A77E93059",
+    "xmlIdRaw": "7497"
   }
 }

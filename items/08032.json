@@ -49,6 +49,7 @@
     "type": "None",
     "name": "spiderwebs",
     "wareId": 8032,
-    "spriteHashHex": "8BE989ED1ABB29E3D04951D98C0FC671"
+    "spriteHashHex": "8BE989ED1ABB29E3D04951D98C0FC671",
+    "xmlIdRaw": "8860"
   }
 }

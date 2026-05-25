@@ -29,6 +29,16 @@
     "serverId": 8030,
     "type": "None",
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "9D10AAA3780692B8081B43A356089924"
+    "spriteHashHex": "9D10AAA3780692B8081B43A356089924",
+    "xmlIdRaw": "8030",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

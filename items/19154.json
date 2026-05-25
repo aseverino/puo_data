@@ -37,6 +37,7 @@
     "type": "None",
     "name": "the Mexcalibur",
     "wareId": 19154,
-    "spriteHashHex": "11D921C75C4543A07805609968EE43AD"
+    "spriteHashHex": "11D921C75C4543A07805609968EE43AD",
+    "xmlIdRaw": "21470"
   }
 }

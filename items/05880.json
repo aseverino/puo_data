@@ -38,6 +38,7 @@
     "type": "None",
     "name": "iron ore",
     "wareId": 5880,
-    "spriteHashHex": "464AC4311C6F7E7FF6EC9F0405FA7C46"
+    "spriteHashHex": "464AC4311C6F7E7FF6EC9F0405FA7C46",
+    "xmlIdRaw": "5880"
   }
 }

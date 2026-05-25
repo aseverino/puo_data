@@ -40,6 +40,7 @@
     "type": "None",
     "name": "sugar oat",
     "wareId": 12802,
-    "spriteHashHex": "718A297B5E26ADB1DAB8B2224A0F725F"
+    "spriteHashHex": "718A297B5E26ADB1DAB8B2224A0F725F",
+    "xmlIdRaw": "13939"
   }
 }

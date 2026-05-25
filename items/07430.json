@@ -55,6 +55,7 @@
     "name": "dragonbone staff",
     "isAnimation": true,
     "wareId": 7430,
-    "spriteHashHex": "B64AAA2016F94086DF7319C07145B3E9"
+    "spriteHashHex": "B64AAA2016F94086DF7319C07145B3E9",
+    "xmlIdRaw": "7430"
   }
 }

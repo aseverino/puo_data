@@ -32,6 +32,7 @@
     "serverId": 4018,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "FF81D16AD76ABC4BB3611E1D4BC342B5"
+    "spriteHashHex": "FF81D16AD76ABC4BB3611E1D4BC342B5",
+    "xmlIdRaw": "4018"
   }
 }

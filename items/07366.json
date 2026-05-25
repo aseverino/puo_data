@@ -47,6 +47,7 @@
     "type": "None",
     "name": "viper star",
     "wareId": 7366,
-    "spriteHashHex": "E3516084F028E9E56B545A4FC4221D76"
+    "spriteHashHex": "E3516084F028E9E56B545A4FC4221D76",
+    "xmlIdRaw": "7366"
   }
 }

@@ -40,6 +40,7 @@
     "type": "None",
     "name": "head of Abyssador",
     "wareId": 16231,
-    "spriteHashHex": "34709F079DEFE1ACA31F4D322F48B853"
+    "spriteHashHex": "34709F079DEFE1ACA31F4D322F48B853",
+    "xmlIdRaw": "18499"
   }
 }

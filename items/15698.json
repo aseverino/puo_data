@@ -39,6 +39,7 @@
     "type": "None",
     "name": "gnomish supply package",
     "wareId": 15698,
-    "spriteHashHex": "E420F612368EF7C8BA70AD5CDBC86FC8"
+    "spriteHashHex": "E420F612368EF7C8BA70AD5CDBC86FC8",
+    "xmlIdRaw": "18215"
   }
 }

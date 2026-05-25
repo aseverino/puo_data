@@ -38,6 +38,7 @@
     "type": "None",
     "name": "gauze bandage",
     "wareId": 9649,
-    "spriteHashHex": "D955363FB0236A6A00E79F53EB9B82AE"
+    "spriteHashHex": "D955363FB0236A6A00E79F53EB9B82AE",
+    "xmlIdRaw": "10566"
   }
 }

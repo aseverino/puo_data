@@ -43,6 +43,7 @@
     "type": "None",
     "name": "lit glowing mushroom",
     "wareId": 16097,
-    "spriteHashHex": "88EBB176532681305E7697E8A2A30646"
+    "spriteHashHex": "88EBB176532681305E7697E8A2A30646",
+    "xmlIdRaw": "18392"
   }
 }

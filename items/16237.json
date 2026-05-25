@@ -40,6 +40,7 @@
     "type": "None",
     "name": "legs of Gnomevil",
     "wareId": 16237,
-    "spriteHashHex": "26CF8B7B791D5CF04C91611A8B563EFE"
+    "spriteHashHex": "26CF8B7B791D5CF04C91611A8B563EFE",
+    "xmlIdRaw": "18505"
   }
 }

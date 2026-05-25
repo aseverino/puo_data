@@ -49,6 +49,7 @@
     "type": "None",
     "name": "nightmare hook",
     "wareId": 20282,
-    "spriteHashHex": "6C1D9A79BF74893C816E6AB5FA11E411"
+    "spriteHashHex": "6C1D9A79BF74893C816E6AB5FA11E411",
+    "xmlIdRaw": "22616"
   }
 }
