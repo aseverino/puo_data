@@ -7,8 +7,8 @@
   "miniMapColor": 12,
   "footprintWidth": 2,
   "footprintHeight": 1,
-  "footprintMask": "11",
-  "width": 2,
+  "footprintMask": "10",
+  "width": 3,
   "height": 2,
   "exactSize": 32,
   "layers": [
@@ -28,10 +28,12 @@
       ]
     },
     "spriteIds": [
-      148412,
-      148413,
-      148414,
-      148415
+      148919,
+      148920,
+      148921,
+      148922,
+      148923,
+      148924
     ]
   },
   "server": {
@@ -47,7 +49,7 @@
     "pluralPt": "",
     "xmlAttributes": {
       "footprintheight": "1",
-      "footprintmask": "11",
+      "footprintmask": "1",
       "footprintwidth": "2",
       "maxStack": "1",
       "valueMultiplier": "1"

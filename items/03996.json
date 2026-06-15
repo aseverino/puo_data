@@ -2,7 +2,6 @@
   "category": "item",
   "clientId": 3996,
   "isAlwaysOnTop": true,
-  "dontHide": true,
   "miniMap": true,
   "miniMapColor": 12,
   "width": 4,

@@ -171,6 +171,16 @@
     "serverId": 26421,
     "type": "None",
     "alwaysOnTopOrder": 3,
-    "spriteHashHex": "00000000000000000000000000000000"
+    "spriteHashHex": "00000000000000000000000000000000",
+    "xmlIdRaw": "26421",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

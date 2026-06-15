@@ -1,7 +1,7 @@
 {
   "category": "item",
   "clientId": 1793,
-  "isOnBottom": true,
+  "isGroundBorder": true,
   "width": 2,
   "height": 2,
   "exactSize": 32,
@@ -25,7 +25,7 @@
       0,
       0,
       0,
-      147786
+      151692
     ]
   },
   "server": {

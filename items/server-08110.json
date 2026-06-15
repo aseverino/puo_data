@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 3218,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 8110,
+    "type": "None",
+    "name": "present",
+    "wareId": 3218,
+    "spriteHashHex": "2F44A43DE32B1BAD0F3554AA88EA8722"
+  }
+}

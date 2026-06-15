@@ -1,0 +1,23 @@
+{
+  "category": "item",
+  "clientId": 2983,
+  "blockPathFind": true,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 9679,
+    "type": "None",
+    "name": "flower bowl",
+    "wareId": 2983,
+    "spriteHashHex": "5C3954A2BFCA62BEC9E64AB89B1359C7"
+  }
+}

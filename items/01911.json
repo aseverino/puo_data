@@ -1,12 +1,10 @@
 {
   "category": "item",
   "clientId": 1911,
-  "isOnBottom": true,
-  "isUnpassable": true,
-  "miniMap": true,
+  "isGroundBorder": true,
   "miniMapColor": 86,
-  "width": 1,
-  "height": 1,
+  "width": 2,
+  "height": 2,
   "exactSize": 32,
   "layers": [
     0
@@ -25,13 +23,17 @@
       ]
     },
     "spriteIds": [
-      147013
+      0,
+      0,
+      0,
+      150201
     ]
   },
   "server": {
     "serverId": 3667,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "28FF95F6AF58D25B3719F35795C1B2D2"
+    "spriteHashHex": "28FF95F6AF58D25B3719F35795C1B2D2",
+    "xmlIdRaw": "3667"
   }
 }

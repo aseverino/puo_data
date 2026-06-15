@@ -1,8 +1,9 @@
 {
   "category": "item",
   "clientId": 4022,
-  "width": 1,
-  "height": 1,
+  "isAlwaysOnTop": true,
+  "width": 4,
+  "height": 4,
   "exactSize": 32,
   "layers": [
     0
@@ -21,12 +22,28 @@
       ]
     },
     "spriteIds": [
+      148899,
+      148900,
+      148901,
+      0,
+      148902,
+      148903,
+      148904,
+      148905,
+      148906,
+      148907,
+      148908,
+      148909,
+      148910,
+      148911,
+      148912,
       0
     ]
   },
   "server": {
     "serverId": 2842,
     "type": "None",
+    "alwaysOnTopOrder": 3,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
   }
 }

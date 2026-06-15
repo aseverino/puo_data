@@ -29,10 +29,10 @@
       ]
     },
     "spriteIds": [
-      147574,
-      147575,
-      147576,
-      147577
+      151480,
+      151481,
+      151482,
+      151483
     ]
   },
   "server": {
@@ -42,8 +42,15 @@
     "alwaysOnTopOrder": 2,
     "spriteHashHex": "42F09F12CA6170F93F6066E58F3BCD44",
     "xmlIdRaw": "3186",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
     "xmlAttributes": {
-      "floorchange": "south"
+      "floorchange": "south",
+      "maxStack": "1",
+      "valueMultiplier": "1"
     }
   }
 }

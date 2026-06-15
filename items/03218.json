@@ -35,11 +35,11 @@
     ]
   },
   "server": {
-    "serverId": 8110,
+    "serverId": 2331,
     "type": "None",
     "name": "present",
     "wareId": 3218,
     "spriteHashHex": "2F44A43DE32B1BAD0F3554AA88EA8722",
-    "xmlIdRaw": "8110"
+    "xmlIdRaw": "2331"
   }
 }

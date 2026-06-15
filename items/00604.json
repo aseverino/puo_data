@@ -3,10 +3,12 @@
   "clientId": 604,
   "isGround": true,
   "groundSpeed": 150,
+  "isOnBottom": true,
   "blockPathFind": true,
   "isTranslucent": true,
   "hasOffset": true,
-  "offsetY": 3,
+  "offsetX": -3,
+  "offsetY": -1,
   "miniMap": true,
   "miniMapColor": 210,
   "isFullGround": true,
@@ -32,16 +34,17 @@
       ]
     },
     "spriteIds": [
-      147644,
-      147645,
-      147646,
-      147647
+      151550,
+      151551,
+      151552,
+      151553
     ]
   },
   "server": {
     "serverId": 479,
     "type": "Ground",
     "walkStack": true,
+    "alwaysOnTopOrder": 2,
     "spriteHashHex": "80F0144B9CFEF45CFEABC3BE8DE107D3",
     "xmlIdRaw": "479",
     "article": "",

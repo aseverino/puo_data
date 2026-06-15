@@ -33,11 +33,11 @@
     ]
   },
   "server": {
-    "serverId": 2318,
+    "serverId": 13332,
     "type": "None",
     "name": "family brooch",
     "wareId": 3205,
     "spriteHashHex": "291CD2D98AB141E1FF9653841F0CBFD0",
-    "xmlIdRaw": "2318"
+    "xmlIdRaw": "13332"
   }
 }

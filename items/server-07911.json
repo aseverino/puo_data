@@ -1,0 +1,23 @@
+{
+  "category": "item",
+  "clientId": 842,
+  "isOnBottom": true,
+  "isAlwaysOnTop": true,
+  "isUnpassable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 7911,
+    "type": "None",
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "8AFB0AD305289B8F061F7C5F337F479D"
+  }
+}

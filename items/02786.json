@@ -43,6 +43,15 @@
     "hasHeight": true,
     "wareId": 2786,
     "spriteHashHex": "6415B8CC848D5180A959321BBDF193B4",
-    "xmlIdRaw": "3912"
+    "xmlIdRaw": "3912",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

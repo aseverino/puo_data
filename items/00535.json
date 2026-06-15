@@ -29,10 +29,10 @@
       ]
     },
     "spriteIds": [
-      147580,
-      147581,
-      147582,
-      147583
+      151486,
+      151487,
+      151488,
+      151489
     ]
   },
   "server": {
@@ -40,10 +40,19 @@
     "type": "None",
     "hasHeight": true,
     "alwaysOnTopOrder": 2,
+    "floorChangeNorth": true,
     "spriteHashHex": "8C22338DD941C81B03304C7934E892E7",
     "xmlIdRaw": "3188",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
     "xmlAttributes": {
-      "floorchange": "north"
+      "floorchange": "north",
+      "footprintmask": "1",
+      "maxStack": "1",
+      "valueMultiplier": "1"
     }
   }
 }

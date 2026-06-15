@@ -33,11 +33,11 @@
     ]
   },
   "server": {
-    "serverId": 6099,
+    "serverId": 11424,
     "type": "None",
     "name": "Brutus Bloodbeard\u0027s hat",
     "wareId": 6099,
     "spriteHashHex": "0E39EDF2BD967E6966A843AAD4E07775",
-    "xmlIdRaw": "6099"
+    "xmlIdRaw": "11424"
   }
 }

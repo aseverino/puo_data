@@ -5,8 +5,8 @@
   "isUnpassable": true,
   "miniMap": true,
   "miniMapColor": 86,
-  "width": 1,
-  "height": 1,
+  "width": 2,
+  "height": 2,
   "exactSize": 32,
   "layers": [
     0
@@ -25,13 +25,17 @@
       ]
     },
     "spriteIds": [
-      146975
+      0,
+      0,
+      0,
+      151068
     ]
   },
   "server": {
     "serverId": 3629,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "8D03EB242CB298622424D13257FD4CC2"
+    "spriteHashHex": "8D03EB242CB298622424D13257FD4CC2",
+    "xmlIdRaw": "3629"
   }
 }

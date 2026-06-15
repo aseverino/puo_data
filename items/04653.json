@@ -8,6 +8,7 @@
   "miniMapColor": 40,
   "isFullGround": true,
   "ignoreLook": true,
+  "terrainType": 3,
   "width": 1,
   "height": 1,
   "exactSize": 32,
@@ -103,6 +104,16 @@
     "type": "Ground",
     "walkStack": true,
     "isAnimation": true,
-    "spriteHashHex": "F0D85451510F92C981176EEF4E49D141"
+    "spriteHashHex": "F0D85451510F92C981176EEF4E49D141",
+    "xmlIdRaw": "4664",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

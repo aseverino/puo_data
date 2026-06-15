@@ -35,6 +35,7 @@
     "serverId": 4009,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "FC3D006EA9C73C35458FDC4BED1A48AF"
+    "spriteHashHex": "FC3D006EA9C73C35458FDC4BED1A48AF",
+    "xmlIdRaw": "4009"
   }
 }

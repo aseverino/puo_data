@@ -29,35 +29,35 @@
       0,
       0,
       0,
-      142849,
+      155322,
       0,
       0,
       0,
-      142850,
+      155323,
       0,
       0,
       0,
-      142851,
+      155324,
       0,
       0,
       0,
-      142852,
+      155325,
       0,
       0,
       0,
-      142853,
+      155326,
       0,
       0,
       0,
-      142854,
+      155327,
       0,
       0,
       0,
-      142855,
+      155328,
       0,
       0,
       0,
-      142856
+      155329
     ]
   },
   "server": {
@@ -65,6 +65,16 @@
     "type": "None",
     "hasHeight": true,
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "C0032D6D517344042A15AE6258260207"
+    "spriteHashHex": "C0032D6D517344042A15AE6258260207",
+    "xmlIdRaw": "2433",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

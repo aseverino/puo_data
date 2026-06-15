@@ -2,7 +2,6 @@
   "category": "item",
   "clientId": 4004,
   "isAlwaysOnTop": true,
-  "dontHide": true,
   "miniMapColor": 12,
   "width": 4,
   "height": 4,
@@ -24,22 +23,22 @@
       ]
     },
     "spriteIds": [
-      148320,
-      148321,
-      148322,
+      148738,
+      148739,
+      148740,
       0,
-      148323,
-      148324,
-      148325,
-      148326,
-      148327,
-      148328,
-      148329,
-      148330,
-      148331,
-      148332,
-      148333,
-      148334
+      148741,
+      148742,
+      148743,
+      148744,
+      148745,
+      148746,
+      148747,
+      148748,
+      148749,
+      148750,
+      148751,
+      148752
     ]
   },
   "server": {
@@ -47,6 +46,15 @@
     "type": "None",
     "alwaysOnTopOrder": 3,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C",
-    "xmlIdRaw": "2823"
+    "xmlIdRaw": "2823",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

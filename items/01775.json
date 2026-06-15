@@ -25,10 +25,10 @@
       ]
     },
     "spriteIds": [
-      147690,
-      147691,
-      147692,
-      147693
+      151596,
+      151597,
+      151598,
+      151599
     ]
   },
   "server": {
@@ -43,6 +43,7 @@
     "articlePt": "",
     "pluralPt": "",
     "xmlAttributes": {
+      "footprintmask": "000000001",
       "maxStack": "1",
       "valueMultiplier": "1"
     }

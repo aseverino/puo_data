@@ -23,15 +23,16 @@
       ]
     },
     "spriteIds": [
-      142391,
-      142392,
-      142393,
-      142394
+      155250,
+      155251,
+      155252,
+      155253
     ]
   },
   "server": {
     "serverId": 2416,
     "type": "None",
-    "spriteHashHex": "5A42653A2EB5DCB6AA156D158EE0C3A9"
+    "spriteHashHex": "5A42653A2EB5DCB6AA156D158EE0C3A9",
+    "xmlIdRaw": "2416"
   }
 }

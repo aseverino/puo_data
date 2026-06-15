@@ -1,7 +1,7 @@
 {
   "category": "item",
   "clientId": 144,
-  "isMoveable": true,
+  "isPickupable": true,
   "width": 1,
   "height": 1,
   "exactSize": 32,

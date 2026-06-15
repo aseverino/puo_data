@@ -1,7 +1,6 @@
 {
   "category": "item",
   "clientId": 922,
-  "isMoveable": true,
   "width": 1,
   "height": 1,
   "exactSize": 32,

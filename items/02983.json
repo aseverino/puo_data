@@ -34,11 +34,11 @@
     ]
   },
   "server": {
-    "serverId": 9679,
+    "serverId": 2102,
     "type": "None",
     "name": "flower bowl",
     "wareId": 2983,
     "spriteHashHex": "5C3954A2BFCA62BEC9E64AB89B1359C7",
-    "xmlIdRaw": "9679"
+    "xmlIdRaw": "2102"
   }
 }

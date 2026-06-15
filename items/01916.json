@@ -1,9 +1,7 @@
 {
   "category": "item",
   "clientId": 1916,
-  "isOnBottom": true,
-  "isUnpassable": true,
-  "miniMap": true,
+  "isGroundBorder": true,
   "miniMapColor": 86,
   "width": 1,
   "height": 1,
@@ -25,13 +23,14 @@
       ]
     },
     "spriteIds": [
-      147018
+      150206
     ]
   },
   "server": {
     "serverId": 3672,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "AF471C48AB1D8BBEC5E903B1700269E8"
+    "spriteHashHex": "AF471C48AB1D8BBEC5E903B1700269E8",
+    "xmlIdRaw": "3672"
   }
 }

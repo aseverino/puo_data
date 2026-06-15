@@ -6,12 +6,12 @@
   "miniMap": true,
   "miniMapColor": 86,
   "width": 1,
-  "height": 1,
+  "height": 2,
   "exactSize": 32,
   "layers": [
     0
   ],
-  "patternX": 1,
+  "patternX": 4,
   "patternY": 1,
   "patternZ": 1,
   "walking": {
@@ -25,13 +25,30 @@
       ]
     },
     "spriteIds": [
-      146973
+      151044,
+      151045,
+      151046,
+      151047,
+      151048,
+      151049,
+      151050,
+      151051
     ]
   },
   "server": {
     "serverId": 3627,
     "type": "None",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "1684A43504DE08E490E82BFF392F34D4"
+    "spriteHashHex": "1684A43504DE08E490E82BFF392F34D4",
+    "xmlIdRaw": "3627",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

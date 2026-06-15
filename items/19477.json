@@ -72,6 +72,16 @@
     "type": "Ground",
     "walkStack": true,
     "isAnimation": true,
-    "spriteHashHex": "60B8BD800723C0101F5FC519748C091C"
+    "spriteHashHex": "60B8BD800723C0101F5FC519748C091C",
+    "xmlIdRaw": "21811",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

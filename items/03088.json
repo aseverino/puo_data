@@ -1,6 +1,7 @@
 {
   "category": "item",
   "clientId": 3088,
+  "isOnBottom": true,
   "blockPathFind": true,
   "hasElevation": true,
   "elevation": 8,
@@ -28,16 +29,30 @@
       ]
     },
     "spriteIds": [
-      142213,
-      142214,
-      142215,
-      142216
+      150312,
+      150313,
+      150314,
+      150315
     ]
   },
   "server": {
     "serverId": 2204,
     "type": "None",
     "hasHeight": true,
-    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
+    "alwaysOnTopOrder": 2,
+    "floorChangeEast": true,
+    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C",
+    "xmlIdRaw": "2204",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "floorchange": "east",
+      "footprintmask": "1",
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

@@ -31,6 +31,16 @@
     "serverId": 4519,
     "type": "None",
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "C281C7D63287B3E1668012905336D3CE"
+    "spriteHashHex": "C281C7D63287B3E1668012905336D3CE",
+    "xmlIdRaw": "4519",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

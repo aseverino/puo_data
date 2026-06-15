@@ -36,12 +36,12 @@
     ]
   },
   "server": {
-    "serverId": 9081,
+    "serverId": 7955,
     "type": "None",
     "name": "parcel",
     "hasHeight": true,
     "wareId": 140,
     "spriteHashHex": "5DDB03EDA538A296AADC784190564416",
-    "xmlIdRaw": "9081"
+    "xmlIdRaw": "7955"
   }
 }
