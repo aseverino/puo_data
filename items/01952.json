@@ -1,8 +1,8 @@
 {
   "category": "item",
   "clientId": 1952,
+  "isGround": true,
   "groundSpeed": 150,
-  "isOnBottom": true,
   "blockPathFind": true,
   "isTranslucent": true,
   "hasOffset": true,
@@ -32,15 +32,15 @@
       ]
     },
     "spriteIds": [
-      150885,
-      150886,
-      150887,
-      150888
+      163404,
+      163405,
+      163406,
+      163407
     ]
   },
   "server": {
     "serverId": 1390,
-    "type": "None",
+    "type": "Ground",
     "walkStack": true,
     "alwaysOnTopOrder": 2,
     "floorChangeDown": true,

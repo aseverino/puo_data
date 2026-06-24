@@ -15,7 +15,7 @@
   "patternY": 1,
   "patternZ": 1,
   "walking": {
-    "frames": 14,
+    "frames": 12,
     "isAnimated": true,
     "animation": {
       "animationMode": 1,
@@ -67,32 +67,22 @@
         {
           "min": 500,
           "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
         }
       ]
     },
     "spriteIds": [
-      111442,
-      111443,
-      111444,
-      111445,
-      111446,
-      111447,
-      111448,
-      111442,
-      111443,
-      111444,
-      111445,
-      111446,
-      111447,
-      111448
+      164873,
+      164874,
+      164875,
+      164876,
+      164877,
+      164878,
+      164879,
+      164880,
+      164881,
+      164882,
+      164883,
+      164884
     ]
   },
   "server": {
@@ -100,6 +90,16 @@
     "type": "None",
     "isAnimation": true,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "086C93CA3A9DB52E4048F8044E624409"
+    "spriteHashHex": "086C93CA3A9DB52E4048F8044E624409",
+    "xmlIdRaw": "26100",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

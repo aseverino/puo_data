@@ -29,6 +29,16 @@
     "serverId": 8365,
     "type": "None",
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "17259A058DD7371D5EC818B873826CC5"
+    "spriteHashHex": "17259A058DD7371D5EC818B873826CC5",
+    "xmlIdRaw": "8365",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

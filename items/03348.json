@@ -5,6 +5,9 @@
   "isUnpassable": true,
   "miniMap": true,
   "miniMapColor": 86,
+  "footprintWidth": 1,
+  "footprintHeight": 2,
+  "footprintMask": "11",
   "width": 1,
   "height": 2,
   "exactSize": 32,
@@ -25,14 +28,14 @@
       ]
     },
     "spriteIds": [
-      155462,
-      155463,
-      155464,
-      155465,
-      155466,
-      155467,
-      155468,
-      155469
+      163105,
+      163106,
+      163107,
+      163108,
+      163109,
+      163110,
+      163111,
+      163112
     ]
   },
   "server": {
@@ -47,6 +50,9 @@
     "articlePt": "",
     "pluralPt": "",
     "xmlAttributes": {
+      "footprintheight": "2",
+      "footprintmask": "11",
+      "footprintwidth": "1",
       "maxStack": "1",
       "valueMultiplier": "1"
     }

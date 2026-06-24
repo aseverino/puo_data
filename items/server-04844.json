@@ -4,6 +4,7 @@
   "isGround": true,
   "groundSpeed": 170,
   "isUnpassable": true,
+  "isTranslucent": true,
   "miniMap": true,
   "miniMapColor": 40,
   "terrainType": 3,

@@ -46,7 +46,7 @@
     ]
   },
   "server": {
-    "serverId": 12005,
+    "serverId": 12004,
     "type": "None",
     "isAnimation": true,
     "alwaysOnTopOrder": 2,

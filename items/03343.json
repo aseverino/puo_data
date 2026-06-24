@@ -2,15 +2,20 @@
   "category": "item",
   "clientId": 3343,
   "isOnBottom": true,
-  "isMoveable": true,
-  "width": 1,
-  "height": 1,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 86,
+  "footprintWidth": 2,
+  "footprintHeight": 2,
+  "footprintMask": "1111",
+  "width": 2,
+  "height": 2,
   "exactSize": 32,
   "layers": [
     0
   ],
-  "patternX": 2,
-  "patternY": 2,
+  "patternX": 1,
+  "patternY": 1,
   "patternZ": 1,
   "walking": {
     "frames": 1,
@@ -23,10 +28,10 @@
       ]
     },
     "spriteIds": [
-      155436,
-      155437,
-      155438,
-      155439
+      165149,
+      165150,
+      165151,
+      165152
     ]
   },
   "server": {
@@ -41,6 +46,9 @@
     "articlePt": "",
     "pluralPt": "",
     "xmlAttributes": {
+      "footprintheight": "2",
+      "footprintmask": "1111",
+      "footprintwidth": "2",
       "maxStack": "1",
       "valueMultiplier": "1"
     }

@@ -29,14 +29,14 @@
       ]
     },
     "spriteIds": [
-      150264,
-      150265,
-      150266,
-      150267,
-      150268,
-      150269,
-      150270,
-      150271
+      163472,
+      163473,
+      163474,
+      163475,
+      163476,
+      163477,
+      163478,
+      163479
     ]
   },
   "server": {
@@ -46,6 +46,15 @@
     "wareId": 3076,
     "alwaysOnTopOrder": 1,
     "spriteHashHex": "A86CE6467B61A32B50B1775A7C773782",
-    "xmlIdRaw": "2192"
+    "xmlIdRaw": "2192",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

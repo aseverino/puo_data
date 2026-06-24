@@ -42,11 +42,11 @@
     ]
   },
   "server": {
-    "serverId": 11136,
+    "serverId": 2668,
     "type": "None",
     "name": "salmon",
     "wareId": 3579,
     "spriteHashHex": "DC01CDF6EC2E891EABCCC451ABF7EB91",
-    "xmlIdRaw": "11136"
+    "xmlIdRaw": "2668"
   }
 }

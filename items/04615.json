@@ -4,6 +4,7 @@
   "isGround": true,
   "groundSpeed": 170,
   "isUnpassable": true,
+  "isTranslucent": true,
   "miniMap": true,
   "miniMapColor": 40,
   "isFullGround": true,
@@ -60,7 +61,7 @@
     ]
   },
   "server": {
-    "serverId": 14062,
+    "serverId": 8160,
     "type": "Ground",
     "walkStack": true,
     "isAnimation": true,

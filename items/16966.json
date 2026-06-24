@@ -32,6 +32,16 @@
     "serverId": 19246,
     "type": "None",
     "alwaysOnTopOrder": 3,
-    "spriteHashHex": "2FFDABB6BCFBD22D51EF1550F8331F13"
+    "spriteHashHex": "2FFDABB6BCFBD22D51EF1550F8331F13",
+    "xmlIdRaw": "19246",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

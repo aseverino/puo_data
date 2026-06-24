@@ -25,24 +25,33 @@
       ]
     },
     "spriteIds": [
-      150208,
-      150209,
-      150210,
-      150211,
-      150212,
-      150213,
-      150214,
-      150215,
-      150216,
-      150217,
-      150218,
-      150219
+      163416,
+      163417,
+      163418,
+      163419,
+      163420,
+      163421,
+      163422,
+      163423,
+      163424,
+      163425,
+      163426,
+      163427
     ]
   },
   "server": {
     "serverId": 2182,
     "type": "None",
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C",
-    "xmlIdRaw": "2182"
+    "xmlIdRaw": "2182",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

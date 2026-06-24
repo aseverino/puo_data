@@ -31,6 +31,16 @@
   "server": {
     "serverId": 14603,
     "type": "None",
-    "spriteHashHex": "34EA9E7C94CB27B4ACACF240DF09E5D9"
+    "spriteHashHex": "34EA9E7C94CB27B4ACACF240DF09E5D9",
+    "xmlIdRaw": "14603",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

@@ -1,6 +1,7 @@
 {
   "category": "item",
   "clientId": 3351,
+  "isGround": true,
   "groundSpeed": 150,
   "isOnBottom": true,
   "blockPathFind": true,
@@ -33,19 +34,28 @@
       ]
     },
     "spriteIds": [
-      155490,
-      155491,
-      155492,
-      155493
+      163133,
+      163134,
+      163135,
+      163136
     ]
   },
   "server": {
     "serverId": 2457,
-    "type": "None",
+    "type": "Ground",
     "name": "steel helmet",
     "wareId": 3351,
     "alwaysOnTopOrder": 2,
     "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07",
-    "xmlIdRaw": "2457"
+    "xmlIdRaw": "2457",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

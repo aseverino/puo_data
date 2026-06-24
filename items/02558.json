@@ -2,6 +2,7 @@
   "category": "item",
   "clientId": 2558,
   "isGroundBorder": true,
+  "ignoreLook": true,
   "width": 1,
   "height": 1,
   "exactSize": 32,
@@ -82,7 +83,7 @@
     ]
   },
   "server": {
-    "serverId": 16205,
+    "serverId": 8094,
     "type": "None",
     "alwaysOnTopOrder": 1,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"

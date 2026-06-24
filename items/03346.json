@@ -2,7 +2,7 @@
   "category": "item",
   "clientId": 3346,
   "isOnBottom": true,
-  "isUnpassable": true,
+  "isMoveable": true,
   "miniMap": true,
   "miniMapColor": 86,
   "width": 1,
@@ -25,12 +25,12 @@
       ]
     },
     "spriteIds": [
-      155448,
-      155449,
-      155450,
-      155451,
-      155452,
-      155453
+      163091,
+      163092,
+      163093,
+      163094,
+      163095,
+      163096
     ]
   },
   "server": {

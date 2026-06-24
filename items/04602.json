@@ -3,6 +3,7 @@
   "clientId": 4602,
   "isGround": true,
   "groundSpeed": 170,
+  "isTranslucent": true,
   "miniMap": true,
   "miniMapColor": 40,
   "isFullGround": true,

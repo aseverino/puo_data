@@ -54,6 +54,16 @@
     "hasHeight": true,
     "isAnimation": true,
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "B820C94BED842F2AB8CFCF6477538AFF"
+    "spriteHashHex": "B820C94BED842F2AB8CFCF6477538AFF",
+    "xmlIdRaw": "1792",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

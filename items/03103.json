@@ -1,7 +1,7 @@
 {
   "category": "item",
   "clientId": 3103,
-  "isGroundBorder": true,
+  "isAlwaysOnTop": true,
   "isMarketItem": true,
   "market": {
     "category": 15,
@@ -32,41 +32,51 @@
       0,
       0,
       0,
-      151711,
+      163576,
       0,
       0,
       0,
-      151712,
+      163577,
       0,
       0,
       0,
-      151713,
+      163578,
       0,
       0,
       0,
-      151714,
+      163579,
       0,
       0,
       0,
-      151715,
+      163580,
       0,
       0,
       0,
-      151716,
+      163581,
       0,
       0,
       0,
-      151717,
+      163582,
       0,
       0,
       0,
-      151718
+      163583
     ]
   },
   "server": {
     "serverId": 2219,
     "type": "None",
     "alwaysOnTopOrder": 3,
-    "spriteHashHex": "77E353A57F554F590B74BFA004A9A508"
+    "spriteHashHex": "77E353A57F554F590B74BFA004A9A508",
+    "xmlIdRaw": "2219",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

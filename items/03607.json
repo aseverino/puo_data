@@ -36,11 +36,11 @@
     ]
   },
   "server": {
-    "serverId": 8368,
+    "serverId": 2696,
     "type": "None",
     "name": "cheese",
     "wareId": 3607,
     "spriteHashHex": "0EAC347C2AEFEA9FB8D65200C0895FFF",
-    "xmlIdRaw": "8368"
+    "xmlIdRaw": "2696"
   }
 }
