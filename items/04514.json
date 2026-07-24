@@ -8,9 +8,9 @@
   "layers": [
     0
   ],
-  "patternX": 1,
-  "patternY": 1,
-  "patternZ": 2,
+  "patternX": 2,
+  "patternY": 2,
+  "patternZ": 1,
   "walking": {
     "frames": 1,
     "animation": {
@@ -22,14 +22,26 @@
       ]
     },
     "spriteIds": [
-      164341,
-      164342
+      167501,
+      167502,
+      167503,
+      167504
     ]
   },
   "server": {
     "serverId": 4525,
     "type": "None",
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "1CDD94518F4091B9018760661A9B74DC"
+    "spriteHashHex": "1CDD94518F4091B9018760661A9B74DC",
+    "xmlIdRaw": "4525",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

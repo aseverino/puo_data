@@ -37,11 +37,11 @@
     ]
   },
   "server": {
-    "serverId": 6101,
+    "serverId": 11426,
     "type": "None",
     "name": "Ron the Ripper\u0027s sabre",
     "wareId": 6101,
     "spriteHashHex": "2EB9D073336F1A59467FC273EA8B8A71",
-    "xmlIdRaw": "6101"
+    "xmlIdRaw": "11426"
   }
 }

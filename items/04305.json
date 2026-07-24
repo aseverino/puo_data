@@ -28,6 +28,16 @@
   "server": {
     "serverId": 3123,
     "type": "None",
-    "spriteHashHex": "2BC9A3A0B36EBC5ED2255B18B4DB0B45"
+    "spriteHashHex": "2BC9A3A0B36EBC5ED2255B18B4DB0B45",
+    "xmlIdRaw": "3123",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

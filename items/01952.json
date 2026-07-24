@@ -3,6 +3,7 @@
   "clientId": 1952,
   "isGround": true,
   "groundSpeed": 150,
+  "isOnBottom": true,
   "blockPathFind": true,
   "isTranslucent": true,
   "hasOffset": true,
@@ -53,6 +54,7 @@
     "pluralPt": "",
     "xmlAttributes": {
       "floorchange": "down",
+      "footprintmask": "1",
       "maxStack": "1",
       "valueMultiplier": "1"
     }

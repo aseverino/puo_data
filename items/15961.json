@@ -13,78 +13,62 @@
   "patternY": 1,
   "patternZ": 1,
   "walking": {
-    "frames": 12,
+    "frames": 9,
     "isAnimated": true,
     "animation": {
-      "animationMode": 1,
       "frameDurations": [
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         }
       ]
     },
     "spriteIds": [
-      140674,
-      140674,
-      140675,
-      140676,
-      140677,
-      140677,
-      140678,
-      140674,
-      140679,
-      140675,
-      140676,
-      140677
+      168265,
+      168266,
+      168267,
+      168268,
+      168269,
+      168270,
+      168271,
+      168272,
+      168273
     ]
   },
   "server": {
-    "serverId": 17306,
+    "serverId": 17159,
     "type": "None",
     "isAnimation": true,
     "alwaysOnTopOrder": 1,

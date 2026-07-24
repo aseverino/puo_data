@@ -13,57 +13,45 @@
   "patternY": 1,
   "patternZ": 1,
   "walking": {
-    "frames": 12,
+    "frames": 9,
     "isAnimated": true,
     "animation": {
       "frameDurations": [
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
-        },
-        {
-          "min": 100,
-          "max": 100
-        },
-        {
-          "min": 100,
-          "max": 100
-        },
-        {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         }
       ]
     },
@@ -76,16 +64,22 @@
       141961,
       141957,
       141962,
-      141958,
-      141959,
-      141960,
-      141961
+      141958
     ]
   },
   "server": {
     "serverId": 13357,
     "type": "None",
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
+    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

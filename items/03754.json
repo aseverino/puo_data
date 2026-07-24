@@ -33,6 +33,15 @@
     "type": "None",
     "alwaysOnTopOrder": 2,
     "spriteHashHex": "FF81D16AD76ABC4BB3611E1D4BC342B5",
-    "xmlIdRaw": "4018"
+    "xmlIdRaw": "4018",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 6572,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 6572,
+    "type": "None",
+    "name": "party trumpet",
+    "wareId": 6572,
+    "spriteHashHex": "9A9D74053AE8B5761AAB979B12DEFE10"
+  }
+}

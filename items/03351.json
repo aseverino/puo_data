@@ -46,6 +46,7 @@
     "name": "steel helmet",
     "wareId": 3351,
     "alwaysOnTopOrder": 2,
+    "floorChangeDown": true,
     "spriteHashHex": "695C2725557D8AF4502F62083A5C5E07",
     "xmlIdRaw": "2457",
     "article": "",
@@ -54,6 +55,7 @@
     "articlePt": "",
     "pluralPt": "",
     "xmlAttributes": {
+      "floorchange": "down",
       "maxStack": "1",
       "valueMultiplier": "1"
     }

@@ -33,11 +33,11 @@
     ]
   },
   "server": {
-    "serverId": 1685,
+    "serverId": 6105,
     "type": "None",
     "name": "heart pillow",
     "wareId": 2393,
     "spriteHashHex": "21D29025611430F145F36F7CCF67190A",
-    "xmlIdRaw": "1685"
+    "xmlIdRaw": "6105"
   }
 }

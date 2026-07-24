@@ -1,7 +1,7 @@
 {
   "category": "item",
   "clientId": 1914,
-  "isGroundBorder": true,
+  "isOnBottom": true,
   "miniMapColor": 86,
   "width": 1,
   "height": 1,
@@ -31,6 +31,15 @@
     "type": "None",
     "alwaysOnTopOrder": 2,
     "spriteHashHex": "2499FE389B93E078C873696C57FD28AA",
-    "xmlIdRaw": "3670"
+    "xmlIdRaw": "3670",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

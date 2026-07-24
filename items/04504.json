@@ -10,7 +10,7 @@
   ],
   "patternX": 1,
   "patternY": 2,
-  "patternZ": 2,
+  "patternZ": 1,
   "walking": {
     "frames": 1,
     "animation": {
@@ -22,10 +22,8 @@
       ]
     },
     "spriteIds": [
-      164315,
-      164316,
-      164317,
-      164318
+      166989,
+      166990
     ]
   },
   "server": {

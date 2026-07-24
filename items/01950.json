@@ -1,6 +1,7 @@
 {
   "category": "item",
   "clientId": 1950,
+  "isGround": true,
   "groundSpeed": 150,
   "isOnBottom": true,
   "blockPathFind": true,
@@ -40,7 +41,7 @@
   },
   "server": {
     "serverId": 1388,
-    "type": "None",
+    "type": "Ground",
     "walkStack": true,
     "alwaysOnTopOrder": 2,
     "floorChangeDown": true,
@@ -53,6 +54,7 @@
     "pluralPt": "",
     "xmlAttributes": {
       "floorchange": "down",
+      "footprintmask": "1",
       "maxStack": "1",
       "valueMultiplier": "1"
     }

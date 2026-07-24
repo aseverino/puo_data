@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 6100,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 6100,
+    "type": "None",
+    "name": "the Lethal Lissy\u0027s shirt",
+    "wareId": 6100,
+    "spriteHashHex": "0FDDAE9EE920F6B4CFA37FA0BE1BE3CD"
+  }
+}

@@ -13,57 +13,45 @@
   "patternY": 1,
   "patternZ": 1,
   "walking": {
-    "frames": 12,
+    "frames": 9,
     "isAnimated": true,
     "animation": {
       "frameDurations": [
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 100,
-          "max": 100
-        },
-        {
-          "min": 100,
-          "max": 100
-        },
-        {
-          "min": 100,
-          "max": 100
-        },
-        {
-          "min": 100,
-          "max": 100
+          "min": 200,
+          "max": 200
         }
       ]
     },
@@ -76,14 +64,11 @@
       142084,
       142085,
       142086,
-      142081,
-      142082,
-      142083,
-      142084
+      142081
     ]
   },
   "server": {
-    "serverId": 8102,
+    "serverId": 16213,
     "type": "None",
     "alwaysOnTopOrder": 1,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"

@@ -31,7 +31,7 @@
     ]
   },
   "server": {
-    "serverId": 7066,
+    "serverId": 9073,
     "type": "Ground",
     "walkStack": true,
     "spriteHashHex": "C1B23CF61828CD74B568B6ACD89A162D"
