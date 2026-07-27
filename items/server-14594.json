@@ -1,0 +1,26 @@
+{
+  "category": "item",
+  "clientId": 13096,
+  "isOnBottom": true,
+  "isAlwaysOnTop": true,
+  "isUnpassable": true,
+  "blockMissile": true,
+  "miniMap": true,
+  "miniMapColor": 186,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 14594,
+    "type": "None",
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "36C7F44CA284CE43BD67668ED86F1FA4"
+  }
+}

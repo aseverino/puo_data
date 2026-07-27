@@ -38,11 +38,11 @@
     ]
   },
   "server": {
-    "serverId": 7385,
+    "serverId": 8209,
     "type": "None",
     "name": "crimson sword",
     "wareId": 7385,
     "spriteHashHex": "298EE7FED9FEFAFC905C0976B00933C0",
-    "xmlIdRaw": "7385"
+    "xmlIdRaw": "8209"
   }
 }

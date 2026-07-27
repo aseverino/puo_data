@@ -29,7 +29,7 @@
     ]
   },
   "server": {
-    "serverId": 8984,
+    "serverId": 5798,
     "type": "None",
     "isReadable": true,
     "maxReadChars": 100,

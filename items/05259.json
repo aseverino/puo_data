@@ -42,6 +42,17 @@
     "type": "None",
     "hasHeight": true,
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "3DB0E7EB818E7B151259E4A3AD6E3234"
+    "spriteHashHex": "3DB0E7EB818E7B151259E4A3AD6E3234",
+    "xmlIdRaw": "5260",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "floorchange": "west",
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

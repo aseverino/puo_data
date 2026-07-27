@@ -33,6 +33,7 @@
   "server": {
     "serverId": 1434,
     "type": "None",
+    "allowDistRead": true,
     "alwaysOnTopOrder": 2,
     "spriteHashHex": "BB6EA991FC46E4CE8EA2A7474308820D"
   }

@@ -33,11 +33,11 @@
     ]
   },
   "server": {
-    "serverId": 11423,
+    "serverId": 5945,
     "type": "None",
     "name": "coral comb",
     "wareId": 5945,
     "spriteHashHex": "1166A3AA6C1F74DBAEBB22C122DE5C8E",
-    "xmlIdRaw": "11423"
+    "xmlIdRaw": "5945"
   }
 }

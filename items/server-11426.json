@@ -1,0 +1,24 @@
+{
+  "category": "item",
+  "clientId": 6101,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 11426,
+    "type": "None",
+    "name": "Ron the Ripper\u0027s sabre",
+    "wareId": 6101,
+    "spriteHashHex": "2EB9D073336F1A59467FC273EA8B8A71"
+  }
+}

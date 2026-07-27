@@ -1,0 +1,24 @@
+{
+  "category": "item",
+  "clientId": 7385,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 7385,
+    "type": "None",
+    "name": "crimson sword",
+    "wareId": 7385,
+    "spriteHashHex": "298EE7FED9FEFAFC905C0976B00933C0"
+  }
+}

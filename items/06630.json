@@ -1,12 +1,8 @@
 {
   "category": "item",
   "clientId": 6630,
-  "isGround": true,
   "groundSpeed": 130,
-  "miniMap": true,
-  "miniMapColor": 40,
-  "isFullGround": true,
-  "ignoreLook": true,
+  "isGroundBorder": true,
   "terrainType": 3,
   "width": 1,
   "height": 1,
@@ -18,7 +14,7 @@
   "patternY": 2,
   "patternZ": 1,
   "walking": {
-    "frames": 14,
+    "frames": 9,
     "isAnimated": true,
     "animation": {
       "animationMode": 1,
@@ -58,65 +54,36 @@
         {
           "min": 500,
           "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
-        },
-        {
-          "min": 500,
-          "max": 500
         }
       ]
     },
     "spriteIds": [
-      8053,
-      8054,
-      8053,
-      8054,
-      8055,
-      8056,
-      8055,
-      8056,
-      65225,
-      65226,
-      65227,
-      65228,
-      65229,
-      65230,
-      65231,
-      65232,
-      65233,
-      65234,
-      65235,
-      65236,
-      65237,
-      65238,
-      65239,
-      65240,
-      65241,
-      65242,
-      65243,
-      65244
+      169043,
+      169044,
+      169045,
+      169046,
+      169047,
+      169048,
+      169049,
+      169050,
+      169051,
+      169052,
+      169053,
+      169054,
+      169055,
+      169056,
+      169057,
+      169058,
+      169059,
+      169060
     ]
   },
   "server": {
     "serverId": 6630,
-    "type": "Ground",
+    "type": "None",
     "walkStack": true,
     "isAnimation": true,
+    "alwaysOnTopOrder": 1,
     "spriteHashHex": "A5F3DEAED52CC0FCACC0A8D69735FFDF"
   }
 }

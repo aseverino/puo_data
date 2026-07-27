@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 5945,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 11423,
+    "type": "None",
+    "name": "coral comb",
+    "wareId": 5945,
+    "spriteHashHex": "1166A3AA6C1F74DBAEBB22C122DE5C8E"
+  }
+}

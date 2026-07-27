@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 6099,
+  "isPickupable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 11424,
+    "type": "None",
+    "name": "Brutus Bloodbeard\u0027s hat",
+    "wareId": 6099,
+    "spriteHashHex": "0E39EDF2BD967E6966A843AAD4E07775"
+  }
+}

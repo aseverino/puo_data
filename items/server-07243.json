@@ -1,0 +1,24 @@
+{
+  "category": "item",
+  "clientId": 7243,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 7243,
+    "type": "None",
+    "name": "empty jug",
+    "wareId": 7243,
+    "spriteHashHex": "409A9171A5E9D6E046A3144976E5CEFE"
+  }
+}

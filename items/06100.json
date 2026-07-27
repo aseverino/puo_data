@@ -33,11 +33,11 @@
     ]
   },
   "server": {
-    "serverId": 11425,
+    "serverId": 6100,
     "type": "None",
     "name": "the Lethal Lissy\u0027s shirt",
     "wareId": 6100,
     "spriteHashHex": "0FDDAE9EE920F6B4CFA37FA0BE1BE3CD",
-    "xmlIdRaw": "11425"
+    "xmlIdRaw": "6100"
   }
 }

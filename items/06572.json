@@ -34,11 +34,11 @@
     ]
   },
   "server": {
-    "serverId": 6573,
+    "serverId": 6572,
     "type": "None",
     "name": "party trumpet",
     "wareId": 6572,
     "spriteHashHex": "9A9D74053AE8B5761AAB979B12DEFE10",
-    "xmlIdRaw": "6573"
+    "xmlIdRaw": "6572"
   }
 }

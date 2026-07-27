@@ -30,6 +30,16 @@
     "serverId": 1441,
     "type": "None",
     "allowDistRead": true,
-    "spriteHashHex": "3E2477F3D5065A6A5A5E28901D902D0A"
+    "spriteHashHex": "3E2477F3D5065A6A5A5E28901D902D0A",
+    "xmlIdRaw": "1441",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

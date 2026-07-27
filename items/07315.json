@@ -36,11 +36,11 @@
     ]
   },
   "server": {
-    "serverId": 7315,
+    "serverId": 13333,
     "type": "None",
     "name": "resonance crystal",
     "wareId": 7242,
     "spriteHashHex": "BA755E4D61297C96A99C0ED99F0082D0",
-    "xmlIdRaw": "7315"
+    "xmlIdRaw": "13333"
   }
 }
