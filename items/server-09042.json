@@ -1,0 +1,23 @@
+{
+  "category": "item",
+  "clientId": 5726,
+  "isGround": true,
+  "isUnpassable": true,
+  "blockMissile": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 9042,
+    "type": "Ground",
+    "walkStack": true,
+    "spriteHashHex": "91A819FAF99BFFCCBF067C83D2E00476"
+  }
+}

@@ -17,56 +17,55 @@
     "frames": 9,
     "isAnimated": true,
     "animation": {
-      "animationMode": 1,
       "frameDurations": [
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         }
       ]
     },
     "spriteIds": [
-      169079,
-      169080,
-      169081,
-      169082,
-      169083,
-      169084,
-      169085,
-      169086,
-      169087
+      169502,
+      169503,
+      169504,
+      169505,
+      169506,
+      169507,
+      169508,
+      169509,
+      169510
     ]
   },
   "server": {
@@ -75,6 +74,16 @@
     "walkStack": true,
     "isAnimation": true,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "1FDD674E319B85A64CBF9C1813981A9D"
+    "spriteHashHex": "1FDD674E319B85A64CBF9C1813981A9D",
+    "xmlIdRaw": "6633",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

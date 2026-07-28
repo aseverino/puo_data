@@ -17,56 +17,55 @@
     "frames": 9,
     "isAnimated": true,
     "animation": {
-      "animationMode": 1,
       "frameDurations": [
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         }
       ]
     },
     "spriteIds": [
-      169124,
-      169125,
-      169126,
-      169127,
-      169128,
-      169129,
-      169130,
-      169131,
-      169132
+      169547,
+      169548,
+      169549,
+      169550,
+      169551,
+      169552,
+      169553,
+      169554,
+      169555
     ]
   },
   "server": {
@@ -75,6 +74,16 @@
     "walkStack": true,
     "isAnimation": true,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "4071633DC86739A8E0D343F4A0E4D1D3"
+    "spriteHashHex": "4071633DC86739A8E0D343F4A0E4D1D3",
+    "xmlIdRaw": "6638",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

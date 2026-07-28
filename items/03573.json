@@ -43,11 +43,11 @@
     ]
   },
   "server": {
-    "serverId": 9080,
+    "serverId": 2662,
     "type": "None",
     "name": "magician hat",
     "wareId": 3573,
     "spriteHashHex": "EBE93B823B2AD005F4AD16B26A53069A",
-    "xmlIdRaw": "9080"
+    "xmlIdRaw": "2662"
   }
 }

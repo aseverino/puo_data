@@ -1,0 +1,28 @@
+{
+  "category": "item",
+  "clientId": 4619,
+  "isGround": true,
+  "groundSpeed": 170,
+  "isUnpassable": true,
+  "isTranslucent": true,
+  "miniMap": true,
+  "miniMapColor": 40,
+  "terrainType": 3,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 4841,
+    "type": "Ground",
+    "walkStack": true,
+    "isAnimation": true,
+    "spriteHashHex": "B712A1129B68E62258DA83A23D2D234D"
+  }
+}

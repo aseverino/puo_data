@@ -17,65 +17,64 @@
     "frames": 9,
     "isAnimated": true,
     "animation": {
-      "animationMode": 1,
       "frameDurations": [
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 200,
+          "max": 200
         }
       ]
     },
     "spriteIds": [
-      169025,
-      169026,
-      169027,
-      169028,
-      169029,
-      169030,
-      169031,
-      169032,
-      169033,
-      169034,
-      169035,
-      169036,
-      169037,
-      169038,
-      169039,
-      169040,
-      169041,
-      169042
+      169448,
+      169449,
+      169450,
+      169451,
+      169452,
+      169453,
+      169454,
+      169455,
+      169456,
+      169457,
+      169458,
+      169459,
+      169460,
+      169461,
+      169462,
+      169463,
+      169464,
+      169465
     ]
   },
   "server": {
@@ -84,6 +83,16 @@
     "walkStack": true,
     "isAnimation": true,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "50C39AD611B0A64B74CBFE2AE6DC6EA6"
+    "spriteHashHex": "50C39AD611B0A64B74CBFE2AE6DC6EA6",
+    "xmlIdRaw": "6629",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

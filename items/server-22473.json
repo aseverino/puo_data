@@ -1,0 +1,22 @@
+{
+  "category": "item",
+  "clientId": 20139,
+  "isMultiUse": true,
+  "isPickupable": true,
+  "isUsable": true,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 22473,
+    "type": "None",
+    "spriteHashHex": "7A90861CC5CC73CE3A7DCE498AFACCD5"
+  }
+}

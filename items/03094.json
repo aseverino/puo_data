@@ -36,10 +36,11 @@
     ]
   },
   "server": {
-    "serverId": 9692,
+    "serverId": 2210,
     "type": "None",
     "hasHeight": true,
     "alwaysOnTopOrder": 2,
+    "floorChangeNorth": true,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
   }
 }

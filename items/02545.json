@@ -77,8 +77,9 @@
     ]
   },
   "server": {
-    "serverId": 13348,
+    "serverId": 4363,
     "type": "None",
+    "isAnimation": true,
     "alwaysOnTopOrder": 1,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C"
   }
