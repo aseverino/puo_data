@@ -1,0 +1,25 @@
+{
+  "category": "item",
+  "clientId": 7768,
+  "isGround": true,
+  "groundSpeed": 100,
+  "blockPathFind": true,
+  "isTranslucent": true,
+  "miniMap": true,
+  "miniMapColor": 210,
+  "width": 1,
+  "height": 1,
+  "exactSize": 32,
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1
+  },
+  "serverOnly": true,
+  "server": {
+    "serverId": 8286,
+    "type": "Ground",
+    "spriteHashHex": "E4DF210B5B9D90D210AA9984B163F194"
+  }
+}

@@ -17,81 +17,80 @@
     "frames": 14,
     "isAnimated": true,
     "animation": {
-      "animationMode": 1,
       "frameDurations": [
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 128,
+          "max": 128
         },
         {
-          "min": 500,
-          "max": 500
+          "min": 136,
+          "max": 136
         }
       ]
     },
     "spriteIds": [
-      140096,
-      140097,
-      140098,
-      140099,
-      140100,
-      140101,
-      140102,
-      140103,
-      140104,
-      140105,
-      140106,
-      140107,
-      140108,
-      140109
+      172531,
+      172532,
+      172533,
+      172534,
+      172535,
+      172536,
+      172537,
+      172538,
+      172539,
+      172540,
+      172541,
+      172542,
+      172543,
+      172544
     ]
   },
   "server": {
@@ -100,6 +99,16 @@
     "walkStack": true,
     "isAnimation": true,
     "alwaysOnTopOrder": 1,
-    "spriteHashHex": "BAA84147E7251A7272D3F5B90B65424E"
+    "spriteHashHex": "BAA84147E7251A7272D3F5B90B65424E",
+    "xmlIdRaw": "4635",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

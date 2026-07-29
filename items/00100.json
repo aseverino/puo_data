@@ -50,6 +50,16 @@
     "serverId": 8275,
     "type": "Ground",
     "walkStack": true,
-    "spriteHashHex": "DF0493F978140A6CEC7F9FA9BB945C21"
+    "spriteHashHex": "DF0493F978140A6CEC7F9FA9BB945C21",
+    "xmlIdRaw": "8275",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }
