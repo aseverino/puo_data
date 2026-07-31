@@ -2,9 +2,10 @@
   "schemaVersion": 2,
   "name": "puo_data",
   "createdAt": "2026-05-05T20:35:33.4682643Z",
-  "lastModifiedAt": "2026-07-31T14:47:48.4326034Z",
+  "lastModifiedAt": "2026-07-31T14:52:25.9992098Z",
   "counts": {
-    "items": 1
+    "items": 12,
+    "sprites": 167700
   },
   "otb": {
     "majorVersion": 3,
