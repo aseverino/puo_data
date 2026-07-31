@@ -1,7 +1,7 @@
 {
   "category": "item",
   "clientId": 1797,
-  "isOnBottom": true,
+  "isGroundBorder": true,
   "width": 1,
   "height": 1,
   "exactSize": 32,
