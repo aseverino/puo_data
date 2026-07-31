@@ -32,7 +32,7 @@
     ]
   },
   "server": {
-    "serverId": 10051,
+    "serverId": 10060,
     "type": "None",
     "hasHeight": true,
     "spriteHashHex": "52578BFD10BE3B376DA25C368188C71C"

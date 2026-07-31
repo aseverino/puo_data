@@ -35,11 +35,11 @@
     ]
   },
   "server": {
-    "serverId": 4856,
+    "serverId": 2553,
     "type": "None",
     "name": "pick",
     "wareId": 3456,
     "spriteHashHex": "735FED6BE3CCD540857DC053CCCEC7DC",
-    "xmlIdRaw": "4856"
+    "xmlIdRaw": "2553"
   }
 }

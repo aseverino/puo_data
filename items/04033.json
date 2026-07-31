@@ -1,20 +1,9 @@
 {
   "category": "item",
   "clientId": 4033,
-  "isPickupable": true,
-  "cloth": true,
-  "clothSlot": 8,
-  "isMarketItem": true,
-  "market": {
-    "category": 3,
-    "tradeAs": 4033,
-    "showAs": 4033,
-    "name": "draken boots",
-    "restrictProfession": 6,
-    "restrictLevel": 80
-  },
-  "width": 1,
-  "height": 1,
+  "isAlwaysOnTop": true,
+  "width": 4,
+  "height": 4,
   "exactSize": 32,
   "layers": [
     0
@@ -33,15 +22,40 @@
       ]
     },
     "spriteIds": [
-      18436
+      172922,
+      172923,
+      172924,
+      172925,
+      172926,
+      172927,
+      172928,
+      172929,
+      172930,
+      172931,
+      172932,
+      172933,
+      172934,
+      172935,
+      172936,
+      172937
     ]
   },
   "server": {
     "serverId": 12646,
     "type": "None",
-    "name": "draken boots",
-    "wareId": 4033,
-    "spriteHashHex": "4388F8F3E50120632D17719F200FB51E",
-    "xmlIdRaw": "12646"
+    "alwaysOnTopOrder": 3,
+    "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C",
+    "xmlIdRaw": "12646",
+    "xmlFromIdRaw": "",
+    "xmlToIdRaw": "",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }

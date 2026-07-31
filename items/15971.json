@@ -97,7 +97,7 @@
     ]
   },
   "server": {
-    "serverId": 17316,
+    "serverId": 17169,
     "type": "Ground",
     "walkStack": true,
     "isAnimation": true,
