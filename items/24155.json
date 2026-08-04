@@ -1,0 +1,60 @@
+{
+  "category": "item",
+  "clientId": 24155,
+  "isOnBottom": true,
+  "isUnpassable": true,
+  "miniMap": true,
+  "miniMapColor": 86,
+  "footprintWidth": 2,
+  "footprintHeight": 2,
+  "footprintMask": "1100",
+  "width": 2,
+  "height": 2,
+  "exactSize": 32,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      175660,
+      175661,
+      175662,
+      175663
+    ]
+  },
+  "server": {
+    "serverId": 26523,
+    "type": "None",
+    "name": "small stone",
+    "wareId": 1781,
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "D60E421D1D0EA0518084DE650FDF55EC",
+    "xmlIdRaw": "26523",
+    "xmlFromIdRaw": "",
+    "xmlToIdRaw": "",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "footprintheight": "2",
+      "footprintmask": "11",
+      "footprintwidth": "2",
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
+  }
+}

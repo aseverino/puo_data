@@ -1,6 +1,9 @@
 {
   "category": "item",
   "clientId": 4001,
+  "isOnBottom": true,
+  "isUnpassable": true,
+  "blockPathFind": true,
   "width": 1,
   "height": 1,
   "exactSize": 32,
@@ -21,14 +24,17 @@
       ]
     },
     "spriteIds": [
-      0
+      173099
     ]
   },
   "server": {
     "serverId": 2820,
     "type": "None",
+    "alwaysOnTopOrder": 2,
     "spriteHashHex": "4B1B1C88FF2FAF290EBC392B116D101C",
     "xmlIdRaw": "2820",
+    "xmlFromIdRaw": "",
+    "xmlToIdRaw": "",
     "article": "",
     "plural": "",
     "namePt": "",

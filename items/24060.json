@@ -1,0 +1,52 @@
+{
+  "category": "item",
+  "clientId": 24060,
+  "isOnBottom": true,
+  "isMoveable": true,
+  "miniMap": true,
+  "miniMapColor": 86,
+  "width": 2,
+  "height": 2,
+  "exactSize": 64,
+  "layers": [
+    0
+  ],
+  "patternX": 1,
+  "patternY": 1,
+  "patternZ": 1,
+  "walking": {
+    "frames": 1,
+    "animation": {
+      "frameDurations": [
+        {
+          "min": 100,
+          "max": 100
+        }
+      ]
+    },
+    "spriteIds": [
+      175137,
+      175138,
+      175139,
+      175140
+    ]
+  },
+  "server": {
+    "serverId": 26428,
+    "type": "None",
+    "alwaysOnTopOrder": 2,
+    "spriteHashHex": "C30D51BA6CCDEF364C925BFD305EF32C",
+    "xmlIdRaw": "26428",
+    "xmlFromIdRaw": "",
+    "xmlToIdRaw": "",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
+  }
+}
