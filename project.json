@@ -2,13 +2,13 @@
   "schemaVersion": 2,
   "name": "puo_data",
   "createdAt": "2026-05-05T20:35:33.4682643Z",
-  "lastModifiedAt": "2026-08-04T18:03:53.1211413Z",
+  "lastModifiedAt": "2026-08-05T19:55:30.1906178Z",
   "counts": {
-    "items": 24166,
+    "items": 24185,
     "outfits": 10314,
     "effects": 763,
     "missiles": 91,
-    "sprites": 623
+    "sprites": 169848
   },
   "otb": {
     "majorVersion": 3,

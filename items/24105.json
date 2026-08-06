@@ -3,9 +3,11 @@
   "clientId": 24105,
   "isGround": true,
   "groundSpeed": 120,
+  "isOnBottom": true,
   "miniMap": true,
   "miniMapColor": 24,
   "isFullGround": true,
+  "terrainType": 2,
   "width": 1,
   "height": 1,
   "exactSize": 32,
@@ -68,6 +70,16 @@
     "serverId": 26473,
     "type": "Ground",
     "alwaysOnTopOrder": 2,
-    "spriteHashHex": "40A9A0647E9E560A14B8FCAFF42E2D72"
+    "spriteHashHex": "40A9A0647E9E560A14B8FCAFF42E2D72",
+    "xmlIdRaw": "26473",
+    "article": "",
+    "plural": "",
+    "namePt": "",
+    "articlePt": "",
+    "pluralPt": "",
+    "xmlAttributes": {
+      "maxStack": "1",
+      "valueMultiplier": "1"
+    }
   }
 }
